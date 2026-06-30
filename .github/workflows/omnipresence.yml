@@ -1,0 +1,29 @@
+name: OMNIPRESENZA 81+ (48 azioni/giorno YT+TG)
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    inputs:
+      hour:
+        description: Ora IT per test (0-23)
+        required: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install google-api-python-client google-auth google-auth-oauthlib requests
+      - name: Esegui le 2 azioni dell'ora (TG + YT)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHANNEL: ${{ vars.TG_CHANNEL }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YT_CHANNEL_ID: ${{ vars.YT_CHANNEL_ID }}
+          YOUTUBE_TOKEN_JSON: ${{ secrets.YOUTUBE_TOKEN_JSON }}
+          TZ_OFFSET_IT: '2'
+        run: |
+          H="${{ github.event.inputs.hour }}"
+          if [ -n "$H" ]; then python dispatch.py --hour "$H"; else python dispatch.py; fi
