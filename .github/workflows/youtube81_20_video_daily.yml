@@ -1,0 +1,49 @@
+﻿name: YOUTUBE81 20 Video Daily Autopilot
+
+on:
+  schedule:
+    # 06:30 UTC = 08:30 Europe/Rome in summer
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "daily oppure batch20"
+        required: false
+        default: "daily"
+      limit:
+        description: "numero video da aggiornare"
+        required: false
+        default: "20"
+
+permissions:
+  contents: write
+
+jobs:
+  batch20:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: |
+          pip install google-api-python-client google-auth google-auth-oauthlib pillow
+
+      - run: |
+          python cloud/youtube81_batch20.py
+        env:
+          YOUTUBE_TOKEN_B64: ${{ secrets.YOUTUBE_TOKEN_B64 }}
+          YOUTUBE81_MODE: ${{ github.event.inputs.mode }}
+          YOUTUBE81_LIMIT: ${{ github.event.inputs.limit }}
+
+      - name: Save state
+        run: |
+          git config user.name "YOUTUBE81 BOT"
+          git config user.email "bot@81plus.net"
+          git pull --rebase || true
+          git add cloud_state || true
+          git commit -m "update youtube81 batch20 state" || true
+          git push || true
