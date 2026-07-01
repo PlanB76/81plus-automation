@@ -16,7 +16,7 @@ SCOPES = [
 ]
 
 def yt():
-    token = json.loads(os.environ["YOUTUBE_TOKEN_JSON"])
+    import base64; token = json.loads(base64.b64decode(os.environ["YOUTUBE_TOKEN_B64"]).decode("utf-8-sig"))
     creds = Credentials.from_authorized_user_info(token, SCOPES)
     return build("youtube", "v3", credentials=creds)
 
@@ -201,3 +201,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
