@@ -68,23 +68,25 @@ def thumb(video_id, title):
     out_dir = STATE_DIR / "thumbs"
     out_dir.mkdir(exist_ok=True)
     out = out_dir / f"{video_id}.jpg"
-    W,H = 1280,720
-    img = Image.new("RGB",(W,H),(5,5,5))
+    W, H = 1280, 720
+    img = Image.new("RGB", (W, H), (5, 5, 5))
     d = ImageDraw.Draw(img)
     orange=(251,107,0); white=(255,255,255); black=(5,5,5)
     d.rectangle([0,0,W,95], fill=black)
     d.text((45,28), "SICURISSIMO81+ - METODO81+", fill=orange, font=font(34))
     d.rectangle([0,95,W,H], fill=(12,12,12))
     d.polygon([(900,95),(1280,95),(1280,720),(720,720)], fill=orange)
-    clean = title.replace("- SICURISSIMO81+","").strip()
+    clean = title.replace("- SICURISSIMO81+", "").strip()
     words = clean.split()
     lines=[]; line=""
-    for w in words:
-        if len(line+" "+w)<25:
-            line=(line+" "+w).strip()
+    for word in words:
+        if len(line + " " + word) < 25:
+            line = (line + " " + word).strip()
         else:
-            lines.append(line); line=w
-    if line: lines.append(line)
+            lines.append(line)
+            line = word
+    if line:
+        lines.append(line)
     d.multiline_text((60,185), "\n".join(lines[:4]), fill=white, font=font(60), spacing=10)
     d.rectangle([60,610,1220,690], fill=orange)
     d.text((90,632), "Prima vedi. Poi ordini. Poi scegli. 81plus.net", fill=black, font=font(34))
@@ -98,41 +100,43 @@ def videos(y):
     out=[]; token=None
     while True:
         res = y.playlistItems().list(part="snippet", playlistId=uploads, maxResults=50, pageToken=token).execute()
-        for it in res.get("items", []):
-            sn=it["snippet"]
-            out.append({"id": sn["resourceId"]["videoId"], "title": sn.get("title","")})
+        for item in res.get("items", []):
+            sn=item["snippet"]
+            out.append({"id": sn["resourceId"]["videoId"], "title": sn.get("title", "")})
         token=res.get("nextPageToken")
-        if not token: break
+        if not token:
+            break
     return out
 
 def update(y, v):
-    vid=v["id"]
-    detail=y.videos().list(part="snippet", id=vid).execute()
-    if not detail.get("items"): return
-    sn=detail["items"][0]["snippet"]
-    new=clean_title(sn.get("title",""))
-    sn["title"]=new
-    sn["description"]=desc(new)
-    y.videos().update(part="snippet", body={"id":vid, "snippet":sn}).execute()
+    vid = v["id"]
+    detail = y.videos().list(part="snippet", id=vid).execute()
+    if not detail.get("items"):
+        return
+    sn = detail["items"][0]["snippet"]
+    new = clean_title(sn.get("title", ""))
+    sn["title"] = new
+    sn["description"] = desc(new)
+    y.videos().update(part="snippet", body={"id": vid, "snippet": sn}).execute()
     try:
-        y.thumbnails().set(videoId=vid, media_body=MediaFileUpload(thumb(vid,new))).execute()
-        ts="thumb ok"
+        y.thumbnails().set(videoId=vid, media_body=MediaFileUpload(thumb(vid, new))).execute()
+        ts = "thumb ok"
     except Exception:
-        ts="thumb skip"
+        ts = "thumb skip"
     print("Aggiornato:", vid, new, ts)
 
 def main():
-    y=yt()
-    s=load_state()
-    allv=videos(y)
-    limit=int(os.environ.get("LIMIT","20") or "20")
+    y = yt()
+    s = load_state()
+    allv = videos(y)
+    limit = int(os.environ.get("LIMIT", "20") or "20")
     print("Video trovati:", len(allv), "Limit:", limit)
-    idx=int(s.get("index",0))
+    idx = int(s.get("index", 0))
     for i in range(limit):
-        v=allv[(idx+i)%len(allv)]
-        update(y,v)
-        s.setdefault("updated",[]).append({"date":datetime.datetime.utcnow().isoformat(), "video_id":v["id"], "old_title":v["title"]})
-    s["index"]=idx+limit
+        v = allv[(idx+i) % len(allv)]
+        update(y, v)
+        s.setdefault("updated", []).append({"date": datetime.datetime.utcnow().isoformat(), "video_id": v["id"], "old_title": v["title"]})
+    s["index"] = idx + limit
     save_state(s)
 
 if __name__ == "__main__":
