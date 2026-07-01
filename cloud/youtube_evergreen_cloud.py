@@ -16,6 +16,8 @@ SCOPES = [
     "https://www.googleapis.com/auth/youtube.upload",
 ]
 
+FORBIDDEN = ["zero multe", "rischio zero", "garantito", "100% conforme", "sei a posto", "evita ogni sanzione"]
+
 def yt():
     raw = base64.b64decode(os.environ["YOUTUBE_TOKEN_B64"]).decode("utf-8-sig")
     token = json.loads(raw)
@@ -30,76 +32,78 @@ def load_json(path, default):
 def save_json(path, data):
     path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
+def guard(text):
+    out = text or ""
+    for bad in FORBIDDEN:
+        out = out.replace(bad, "controllo operativo")
+        out = out.replace(bad.upper(), "CONTROLLO OPERATIVO")
+    return out
+
 def clean_title(t):
-    t = re.sub(r"[🔥🚨⚠️❌✅🔴🟠]+", "", t or "").strip()
-    t = t.replace("|", "-").replace("· SICURISSIMO81+", "").replace("- SICURISSIMO81+", "").strip()
+    t = re.sub(r"[ðŸ”¥ðŸš¨âš ï¸âŒâœ…ðŸ”´ðŸŸ ]+", "", t or "").strip()
+    t = t.replace("|", "-").replace("Â· SICURISSIMO81+", "").replace("- SICURISSIMO81+", "").strip()
     t = re.sub(r"\s+", " ", t)
+    if not t:
+        t = "Sicurezza sul lavoro"
     if len(t) > 52:
         t = t[:52].rsplit(" ", 1)[0]
-    return f"{t}: cosa controllare davvero - SICURISSIMO81+"
+    return guard(f"{t}: cosa controllare davvero - SICURISSIMO81+")
 
 def description(title):
-    return f"""🟠 {title}
+    return guard(f"""ðŸŸ  {title}
 
-Il punto non è avere un documento, un corso o una scadenza scritta da qualche parte.
-Il punto è sapere cosa controllare, cosa manca e quale primo passo fare.
+Il punto non Ã¨ avere un documento, un corso o una scadenza scritta da qualche parte.
+Il punto Ã¨ sapere cosa controllare, cosa manca e quale primo passo fare.
 
 Con 81+ parti da una logica semplice:
 Prima vedi.
 Poi ordini.
 Poi scegli.
 
-✅ Sicurezza sul lavoro
-✅ HACCP e igiene alimentare
-✅ Privacy e GDPR
-✅ Corsi e formazione
-✅ Documenti, scadenze e audit
+âœ… Sicurezza sul lavoro
+âœ… HACCP e igiene alimentare
+âœ… Privacy e GDPR
+âœ… Corsi e formazione
+âœ… Documenti, scadenze e audit
 
-👉 Vai su 81plus.net e parti dal primo check:
+ðŸ‘‰ Vai su 81plus.net e parti dal primo check:
 https://81plus.net
 
 Canale Telegram:
 https://t.me/sicurissimi
 
 #81plus #Sicurissimo81 #SicurezzaSulLavoro #HACCP #Privacy #Formazione #DVR #GDPR #CorsiSicurezza #Metodo81
-"""
+""")
 
 def font(size):
     try:
         return ImageFont.truetype("DejaVuSans-Bold.ttf", size)
-    except:
+    except Exception:
         return ImageFont.load_default()
 
 def thumbnail(video_id, title):
     out_dir = STATE_DIR / "thumbs"
     out_dir.mkdir(exist_ok=True)
     out = out_dir / f"{video_id}.jpg"
-
     W, H = 1280, 720
     img = Image.new("RGB", (W, H), (5, 5, 5))
     d = ImageDraw.Draw(img)
-
-    orange = (251, 107, 0)
-    white = (255, 255, 255)
-    black = (5, 5, 5)
-
+    orange, white, black = (251,107,0), (255,255,255), (5,5,5)
     d.rectangle([0, 0, W, 95], fill=black)
     d.text((45, 28), "SICURISSIMO81+ - METODO81+", fill=orange, font=font(34))
     d.rectangle([0, 95, W, H], fill=(12, 12, 12))
     d.polygon([(900, 95), (1280, 95), (1280, 720), (720, 720)], fill=orange)
-
     clean = title.replace("- SICURISSIMO81+", "").strip()
     words = clean.split()
     lines, line = [], ""
     for w in words:
-        if len(line + " " + w) < 25:
+        if len((line + " " + w).strip()) < 25:
             line = (line + " " + w).strip()
         else:
             lines.append(line)
             line = w
     if line:
         lines.append(line)
-
     text = "\n".join(lines[:4])
     size = 68
     f = font(size)
@@ -111,11 +115,9 @@ def thumbnail(video_id, title):
         f = font(size)
         if size <= 38:
             break
-
     d.multiline_text((60, 185), text, fill=white, font=f, spacing=10)
     d.rectangle([60, 610, 1220, 690], fill=orange)
     d.text((90, 632), "Prima vedi. Poi ordini. Poi scegli. 81plus.net", fill=black, font=font(34))
-
     img.save(out, quality=92)
     return str(out)
 
@@ -128,18 +130,10 @@ def uploads_playlist(youtube):
 def all_videos(youtube, playlist):
     videos, token = [], None
     while True:
-        res = youtube.playlistItems().list(
-            part="snippet",
-            playlistId=playlist,
-            maxResults=50,
-            pageToken=token
-        ).execute()
+        res = youtube.playlistItems().list(part="snippet", playlistId=playlist, maxResults=50, pageToken=token).execute()
         for it in res.get("items", []):
             sn = it["snippet"]
-            videos.append({
-                "video_id": sn["resourceId"]["videoId"],
-                "title": sn.get("title", "")
-            })
+            videos.append({"video_id": sn["resourceId"]["videoId"], "title": sn.get("title", "")})
         token = res.get("nextPageToken")
         if not token:
             break
@@ -151,31 +145,24 @@ def update(youtube, video):
     if not detail.get("items"):
         print("Skip:", vid)
         return
-
     sn = detail["items"][0]["snippet"]
     old = sn.get("title", "")
     new = clean_title(old)
-
     sn["title"] = new
     sn["description"] = description(new)
-
     youtube.videos().update(part="snippet", body={"id": vid, "snippet": sn}).execute()
-
     try:
         youtube.thumbnails().set(videoId=vid, media_body=MediaFileUpload(thumbnail(vid, new))).execute()
         thumb = "thumbnail ok"
     except Exception as e:
         thumb = "thumbnail skip: " + str(e)[:100]
-
     print("Aggiornato:", vid, "-", new, "-", thumb)
 
 def get_limit():
-    mode = os.environ.get("YOUTUBE81_MODE", "daily")
-    manual_limit = os.environ.get("YOUTUBE81_LIMIT", "")
-
+    mode = os.environ.get("YOUTUBE81_MODE", "daily") or "daily"
+    manual_limit = os.environ.get("YOUTUBE81_LIMIT", "") or ""
     if mode == "boost":
         return int(manual_limit or "3")
-
     today = datetime.datetime.utcnow().date().isoformat()
     plan = load_json(PLAN_FILE, None)
     if plan:
@@ -188,7 +175,6 @@ def get_limit():
                 plan["done"] = done
                 save_json(PLAN_FILE, plan)
                 return int(d.get("count", 1))
-
     return 1
 
 def main():
@@ -197,23 +183,15 @@ def main():
     playlist = uploads_playlist(youtube)
     videos = all_videos(youtube, playlist)
     print("Video trovati:", len(videos))
-
     if not videos:
         raise RuntimeError("Nessun video trovato.")
-
     limit = get_limit()
     print("Video da aggiornare in questa run:", limit)
-
     idx = int(s.get("index", 0))
     for i in range(limit):
         video = videos[(idx + i) % len(videos)]
         update(youtube, video)
-        s.setdefault("updated", []).append({
-            "date": datetime.datetime.utcnow().isoformat(),
-            "video_id": video["video_id"],
-            "old_title": video["title"]
-        })
-
+        s.setdefault("updated", []).append({"date": datetime.datetime.utcnow().isoformat(), "video_id": video["video_id"], "old_title": video["title"]})
     s["index"] = idx + limit
     save_json(STATE_FILE, s)
 
