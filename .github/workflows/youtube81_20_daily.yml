@@ -1,0 +1,36 @@
+﻿name: YOUTUBE81 Evergreen 20 Daily
+
+on:
+  schedule:
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "numero video"
+        required: false
+        default: "20"
+
+permissions:
+  contents: write
+
+jobs:
+  evergreen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install google-api-python-client google-auth google-auth-oauthlib pillow
+      - run: python cloud/youtube_evergreen_20.py
+        env:
+          YOUTUBE_TOKEN_B64: ${{ secrets.YOUTUBE_TOKEN_B64 }}
+          LIMIT: ${{ github.event.inputs.limit || '20' }}
+      - name: Save state
+        run: |
+          git config user.name "YOUTUBE81 BOT"
+          git config user.email "bot@81plus.net"
+          git pull --rebase || true
+          git add cloud_state || true
+          git commit -m "update youtube81 state" || true
+          git push || true
