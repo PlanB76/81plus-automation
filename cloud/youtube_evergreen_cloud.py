@@ -1,4 +1,4 @@
-﻿import os, json, re, datetime
+﻿import os, json, re, datetime, base64
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 from google.oauth2.credentials import Credentials
@@ -9,6 +9,7 @@ ROOT = Path.cwd()
 STATE_DIR = ROOT / "cloud_state"
 STATE_DIR.mkdir(exist_ok=True)
 STATE_FILE = STATE_DIR / "evergreen_state.json"
+PLAN_FILE = STATE_DIR / "boost_plan.json"
 
 SCOPES = [
     "https://www.googleapis.com/auth/youtube",
@@ -16,21 +17,22 @@ SCOPES = [
 ]
 
 def yt():
-    import base64; token = json.loads(base64.b64decode(os.environ["YOUTUBE_TOKEN_B64"]).decode("utf-8-sig"))
+    raw = base64.b64decode(os.environ["YOUTUBE_TOKEN_B64"]).decode("utf-8-sig")
+    token = json.loads(raw)
     creds = Credentials.from_authorized_user_info(token, SCOPES)
     return build("youtube", "v3", credentials=creds)
 
-def state():
-    if STATE_FILE.exists():
-        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
-    return {"index": 0, "updated": []}
+def load_json(path, default):
+    if path.exists():
+        return json.loads(path.read_text(encoding="utf-8"))
+    return default
 
-def save(s):
-    STATE_FILE.write_text(json.dumps(s, indent=2, ensure_ascii=False), encoding="utf-8")
+def save_json(path, data):
+    path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
 def clean_title(t):
     t = re.sub(r"[🔥🚨⚠️❌✅🔴🟠]+", "", t or "").strip()
-    t = t.replace("|", "-").replace("· SICURISSIMO81+", "").strip()
+    t = t.replace("|", "-").replace("· SICURISSIMO81+", "").replace("- SICURISSIMO81+", "").strip()
     t = re.sub(r"\s+", " ", t)
     if len(t) > 52:
         t = t[:52].rsplit(" ", 1)[0]
@@ -132,14 +134,12 @@ def all_videos(youtube, playlist):
             maxResults=50,
             pageToken=token
         ).execute()
-
         for it in res.get("items", []):
             sn = it["snippet"]
             videos.append({
                 "video_id": sn["resourceId"]["videoId"],
                 "title": sn.get("title", "")
             })
-
         token = res.get("nextPageToken")
         if not token:
             break
@@ -159,26 +159,41 @@ def update(youtube, video):
     sn["title"] = new
     sn["description"] = description(new)
 
-    youtube.videos().update(
-        part="snippet",
-        body={"id": vid, "snippet": sn}
-    ).execute()
+    youtube.videos().update(part="snippet", body={"id": vid, "snippet": sn}).execute()
 
     try:
-        youtube.thumbnails().set(
-            videoId=vid,
-            media_body=MediaFileUpload(thumbnail(vid, new))
-        ).execute()
+        youtube.thumbnails().set(videoId=vid, media_body=MediaFileUpload(thumbnail(vid, new))).execute()
         thumb = "thumbnail ok"
     except Exception as e:
-        thumb = "thumbnail skip"
+        thumb = "thumbnail skip: " + str(e)[:100]
 
     print("Aggiornato:", vid, "-", new, "-", thumb)
 
+def get_limit():
+    mode = os.environ.get("YOUTUBE81_MODE", "daily")
+    manual_limit = os.environ.get("YOUTUBE81_LIMIT", "")
+
+    if mode == "boost":
+        return int(manual_limit or "3")
+
+    today = datetime.datetime.utcnow().date().isoformat()
+    plan = load_json(PLAN_FILE, None)
+    if plan:
+        done = plan.get("done", {})
+        if done.get(today):
+            return 1
+        for d in plan.get("days", []):
+            if d.get("date") == today:
+                done[today] = True
+                plan["done"] = done
+                save_json(PLAN_FILE, plan)
+                return int(d.get("count", 1))
+
+    return 1
+
 def main():
     youtube = yt()
-    s = state()
-
+    s = load_json(STATE_FILE, {"index": 0, "updated": []})
     playlist = uploads_playlist(youtube)
     videos = all_videos(youtube, playlist)
     print("Video trovati:", len(videos))
@@ -186,19 +201,21 @@ def main():
     if not videos:
         raise RuntimeError("Nessun video trovato.")
 
+    limit = get_limit()
+    print("Video da aggiornare in questa run:", limit)
+
     idx = int(s.get("index", 0))
-    video = videos[idx % len(videos)]
+    for i in range(limit):
+        video = videos[(idx + i) % len(videos)]
+        update(youtube, video)
+        s.setdefault("updated", []).append({
+            "date": datetime.datetime.utcnow().isoformat(),
+            "video_id": video["video_id"],
+            "old_title": video["title"]
+        })
 
-    update(youtube, video)
-
-    s["index"] = idx + 1
-    s.setdefault("updated", []).append({
-        "date": datetime.datetime.utcnow().isoformat(),
-        "video_id": video["video_id"],
-        "old_title": video["title"]
-    })
-    save(s)
+    s["index"] = idx + limit
+    save_json(STATE_FILE, s)
 
 if __name__ == "__main__":
     main()
-
