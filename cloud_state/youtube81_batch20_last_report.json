@@ -1,0 +1,147 @@
+{
+  "date": "2026-07-01T09:47:21.336131",
+  "requested": 20,
+  "ok": 20,
+  "results": [
+    {
+      "video_id": "Y55DuQDJFHI",
+      "old_title": "Il 1 luglio non è solo lo spartiacque dell'anno:: cosa controllare davvero - SICURISSIMO81+",
+      "new_title": "Il 1 luglio non è solo lo spartiacque dell'anno::: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail ok"
+    },
+    {
+      "video_id": "Eqiz7GNJpLM",
+      "old_title": "https:81plusnetschool81html: cosa controllare: cosa controllare davvero - SICURISSIMO81+",
+      "new_title": "https:81plusnetschool81html: cosa controllare: cosa: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail ok"
+    },
+    {
+      "video_id": "jL9YkLze8hM",
+      "old_title": "Microclima sul lavoro: i rischi di caldo, freddo e: cosa controllare davvero - SICURISSIMO81+",
+      "new_title": "Microclima sul lavoro: i rischi di caldo, freddo e:: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail ok"
+    },
+    {
+      "video_id": "xgag4YLfndg",
+      "old_title": "Particolari tutele sul Lavoro di cui non hai idea: cosa controllare davvero - SICURISSIMO81+",
+      "new_title": "Particolari tutele sul Lavoro di cui non hai idea:: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=xgag4YLfndg&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "3eeTDuGMhok",
+      "old_title": "Gli agenti invisibili più malvagi che esistano e: cosa controllare davvero - SICURISSIMO81+",
+      "new_title": "Gli agenti invisibili più malvagi che esistano e:: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=3eeTDuGMhok&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "-PV2ghEKwmU",
+      "old_title": "L'obbligo più importante di tutti ma che fai fatica a capire",
+      "new_title": "L'obbligo più importante di tutti ma che fai fatica: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=-PV2ghEKwmU&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "QFhvwGX2o-M",
+      "old_title": "Ristrutturazione Aziendale nel modo più efficace che esiste",
+      "new_title": "Ristrutturazione Aziendale nel modo più efficace: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=QFhvwGX2o-M&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "VyrQBKKeseQ",
+      "old_title": "Rumble Reale e Scossa Mortale da Vibrazioni",
+      "new_title": "Rumble Reale e Scossa Mortale da Vibrazioni: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=VyrQBKKeseQ&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "LPoagi9SQmc",
+      "old_title": "Strumenti che si usano ogni giorno ai quali serve molta cura ed attenzione",
+      "new_title": "Strumenti che si usano ogni giorno ai quali serve: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=LPoagi9SQmc&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "ef8POq2QRDA",
+      "old_title": "Nessuno te lo dice ma è il tuo nemico principale",
+      "new_title": "Nessuno te lo dice ma è il tuo nemico principale: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=ef8POq2QRDA&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "ofv0RCO9XA4",
+      "old_title": "VERO?....LEGGI LA DESCRIZIONE #sicurezzasullavoro #sicurissimo #perte",
+      "new_title": "VERO?....LEGGI LA DESCRIZIONE #sicurezzasullavoro: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=ofv0RCO9XA4&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "e29WZKYe19Q",
+      "old_title": "Perché tornare a casa non è mai scontato. https://www.sicurissimo.online#sicurezza #sicurezza",
+      "new_title": "Perché tornare a casa non è mai scontato.: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=e29WZKYe19Q&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "fwinH--kIrQ",
+      "old_title": "3 maggio 2026",
+      "new_title": "3 maggio 2026: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=fwinH--kIrQ&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "tHXTf79bPhY",
+      "old_title": "Ancorati al Sicuro ed evita salti inutili",
+      "new_title": "Ancorati al Sicuro ed evita salti inutili: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=tHXTf79bPhY&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "lxcKiCtMsiM",
+      "old_title": "IL KILLER SILENZIOSO 🛑 Come il frastuono in azienda ti sta rubando la salute",
+      "new_title": "IL KILLER SILENZIOSO 🛑 Come il frastuono in azienda: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=lxcKiCtMsiM&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "qpd1tBU93t8",
+      "old_title": "SCHIENA SPEZZATA? 🦴 L'errore di sollevamento che ti rovina la vita",
+      "new_title": "SCHIENA SPEZZATA? 🦴 L'errore di sollevamento che ti: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=qpd1tBU93t8&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "KA_bkNZM3R4",
+      "old_title": "Prova a non sentire. Tutto intorno a te dice una sola cosa: Attenzione a ciò che ascolti.",
+      "new_title": "Prova a non sentire. Tutto intorno a te dice una: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=KA_bkNZM3R4&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "vfgo0V8DX4E",
+      "old_title": "Se il lavoratore sbaglia, la colpa è sempre TUA. Ecco come evitarlo.",
+      "new_title": "Se il lavoratore sbaglia, la colpa è sempre TUA.: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=vfgo0V8DX4E&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "05E-O8DLJX4",
+      "old_title": "Trasforma un pezzo di carta nel Tuo Scudo Legale.",
+      "new_title": "Trasforma un pezzo di carta nel Tuo Scudo Legale.: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=05E-O8DLJX4&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "VZQIztvSeUA",
+      "old_title": "Emergenze: Sei pronto al peggio o stai solo sperando che non succeda?",
+      "new_title": "Emergenze: Sei pronto al peggio o stai solo: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=VZQIztvSeUA&alt=json&uploadType=media"
+    }
+  ]
+}
