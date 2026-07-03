@@ -1,5 +1,5 @@
 {
-  "index": 60,
+  "index": 73,
   "updated": [
     {
       "date": "2026-07-01T09:47:21.335522",
@@ -360,7 +360,85 @@
       "video_id": "1q7ebPlaUHA",
       "new_title": "RSPP e Consulenti: Chi ti sta davvero proteggendo: cosa controllare davvero - SICURISSIMO81+",
       "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=1q7ebPlaUHA&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-03T09:43:39.510868",
+      "video_id": "SkHZe9yQibQ",
+      "new_title": "Disabili in azienda: L’errore procedurale che ti: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail ok"
+    },
+    {
+      "date": "2026-07-03T09:43:39.510888",
+      "video_id": "t9NKOxE6WyI",
+      "new_title": "3) RLS - Rappresentante dei Lavoratori per la: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail ok"
+    },
+    {
+      "date": "2026-07-03T09:43:39.510893",
+      "video_id": "ERC3_UHy63E",
+      "new_title": "2) RLS - Rappresentante dei Lavoratori per la: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail ok"
+    },
+    {
+      "date": "2026-07-03T09:43:39.510897",
+      "video_id": "cTT0BIdOZTU",
+      "new_title": "1) RLS - Rappresentante dei Lavoratori per la: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail ok"
+    },
+    {
+      "date": "2026-07-03T09:43:39.510901",
+      "video_id": "gMNTvTSzXHQ",
+      "new_title": "la vita non ha prezzo ma la sua protezione ha un: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail ok"
+    },
+    {
+      "date": "2026-07-03T09:43:39.510904",
+      "video_id": "Kng_CKUhHZE",
+      "new_title": "👉 SICURISSIMO: La Piattaforma GRATUITA che Sta: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail ok"
+    },
+    {
+      "date": "2026-07-03T09:43:39.510907",
+      "video_id": "fp6leAzbjtk",
+      "new_title": "🚀 PREPARA IL TUO: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail ok"
+    },
+    {
+      "date": "2026-07-03T09:43:39.510911",
+      "video_id": "DnKlsSrHEwE",
+      "new_title": "IL CORSO CHE ASPETTAVI #sicurezzasullavoro #rigging: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail ok"
+    },
+    {
+      "date": "2026-07-03T09:43:39.510914",
+      "video_id": "jd-mzhJ8NmE",
+      "new_title": "La Soluzione? leggi la descrizione: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail ok"
+    },
+    {
+      "date": "2026-07-03T09:43:39.510917",
+      "video_id": "-_suaWIsk5c",
+      "new_title": "🚨 NON HAI L’HACCP? Ecco Come Evitare Multe e: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail ok"
+    },
+    {
+      "date": "2026-07-03T09:43:39.510920",
+      "video_id": "0E1DDnB9e54",
+      "new_title": "🔥 HACCP OBBLIGATORIO? Scopri il Metodo SICURISSIMO: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=0E1DDnB9e54&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-03T09:43:39.510923",
+      "video_id": "FdpsXkLw0rg",
+      "new_title": "IPOACUSIA... sai cosa è?leggi la descrizione: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=FdpsXkLw0rg&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-03T09:43:39.510927",
+      "video_id": "vgwxkrFp-Yw",
+      "new_title": "Iscriviti qui: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 500 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=vgwxkrFp-Yw&alt=json&uploadType=media"
     }
   ],
-  "last_run": "2026-07-02T09:44:01.127724"
+  "last_run": "2026-07-03T09:43:39.510950"
 }

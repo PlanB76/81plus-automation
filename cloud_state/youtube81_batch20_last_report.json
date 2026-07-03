@@ -1,147 +1,133 @@
 {
-  "date": "2026-07-02T09:44:01.128358",
+  "date": "2026-07-03T09:43:39.512078",
   "requested": 20,
-  "ok": 20,
+  "ok": 13,
   "results": [
     {
-      "video_id": "5uFhno6bz3s",
-      "old_title": "Il lato oscuro della corrente: Errori fatali che:: cosa controllare davvero - SICURISSIMO81+",
-      "new_title": "Il lato oscuro della corrente: Errori fatali che::: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "SkHZe9yQibQ",
+      "old_title": "Disabili in azienda: L’errore procedurale che ti costa una fortuna.",
+      "new_title": "Disabili in azienda: L’errore procedurale che ti: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=5uFhno6bz3s&alt=json&uploadType=media"
+      "thumbnail": "thumbnail ok"
     },
     {
-      "video_id": "Iluu-0ecHfs",
-      "old_title": "Molestie e Mobbing: La nuova bomba a orologeria penale del 2025.",
-      "new_title": "Molestie e Mobbing: La nuova bomba a orologeria: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "t9NKOxE6WyI",
+      "old_title": "3) RLS - Rappresentante dei Lavoratori per la Sicurezza - perché è importante?",
+      "new_title": "3) RLS - Rappresentante dei Lavoratori per la: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=Iluu-0ecHfs&alt=json&uploadType=media"
+      "thumbnail": "thumbnail ok"
     },
     {
-      "video_id": "GAcZ0iL8APA",
-      "old_title": "Scossa elettrica: Cosa succede davvero al tuo corpo in un secondo.",
-      "new_title": "Scossa elettrica: Cosa succede davvero al tuo corpo: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "ERC3_UHy63E",
+      "old_title": "2) RLS - Rappresentante dei Lavoratori per la Sicurezza - come lavora?",
+      "new_title": "2) RLS - Rappresentante dei Lavoratori per la: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=GAcZ0iL8APA&alt=json&uploadType=media"
+      "thumbnail": "thumbnail ok"
     },
     {
-      "video_id": "QqQ5sgereoM",
-      "old_title": "ASL e Ispettorato: Le 3 domande \"trappola\" durante un'ispezione.",
-      "new_title": "ASL e Ispettorato: Le 3 domande \"trappola\" durante: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "cTT0BIdOZTU",
+      "old_title": "1) RLS - Rappresentante dei Lavoratori per la Sicurezza - chi è? e cosa fa?",
+      "new_title": "1) RLS - Rappresentante dei Lavoratori per la: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=QqQ5sgereoM&alt=json&uploadType=media"
+      "thumbnail": "thumbnail ok"
     },
     {
-      "video_id": "GZGTxqindms",
-      "old_title": "PES e lavori sotto tensione: Solo per chi vuole dominare il rischio",
-      "new_title": "PES e lavori sotto tensione: Solo per chi vuole: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "gMNTvTSzXHQ",
+      "old_title": "la vita non ha prezzo ma la sua protezione ha un metodo.​https://t.me/sicurissimoonline​ #perte",
+      "new_title": "la vita non ha prezzo ma la sua protezione ha un: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=GZGTxqindms&alt=json&uploadType=media"
+      "thumbnail": "thumbnail ok"
     },
     {
-      "video_id": "c-6FlnDz4Ic",
-      "old_title": "Responsabilità 231: Come possono sequestrarti l'azienda in un pomeriggio.",
-      "new_title": "Responsabilità 231: Come possono sequestrarti: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "Kng_CKUhHZE",
+      "old_title": "👉 SICURISSIMO: La Piattaforma GRATUITA che Sta Sostituendo i Consulenti Tradizionali (Scopri Come!)",
+      "new_title": "👉 SICURISSIMO: La Piattaforma GRATUITA che Sta: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=c-6FlnDz4Ic&alt=json&uploadType=media"
+      "thumbnail": "thumbnail ok"
     },
     {
-      "video_id": "kza5sssF-mU",
-      "old_title": "Identikit del colpevole: Perché il Datore di Lavoro paga sempre per primo.",
-      "new_title": "Identikit del colpevole: Perché il Datore di Lavoro: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "fp6leAzbjtk",
+      "old_title": "🚀 PREPARA IL TUO ARSENALE:https://t.me/sicurissimoonline #sicurezzasullavoro",
+      "new_title": "🚀 PREPARA IL TUO: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=kza5sssF-mU&alt=json&uploadType=media"
+      "thumbnail": "thumbnail ok"
     },
     {
-      "video_id": "-reikhEQUFM",
-      "old_title": "Il segreto per non morire fulminato durante il lavoro.",
-      "new_title": "Il segreto per non morire fulminato durante il: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "DnKlsSrHEwE",
+      "old_title": "IL CORSO CHE ASPETTAVI #sicurezzasullavoro #rigging #formazioneobbligatoria",
+      "new_title": "IL CORSO CHE ASPETTAVI #sicurezzasullavoro #rigging: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=-reikhEQUFM&alt=json&uploadType=media"
+      "thumbnail": "thumbnail ok"
     },
     {
-      "video_id": "1q7ebPlaUHA",
-      "old_title": "RSPP e Consulenti: Chi ti sta davvero proteggendo e chi ti sta fregando?",
-      "new_title": "RSPP e Consulenti: Chi ti sta davvero proteggendo e: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "jd-mzhJ8NmE",
+      "old_title": "La Soluzione?   leggi la descrizione #sicurezzasullavoro #hse",
+      "new_title": "La Soluzione? leggi la descrizione: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=1q7ebPlaUHA&alt=json&uploadType=media"
+      "thumbnail": "thumbnail ok"
     },
     {
-      "video_id": "FI_D3WzDLuY",
-      "old_title": "Elettricista esperto o vittima del caso? La verità sulla qualifica PES",
-      "new_title": "Elettricista esperto o vittima del caso? La verità: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=FI_D3WzDLuY&alt=json&uploadType=media"
+      "video_id": "HZZzUyPu3Ew",
+      "status": "ERROR",
+      "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
     },
     {
-      "video_id": "ofv0RCO9XA4",
-      "old_title": "VERO?....LEGGI LA DESCRIZIONE #sicurezzasullavoro:: cosa controllare davvero - SICURISSIMO81+",
-      "new_title": "VERO?....LEGGI LA DESCRIZIONE #sicurezzasullavoro::: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=ofv0RCO9XA4&alt=json&uploadType=media"
+      "video_id": "L8rVCu3kgCw",
+      "status": "ERROR",
+      "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
     },
     {
-      "video_id": "e29WZKYe19Q",
-      "old_title": "Perché tornare a casa non è mai scontato.: cosa: cosa controllare davvero - SICURISSIMO81+",
-      "new_title": "Perché tornare a casa non è mai scontato.: cosa:: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=e29WZKYe19Q&alt=json&uploadType=media"
+      "video_id": "DOGTDm-1dBQ",
+      "status": "ERROR",
+      "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
     },
     {
-      "video_id": "vLEKKiwfXyQ",
-      "old_title": "Allegati Titolo VII: Quello che il tuo consulente::: cosa controllare davvero - SICURISSIMO81+",
-      "new_title": "Allegati Titolo VII: Quello che il tuo: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=vLEKKiwfXyQ&alt=json&uploadType=media"
+      "video_id": "7-0Dld0uSVw",
+      "status": "ERROR",
+      "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
     },
     {
-      "video_id": "Tqmfl__r2XA",
-      "old_title": "DPI Categoria I° e II°. Quando un guanto: cosa controllare davvero - SICURISSIMO81+",
-      "new_title": "DPI Categoria I° e II°. Quando un guanto: cosa: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=Tqmfl__r2XA&alt=json&uploadType=media"
+      "video_id": "mRWa2ORK2Co",
+      "status": "ERROR",
+      "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
     },
     {
-      "video_id": "pkR1CYHJY3g",
-      "old_title": "Modulo Giuridico: La guida di sopravvivenza al::: cosa controllare davvero - SICURISSIMO81+",
-      "new_title": "Modulo Giuridico: La guida di sopravvivenza al:::: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=pkR1CYHJY3g&alt=json&uploadType=media"
+      "video_id": "xrsjyRUQDeQ",
+      "status": "ERROR",
+      "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
     },
     {
-      "video_id": "Iluu-0ecHfs",
-      "old_title": "Molestie e Mobbing: La nuova bomba a orologeria: cosa controllare davvero - SICURISSIMO81+",
-      "new_title": "Molestie e Mobbing: La nuova bomba a orologeria:: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "-_suaWIsk5c",
+      "old_title": "🚨 NON HAI L’HACCP? Ecco Come Evitare Multe e Chiudere Tutto in 30 Minuti",
+      "new_title": "🚨 NON HAI L’HACCP? Ecco Come Evitare Multe e: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=Iluu-0ecHfs&alt=json&uploadType=media"
+      "thumbnail": "thumbnail ok"
     },
     {
-      "video_id": "QqQ5sgereoM",
-      "old_title": "ASL e Ispettorato: Le 3 domande \"trappola\" durante: cosa controllare davvero - SICURISSIMO81+",
-      "new_title": "ASL e Ispettorato: Le 3 domande \"trappola\" durante:: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "0E1DDnB9e54",
+      "old_title": "🔥 HACCP OBBLIGATORIO? Scopri il Metodo SICURISSIMO per Metterti in Regola in 1 Click ",
+      "new_title": "🔥 HACCP OBBLIGATORIO? Scopri il Metodo SICURISSIMO: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=QqQ5sgereoM&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=0E1DDnB9e54&alt=json&uploadType=media"
     },
     {
-      "video_id": "c-6FlnDz4Ic",
-      "old_title": "Responsabilità 231: Come possono sequestrarti: cosa controllare davvero - SICURISSIMO81+",
-      "new_title": "Responsabilità 231: Come possono sequestrarti: cosa: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "FdpsXkLw0rg",
+      "old_title": "IPOACUSIA... sai cosa è?leggi la descrizione #sicurezzasullavoro #prevenzione",
+      "new_title": "IPOACUSIA... sai cosa è?leggi la descrizione: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=c-6FlnDz4Ic&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=FdpsXkLw0rg&alt=json&uploadType=media"
     },
     {
-      "video_id": "kza5sssF-mU",
-      "old_title": "Identikit del colpevole: Perché il Datore di Lavoro: cosa controllare davvero - SICURISSIMO81+",
-      "new_title": "Identikit del colpevole: Perché il Datore di: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "vgwxkrFp-Yw",
+      "old_title": "Iscriviti qui https://corsi.elearningsicurezza.com/pid/2377 #perte",
+      "new_title": "Iscriviti qui: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=kza5sssF-mU&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 500 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=vgwxkrFp-Yw&alt=json&uploadType=media"
     },
     {
-      "video_id": "1q7ebPlaUHA",
-      "old_title": "RSPP e Consulenti: Chi ti sta davvero proteggendo e: cosa controllare davvero - SICURISSIMO81+",
-      "new_title": "RSPP e Consulenti: Chi ti sta davvero proteggendo: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=1q7ebPlaUHA&alt=json&uploadType=media"
+      "video_id": "37AwugXJQDY",
+      "status": "ERROR",
+      "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
     }
   ]
 }
