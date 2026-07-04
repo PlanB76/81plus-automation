@@ -1,91 +1,8 @@
 {
-  "date": "2026-07-03T09:43:39.512078",
+  "date": "2026-07-04T09:06:06.592379",
   "requested": 20,
-  "ok": 13,
+  "ok": 17,
   "results": [
-    {
-      "video_id": "SkHZe9yQibQ",
-      "old_title": "Disabili in azienda: L’errore procedurale che ti costa una fortuna.",
-      "new_title": "Disabili in azienda: L’errore procedurale che ti: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail ok"
-    },
-    {
-      "video_id": "t9NKOxE6WyI",
-      "old_title": "3) RLS - Rappresentante dei Lavoratori per la Sicurezza - perché è importante?",
-      "new_title": "3) RLS - Rappresentante dei Lavoratori per la: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail ok"
-    },
-    {
-      "video_id": "ERC3_UHy63E",
-      "old_title": "2) RLS - Rappresentante dei Lavoratori per la Sicurezza - come lavora?",
-      "new_title": "2) RLS - Rappresentante dei Lavoratori per la: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail ok"
-    },
-    {
-      "video_id": "cTT0BIdOZTU",
-      "old_title": "1) RLS - Rappresentante dei Lavoratori per la Sicurezza - chi è? e cosa fa?",
-      "new_title": "1) RLS - Rappresentante dei Lavoratori per la: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail ok"
-    },
-    {
-      "video_id": "gMNTvTSzXHQ",
-      "old_title": "la vita non ha prezzo ma la sua protezione ha un metodo.​https://t.me/sicurissimoonline​ #perte",
-      "new_title": "la vita non ha prezzo ma la sua protezione ha un: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail ok"
-    },
-    {
-      "video_id": "Kng_CKUhHZE",
-      "old_title": "👉 SICURISSIMO: La Piattaforma GRATUITA che Sta Sostituendo i Consulenti Tradizionali (Scopri Come!)",
-      "new_title": "👉 SICURISSIMO: La Piattaforma GRATUITA che Sta: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail ok"
-    },
-    {
-      "video_id": "fp6leAzbjtk",
-      "old_title": "🚀 PREPARA IL TUO ARSENALE:https://t.me/sicurissimoonline #sicurezzasullavoro",
-      "new_title": "🚀 PREPARA IL TUO: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail ok"
-    },
-    {
-      "video_id": "DnKlsSrHEwE",
-      "old_title": "IL CORSO CHE ASPETTAVI #sicurezzasullavoro #rigging #formazioneobbligatoria",
-      "new_title": "IL CORSO CHE ASPETTAVI #sicurezzasullavoro #rigging: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail ok"
-    },
-    {
-      "video_id": "jd-mzhJ8NmE",
-      "old_title": "La Soluzione?   leggi la descrizione #sicurezzasullavoro #hse",
-      "new_title": "La Soluzione? leggi la descrizione: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail ok"
-    },
-    {
-      "video_id": "HZZzUyPu3Ew",
-      "status": "ERROR",
-      "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
-    },
-    {
-      "video_id": "L8rVCu3kgCw",
-      "status": "ERROR",
-      "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
-    },
-    {
-      "video_id": "DOGTDm-1dBQ",
-      "status": "ERROR",
-      "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
-    },
-    {
-      "video_id": "7-0Dld0uSVw",
-      "status": "ERROR",
-      "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
-    },
     {
       "video_id": "mRWa2ORK2Co",
       "status": "ERROR",
@@ -98,36 +15,127 @@
     },
     {
       "video_id": "-_suaWIsk5c",
-      "old_title": "🚨 NON HAI L’HACCP? Ecco Come Evitare Multe e Chiudere Tutto in 30 Minuti",
-      "new_title": "🚨 NON HAI L’HACCP? Ecco Come Evitare Multe e: cosa controllare davvero - SICURISSIMO81+",
+      "old_title": "🚨 NON HAI L’HACCP? Ecco Come Evitare Multe e: cosa controllare davvero - SICURISSIMO81+",
+      "new_title": "🚨 NON HAI L’HACCP? Ecco Come Evitare Multe e: cosa: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail ok"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=-_suaWIsk5c&alt=json&uploadType=media"
     },
     {
       "video_id": "0E1DDnB9e54",
-      "old_title": "🔥 HACCP OBBLIGATORIO? Scopri il Metodo SICURISSIMO per Metterti in Regola in 1 Click ",
-      "new_title": "🔥 HACCP OBBLIGATORIO? Scopri il Metodo SICURISSIMO: cosa controllare davvero - SICURISSIMO81+",
+      "old_title": "🔥 HACCP OBBLIGATORIO? Scopri il Metodo SICURISSIMO: cosa controllare davvero - SICURISSIMO81+",
+      "new_title": "🔥 HACCP OBBLIGATORIO? Scopri il Metodo SICURISSIMO:: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
       "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=0E1DDnB9e54&alt=json&uploadType=media"
     },
     {
       "video_id": "FdpsXkLw0rg",
-      "old_title": "IPOACUSIA... sai cosa è?leggi la descrizione #sicurezzasullavoro #prevenzione",
-      "new_title": "IPOACUSIA... sai cosa è?leggi la descrizione: cosa controllare davvero - SICURISSIMO81+",
+      "old_title": "IPOACUSIA... sai cosa è?leggi la descrizione: cosa controllare davvero - SICURISSIMO81+",
+      "new_title": "IPOACUSIA... sai cosa è?leggi la descrizione: cosa: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
       "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=FdpsXkLw0rg&alt=json&uploadType=media"
     },
     {
       "video_id": "vgwxkrFp-Yw",
-      "old_title": "Iscriviti qui https://corsi.elearningsicurezza.com/pid/2377 #perte",
-      "new_title": "Iscriviti qui: cosa controllare davvero - SICURISSIMO81+",
+      "old_title": "Iscriviti qui: cosa controllare davvero - SICURISSIMO81+",
+      "new_title": "Iscriviti qui: cosa controllare davvero: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 500 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=vgwxkrFp-Yw&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=vgwxkrFp-Yw&alt=json&uploadType=media"
     },
     {
       "video_id": "37AwugXJQDY",
       "status": "ERROR",
       "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
+    },
+    {
+      "video_id": "HxisLGvzcYM",
+      "old_title": "non cosa fai...ma chi sei? #sicurezzasullavoro #sicurissimo #prevenzione",
+      "new_title": "non cosa fai...ma chi sei? #sicurezzasullavoro: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=HxisLGvzcYM&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "cjflba2M2p4",
+      "old_title": "è tardi....leggi la descrizione #sicurissimo #sicurezzasullavoro #hse #prevenzione",
+      "new_title": "è tardi....leggi la descrizione #sicurissimo: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=cjflba2M2p4&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "pApj9eHC8HU",
+      "old_title": "TI AIUTIAMO A SURFARE SULLE NORMATIVE #sicurezzasullavoro #hse",
+      "new_title": "TI AIUTIAMO A SURFARE SULLE NORMATIVE: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=pApj9eHC8HU&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "TCwvIdr2uR4",
+      "old_title": "La tua vita #sicurezzasullavoro #hse #sicurissimo #prevenzione",
+      "new_title": "La tua vita #sicurezzasullavoro #hse #sicurissimo: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=TCwvIdr2uR4&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "gkN3Hhsz1l0",
+      "old_title": "1) CORSO DI AGGIORNAMENTO COORDINATORE DELLA SICUREZZA CSP-CSE  - PARTE 1",
+      "new_title": "1) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=gkN3Hhsz1l0&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "I4rtHjBCk-4",
+      "old_title": "5) CORSO DI AGGIORNAMENTO COORDINATORE DELLA SICUREZZA CSP-CSE  - PARTE 5",
+      "new_title": "5) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=I4rtHjBCk-4&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "RqkLMnN2X_k",
+      "old_title": "2) CORSO DI AGGIORNAMENTO COORDINATORE DELLA SICUREZZA CSP-CSE  - PARTE 2",
+      "new_title": "2) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=RqkLMnN2X_k&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "bOnMSdhdpm4",
+      "old_title": "4) CORSO DI AGGIORNAMENTO COORDINATORE DELLA SICUREZZA CSP-CSE  - PARTE 4",
+      "new_title": "4) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=bOnMSdhdpm4&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "9gv4KdO1WeU",
+      "old_title": "3) CORSO DI AGGIORNAMENTO COORDINATORE DELLA SICUREZZA CSP-CSE  - PARTE 3",
+      "new_title": "3) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=9gv4KdO1WeU&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "1K0LVR7c4Gc",
+      "old_title": "3) Corso HSE MANAGER: Gestione rifiuti e green economy i segreti per un azienda sostenibile♻️☢️🚮🚯",
+      "new_title": "3) Corso HSE MANAGER: Gestione rifiuti e green: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=1K0LVR7c4Gc&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "MZSyD4iB17A",
+      "old_title": "2) Corso HSE MANAGER: Tutela acque e bio alimentazione le competenze tecniche che ti servono 🌊🍔",
+      "new_title": "2) Corso HSE MANAGER: Tutela acque e bio: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=MZSyD4iB17A&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "VuXuBhFwkfo",
+      "old_title": "7) Corso HSE MANAGER: segreti della sostenibilità agricola♻️🌾👩‍🌾🚜",
+      "new_title": "7) Corso HSE MANAGER: segreti della sostenibilità: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=VuXuBhFwkfo&alt=json&uploadType=media"
+    },
+    {
+      "video_id": "cquAcusIxdo",
+      "old_title": "CORSO HSE MANAGER TOP #sicurezzasullavoro #prevenzione #sicurezzasullavoro #hse",
+      "new_title": "CORSO HSE MANAGER TOP #sicurezzasullavoro: cosa controllare davvero - SICURISSIMO81+",
+      "status": "OK",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=cquAcusIxdo&alt=json&uploadType=media"
     }
   ]
 }

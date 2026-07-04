@@ -1,5 +1,5 @@
 {
-  "index": 73,
+  "index": 90,
   "updated": [
     {
       "date": "2026-07-01T09:47:21.335522",
@@ -438,7 +438,109 @@
       "video_id": "vgwxkrFp-Yw",
       "new_title": "Iscriviti qui: cosa controllare davvero - SICURISSIMO81+",
       "thumbnail": "thumbnail skip: <HttpError 500 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=vgwxkrFp-Yw&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591222",
+      "video_id": "-_suaWIsk5c",
+      "new_title": "🚨 NON HAI L’HACCP? Ecco Come Evitare Multe e: cosa: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=-_suaWIsk5c&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591242",
+      "video_id": "0E1DDnB9e54",
+      "new_title": "🔥 HACCP OBBLIGATORIO? Scopri il Metodo SICURISSIMO:: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=0E1DDnB9e54&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591247",
+      "video_id": "FdpsXkLw0rg",
+      "new_title": "IPOACUSIA... sai cosa è?leggi la descrizione: cosa: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=FdpsXkLw0rg&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591252",
+      "video_id": "vgwxkrFp-Yw",
+      "new_title": "Iscriviti qui: cosa controllare davvero: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=vgwxkrFp-Yw&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591256",
+      "video_id": "HxisLGvzcYM",
+      "new_title": "non cosa fai...ma chi sei? #sicurezzasullavoro: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=HxisLGvzcYM&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591260",
+      "video_id": "cjflba2M2p4",
+      "new_title": "è tardi....leggi la descrizione #sicurissimo: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=cjflba2M2p4&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591263",
+      "video_id": "pApj9eHC8HU",
+      "new_title": "TI AIUTIAMO A SURFARE SULLE NORMATIVE: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=pApj9eHC8HU&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591267",
+      "video_id": "TCwvIdr2uR4",
+      "new_title": "La tua vita #sicurezzasullavoro #hse #sicurissimo: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=TCwvIdr2uR4&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591270",
+      "video_id": "gkN3Hhsz1l0",
+      "new_title": "1) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=gkN3Hhsz1l0&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591274",
+      "video_id": "I4rtHjBCk-4",
+      "new_title": "5) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=I4rtHjBCk-4&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591277",
+      "video_id": "RqkLMnN2X_k",
+      "new_title": "2) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=RqkLMnN2X_k&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591280",
+      "video_id": "bOnMSdhdpm4",
+      "new_title": "4) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=bOnMSdhdpm4&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591284",
+      "video_id": "9gv4KdO1WeU",
+      "new_title": "3) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=9gv4KdO1WeU&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591287",
+      "video_id": "1K0LVR7c4Gc",
+      "new_title": "3) Corso HSE MANAGER: Gestione rifiuti e green: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=1K0LVR7c4Gc&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591290",
+      "video_id": "MZSyD4iB17A",
+      "new_title": "2) Corso HSE MANAGER: Tutela acque e bio: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=MZSyD4iB17A&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591294",
+      "video_id": "VuXuBhFwkfo",
+      "new_title": "7) Corso HSE MANAGER: segreti della sostenibilità: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=VuXuBhFwkfo&alt=json&uploadType=media"
+    },
+    {
+      "date": "2026-07-04T09:06:06.591297",
+      "video_id": "cquAcusIxdo",
+      "new_title": "CORSO HSE MANAGER TOP #sicurezzasullavoro: cosa controllare davvero - SICURISSIMO81+",
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=cquAcusIxdo&alt=json&uploadType=media"
     }
   ],
-  "last_run": "2026-07-03T09:43:39.510950"
+  "last_run": "2026-07-04T09:06:06.591385"
 }
