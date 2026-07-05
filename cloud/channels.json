@@ -1,0 +1,12 @@
+[
+  {
+    "handle": "@sicurissimo",
+    "channel_id": "UCTzVaIyeBUtP0pmAmk2c7FQ",
+    "best_times": ["14:30", "18:30"],
+    "recycle_per_day": 3,
+    "tg_public": "@sicurissimi",
+    "tg_private": "",
+    "lang": "it",
+    "active": true
+  }
+]

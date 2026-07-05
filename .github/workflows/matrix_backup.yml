@@ -1,0 +1,20 @@
+name: MATRIX81 Auto-Backup
+on:
+  schedule:
+    - cron: '30 3 * * *'   # 05:30 IT ogni giorno
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Timestamp snapshot MATRIX
+        run: |
+          mkdir -p matrix_snapshots
+          if [ -f MATRIX81.md ]; then cp MATRIX81.md "matrix_snapshots/MATRIX81_$(date +%F).md"; fi
+          git config user.name "sicu81-bot"; git config user.email "bot@81plus.net"
+          git add MATRIX81.md matrix_snapshots || true
+          git commit -m "MATRIX backup $(date +%F)" || echo "nulla da committare"
+          git push || echo "push skip"

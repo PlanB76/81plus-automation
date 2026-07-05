@@ -1,0 +1,27 @@
+name: SICURIX Daily (3 video tematici + SOCIAL81+)
+on:
+  schedule:
+    - cron: '30 5 * * *'   # 07:30 IT — genera i 3 video del giorno (Sicurezza/HACCP/Privacy)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - name: Genera 3 video SICURIX + pacchetto social + notifica TG
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHANNEL: ${{ vars.TG_CHANNEL }}
+        run: |
+          python cloud/sicurix_daily.py
+          python cloud/social81_pack.py
+      - name: Commit
+        run: |
+          git config user.name "sicurix-bot"; git config user.email "bot@81plus.net"
+          git add OGGI_SICURIX.md SOCIAL81_OGGI.md || true
+          git commit -m "SICURIX daily $(date +%F)" || echo "nulla"
+          git push || echo "push skip"
