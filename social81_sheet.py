@@ -67,13 +67,24 @@ def guard(t):
         t=t.replace(a,b).replace(a.capitalize(),b.capitalize())
     return t
 
+_TALES_CACHE=[]
+def _tales_list():
+    global _TALES_CACHE
+    if _TALES_CACHE: return _TALES_CACHE
+    repo=env("TALES_REPO","PlanB76/81plus-automation"); dr=env("TALES_DIR","tales_web")
+    try:
+        req=urllib.request.Request("https://api.github.com/repos/%s/contents/%s?ref=main"%(repo,dr),headers={"User-Agent":"social81"})
+        items=json.loads(urllib.request.urlopen(req,timeout=30).read())
+        _TALES_CACHE=[it["download_url"] for it in items if it.get("name","").lower().endswith(".jpg")]
+    except Exception as e:
+        print("[tales] lista errore",e); _TALES_CACHE=[]
+    return _TALES_CACHE
 def tales_url(d,doy,h):
-    base=env("TALES_BASE",TALES_BASE_DEFAULT)
-    if not base: return None
-    vids=d.get("VIDEO_YT") or []
-    # elenco file vignette: se non abbiamo un indice, usa naming sicurix-N (fallback)
-    n=((doy*24+h)%52)+1
-    return base.rstrip("/")+"/sicurix-%d.jpg"%n
+    base=env("TALES_BASE")
+    if base:
+        n=((doy*24+h)%52)+1; return base.rstrip("/")+"/sicurix-%d.jpg"%n
+    imgs=_tales_list()
+    return imgs[(doy*24+h)%len(imgs)] if imgs else None
 
 def compose(d,h,doy,today):
     pal=d["PRODOTTI"] and d["PALINSESTO"]
@@ -163,14 +174,22 @@ def tg_send(text,image):
     chan=env("TG_CHANNEL","@sicurissimi")
     if not tok:
         print("[tg] manca token -> skip (dry)"); return False
+    def _msg():
+        data=urllib.parse.urlencode({"chat_id":chan,"text":text[:4096],"disable_web_page_preview":"false"}).encode()
+        r=urllib.request.urlopen(urllib.request.Request("https://api.telegram.org/bot%s/sendMessage"%tok,data=data),timeout=40).read()
+        ok=json.loads(r).get("ok"); print("[tg msg]","ok" if ok else r[:200]); return ok
     try:
         if image:
-            data=urllib.parse.urlencode({"chat_id":chan,"photo":image,"caption":text[:1024]}).encode()
-            r=urllib.request.urlopen(urllib.request.Request("https://api.telegram.org/bot%s/sendPhoto"%tok,data=data),timeout=40).read()
-        else:
-            data=urllib.parse.urlencode({"chat_id":chan,"text":text[:4096],"disable_web_page_preview":"false"}).encode()
-            r=urllib.request.urlopen(urllib.request.Request("https://api.telegram.org/bot%s/sendMessage"%tok,data=data),timeout=40).read()
-        ok=json.loads(r).get("ok"); print("[tg]","ok" if ok else r[:200]); return ok
+            try:
+                data=urllib.parse.urlencode({"chat_id":chan,"photo":image,"caption":text[:1024]}).encode()
+                r=urllib.request.urlopen(urllib.request.Request("https://api.telegram.org/bot%s/sendPhoto"%tok,data=data),timeout=40).read()
+                ok=json.loads(r).get("ok")
+                if ok: print("[tg photo] ok"); return True
+                print("[tg photo] fallita, fallback testo:",r[:120])
+            except Exception as e:
+                print("[tg photo] errore, fallback testo:",e)
+            return _msg()
+        return _msg()
     except Exception as e:
         print("[tg] errore",e); return False
 
