@@ -8,7 +8,7 @@ HERE=pathlib.Path(__file__).resolve().parent
 OUTD=HERE/"out"; IMG=OUTD/"img"; IMG.mkdir(parents=True,exist_ok=True)
 REFDIR=HERE/"data"/"ref"
 DRIVE_FOLDER_ID="1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc"
-API_KEY=os.environ.get("OPENAI_API_KEY")
+API_KEY=(os.environ.get("OPENAI_API_KEY") or "").strip()
 MODEL=os.environ.get("OPENAI_IMAGE_MODEL","gpt-image-1")
 SIZE=os.environ.get("OPENAI_IMAGE_SIZE","1024x1536")
 QUALITY=os.environ.get("OPENAI_IMAGE_QUALITY","high")

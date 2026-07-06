@@ -41,6 +41,7 @@ def copy_pnl(sett,temi,pr,rng):
             f"In questa pagina TALES OF SICURIX il PERICOLO prende forma... e il METODO81+ lo rimette in ordine, passo dopo passo. "
             f"Immagina la scena: prima il caos, poi la checklist che sistema tutto. {closer}\n"
             f"\U0001F449 {pr['cta']}: {pr['prodotto']} -> {pr['url']}\n"
+            f"\u25B6\uFE0F YouTube: youtube.com/@sicurissimo\n"
             f"Contenuto informativo. Prima vedi. Poi sistemi. {SITE}")
 def image_prompt(code,sett,atoms_sel,cast):
     heroes=list(dict.fromkeys([c.split(">")[0] for c in cast]))
@@ -80,7 +81,7 @@ def build(code,idxs,rng):
     if len(sel)==1: titolo=f"{sett}: la verita su {sel[0]['adempimento']} (in 30 secondi)"
     else: titolo=rng.choice(HOOKS).format(s=sett)
     areas=list(dict.fromkeys(a["area"] for a in sel))
-    htag=" ".join(dict.fromkeys(["#TalesOfSicurix","#SICURIX","#Metodo81","#81plus","#Sicurissimo81"]+[f"#{x}" for x in areas]+["#SicurezzaSulLavoro"]))
+    htag=" ".join(dict.fromkeys(["#TalesOfSicurix","#SICURIX","#Metodo81","#81plus","#Sicurissimo"]+[f"#{x}" for x in areas]+["#SicurezzaSulLavoro"]))
     return {"codice_ateco":code,"settore":sett,"sezione":sez,"area_mix":mix,"n_vignette":len(sel),
             "adempimenti":" | ".join(a["adempimento"] for a in sel),"fonti":" | ".join(dict.fromkeys(a["fonte_normativa"] for a in sel)),
             "cast_personaggi":", ".join(cast),"image_prompt":image_prompt(code,sett,sel,cast),
@@ -101,8 +102,11 @@ def run(n,seed=None):
     cols=["codice_ateco","settore","sezione","area_mix","n_vignette","adempimenti","fonti","cast_personaggi","image_prompt","titolo_clickbait","corpo_post","cta_prodotto","cta_url","hashtag","nome_file_webp","drive_folder","stato"]
     stamp=datetime.date.today().isoformat()
     outp=OUTD/f"SICURIX_GEN_{stamp}.csv"
-    with open(outp,"w",encoding="utf-8",newline="") as f:
-        w=csv.DictWriter(f,fieldnames=cols); w.writeheader(); w.writerows(rows)
+    exists=outp.exists()
+    with open(outp,"a" if exists else "w",encoding="utf-8",newline="") as f:
+        w=csv.DictWriter(f,fieldnames=cols)
+        if not exists: w.writeheader()
+        w.writerows(rows)
     newf=not MANIFEST.exists()
     with open(MANIFEST,"a",encoding="utf-8",newline="") as f:
         w=csv.DictWriter(f,fieldnames=["data"]+cols)

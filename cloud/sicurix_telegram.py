@@ -7,7 +7,7 @@ import os,sys,csv,json,glob,pathlib,urllib.request,urllib.parse
 HERE=pathlib.Path(__file__).resolve().parent
 OUTD=HERE/"out"; IMG=OUTD/"img"; DATA=HERE/"data"
 STATE=DATA/"sicurix_tg_state.json"
-TOKEN=os.environ.get("SICURIX_TG_TOKEN") or os.environ.get("TELEGRAM_BOT_TOKEN") or os.environ.get("BOT_PUBLISHER_TOKEN"); CHAT=os.environ.get("SICURIX_TG_CHANNEL") or os.environ.get("TG_CHANNEL")
+TOKEN=((os.environ.get("SICURIX_TG_TOKEN") or os.environ.get("TELEGRAM_BOT_TOKEN") or os.environ.get("BOT_PUBLISHER_TOKEN") or "").strip()); CHAT=((os.environ.get("SICURIX_TG_CHANNEL") or os.environ.get("TG_CHANNEL") or "").strip())
 API=f"https://api.telegram.org/bot{TOKEN}" if TOKEN else None
 def latest_csv():
     fs=sorted(x for x in glob.glob(str(OUTD/"SICURIX_GEN_*.csv")) if "MANIFEST" not in x); return fs[-1] if fs else None

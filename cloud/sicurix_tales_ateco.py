@@ -57,7 +57,7 @@ def scheda(n,x,i):
     vid=(f"Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: {amb}. Scena: 1) problema 2) entra {vill[0]} 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene {heroes[0]} 6) Metodo81+ 7) risultato ordinato 8) CTA {SITE}. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '{SITE}'. NO horror, NO claim assoluti.")
     fumetto=(f"4 vignette: 1) {amb}: {vill[0]} crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+{heroes[0]}: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA {SITE}.")
     caption=(f"🟧 {x['titolo'][:60]} — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, {vill[0]}, e la soluzione col Metodo81+. 👉 {SITE}. Contenuto informativo.")
-    hashtag=f"#SicurixTales #{area} #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO"
+    hashtag=f"#SicurixTales #{area} #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO"
     checklist=["Rischi valutati e documentati","Formazione/DPI adeguati","Procedure e scadenze aggiornate","Responsabilità chiare"]
     return {"pagina":f"{n:04d}","codice_ateco":x["codice"],"descrizione_ateco":x["titolo"],"sezione":f"{x['sezione']} {SEZ_NAME.get(x['sezione'],'')}","divisione":x["divisione"],"gruppo":x["gruppo"],"classe":x["classe"],"categoria":x["categoria"],"sottocategoria":x["codice"],
       "titolo_fumetto":titolo,"area":area,"ambientazione":amb,"cattivi":vill,"eroi":heroes,

@@ -1,8 +1,8 @@
-name: SICURIX Gen + Render (100/giorno)
+name: SICURIX Gen + Render (1 ogni 10 min)
 
 on:
   schedule:
-    - cron: "0 4 * * *"   # ogni giorno 04:00 UTC (~06:00 IT)
+    - cron: "*/10 * * * *"   # 1 immagine ogni 10 minuti (H24)
   workflow_dispatch:
     inputs:
       n:
@@ -30,8 +30,7 @@ jobs:
 
       - name: 1) Genera testo (image_prompt + titolo + corpo PNL + CTA + hashtag)
         run: |
-          N="${{ github.event.inputs.n }}"; [ -z "$N" ] && N=100
-          python cloud/sicurix_gen_daily.py "$N"
+          python cloud/sicurix_gen_daily.py 1
 
       - name: 2) Render immagini WEBP (OpenAI gpt-image-1)
         env:
@@ -40,8 +39,7 @@ jobs:
           if [ -z "$OPENAI_API_KEY" ]; then
             echo "OPENAI_API_KEY non configurata: salto il render immagini (lo sheet testo e' comunque pronto)."
           else
-            N="${{ github.event.inputs.n }}"; [ -z "$N" ] && N=100
-            python cloud/render_images.py "$N"
+            python cloud/render_images.py 1
           fi
 
       - name: 2b) Feed ticker (cards scorrevoli per index.html)
@@ -55,7 +53,7 @@ jobs:
           if [ -z "$SICURIX_TG_TOKEN" ] || [ -z "$SICURIX_TG_CHANNEL" ]; then
             echo "Token Telegram assenti: salto la pubblicazione."
           else
-            python cloud/sicurix_telegram.py 5
+            python cloud/sicurix_telegram.py 1
           fi
 
       - name: 3) (opzionale) Upload WEBP su Google Drive via rclone
