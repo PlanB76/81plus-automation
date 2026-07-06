@@ -2,13 +2,6 @@
  "generato": "2026-07-06",
  "cards": [
   {
-   "titolo": "In Agricoltura non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
-   "settore": "Agricoltura",
-   "cta_url": "https://81plus.net/?corso=corso-per-preposto",
-   "cta": "Corso per Preposto",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
    "titolo": "In Sanita/Sociale non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
    "settore": "Sanita/Sociale",
    "cta_url": "https://81plus.net/?corso=rspp-datore-di-lavoro-modulo-1-e-2",
@@ -167,6 +160,13 @@
    "settore": "Commercio",
    "cta_url": "https://81plus.net/?corso=corso-primo-soccorso-a-b-c",
    "cta": "Corso Primo Soccorso (A-B-C)",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Commercio: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=manuale-autocontrollo-alimentare",
+   "cta": "Manuale autocontrollo alimentare",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   }
  ]
