@@ -1,7 +1,7 @@
 @echo off
 cd /d "%~dp0"
 echo ==================================================
-echo   81PLUS GO - comando globale unico (SICURIX H24)
+echo   81PLUS GO - comando globale unico (SICURIX)
 echo ==================================================
 echo.
 where git >nul 2>&1
@@ -23,9 +23,15 @@ if errorlevel 1 (
   git commit -m "81PLUS GO: risolvo conflitti output" --no-edit
 )
 echo.
-echo [3] Carico su GitHub (attiva la cloud H24)...
+echo [3] Carico su GitHub (attiva la cloud H24: fumetto+immagine+feed+Telegram ogni 10 min)...
 git push origin main
 echo.
-echo [OK] Fatto. SICURIX gira in cloud ogni 10 minuti: genera fumetto, immagine, feed e post Telegram.
-echo      Se ha chiesto login, usa il tuo account GitHub.
+echo [4] Pubblico il sito con il ticker SICURIX su Hostinger...
+if exist "%~dp0..\0-81PLUS.NET\DEPLOY81_FTP.bat" (
+  call "%~dp0..\0-81PLUS.NET\DEPLOY81_FTP.bat"
+) else (
+  echo [i] DEPLOY81_FTP.bat non trovato: salto il deploy sito.
+)
+echo.
+echo [OK] FATTO TUTTO. Cloud SICURIX attiva H24 + sito aggiornato col ticker.
 pause
