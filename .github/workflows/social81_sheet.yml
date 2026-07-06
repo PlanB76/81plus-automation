@@ -1,0 +1,30 @@
+name: SOCIAL81+ · Palinsesto Sheet (H24)
+on:
+  schedule:
+    - cron: '10 * * * *'   # ogni ora al minuto 10
+  workflow_dispatch:
+    inputs:
+      hour:
+        description: "Ora IT da testare (0-23), vuoto = ora corrente"
+        required: false
+permissions:
+  contents: read
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - name: Pubblica post dell'ora (Sheet -> Telegram)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.BOT_PUBLISHER_TOKEN || secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHANNEL: ${{ vars.TG_CHANNEL }}
+          SOCIAL81_SHEET_ID: ${{ vars.SOCIAL81_SHEET_ID }}
+          TALES_BASE: ${{ vars.TALES_BASE }}
+        run: |
+          if [ -n "${{ github.event.inputs.hour }}" ]; then
+            python social81_sheet.py --hour ${{ github.event.inputs.hour }}
+          else
+            python social81_sheet.py
+          fi
