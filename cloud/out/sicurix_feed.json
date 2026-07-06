@@ -2,13 +2,6 @@
  "generato": "2026-07-06",
  "cards": [
   {
-   "titolo": "Quello che l'ispettore controlla per primo in Commercio (e quasi nessuno lo sa)",
-   "settore": "Commercio",
-   "cta_url": "https://81plus.net/?corso=haccp-corso-responsabile-industria-alimentare",
-   "cta": "Haccp - Corso responsabile industria alimentare",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
    "titolo": "Commercio: 3 minuti oggi o un problema enorme domani. Scegli tu.",
    "settore": "Commercio",
    "cta_url": "https://81plus.net/?corso=le-esecuzioni-civili-le-procedure-concorsuali-e-i-servizi-di",
@@ -167,6 +160,13 @@
    "settore": "Servizi alle imprese",
    "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
    "cta": "Corso lavoratore parte GENERALE 4 ore",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "PA: la verita su Addetto Primo Soccorso (in 30 secondi)",
+   "settore": "PA",
+   "cta_url": "https://81plus.net/?corso=corso-primo-soccorso-a-b-c",
+   "cta": "Corso Primo Soccorso (A-B-C)",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   }
  ]
