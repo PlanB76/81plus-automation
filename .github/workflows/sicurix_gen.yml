@@ -1,0 +1,79 @@
+name: SICURIX Gen + Render (100/giorno)
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # ogni giorno 04:00 UTC (~06:00 IT)
+  workflow_dispatch:
+    inputs:
+      n:
+        description: "Quante pagine/immagini al giorno"
+        default: "100"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  sicurix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Dipendenze
+        run: pip install pillow
+
+      - name: 1) Genera testo (image_prompt + titolo + corpo PNL + CTA + hashtag)
+        run: |
+          N="${{ github.event.inputs.n }}"; [ -z "$N" ] && N=100
+          python cloud/sicurix_gen_daily.py "$N"
+
+      - name: 2) Render immagini WEBP (OpenAI gpt-image-1)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "OPENAI_API_KEY non configurata: salto il render immagini (lo sheet testo e' comunque pronto)."
+          else
+            N="${{ github.event.inputs.n }}"; [ -z "$N" ] && N=100
+            python cloud/render_images.py "$N"
+          fi
+
+      - name: 2b) Feed ticker (cards scorrevoli per index.html)
+        run: python cloud/sicurix_feed.py 24
+
+      - name: 2c) Post completi su Telegram (fumetto + titolo + corpo + CTA + hashtag)
+        env:
+          SICURIX_TG_TOKEN: ${{ secrets.SICURIX_TG_TOKEN }}
+          SICURIX_TG_CHANNEL: ${{ secrets.SICURIX_TG_CHANNEL }}
+        run: |
+          if [ -z "$SICURIX_TG_TOKEN" ] || [ -z "$SICURIX_TG_CHANNEL" ]; then
+            echo "Token Telegram assenti: salto la pubblicazione."
+          else
+            python cloud/sicurix_telegram.py 5
+          fi
+
+      - name: 3) (opzionale) Upload WEBP su Google Drive via rclone
+        env:
+          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+        run: |
+          if [ -z "$RCLONE_CONF" ]; then
+            echo "RCLONE_CONF non configurata: salto upload Drive (le WEBP restano in cloud/out/img/)."
+          else
+            mkdir -p ~/.config/rclone && printf '%s' "$RCLONE_CONF" > ~/.config/rclone/rclone.conf
+            curl -s https://rclone.org/install.sh | sudo bash || true
+            rclone copy cloud/out/img "gdrive:SICURIX_TALES_WEBP" --drive-root-folder-id 1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc || echo "upload saltato"
+          fi
+
+      - name: 4) Commit sheet + immagini + stato
+        run: |
+          git config user.name  "sicurix-bot"
+          git config user.email "bot@81plus.net"
+          git add cloud/out/ cloud/data/sicurix_gen_state.json cloud/data/sicurix_tg_state.json
+          git commit -m "SICURIX gen+render: $(date +%F)" || echo "nulla da committare"
+          git push || echo "push saltato"

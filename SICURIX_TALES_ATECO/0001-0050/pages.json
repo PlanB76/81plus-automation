@@ -1,0 +1,2852 @@
+[
+ {
+  "pagina": "0001",
+  "codice_ateco": "01.11.00",
+  "descrizione_ateco": "Coltivazione di cereali, legumi da granella e semi oleosi, escluso il riso",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.1",
+  "classe": "01.11",
+  "categoria": "01.11.0",
+  "sottocategoria": "01.11.00",
+  "titolo_fumetto": "Coltivazione di cereali, legumi da granella  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di cereali, legumi da granella e semi oleosi, escluso il ",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di cereali, legumi da granella e semi oleosi, escluso il "
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di cereali, legumi da granella e semi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di cereali, legumi da granella e semi oleosi, escluso il . Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di cereali, legumi da granella e semi oleosi, escluso il . Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di cereali, legumi da granella e semi oleosi, escluso il : Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di cereali, legumi da granella e semi oleosi, e — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0001_011100_coltivazione_di_cereali_legumi_da_granel_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0002",
+  "codice_ateco": "01.12.00",
+  "descrizione_ateco": "Coltivazione di riso",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.1",
+  "classe": "01.12",
+  "categoria": "01.12.0",
+  "sottocategoria": "01.12.00",
+  "titolo_fumetto": "Coltivazione di riso — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di riso",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di riso"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di riso'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di riso. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di riso. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di riso: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di riso — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0002_011200_coltivazione_di_riso_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0003",
+  "codice_ateco": "01.13.11",
+  "descrizione_ateco": "Coltivazione di ortaggi e meloni in piena aria",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.1",
+  "classe": "01.13",
+  "categoria": "01.13.1",
+  "sottocategoria": "01.13.11",
+  "titolo_fumetto": "Coltivazione di ortaggi e meloni in piena ar — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di ortaggi e meloni in piena aria",
+  "cattivi": [
+   "Voltix",
+   "Fumix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di ortaggi e meloni in piena aria"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di ortaggi e meloni in piena aria'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di ortaggi e meloni in piena aria. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di ortaggi e meloni in piena aria. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di ortaggi e meloni in piena aria: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di ortaggi e meloni in piena aria — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0003_011311_coltivazione_di_ortaggi_e_meloni_in_pien_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0004",
+  "codice_ateco": "01.13.12",
+  "descrizione_ateco": "Coltivazione di ortaggi e meloni in colture protette fuori suolo",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.1",
+  "classe": "01.13",
+  "categoria": "01.13.1",
+  "sottocategoria": "01.13.12",
+  "titolo_fumetto": "Coltivazione di ortaggi e meloni in colture  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di ortaggi e meloni in colture protette fuori suolo",
+  "cattivi": [
+   "Fumix",
+   "Polverix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di ortaggi e meloni in colture protette fuori suolo"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di ortaggi e meloni in colture protet'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di ortaggi e meloni in colture protette fuori suolo. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Fumix, Polverix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di ortaggi e meloni in colture protette fuori suolo. Scena: 1) problema 2) entra Fumix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di ortaggi e meloni in colture protette fuori suolo: Fumix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di ortaggi e meloni in colture protette fuori s — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Fumix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0004_011312_coltivazione_di_ortaggi_e_meloni_in_colt_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0005",
+  "codice_ateco": "01.13.13",
+  "descrizione_ateco": "Coltivazione di ortaggi e meloni in altre colture protette, escluse colture fuori suolo",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.1",
+  "classe": "01.13",
+  "categoria": "01.13.1",
+  "sottocategoria": "01.13.13",
+  "titolo_fumetto": "Coltivazione di ortaggi e meloni in altre co — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di ortaggi e meloni in altre colture protette, escluse co",
+  "cattivi": [
+   "Polverix",
+   "Nondpix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di ortaggi e meloni in altre colture protette, escluse co"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di ortaggi e meloni in altre colture '. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di ortaggi e meloni in altre colture protette, escluse co. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di ortaggi e meloni in altre colture protette, escluse co. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di ortaggi e meloni in altre colture protette, escluse co: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di ortaggi e meloni in altre colture protette,  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0005_011313_coltivazione_di_ortaggi_e_meloni_in_altr_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0006",
+  "codice_ateco": "01.13.20",
+  "descrizione_ateco": "Coltivazione di radici, incluse barbabietole da zucchero",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.1",
+  "classe": "01.13",
+  "categoria": "01.13.2",
+  "sottocategoria": "01.13.20",
+  "titolo_fumetto": "Coltivazione di radici, incluse barbabietole — Pericolo vs Metodo81+",
+  "area": "HACCP",
+  "ambientazione": "Coltivazione di radici, incluse barbabietole da zucchero",
+  "cattivi": [
+   "Acquaix",
+   "Sporckix"
+  ],
+  "eroi": [
+   "Hygienix",
+   "Blinkix"
+  ],
+  "rischi": [
+   "Rischio HACCP prevalente per: Coltivazione di radici, incluse barbabietole da zucchero"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di radici, incluse barbabietole da zu'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di radici, incluse barbabietole da zucchero. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Acquaix, Sporckix, gli eroi Hygienix, Blinkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di radici, incluse barbabietole da zucchero. Scena: 1) problema 2) entra Acquaix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Hygienix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di radici, incluse barbabietole da zucchero: Acquaix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Hygienix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di radici, incluse barbabietole da zucchero — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Acquaix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #HACCP #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0006_011320_coltivazione_di_radici_incluse_barbabiet_HACCP_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0007",
+  "codice_ateco": "01.13.30",
+  "descrizione_ateco": "Coltivazione di tuberi, incluse patate",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.1",
+  "classe": "01.13",
+  "categoria": "01.13.3",
+  "sottocategoria": "01.13.30",
+  "titolo_fumetto": "Coltivazione di tuberi, incluse patate — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di tuberi, incluse patate",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di tuberi, incluse patate"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di tuberi, incluse patate'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di tuberi, incluse patate. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di tuberi, incluse patate. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di tuberi, incluse patate: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di tuberi, incluse patate — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0007_011330_coltivazione_di_tuberi_incluse_patate_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0008",
+  "codice_ateco": "01.14.00",
+  "descrizione_ateco": "Coltivazione di canna da zucchero",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.1",
+  "classe": "01.14",
+  "categoria": "01.14.0",
+  "sottocategoria": "01.14.00",
+  "titolo_fumetto": "Coltivazione di canna da zucchero — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di canna da zucchero",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di canna da zucchero"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di canna da zucchero'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di canna da zucchero. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di canna da zucchero. Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di canna da zucchero: Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di canna da zucchero — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0008_011400_coltivazione_di_canna_da_zucchero_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0009",
+  "codice_ateco": "01.15.00",
+  "descrizione_ateco": "Coltivazione di tabacco",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.1",
+  "classe": "01.15",
+  "categoria": "01.15.0",
+  "sottocategoria": "01.15.00",
+  "titolo_fumetto": "Coltivazione di tabacco — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di tabacco",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di tabacco"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di tabacco'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di tabacco. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di tabacco. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di tabacco: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di tabacco — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0009_011500_coltivazione_di_tabacco_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0010",
+  "codice_ateco": "01.16.00",
+  "descrizione_ateco": "Coltivazione di piante tessili",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.1",
+  "classe": "01.16",
+  "categoria": "01.16.0",
+  "sottocategoria": "01.16.00",
+  "titolo_fumetto": "Coltivazione di piante tessili — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di piante tessili",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di piante tessili"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di piante tessili'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di piante tessili. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di piante tessili. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di piante tessili: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di piante tessili — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0010_011600_coltivazione_di_piante_tessili_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0011",
+  "codice_ateco": "01.19.11",
+  "descrizione_ateco": "Coltivazione di fiori in piena aria",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.1",
+  "classe": "01.19",
+  "categoria": "01.19.1",
+  "sottocategoria": "01.19.11",
+  "titolo_fumetto": "Coltivazione di fiori in piena aria — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di fiori in piena aria",
+  "cattivi": [
+   "Caosix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di fiori in piena aria"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di fiori in piena aria'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di fiori in piena aria. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Caosix, Segnalex, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di fiori in piena aria. Scena: 1) problema 2) entra Caosix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di fiori in piena aria: Caosix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di fiori in piena aria — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Caosix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0011_011911_coltivazione_di_fiori_in_piena_aria_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0012",
+  "codice_ateco": "01.19.12",
+  "descrizione_ateco": "Coltivazione di fiori in colture protette fuori suolo",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.1",
+  "classe": "01.19",
+  "categoria": "01.19.1",
+  "sottocategoria": "01.19.12",
+  "titolo_fumetto": "Coltivazione di fiori in colture protette fu — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di fiori in colture protette fuori suolo",
+  "cattivi": [
+   "Segnalex",
+   "Riskix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di fiori in colture protette fuori suolo"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di fiori in colture protette fuori su'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di fiori in colture protette fuori suolo. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Riskix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di fiori in colture protette fuori suolo. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di fiori in colture protette fuori suolo: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di fiori in colture protette fuori suolo — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0012_011912_coltivazione_di_fiori_in_colture_protett_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0013",
+  "codice_ateco": "01.19.13",
+  "descrizione_ateco": "Coltivazione di fiori in altre colture protette, escluse colture fuori suolo",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.1",
+  "classe": "01.19",
+  "categoria": "01.19.1",
+  "sottocategoria": "01.19.13",
+  "titolo_fumetto": "Coltivazione di fiori in altre colture prote — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di fiori in altre colture protette, escluse colture fuori",
+  "cattivi": [
+   "Riskix",
+   "Cadutix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di fiori in altre colture protette, escluse colture fuori"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di fiori in altre colture protette, e'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di fiori in altre colture protette, escluse colture fuori. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Riskix, Cadutix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di fiori in altre colture protette, escluse colture fuori. Scena: 1) problema 2) entra Riskix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di fiori in altre colture protette, escluse colture fuori: Riskix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di fiori in altre colture protette, escluse col — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Riskix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0013_011913_coltivazione_di_fiori_in_altre_colture_p_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0014",
+  "codice_ateco": "01.19.90",
+  "descrizione_ateco": "Coltivazione di piante da foraggio e di altre colture agricole non permanenti n.c.a.",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.1",
+  "classe": "01.19",
+  "categoria": "01.19.9",
+  "sottocategoria": "01.19.90",
+  "titolo_fumetto": "Coltivazione di piante da foraggio e di altr — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di piante da foraggio e di altre colture agricole non per",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di piante da foraggio e di altre colture agricole non per"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di piante da foraggio e di altre colt'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di piante da foraggio e di altre colture agricole non per. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di piante da foraggio e di altre colture agricole non per. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di piante da foraggio e di altre colture agricole non per: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di piante da foraggio e di altre colture agrico — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0014_011990_coltivazione_di_piante_da_foraggio_e_di__SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0015",
+  "codice_ateco": "01.21.00",
+  "descrizione_ateco": "Coltivazione di uva",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.2",
+  "classe": "01.21",
+  "categoria": "01.21.0",
+  "sottocategoria": "01.21.00",
+  "titolo_fumetto": "Coltivazione di uva — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di uva",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di uva"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di uva'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di uva. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di uva. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di uva: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di uva — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0015_012100_coltivazione_di_uva_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0016",
+  "codice_ateco": "01.22.00",
+  "descrizione_ateco": "Coltivazione di frutta di origine tropicale e subtropicale",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.2",
+  "classe": "01.22",
+  "categoria": "01.22.0",
+  "sottocategoria": "01.22.00",
+  "titolo_fumetto": "Coltivazione di frutta di origine tropicale  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di frutta di origine tropicale e subtropicale",
+  "cattivi": [
+   "Voltix",
+   "Fumix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di frutta di origine tropicale e subtropicale"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di frutta di origine tropicale e subt'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di frutta di origine tropicale e subtropicale. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di frutta di origine tropicale e subtropicale. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di frutta di origine tropicale e subtropicale: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di frutta di origine tropicale e subtropicale — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0016_012200_coltivazione_di_frutta_di_origine_tropic_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0017",
+  "codice_ateco": "01.23.00",
+  "descrizione_ateco": "Coltivazione di agrumi",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.2",
+  "classe": "01.23",
+  "categoria": "01.23.0",
+  "sottocategoria": "01.23.00",
+  "titolo_fumetto": "Coltivazione di agrumi — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di agrumi",
+  "cattivi": [
+   "Fumix",
+   "Polverix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di agrumi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di agrumi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di agrumi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Fumix, Polverix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di agrumi. Scena: 1) problema 2) entra Fumix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di agrumi: Fumix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di agrumi — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Fumix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0017_012300_coltivazione_di_agrumi_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0018",
+  "codice_ateco": "01.24.00",
+  "descrizione_ateco": "Coltivazione di pomacee e frutta a nocciolo",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.2",
+  "classe": "01.24",
+  "categoria": "01.24.0",
+  "sottocategoria": "01.24.00",
+  "titolo_fumetto": "Coltivazione di pomacee e frutta a nocciolo — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di pomacee e frutta a nocciolo",
+  "cattivi": [
+   "Polverix",
+   "Nondpix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di pomacee e frutta a nocciolo"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di pomacee e frutta a nocciolo'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di pomacee e frutta a nocciolo. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di pomacee e frutta a nocciolo. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di pomacee e frutta a nocciolo: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di pomacee e frutta a nocciolo — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0018_012400_coltivazione_di_pomacee_e_frutta_a_nocci_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0019",
+  "codice_ateco": "01.25.00",
+  "descrizione_ateco": "Coltivazione di altri alberi da frutto, frutti di bosco e frutta in guscio",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.2",
+  "classe": "01.25",
+  "categoria": "01.25.0",
+  "sottocategoria": "01.25.00",
+  "titolo_fumetto": "Coltivazione di altri alberi da frutto, frut — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di altri alberi da frutto, frutti di bosco e frutta in gu",
+  "cattivi": [
+   "Nondpix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di altri alberi da frutto, frutti di bosco e frutta in gu"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di altri alberi da frutto, frutti di '. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di altri alberi da frutto, frutti di bosco e frutta in gu. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Nondpix, Segnalex, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di altri alberi da frutto, frutti di bosco e frutta in gu. Scena: 1) problema 2) entra Nondpix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di altri alberi da frutto, frutti di bosco e frutta in gu: Nondpix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di altri alberi da frutto, frutti di bosco e fr — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Nondpix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0019_012500_coltivazione_di_altri_alberi_da_frutto_f_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0020",
+  "codice_ateco": "01.26.00",
+  "descrizione_ateco": "Coltivazione di frutti oleosi",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.2",
+  "classe": "01.26",
+  "categoria": "01.26.0",
+  "sottocategoria": "01.26.00",
+  "titolo_fumetto": "Coltivazione di frutti oleosi — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di frutti oleosi",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di frutti oleosi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di frutti oleosi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di frutti oleosi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di frutti oleosi. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di frutti oleosi: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di frutti oleosi — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0020_012600_coltivazione_di_frutti_oleosi_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0021",
+  "codice_ateco": "01.27.00",
+  "descrizione_ateco": "Coltivazione di piante per la produzione di bevande",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.2",
+  "classe": "01.27",
+  "categoria": "01.27.0",
+  "sottocategoria": "01.27.00",
+  "titolo_fumetto": "Coltivazione di piante per la produzione di  — Pericolo vs Metodo81+",
+  "area": "HACCP",
+  "ambientazione": "Coltivazione di piante per la produzione di bevande",
+  "cattivi": [
+   "Sporckix",
+   "Crossix"
+  ],
+  "eroi": [
+   "Hygienix",
+   "Blinkix"
+  ],
+  "rischi": [
+   "Rischio HACCP prevalente per: Coltivazione di piante per la produzione di bevande"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di piante per la produzione di bevand'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di piante per la produzione di bevande. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sporckix, Crossix, gli eroi Hygienix, Blinkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di piante per la produzione di bevande. Scena: 1) problema 2) entra Sporckix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Hygienix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di piante per la produzione di bevande: Sporckix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Hygienix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di piante per la produzione di bevande — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sporckix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #HACCP #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0021_012700_coltivazione_di_piante_per_la_produzione_HACCP_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0022",
+  "codice_ateco": "01.28.00",
+  "descrizione_ateco": "Coltivazione di spezie, piante aromatiche e farmaceutiche",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.2",
+  "classe": "01.28",
+  "categoria": "01.28.0",
+  "sottocategoria": "01.28.00",
+  "titolo_fumetto": "Coltivazione di spezie, piante aromatiche e  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di spezie, piante aromatiche e farmaceutiche",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di spezie, piante aromatiche e farmaceutiche"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di spezie, piante aromatiche e farmac'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di spezie, piante aromatiche e farmaceutiche. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di spezie, piante aromatiche e farmaceutiche. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di spezie, piante aromatiche e farmaceutiche: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di spezie, piante aromatiche e farmaceutiche — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0022_012800_coltivazione_di_spezie_piante_aromatiche_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0023",
+  "codice_ateco": "01.29.00",
+  "descrizione_ateco": "Coltivazione di altre colture agricole permanenti",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.2",
+  "classe": "01.29",
+  "categoria": "01.29.0",
+  "sottocategoria": "01.29.00",
+  "titolo_fumetto": "Coltivazione di altre colture agricole perma — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazione di altre colture agricole permanenti",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazione di altre colture agricole permanenti"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazione di altre colture agricole permanenti'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazione di altre colture agricole permanenti. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazione di altre colture agricole permanenti. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazione di altre colture agricole permanenti: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazione di altre colture agricole permanenti — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0023_012900_coltivazione_di_altre_colture_agricole_p_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0024",
+  "codice_ateco": "01.30.00",
+  "descrizione_ateco": "Riproduzione delle piante",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.3",
+  "classe": "01.30",
+  "categoria": "01.30.0",
+  "sottocategoria": "01.30.00",
+  "titolo_fumetto": "Riproduzione delle piante — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Riproduzione delle piante",
+  "cattivi": [
+   "Caosix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Riproduzione delle piante"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Riproduzione delle piante'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Riproduzione delle piante. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Caosix, Segnalex, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Riproduzione delle piante. Scena: 1) problema 2) entra Caosix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Riproduzione delle piante: Caosix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Riproduzione delle piante — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Caosix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0024_013000_riproduzione_delle_piante_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0025",
+  "codice_ateco": "01.41.00",
+  "descrizione_ateco": "Allevamento di bovini da latte",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.4",
+  "classe": "01.41",
+  "categoria": "01.41.0",
+  "sottocategoria": "01.41.00",
+  "titolo_fumetto": "Allevamento di bovini da latte — Pericolo vs Metodo81+",
+  "area": "HACCP",
+  "ambientazione": "Allevamento di bovini da latte",
+  "cattivi": [
+   "Mescolix",
+   "Dosagix"
+  ],
+  "eroi": [
+   "Chefix",
+   "Traccix"
+  ],
+  "rischi": [
+   "Rischio HACCP prevalente per: Allevamento di bovini da latte"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Allevamento di bovini da latte'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Allevamento di bovini da latte. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Mescolix, Dosagix, gli eroi Chefix, Traccix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Allevamento di bovini da latte. Scena: 1) problema 2) entra Mescolix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Chefix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Allevamento di bovini da latte: Mescolix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Chefix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Allevamento di bovini da latte — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Mescolix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #HACCP #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0025_014100_allevamento_di_bovini_da_latte_HACCP_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0026",
+  "codice_ateco": "01.42.00",
+  "descrizione_ateco": "Allevamento di altri bovini e bufalini",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.4",
+  "classe": "01.42",
+  "categoria": "01.42.0",
+  "sottocategoria": "01.42.00",
+  "titolo_fumetto": "Allevamento di altri bovini e bufalini — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Allevamento di altri bovini e bufalini",
+  "cattivi": [
+   "Riskix",
+   "Cadutix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Allevamento di altri bovini e bufalini"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Allevamento di altri bovini e bufalini'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Allevamento di altri bovini e bufalini. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Riskix, Cadutix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Allevamento di altri bovini e bufalini. Scena: 1) problema 2) entra Riskix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Allevamento di altri bovini e bufalini: Riskix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Allevamento di altri bovini e bufalini — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Riskix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0026_014200_allevamento_di_altri_bovini_e_bufalini_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0027",
+  "codice_ateco": "01.43.00",
+  "descrizione_ateco": "Allevamento di cavalli e altri equini",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.4",
+  "classe": "01.43",
+  "categoria": "01.43.0",
+  "sottocategoria": "01.43.00",
+  "titolo_fumetto": "Allevamento di cavalli e altri equini — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Allevamento di cavalli e altri equini",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Allevamento di cavalli e altri equini"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Allevamento di cavalli e altri equini'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Allevamento di cavalli e altri equini. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Allevamento di cavalli e altri equini. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Allevamento di cavalli e altri equini: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Allevamento di cavalli e altri equini — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0027_014300_allevamento_di_cavalli_e_altri_equini_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0028",
+  "codice_ateco": "01.44.00",
+  "descrizione_ateco": "Allevamento di cammelli e camelidi",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.4",
+  "classe": "01.44",
+  "categoria": "01.44.0",
+  "sottocategoria": "01.44.00",
+  "titolo_fumetto": "Allevamento di cammelli e camelidi — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Allevamento di cammelli e camelidi",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Allevamento di cammelli e camelidi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Allevamento di cammelli e camelidi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Allevamento di cammelli e camelidi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Allevamento di cammelli e camelidi. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Allevamento di cammelli e camelidi: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Allevamento di cammelli e camelidi — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0028_014400_allevamento_di_cammelli_e_camelidi_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0029",
+  "codice_ateco": "01.45.00",
+  "descrizione_ateco": "Allevamento di ovini e caprini",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.4",
+  "classe": "01.45",
+  "categoria": "01.45.0",
+  "sottocategoria": "01.45.00",
+  "titolo_fumetto": "Allevamento di ovini e caprini — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Allevamento di ovini e caprini",
+  "cattivi": [
+   "Voltix",
+   "Fumix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Allevamento di ovini e caprini"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Allevamento di ovini e caprini'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Allevamento di ovini e caprini. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Allevamento di ovini e caprini. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Allevamento di ovini e caprini: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Allevamento di ovini e caprini — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0029_014500_allevamento_di_ovini_e_caprini_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0030",
+  "codice_ateco": "01.46.00",
+  "descrizione_ateco": "Allevamento di suini",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.4",
+  "classe": "01.46",
+  "categoria": "01.46.0",
+  "sottocategoria": "01.46.00",
+  "titolo_fumetto": "Allevamento di suini — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Allevamento di suini",
+  "cattivi": [
+   "Fumix",
+   "Polverix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Allevamento di suini"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Allevamento di suini'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Allevamento di suini. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Fumix, Polverix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Allevamento di suini. Scena: 1) problema 2) entra Fumix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Allevamento di suini: Fumix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Allevamento di suini — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Fumix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0030_014600_allevamento_di_suini_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0031",
+  "codice_ateco": "01.47.00",
+  "descrizione_ateco": "Allevamento di pollame",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.4",
+  "classe": "01.47",
+  "categoria": "01.47.0",
+  "sottocategoria": "01.47.00",
+  "titolo_fumetto": "Allevamento di pollame — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Allevamento di pollame",
+  "cattivi": [
+   "Polverix",
+   "Nondpix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Allevamento di pollame"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Allevamento di pollame'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Allevamento di pollame. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Allevamento di pollame. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Allevamento di pollame: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Allevamento di pollame — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0031_014700_allevamento_di_pollame_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0032",
+  "codice_ateco": "01.48.10",
+  "descrizione_ateco": "Allevamento di conigli",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.4",
+  "classe": "01.48",
+  "categoria": "01.48.1",
+  "sottocategoria": "01.48.10",
+  "titolo_fumetto": "Allevamento di conigli — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Allevamento di conigli",
+  "cattivi": [
+   "Nondpix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Allevamento di conigli"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Allevamento di conigli'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Allevamento di conigli. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Nondpix, Segnalex, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Allevamento di conigli. Scena: 1) problema 2) entra Nondpix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Allevamento di conigli: Nondpix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Allevamento di conigli — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Nondpix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0032_014810_allevamento_di_conigli_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0033",
+  "codice_ateco": "01.48.20",
+  "descrizione_ateco": "Allevamento di altri animali da pelliccia",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.4",
+  "classe": "01.48",
+  "categoria": "01.48.2",
+  "sottocategoria": "01.48.20",
+  "titolo_fumetto": "Allevamento di altri animali da pelliccia — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Allevamento di altri animali da pelliccia",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Allevamento di altri animali da pelliccia"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Allevamento di altri animali da pelliccia'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Allevamento di altri animali da pelliccia. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Allevamento di altri animali da pelliccia. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Allevamento di altri animali da pelliccia: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Allevamento di altri animali da pelliccia — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0033_014820_allevamento_di_altri_animali_da_pellicci_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0034",
+  "codice_ateco": "01.48.30",
+  "descrizione_ateco": "Apicoltura",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.4",
+  "classe": "01.48",
+  "categoria": "01.48.3",
+  "sottocategoria": "01.48.30",
+  "titolo_fumetto": "Apicoltura — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Apicoltura",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Apicoltura"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Apicoltura'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Apicoltura. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Apicoltura. Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Apicoltura: Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Apicoltura — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0034_014830_apicoltura_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0035",
+  "codice_ateco": "01.48.40",
+  "descrizione_ateco": "Bachicoltura",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.4",
+  "classe": "01.48",
+  "categoria": "01.48.4",
+  "sottocategoria": "01.48.40",
+  "titolo_fumetto": "Bachicoltura — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Bachicoltura",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Bachicoltura"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Bachicoltura'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Bachicoltura. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Bachicoltura. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Bachicoltura: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Bachicoltura — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0035_014840_bachicoltura_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0036",
+  "codice_ateco": "01.48.91",
+  "descrizione_ateco": "Allevamento di insetti",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.4",
+  "classe": "01.48",
+  "categoria": "01.48.9",
+  "sottocategoria": "01.48.91",
+  "titolo_fumetto": "Allevamento di insetti — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Allevamento di insetti",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Allevamento di insetti"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Allevamento di insetti'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Allevamento di insetti. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Allevamento di insetti. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Allevamento di insetti: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Allevamento di insetti — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0036_014891_allevamento_di_insetti_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0037",
+  "codice_ateco": "01.48.99",
+  "descrizione_ateco": "Allevamento di altri animali vari n.c.a.",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.4",
+  "classe": "01.48",
+  "categoria": "01.48.9",
+  "sottocategoria": "01.48.99",
+  "titolo_fumetto": "Allevamento di altri animali vari n.c.a. — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Allevamento di altri animali vari n.c.a.",
+  "cattivi": [
+   "Caosix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Allevamento di altri animali vari n.c.a."
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Allevamento di altri animali vari n.c.a.'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Allevamento di altri animali vari n.c.a.. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Caosix, Segnalex, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Allevamento di altri animali vari n.c.a.. Scena: 1) problema 2) entra Caosix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Allevamento di altri animali vari n.c.a.: Caosix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Allevamento di altri animali vari n.c.a. — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Caosix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0037_014899_allevamento_di_altri_animali_vari_n_c_a_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0038",
+  "codice_ateco": "01.50.00",
+  "descrizione_ateco": "Coltivazioni agricole associate all'allevamento di animali: attività mista",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.5",
+  "classe": "01.50",
+  "categoria": "01.50.0",
+  "sottocategoria": "01.50.00",
+  "titolo_fumetto": "Coltivazioni agricole associate all'allevame — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Coltivazioni agricole associate all'allevamento di animali: attività m",
+  "cattivi": [
+   "Segnalex",
+   "Riskix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Coltivazioni agricole associate all'allevamento di animali: attività m"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Coltivazioni agricole associate all'allevamento di'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Coltivazioni agricole associate all'allevamento di animali: attività m. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Riskix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Coltivazioni agricole associate all'allevamento di animali: attività m. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Coltivazioni agricole associate all'allevamento di animali: attività m: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Coltivazioni agricole associate all'allevamento di animali:  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0038_015000_coltivazioni_agricole_associate_all_alle_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0039",
+  "codice_ateco": "01.61.10",
+  "descrizione_ateco": "Manutenzione del terreno per mantenerlo in buone condizioni",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.6",
+  "classe": "01.61",
+  "categoria": "01.61.1",
+  "sottocategoria": "01.61.10",
+  "titolo_fumetto": "Manutenzione del terreno per mantenerlo in b — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Manutenzione del terreno per mantenerlo in buone condizioni",
+  "cattivi": [
+   "Riskix",
+   "Cadutix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Manutenzione del terreno per mantenerlo in buone condizioni"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Manutenzione del terreno per mantenerlo in buone c'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Manutenzione del terreno per mantenerlo in buone condizioni. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Riskix, Cadutix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Manutenzione del terreno per mantenerlo in buone condizioni. Scena: 1) problema 2) entra Riskix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Manutenzione del terreno per mantenerlo in buone condizioni: Riskix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Manutenzione del terreno per mantenerlo in buone condizioni — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Riskix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0039_016110_manutenzione_del_terreno_per_mantenerlo__SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0040",
+  "codice_ateco": "01.61.91",
+  "descrizione_ateco": "Trattamenti fitosanitari",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.6",
+  "classe": "01.61",
+  "categoria": "01.61.9",
+  "sottocategoria": "01.61.91",
+  "titolo_fumetto": "Trattamenti fitosanitari — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Trattamenti fitosanitari",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Trattamenti fitosanitari"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Trattamenti fitosanitari'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Trattamenti fitosanitari. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Trattamenti fitosanitari. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Trattamenti fitosanitari: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Trattamenti fitosanitari — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0040_016191_trattamenti_fitosanitari_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0041",
+  "codice_ateco": "01.61.99",
+  "descrizione_ateco": "Altre attività di supporto alla produzione vegetale n.c.a.",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.6",
+  "classe": "01.61",
+  "categoria": "01.61.9",
+  "sottocategoria": "01.61.99",
+  "titolo_fumetto": "Altre attività di supporto alla produzione v — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Altre attività di supporto alla produzione vegetale n.c.a.",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Altre attività di supporto alla produzione vegetale n.c.a."
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Altre attività di supporto alla produzione vegetal'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Altre attività di supporto alla produzione vegetale n.c.a.. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Altre attività di supporto alla produzione vegetale n.c.a.. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Altre attività di supporto alla produzione vegetale n.c.a.: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Altre attività di supporto alla produzione vegetale n.c.a. — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0041_016199_altre_attivit_di_supporto_alla_produzion_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0042",
+  "codice_ateco": "01.62.01",
+  "descrizione_ateco": "Attività di maniscalchi",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.6",
+  "classe": "01.62",
+  "categoria": "01.62.0",
+  "sottocategoria": "01.62.01",
+  "titolo_fumetto": "Attività di maniscalchi — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Attività di maniscalchi",
+  "cattivi": [
+   "Voltix",
+   "Fumix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Attività di maniscalchi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di maniscalchi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di maniscalchi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di maniscalchi. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di maniscalchi: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di maniscalchi — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0042_016201_attivit_di_maniscalchi_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0043",
+  "codice_ateco": "01.62.09",
+  "descrizione_ateco": "Altre attività di supporto alla produzione animale",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.6",
+  "classe": "01.62",
+  "categoria": "01.62.0",
+  "sottocategoria": "01.62.09",
+  "titolo_fumetto": "Altre attività di supporto alla produzione a — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Altre attività di supporto alla produzione animale",
+  "cattivi": [
+   "Fumix",
+   "Polverix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Altre attività di supporto alla produzione animale"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Altre attività di supporto alla produzione animale'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Altre attività di supporto alla produzione animale. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Fumix, Polverix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Altre attività di supporto alla produzione animale. Scena: 1) problema 2) entra Fumix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Altre attività di supporto alla produzione animale: Fumix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Altre attività di supporto alla produzione animale — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Fumix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0043_016209_altre_attivit_di_supporto_alla_produzion_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0044",
+  "codice_ateco": "01.63.10",
+  "descrizione_ateco": "Attività successive alla raccolta",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.6",
+  "classe": "01.63",
+  "categoria": "01.63.1",
+  "sottocategoria": "01.63.10",
+  "titolo_fumetto": "Attività successive alla raccolta — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Attività successive alla raccolta",
+  "cattivi": [
+   "Polverix",
+   "Nondpix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Attività successive alla raccolta"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività successive alla raccolta'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività successive alla raccolta. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività successive alla raccolta. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività successive alla raccolta: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività successive alla raccolta — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0044_016310_attivit_successive_alla_raccolta_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0045",
+  "codice_ateco": "01.63.20",
+  "descrizione_ateco": "Lavorazione delle sementi per la semina",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.6",
+  "classe": "01.63",
+  "categoria": "01.63.2",
+  "sottocategoria": "01.63.20",
+  "titolo_fumetto": "Lavorazione delle sementi per la semina — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Lavorazione delle sementi per la semina",
+  "cattivi": [
+   "Nondpix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Lavorazione delle sementi per la semina"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Lavorazione delle sementi per la semina'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Lavorazione delle sementi per la semina. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Nondpix, Segnalex, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Lavorazione delle sementi per la semina. Scena: 1) problema 2) entra Nondpix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Lavorazione delle sementi per la semina: Nondpix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Lavorazione delle sementi per la semina — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Nondpix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0045_016320_lavorazione_delle_sementi_per_la_semina_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0046",
+  "codice_ateco": "01.70.00",
+  "descrizione_ateco": "Caccia, cattura di animali e servizi connessi",
+  "sezione": "A Agricoltura",
+  "divisione": "01",
+  "gruppo": "01.7",
+  "classe": "01.70",
+  "categoria": "01.70.0",
+  "sottocategoria": "01.70.00",
+  "titolo_fumetto": "Caccia, cattura di animali e servizi conness — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Caccia, cattura di animali e servizi connessi",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Caccia, cattura di animali e servizi connessi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Caccia, cattura di animali e servizi connessi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Caccia, cattura di animali e servizi connessi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Caccia, cattura di animali e servizi connessi. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Caccia, cattura di animali e servizi connessi: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Caccia, cattura di animali e servizi connessi — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0046_017000_caccia_cattura_di_animali_e_servizi_conn_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0047",
+  "codice_ateco": "02.10.00",
+  "descrizione_ateco": "Silvicoltura e altre attività forestali",
+  "sezione": "A Agricoltura",
+  "divisione": "02",
+  "gruppo": "02.1",
+  "classe": "02.10",
+  "categoria": "02.10.0",
+  "sottocategoria": "02.10.00",
+  "titolo_fumetto": "Silvicoltura e altre attività forestali — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Silvicoltura e altre attività forestali",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Silvicoltura e altre attività forestali"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Silvicoltura e altre attività forestali'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Silvicoltura e altre attività forestali. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Silvicoltura e altre attività forestali. Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Silvicoltura e altre attività forestali: Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Silvicoltura e altre attività forestali — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0047_021000_silvicoltura_e_altre_attivit_forestali_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0048",
+  "codice_ateco": "02.20.00",
+  "descrizione_ateco": "Utilizzo di aree forestali",
+  "sezione": "A Agricoltura",
+  "divisione": "02",
+  "gruppo": "02.2",
+  "classe": "02.20",
+  "categoria": "02.20.0",
+  "sottocategoria": "02.20.00",
+  "titolo_fumetto": "Utilizzo di aree forestali — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Utilizzo di aree forestali",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Utilizzo di aree forestali"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Utilizzo di aree forestali'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Utilizzo di aree forestali. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Utilizzo di aree forestali. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Utilizzo di aree forestali: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Utilizzo di aree forestali — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0048_022000_utilizzo_di_aree_forestali_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0049",
+  "codice_ateco": "02.30.00",
+  "descrizione_ateco": "Raccolta di prodotti selvatici non legnosi",
+  "sezione": "A Agricoltura",
+  "divisione": "02",
+  "gruppo": "02.3",
+  "classe": "02.30",
+  "categoria": "02.30.0",
+  "sottocategoria": "02.30.00",
+  "titolo_fumetto": "Raccolta di prodotti selvatici non legnosi — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Raccolta di prodotti selvatici non legnosi",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Raccolta di prodotti selvatici non legnosi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Raccolta di prodotti selvatici non legnosi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Raccolta di prodotti selvatici non legnosi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Raccolta di prodotti selvatici non legnosi. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Raccolta di prodotti selvatici non legnosi: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Raccolta di prodotti selvatici non legnosi — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0049_023000_raccolta_di_prodotti_selvatici_non_legno_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0050",
+  "codice_ateco": "02.40.00",
+  "descrizione_ateco": "Servizi di supporto per la silvicoltura",
+  "sezione": "A Agricoltura",
+  "divisione": "02",
+  "gruppo": "02.4",
+  "classe": "02.40",
+  "categoria": "02.40.0",
+  "sottocategoria": "02.40.00",
+  "titolo_fumetto": "Servizi di supporto per la silvicoltura — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Servizi di supporto per la silvicoltura",
+  "cattivi": [
+   "Caosix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Servizi di supporto per la silvicoltura"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Servizi di supporto per la silvicoltura'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Servizi di supporto per la silvicoltura. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Caosix, Segnalex, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Servizi di supporto per la silvicoltura. Scena: 1) problema 2) entra Caosix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Servizi di supporto per la silvicoltura: Caosix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Servizi di supporto per la silvicoltura — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Caosix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo81 #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0050_024000_servizi_di_supporto_per_la_silvicoltura_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0001-0050/",
+  "stato": "DA_GENERARE"
+ }
+]

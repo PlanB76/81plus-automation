@@ -1,8 +1,7 @@
-name: YTCASHCOW81+ Global (riciclo YT + SOCIAL81+)
+name: YTCASHCOW81+ v2 · @sicurissimo H24 (3 shorts + 3 post + 3 riciclo)
 on:
   schedule:
-    - cron: '30 12 * * *'   # 14:30 IT — riciclo video vecchi (batch 1)
-    - cron: '30 16 * * *'   # 18:30 IT — riciclo video vecchi (batch 2) + social
+    - cron: '30 5 * * *'   # 07:30 IT — genera i 3 shorts + posta 3 vignette Tales + ricicla 3 vecchi video (titolo+desc+tag+thumbnail WOW)
   workflow_dispatch: {}
 permissions:
   contents: write
@@ -14,17 +13,17 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: '3.11' }
       - run: pip install --quiet google-api-python-client google-auth google-auth-oauthlib pillow
-      - name: YTCASHCOW81+ (riciclo + TG) + SOCIAL81+ pack
+      - name: YTCASHCOW81+ v2
         env:
           YOUTUBE_TOKEN_JSON: ${{ secrets.YOUTUBE_TOKEN_JSON }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-        run: |
-          python cloud/ytcashcow81.py
-          python cloud/social81_pack.py
+          TG_CHANNEL: ${{ vars.TG_CHANNEL }}
+          YT_CHANNEL_ID: ${{ vars.YT_CHANNEL_ID }}
+        run: python cloud/ytcashcow_daily.py
       - name: Commit report
         run: |
           git config user.name "ytcashcow-bot"; git config user.email "bot@81plus.net"
-          git add YTCASHCOW_REPORT.md SOCIAL81_OGGI.md cloud_state/ytcashcow_state.json || true
-          git commit -m "YTCASHCOW81+ $(date +%F)" || echo "nulla"
+          git add YTCASHCOW_OGGI.md YTCASHCOW_REPORT.json cloud_state/ytcashcow_v2_state.json cloud_state/th_*.jpg 2>/dev/null || true
+          git commit -m "YTCASHCOW v2 $(date +%F)" || echo "nulla"
           git push || echo "push skip"

@@ -1,0 +1,26 @@
+name: TALES OF SICURIX · ATECO (50 brief/giorno · 1290 pagine)
+on:
+  schedule:
+    - cron: '0 4 * * *'   # 06:00 IT ogni giorno: genera il blocco da 50 successivo
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  gen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - name: Genera 50 brief ATECO (progressivo, stato in INDEX)
+        env:
+          SICU_DIR: ${{ github.workspace }}
+          ATECO_JSON: ${{ github.workspace }}/cloud/data/ateco81_master.json
+        run: python cloud/sicurix_tales_ateco.py
+      - name: Commit blocco
+        run: |
+          git config user.name "tales-ateco-bot"; git config user.email "bot@81plus.net"
+          git add SICURIX_TALES_ATECO || true
+          git commit -m "TALES ATECO blocco $(date +%F)" || echo "nulla"
+          git pull --no-rebase --no-edit origin main >/dev/null 2>&1 || true
+          git push || echo "push skip"

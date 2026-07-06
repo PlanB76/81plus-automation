@@ -65,3 +65,21 @@ if __name__=="__main__":
     for demo in ["Microclima negli ambienti di lavoro","HACCP nel bar: le temperature","Carrello elevatore in magazzino"]:
         print("TITOLO:",clickbait(demo))
         print(magnetic_desc(demo,prods,"@sicurissimo","Attrezzature")[:600]); print("\n"+"="*60)
+
+KW_BASE={"Sicurezza":["sicurezza sul lavoro","dvr","dpi","81/08","prevenzione","rspp","preposto","antincendio","formazione sicurezza"],
+ "HACCP":["haccp","igiene alimentare","allergeni","temperature","autocontrollo","sanificazione","manuale haccp","ristorazione"],
+ "Privacy":["privacy","gdpr","protezione dati","cyber security","password","data breach","dpo","informativa privacy"]}
+def keywords(title,theme="Sicurezza",product=""):
+    import re
+    base=KW_BASE.get(theme,KW_BASE["Sicurezza"])[:]
+    words=[w for w in re.findall(r"[a-zà-ù]{4,}", (title+" "+product).lower())]
+    seen=[]; 
+    for k in base+words+["sicurissimo81","81plus","metodo81","sicurix","corso online","tutorial","spiegazione semplice"]:
+        if k not in seen: seen.append(k)
+    return seen[:18]
+def viral_title(name,theme,i=0):
+    n=clean_topic(name); import re
+    kw={"Sicurezza":"Sicurezza sul lavoro","HACCP":"HACCP","Privacy":"Privacy GDPR"}.get(theme,"")
+    P=[f"{kw}: {n} (l'errore che quasi tutti fanno)",f"{n} — {kw} spiegato in 60 secondi",
+       f"{n}: 3 cose da sistemare SUBITO | {kw}",f"{kw} · {n}: sei davvero in regola?"]
+    return guard(P[i%len(P)])[:95]

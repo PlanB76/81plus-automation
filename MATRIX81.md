@@ -67,3 +67,17 @@
 - Già attivi: youtube_evergreen.yml, youtube81_20_daily.yml, omnipresence.yml (TG+YT H24).
 ## MATRIX storage (46GB): il .md è ~6KB → va su GitHub; i 46GB sono MEDIA → restano su Google Drive (mai su GitHub, limite 100MB/file). Vedi `MATRIX_STORAGE_PLAN.md`.
 ## GATE (azione owner): incollare Secrets su GitHub (TELEGRAM_BOT_TOKEN, YOUTUBE_API_KEY, YOUTUBE_TOKEN_JSON) + Variables (TG_CHANNEL, YT_CHANNEL_ID) → Actions Run. Email marketing GHL a 19k user81+ = NON lanciata in autonomia (alto rischio, serve go esplicito + piattaforma connessa + compliance).
+ta); doc UNIFICAZIONE + serve scelta UI owner. (3) social81.py doppione archiviato, canonico=social81_pack.py (repo).
+- [2026-07-05 18:48] battito organismo (leggero) 2026-07-05 18:48:28
+- [2026-07-05 19:48] battito organismo (leggero) 2026-07-05 19:48:28
+- [2026-07-05 20:48] battito organismo (leggero) 2026-07-05 20:48:28
+- [2026-07-05 21:48] battito organismo (leggero) 2026-07-05 21:48:28
+- [2026-07-06 07:41] battito organismo (leggero) 2026-07-06 07:41:50
+- [2026-07-06 10:41] battito organismo (leggero) 2026-07-06 10:41:53
+- [2026-07-06 11:48] battito organismo (leggero) 2026-07-06 11:48:17
+
+
+## SOCIAL81+ CONNETTORI + STATO ATTIVAZIONE — 2026-07-06
+- SOCIAL81+ multi-piattaforma PRONTO: cloud/social_connectors.py (FB Graph, IG v20, TikTok Content Posting, LinkedIn ugcPosts). Token SOLO da env; se assente skip pulito. Agganciato a social81_pack.py -> ogni post giornaliero tenta FB/IG/TT/LinkedIn + TG(live), scrive SOCIAL81_POST_REPORT.json. 6 placeholder in 81plus_secrets.env.TEMPLATE.
+- SFERA+GAMIFICATION = un solo progetto GAMIFICATION81+ (pannello gamification81_dashboard.php; Sfera deprecata). Ticker+header ok in index.html. PV/PV+ PayPal: order_settle via webhook server-side + PAYGATE81_SECRET -> pvplus_ledger (codice ok; collaudo live = owner).
+- UNICO BLOCCO ATTIVAZIONE = git push: tutto il nuovo codice e' LOCALE. Owner: SYNC_GITHUB.bat (push) + incolla token in 81plus_secrets.env -> ACCENDI_SICURIX.bat (carica secret via gh CLI). Flussi email = altra chat.

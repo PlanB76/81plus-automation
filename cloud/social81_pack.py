@@ -15,4 +15,11 @@ for r in items:
         f"**TikTok:** {r['titolo']} #{r['theme']} — 81plus.net/?src=tt",
         f"**Facebook:** {base}",f"**LinkedIn:** {r['titolo']} — Metodo81+. {r['cta_label']}: {r['cta_url']}",
         f"**Telegram:** 🟧 {base}\n{r['hashtag']}","---"]
-out.write_text("\n".join(L),encoding="utf-8"); print(f"SOCIAL81_OGGI giorno {day}: {len(items)} x 6 piattaforme")
+out.write_text("\n".join(L),encoding="utf-8")
+import social_connectors as SC
+posted=[]
+for r in items:
+    cap=f"{r['titolo']}\n\U0001F449 {r['cta_url']}\n\U0001F449 81plus.net\n{r['hashtag']}"
+    posted.append({"tema":r["theme"],"post":SC.post_all(cap,image_url="",video_url="")})
+json.dump(posted,open(HERE.parent/"SOCIAL81_POST_REPORT.json","w",encoding="utf-8"),ensure_ascii=False,indent=1)
+print(f"SOCIAL81_OGGI giorno {day}: {len(items)} x 6 piattaforme + tentativo post FB/IG/TT/LinkedIn (skip se token assenti)")
