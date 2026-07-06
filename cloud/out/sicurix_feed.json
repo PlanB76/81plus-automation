@@ -2,13 +2,6 @@
  "generato": "2026-07-06",
  "cards": [
   {
-   "titolo": "Commercio: 3 minuti oggi o un problema enorme domani. Scegli tu.",
-   "settore": "Commercio",
-   "cta_url": "https://81plus.net/?corso=le-esecuzioni-civili-le-procedure-concorsuali-e-i-servizi-di",
-   "cta": "Le esecuzioni civili, le procedure concorsuali e i servizi di cancelleria",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
    "titolo": "In Agricoltura non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
    "settore": "Agricoltura",
    "cta_url": "https://81plus.net/?corso=corso-per-preposto",
@@ -165,6 +158,13 @@
   {
    "titolo": "PA: la verita su Addetto Primo Soccorso (in 30 secondi)",
    "settore": "PA",
+   "cta_url": "https://81plus.net/?corso=corso-primo-soccorso-a-b-c",
+   "cta": "Corso Primo Soccorso (A-B-C)",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Commercio: la verita su Addetto Primo Soccorso (in 30 secondi)",
+   "settore": "Commercio",
    "cta_url": "https://81plus.net/?corso=corso-primo-soccorso-a-b-c",
    "cta": "Corso Primo Soccorso (A-B-C)",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
