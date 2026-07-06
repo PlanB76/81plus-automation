@@ -151,7 +151,7 @@ def seo_desc(title, doy):
 # ---------- azioni ----------
 def env(name, default=None):
     v = os.getenv(name)
-    if v: return v
+    if v: return v.strip()
     p = "api/.env"
     if os.path.isfile(p):
         for line in open(p, encoding="utf-8"):

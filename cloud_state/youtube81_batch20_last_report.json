@@ -1,147 +1,141 @@
 {
-  "date": "2026-07-01T09:49:22.832893",
+  "date": "2026-07-04T09:06:06.592379",
   "requested": 20,
-  "ok": 20,
+  "ok": 17,
   "results": [
     {
-      "video_id": "pMaehIQ7Fr0",
-      "old_title": "AVVELENATO IN UN RESPIRO? ☣️ La verità shock sulle sostanze che usi ogni giorno",
-      "new_title": "AVVELENATO IN UN RESPIRO? ☣️ La verità shock sulle: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=pMaehIQ7Fr0&alt=json&uploadType=media"
+      "video_id": "mRWa2ORK2Co",
+      "status": "ERROR",
+      "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
     },
     {
-      "video_id": "YlmI5qiLXzw",
-      "old_title": "DPI FALLITI? 🛑 La verità shock sulla tua ultima linea di difesa",
-      "new_title": "DPI FALLITI? 🛑 La verità shock sulla tua ultima: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=YlmI5qiLXzw&alt=json&uploadType=media"
+      "video_id": "xrsjyRUQDeQ",
+      "status": "ERROR",
+      "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
     },
     {
-      "video_id": "saUbsEvKIyU",
-      "old_title": "Come farti ascoltare dai dipendenti senza urlare.",
-      "new_title": "Come farti ascoltare dai dipendenti senza urlare.: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "-_suaWIsk5c",
+      "old_title": "🚨 NON HAI L’HACCP? Ecco Come Evitare Multe e: cosa controllare davvero - SICURISSIMO81+",
+      "new_title": "🚨 NON HAI L’HACCP? Ecco Come Evitare Multe e: cosa: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=saUbsEvKIyU&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=-_suaWIsk5c&alt=json&uploadType=media"
     },
     {
-      "video_id": "xj_scRUEweA",
-      "old_title": "FOLGORATO IN 2 SECONDI ⚡ La verità shock che sui tuoi impianti in cantiere.",
-      "new_title": "FOLGORATO IN 2 SECONDI ⚡ La verità shock che sui: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "0E1DDnB9e54",
+      "old_title": "🔥 HACCP OBBLIGATORIO? Scopri il Metodo SICURISSIMO: cosa controllare davvero - SICURISSIMO81+",
+      "new_title": "🔥 HACCP OBBLIGATORIO? Scopri il Metodo SICURISSIMO:: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=xj_scRUEweA&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=0E1DDnB9e54&alt=json&uploadType=media"
     },
     {
-      "video_id": "tgOKC-DmubQ",
-      "old_title": "La trappola del medico competente che non visita.",
-      "new_title": "La trappola del medico competente che non visita.: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "FdpsXkLw0rg",
+      "old_title": "IPOACUSIA... sai cosa è?leggi la descrizione: cosa controllare davvero - SICURISSIMO81+",
+      "new_title": "IPOACUSIA... sai cosa è?leggi la descrizione: cosa: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=tgOKC-DmubQ&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=FdpsXkLw0rg&alt=json&uploadType=media"
     },
     {
-      "video_id": "xENJbJxCyi4",
-      "old_title": "Perché il fornitore esterno è il tuo rischio più grande?",
-      "new_title": "Perché il fornitore esterno è il tuo rischio più: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "vgwxkrFp-Yw",
+      "old_title": "Iscriviti qui: cosa controllare davvero - SICURISSIMO81+",
+      "new_title": "Iscriviti qui: cosa controllare davvero: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=xENJbJxCyi4&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=vgwxkrFp-Yw&alt=json&uploadType=media"
     },
     {
-      "video_id": "Kk1SSR6rIQs",
-      "old_title": "TRITURATO IN 2 SECONDI? ⚙️ La verità brutale sul Rischio Meccanico",
-      "new_title": "TRITURATO IN 2 SECONDI? ⚙️ La verità brutale sul: cosa controllare davvero - SICURISSIMO81+",
-      "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=Kk1SSR6rIQs&alt=json&uploadType=media"
+      "video_id": "37AwugXJQDY",
+      "status": "ERROR",
+      "note": "<HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet&alt=json returned \"Precondition check failed.\". Details: \"[{'domain': 'youtube.api.v3.VideoUpdateResponse.Error', 'reason': 'UPDATE_TITLE_NOT_ALLOWED_DURING_TEST_AND_COMPARE'}]\">"
     },
     {
-      "video_id": "BeoPtBXwU_I",
-      "old_title": "Luoghi di Lavoro? Ecco perché l'ispettore ti chiuderà l'azienda.",
-      "new_title": "Luoghi di Lavoro? Ecco perché l'ispettore ti: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "HxisLGvzcYM",
+      "old_title": "non cosa fai...ma chi sei? #sicurezzasullavoro #sicurissimo #prevenzione",
+      "new_title": "non cosa fai...ma chi sei? #sicurezzasullavoro: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=BeoPtBXwU_I&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=HxisLGvzcYM&alt=json&uploadType=media"
     },
     {
-      "video_id": "_23UT_Aal8Q",
-      "old_title": "APPALTATORI KILLER? ⚠️ 2 Rischi da interferenza che stanno distruggendo la tua azienda",
-      "new_title": "APPALTATORI KILLER? ⚠️ 2 Rischi da interferenza che: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "cjflba2M2p4",
+      "old_title": "è tardi....leggi la descrizione #sicurissimo #sicurezzasullavoro #hse #prevenzione",
+      "new_title": "è tardi....leggi la descrizione #sicurissimo: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=_23UT_Aal8Q&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=cjflba2M2p4&alt=json&uploadType=media"
     },
     {
-      "video_id": "Zer7Cj8TB7Q",
-      "old_title": "Investire oggi per non fallire domani (dati alla mano).",
-      "new_title": "Investire oggi per non fallire domani (dati alla: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "pApj9eHC8HU",
+      "old_title": "TI AIUTIAMO A SURFARE SULLE NORMATIVE #sicurezzasullavoro #hse",
+      "new_title": "TI AIUTIAMO A SURFARE SULLE NORMATIVE: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=Zer7Cj8TB7Q&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=pApj9eHC8HU&alt=json&uploadType=media"
     },
     {
-      "video_id": "4vgcmd3Vi0c",
-      "old_title": "NON DIVENTARE UNA STATISTICA 🛑 La Verità Shock sugli Spazi Confinati",
-      "new_title": "NON DIVENTARE UNA STATISTICA 🛑 La Verità Shock: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "TCwvIdr2uR4",
+      "old_title": "La tua vita #sicurezzasullavoro #hse #sicurissimo #prevenzione",
+      "new_title": "La tua vita #sicurezzasullavoro #hse #sicurissimo: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=4vgcmd3Vi0c&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=TCwvIdr2uR4&alt=json&uploadType=media"
     },
     {
-      "video_id": "ZF2KzeSUOnI",
-      "old_title": "COLLISIONE MORTALE! 🚜 Quando le interferenze distruggono la tua azienda",
-      "new_title": "COLLISIONE MORTALE! 🚜 Quando le interferenze: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "gkN3Hhsz1l0",
+      "old_title": "1) CORSO DI AGGIORNAMENTO COORDINATORE DELLA SICUREZZA CSP-CSE  - PARTE 1",
+      "new_title": "1) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=ZF2KzeSUOnI&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=gkN3Hhsz1l0&alt=json&uploadType=media"
     },
     {
-      "video_id": "MFZOC4gDamg",
-      "old_title": "La tua firma su quel libretto è una condanna?",
-      "new_title": "La tua firma su quel libretto è una condanna?: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "I4rtHjBCk-4",
+      "old_title": "5) CORSO DI AGGIORNAMENTO COORDINATORE DELLA SICUREZZA CSP-CSE  - PARTE 5",
+      "new_title": "5) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=MFZOC4gDamg&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=I4rtHjBCk-4&alt=json&uploadType=media"
     },
     {
-      "video_id": "5DFFtwzO-Sw",
-      "old_title": "Rischi Trasversali: I pericoli invisibili che distruggono la tua produttività.",
-      "new_title": "Rischi Trasversali: I pericoli invisibili che: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "RqkLMnN2X_k",
+      "old_title": "2) CORSO DI AGGIORNAMENTO COORDINATORE DELLA SICUREZZA CSP-CSE  - PARTE 2",
+      "new_title": "2) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=5DFFtwzO-Sw&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=RqkLMnN2X_k&alt=json&uploadType=media"
     },
     {
-      "video_id": "vLEKKiwfXyQ",
-      "old_title": "Allegati Titolo VII: Quello che il tuo consulente non ti ha mai detto.",
-      "new_title": "Allegati Titolo VII: Quello che il tuo consulente: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "bOnMSdhdpm4",
+      "old_title": "4) CORSO DI AGGIORNAMENTO COORDINATORE DELLA SICUREZZA CSP-CSE  - PARTE 4",
+      "new_title": "4) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=vLEKKiwfXyQ&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=bOnMSdhdpm4&alt=json&uploadType=media"
     },
     {
-      "video_id": "Tqmfl__r2XA",
-      "old_title": "DPI Categoria I° e II°. Quando un guanto sbagliato diventa un reato.",
-      "new_title": "DPI Categoria I° e II°. Quando un guanto sbagliato: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "9gv4KdO1WeU",
+      "old_title": "3) CORSO DI AGGIORNAMENTO COORDINATORE DELLA SICUREZZA CSP-CSE  - PARTE 3",
+      "new_title": "3) CORSO DI AGGIORNAMENTO COORDINATORE DELLA: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=Tqmfl__r2XA&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=9gv4KdO1WeU&alt=json&uploadType=media"
     },
     {
-      "video_id": "pkR1CYHJY3g",
-      "old_title": "Modulo Giuridico: La guida di sopravvivenza al D.Lgs 81/08 aggiornato.",
-      "new_title": "Modulo Giuridico: La guida di sopravvivenza al: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "1K0LVR7c4Gc",
+      "old_title": "3) Corso HSE MANAGER: Gestione rifiuti e green economy i segreti per un azienda sostenibile♻️☢️🚮🚯",
+      "new_title": "3) Corso HSE MANAGER: Gestione rifiuti e green: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=pkR1CYHJY3g&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=1K0LVR7c4Gc&alt=json&uploadType=media"
     },
     {
-      "video_id": "OwxGAhW9Img",
-      "old_title": "Sotto tensione e senza paura: La tecnica suprema dei veri professionisti.",
-      "new_title": "Sotto tensione e senza paura: La tecnica suprema: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "MZSyD4iB17A",
+      "old_title": "2) Corso HSE MANAGER: Tutela acque e bio alimentazione le competenze tecniche che ti servono 🌊🍔",
+      "new_title": "2) Corso HSE MANAGER: Tutela acque e bio: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=OwxGAhW9Img&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=MZSyD4iB17A&alt=json&uploadType=media"
     },
     {
-      "video_id": "a-dIeyuSxPk",
-      "old_title": "Lavoro fuori tensione: La procedura salvavita che ignori troppo spesso.",
-      "new_title": "Lavoro fuori tensione: La procedura salvavita che: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "VuXuBhFwkfo",
+      "old_title": "7) Corso HSE MANAGER: segreti della sostenibilità agricola♻️🌾👩‍🌾🚜",
+      "new_title": "7) Corso HSE MANAGER: segreti della sostenibilità: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=a-dIeyuSxPk&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=VuXuBhFwkfo&alt=json&uploadType=media"
     },
     {
-      "video_id": "5uFhno6bz3s",
-      "old_title": "Il lato oscuro della corrente: Errori fatali che devi conoscere",
-      "new_title": "Il lato oscuro della corrente: Errori fatali che: cosa controllare davvero - SICURISSIMO81+",
+      "video_id": "cquAcusIxdo",
+      "old_title": "CORSO HSE MANAGER TOP #sicurezzasullavoro #prevenzione #sicurezzasullavoro #hse",
+      "new_title": "CORSO HSE MANAGER TOP #sicurezzasullavoro: cosa controllare davvero - SICURISSIMO81+",
       "status": "OK",
-      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=5uFhno6bz3s&alt=json&uploadType=media"
+      "thumbnail": "thumbnail skip: <HttpError 429 when requesting https://youtube.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=cquAcusIxdo&alt=json&uploadType=media"
     }
   ]
 }
