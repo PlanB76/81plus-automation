@@ -2,13 +2,6 @@
  "generato": "2026-07-06",
  "cards": [
   {
-   "titolo": "In Sanita/Sociale non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
-   "settore": "Sanita/Sociale",
-   "cta_url": "https://81plus.net/?corso=rspp-datore-di-lavoro-modulo-1-e-2",
-   "cta": "RSPP Datore di Lavoro modulo 1 e 2",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
    "titolo": "In Manifattura c'e' un obbligo che in tanti scoprono solo con la sanzione",
    "settore": "Manifattura",
    "cta_url": "https://81plus.net/?corso=haccp-corso-responsabile-industria-alimentare",
@@ -167,6 +160,13 @@
    "settore": "Commercio",
    "cta_url": "https://81plus.net/?corso=manuale-autocontrollo-alimentare",
    "cta": "Manuale autocontrollo alimentare",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Quello che l'ispettore controlla per primo in PA (e quasi nessuno lo sa)",
+   "settore": "PA",
+   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
+   "cta": "Corso lavoratore parte GENERALE 4 ore",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   }
  ]
