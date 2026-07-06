@@ -40,14 +40,13 @@ def main():
     csvp=latest_csv()
     if not csvp: print("Nessuno sheet."); return
     rows=list(csv.DictReader(open(csvp,encoding="utf-8"))); done=load_state(); sent=0
-    for r in rows:
+    # posta SOLO righe con immagine pronta (IMG_OK + webp esistente), non ancora inviate
+    ready=[r for r in rows if r.get("stato")=="IMG_OK" and (IMG/r["nome_file_webp"]).exists() and r["nome_file_webp"] not in done]
+    for r in ready:
         if sent>=n: break
-        sig=r["nome_file_webp"]
-        if sig in done: continue
-        img=IMG/r["nome_file_webp"]; cap=caption(r); ok=False
-        try:
-            ok=send_photo(str(img),cap) if img.exists() else send_text(cap)
+        sig=r["nome_file_webp"]; img=IMG/sig; cap=caption(r); ok=False
+        try: ok=send_photo(str(img),cap)
         except Exception as e: print("  err",sig,e)
-        if ok: done.add(sig); sent+=1; print("  [tg]",("photo" if img.exists() else "text"),r["codice_ateco"],r["settore"])
-    save_state(done); print(f"Inviati {sent} post SICURIX su Telegram.")
+        if ok: done.add(sig); sent+=1; print("  [tg] photo",r["codice_ateco"],r["settore"])
+    save_state(done); print(f"Inviati {sent} post SICURIX (con fumetto) su Telegram. Righe pronte: {len(ready)}")
 if __name__=="__main__": main()
