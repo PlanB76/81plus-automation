@@ -2,13 +2,6 @@
  "generato": "2026-07-07",
  "cards": [
   {
-   "titolo": "Manifattura: la verita su Addetto Primo Soccorso (in 30 secondi)",
-   "settore": "Manifattura",
-   "cta_url": "https://81plus.net/?corso=corso-primo-soccorso-a-b-c",
-   "cta": "Corso Primo Soccorso (A-B-C)",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
    "titolo": "Commercio: 3 minuti oggi o un problema enorme domani. Scegli tu.",
    "settore": "Commercio",
    "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
@@ -165,6 +158,13 @@
   {
    "titolo": "Commercio: 3 minuti oggi o un problema enorme domani. Scegli tu.",
    "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
+   "cta": "Corso lavoratore parte GENERALE 4 ore",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Trasporti/Magazzino: la verita su Documento Valutazione Rischi (DVR) (in 30 secondi)",
+   "settore": "Trasporti/Magazzino",
    "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
    "cta": "Corso lavoratore parte GENERALE 4 ore",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
