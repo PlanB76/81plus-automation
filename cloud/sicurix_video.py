@@ -32,23 +32,27 @@ def have_ffmpeg():
     return shutil.which("ffmpeg") is not None
 
 def tts(text, out_wav):
-    """Voce italiana gratis via HF Space. Se fallisce, ritorna None (video muto con musica/silenzio)."""
+    """Voce italiana NATURALE gratis: edge-tts (voci neurali Microsoft), no GPU, no quota. Fallback HF."""
+    voice=os.environ.get("EDGE_VOICE","it-IT-DiegoNeural")  # Diego (m) / IsabellaNeural (f) / GiuseppeNeural / ElsaNeural
+    mp3=out_wav.replace(".wav",".mp3")
+    try:
+        import subprocess as sp
+        sp.run(["edge-tts","--voice",voice,"--text",text[:1200],"--write-media",mp3],
+               stdout=sp.DEVNULL, stderr=sp.DEVNULL, check=True, timeout=120)
+        if os.path.exists(mp3) and os.path.getsize(mp3)>1000: return mp3
+    except Exception as e:
+        print("   edge-tts non disponibile, provo HF:", e)
+    # fallback: HF Space TTS
     try:
         from gradio_client import Client
-        c = Client(TTS_SPACE, hf_token=TOKEN)
-        # Kokoro-TTS: predict(text, voice, speed) -> audio filepath (varia per Space: si tenta piu' firme)
-        for kw in (dict(text=text[:900], voice=TTS_VOICE, speed=1.0),
-                   dict(text=text[:900], voice=TTS_VOICE),
-                   dict(text=text[:900])):
+        c=Client(TTS_SPACE, hf_token=TOKEN)
+        for kw in (dict(text=text[:900], voice=TTS_VOICE, speed=1.0), dict(text=text[:900], voice=TTS_VOICE), dict(text=text[:900])):
             try:
-                r = c.predict(**kw, api_name="/generate")
-                p = r[0] if isinstance(r, (list, tuple)) else r
-                if isinstance(p, str) and os.path.exists(p):
-                    shutil.copy(p, out_wav); return out_wav
-            except Exception:
-                continue
+                r=c.predict(**kw, api_name="/generate"); p=r[0] if isinstance(r,(list,tuple)) else r
+                if isinstance(p,str) and os.path.exists(p): shutil.copy(p,out_wav); return out_wav
+            except Exception: continue
     except Exception as e:
-        print("   TTS non disponibile:", e)
+        print("   TTS HF non disponibile:", e)
     return None
 
 def esc(t):

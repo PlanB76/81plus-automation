@@ -32,7 +32,7 @@ jobs:
       - name: ffmpeg + dipendenze
         run: |
           sudo apt-get update -y && sudo apt-get install -y ffmpeg
-          pip install --quiet pillow gradio_client google-api-python-client google-auth google-auth-oauthlib
+          pip install --quiet pillow edge-tts gradio_client google-api-python-client google-auth google-auth-oauthlib
 
       - name: 1) Brief del giorno (titolo clickbait + descrizione SEO/PNL + CTA prodotto listino)
         run: python cloud/sicurix_gen_daily.py 3 || echo "gen saltato"
