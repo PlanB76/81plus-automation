@@ -28,7 +28,7 @@ def save_state(s): json.dump(sorted(s), open(STATE, "w", encoding="utf-8"))
 
 def make_client():
     from gradio_client import Client
-    return Client(SPACE, hf_token=TOKEN)
+    import inspect; _kw={k:TOKEN for k in ("hf_token","token") if TOKEN and k in inspect.signature(Client).parameters}; return Client(SPACE, **_kw)
 
 def find_endpoint(client):
     """Trova l'endpoint giusto: input immagine, output model3d/.glb."""
