@@ -1,34 +1,6 @@
 {
- "generato": "2026-07-06",
+ "generato": "2026-07-07",
  "cards": [
-  {
-   "titolo": "In Agricoltura non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
-   "settore": "Agricoltura",
-   "cta_url": "https://81plus.net/?corso=corso-per-preposto",
-   "cta": "Corso per Preposto",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Sanita/Sociale non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
-   "settore": "Sanita/Sociale",
-   "cta_url": "https://81plus.net/?corso=rspp-datore-di-lavoro-modulo-1-e-2",
-   "cta": "RSPP Datore di Lavoro modulo 1 e 2",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Manifattura c'e' un obbligo che in tanti scoprono solo con la sanzione",
-   "settore": "Manifattura",
-   "cta_url": "https://81plus.net/?corso=haccp-corso-responsabile-industria-alimentare",
-   "cta": "Haccp - Corso responsabile industria alimentare",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "Commercio: la verita su Gestione Allergeni (in 30 secondi)",
-   "settore": "Commercio",
-   "cta_url": "https://81plus.net/?corso=haccp-corso-responsabile-industria-alimentare",
-   "cta": "Haccp - Corso responsabile industria alimentare",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
   {
    "titolo": "Manifattura: la verita su Addetto Primo Soccorso (in 30 secondi)",
    "settore": "Manifattura",
@@ -167,6 +139,34 @@
    "settore": "Commercio",
    "cta_url": "https://81plus.net/?corso=corso-primo-soccorso-a-b-c",
    "cta": "Corso Primo Soccorso (A-B-C)",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Commercio: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=manuale-autocontrollo-alimentare",
+   "cta": "Manuale autocontrollo alimentare",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Quello che l'ispettore controlla per primo in PA (e quasi nessuno lo sa)",
+   "settore": "PA",
+   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
+   "cta": "Corso lavoratore parte GENERALE 4 ore",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "In Servizi alle imprese c'e' un obbligo che in tanti scoprono solo con la sanzione",
+   "settore": "Servizi alle imprese",
+   "cta_url": "https://81plus.net/?corso=corso-antincendio-livello-1",
+   "cta": "Corso antincendio livello 1",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Commercio: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
+   "cta": "Corso lavoratore parte GENERALE 4 ore",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   }
  ]
