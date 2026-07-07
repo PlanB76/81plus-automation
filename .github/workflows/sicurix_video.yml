@@ -1,0 +1,84 @@
+name: SICURIX VIDEO Factory (Short YT @sicurissimo + Drive + Telegram, H24)
+
+on:
+  schedule:
+    - cron: "30 5 * * *"    # 1 volta al giorno: brief -> immagini -> video -> Drive -> YouTube -> Telegram
+  workflow_dispatch:
+    inputs:
+      n:
+        description: "Quanti Short per run"
+        default: "3"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sicurix-video
+  cancel-in-progress: false
+
+jobs:
+  video:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: ffmpeg + dipendenze
+        run: |
+          sudo apt-get update -y && sudo apt-get install -y ffmpeg
+          pip install --quiet pillow gradio_client google-api-python-client google-auth google-auth-oauthlib
+
+      - name: 1) Brief del giorno (titolo clickbait + descrizione SEO/PNL + CTA prodotto listino)
+        run: python cloud/sicurix_gen_daily.py 3 || echo "gen saltato"
+
+      - name: 2) Immagini (tavole SICURIX) via OpenAI
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ -n "$OPENAI_API_KEY" ]; then python cloud/render_images.py 3 || echo "render parziale"; else echo "no OPENAI key: salto immagini"; fi
+
+      - name: 3) Monta i VIDEO Short (voce IT gratis via HF + ffmpeg)
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          VIDEO_N: ${{ github.event.inputs.n || '3' }}
+        run: python cloud/sicurix_video.py ${VIDEO_N}
+
+      - name: 4) Salva TUTTO su Google Drive (rclone)
+        env:
+          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+        run: |
+          if [ -n "$RCLONE_CONF" ]; then
+            mkdir -p ~/.config/rclone && printf '%s' "$RCLONE_CONF" > ~/.config/rclone/rclone.conf
+            curl -s https://rclone.org/install.sh | sudo bash || true
+            rclone copy cloud/out/videos "gdrive:SICURIX_VIDEO" --drive-root-folder-id 1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc || echo "drive video saltato"
+            rclone copy cloud/out/img "gdrive:SICURIX_IMG" --drive-root-folder-id 1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc || echo "drive img saltato"
+          else
+            echo "RCLONE_CONF assente: salto Drive (i file restano nel repo)."
+          fi
+
+      - name: 5) Upload YouTube @sicurissimo (nuovi Short)
+        env:
+          YOUTUBE_TOKEN_B64: ${{ secrets.YOUTUBE_TOKEN_B64 }}
+        run: |
+          if [ -n "$YOUTUBE_TOKEN_B64" ]; then python cloud/youtube_upload_new.py 3 || echo "upload YT parziale"; else echo "no YOUTUBE_TOKEN_B64: salto upload"; fi
+
+      - name: 6) Telegram (@sicurissimoonline) con post completo
+        env:
+          SICURIX_TG_TOKEN: ${{ secrets.SICURIX_TG_TOKEN }}
+          SICURIX_TG_CHANNEL: ${{ secrets.SICURIX_TG_CHANNEL }}
+        run: |
+          if [ -n "$SICURIX_TG_TOKEN" ] && [ -n "$SICURIX_TG_CHANNEL" ]; then python cloud/sicurix_telegram.py 3 || echo "telegram parziale"; else echo "no token TG: salto"; fi
+
+      - name: 7) Commit stato + metadati
+        run: |
+          git config user.name  "sicurix-bot"
+          git config user.email "bot@81plus.net"
+          git add cloud/out cloud/data || true
+          git commit -m "SICURIX video: $(date +%F' '%H:%M)" || echo "nulla da committare"
+          git push || echo "push saltato"

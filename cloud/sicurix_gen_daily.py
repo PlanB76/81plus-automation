@@ -46,29 +46,24 @@ def copy_pnl(sett,temi,pr,rng):
 def image_prompt(code,sett,atoms_sel,cast):
     heroes=list(dict.fromkeys([c.split(">")[0] for c in cast]))
     villains=list(dict.fromkeys([c.split(">")[1] for c in cast]))
-    pairs=[]
+    beats=[]
     for i,(a,c) in enumerate(zip(atoms_sel,cast),1):
         h,v=c.split(">")
-        pairs.append(f"{i}) PERICOLO '{a['adempimento']}': il cattivo {v} provoca '{a['rischio']}' con battuta breve e sotto 'Rischio: ...'; accanto SOLUZIONE 81+: l'eroe {h} applica il Metodo81+ con checklist verde.")
+        beats.append(f"{i}) {v} causa il pericolo '{a['rischio']}' ({a['adempimento']}); poi {h}+SICURIX applicano il METODO81+")
+    story="; ".join(beats)
     return (
-      "Crea una PAGINA A FUMETTI INFOGRAFICA verticale formato A4 (1024x1536), altissima qualita, stile ufficiale 'SICURIX TALES': "
-      "personaggi giocattolo a mattoncini 3D renderizzati (minifigure espressive), ambientazione realistica e dettagliata del settore, "
-      "TESTI IN ITALIANO GRANDI E PERFETTAMENTE LEGGIBILI (NON storpiare le parole, ortografia corretta). "
-      "Palette brand 81+: nero #05050A, bianco panna, arancione #FF6A1A/#E8501A; ROSSO per 'PERICOLO', VERDE/BLU per 'SOLUZIONE 81+'. Logo '81+' su ogni riquadro. "
-      f"TEMA: {sett} (ATECO {code}). "
-      "STRUTTURA OBBLIGATORIA: "
-      "1) HEADER: a sinistra il protagonista SICURIX (eroe con mantello, medaglione arancione '81+', bussola/checklist) che parla in un fumetto "
-      f"('Ciao! Sono SICURIX. Oggi in {sett} scopriamo i pericoli e le soluzioni con il Metodo 81+!'); al centro il grande titolo 'SICURIX TALES'; "
-      f"sottotitolo '{sett.upper()}: Pericolo vs Soluzione con Metodo 81+'; in alto a destra una legenda con 3 voci (spunta verde 'Sicurezza', triangolo rosso 'Rischio', scudo blu '81+ Soluzione Metodo 81+'); "
-      f"sotto una fila di EROI del tema coi nomi: {', '.join(heroes[:6])}. "
-      "2) CORPO: vignette NUMERATE a coppie affiancate PERICOLO (sinistra, banda rossa, cattivo NOMINATO) vs SOLUZIONE 81+ (destra, banda blu, eroe con checklist). Contenuti: "
-      +" ".join(pairs)+" "
-      f"3) BLOCCO in basso 'IL METODO 81+ - SICUREZZA OGNI GIORNO' con checklist verde di {len(atoms_sel)} spunte e gli EROI in fila coi nomi sotto. "
-      "4) FOOTER: grande scritta 'Prima vedi. Poi sistemi.'; banner in basso con a sinistra scudo verde 'PROTEGGIAMO. PREVENIAMO. MIGLIORIAMO.' e a destra triangolo rosso 'DISATTENZIONE. RISCHI. COSTI. CAOS.'; al centro logo '81+' e '81plus.net'. "
+      "Crea una PAGINA A FUMETTI a STORIA COMPLETA, verticale A4 (1024x1536), QUALITA' EDITORIALE DA STAMPA, "
+      "stile ufficiale 'SICURIX TALES' IDENTICO alle immagini di riferimento allegate (stessi personaggi a mattoncini 3D, stessa impaginazione, stessi colori, stesse rese): "
+      "minifigure espressive, ambientazioni ricche e dettagliate del settore, luci morbide, profondita', bordi vignetta netti. "
+      "IMPAGINAZIONE OBBLIGATORIA: da 10 a 12 VIGNETTE numerate che raccontano UNA STORIA con arco narrativo completo "
+      "(1 situazione normale -> 2-4 arrivano i pericoli coi cattivi -> 5-6 tensione/conseguenza -> 7-9 arriva SICURIX con gli eroi e applica il METODO81+ passo per passo -> 10-11 risoluzione ordinata -> 12 finale). "
+      f"HEADER in alto: SICURIX (mantello, medaglione arancione '81+', bussola) che presenta in un fumetto; grande titolo 'SICURIX TALES'; sottotitolo '{sett.upper()}: Pericolo vs Soluzione con Metodo 81+'; legenda 3 voci (verde Sicurezza, rosso Rischio, blu 81+ Soluzione); fila di EROI coi nomi: {', '.join(heroes[:6])}. "
+      "FOOTER in basso: grande 'Prima vedi. Poi sistemi.'; banner scudo verde 'PROTEGGIAMO. PREVENIAMO. MIGLIORIAMO.' e triangolo rosso 'DISATTENZIONE. RISCHI. COSTI. CAOS.'; logo '81+' + '81plus.net'. "
+      "TRAMA (usa questi eventi come vignette; se sono meno di 10 aggiungi vignette di contesto, dialogo e reazione per arrivare a 10-12): "+story+". "
+      "PALETTE BRAND ESCLUSIVA: nero #05050A, bianco panna, arancione #FF6A1A/#E8501A; ROSSO solo per 'PERICOLO', VERDE per la checklist 'Metodo 81+'. Logo '81+' ben visibile in OGNI vignetta. "
+      "REGOLA STORIA: SICURIX NON agisce mai da solo - in OGNI vignetta di soluzione si fa AIUTARE dai suoi colleghi EROI (lavoro di squadra, ognuno col suo ruolo). "
+      "TESTO: didascalie e fumetti MOLTO BREVI (1-4 parole), GRANDI, centrati, in ITALIANO con ORTOGRAFIA PERFETTA, senza parole inventate, lettere doppie errate o testo tagliato. "
       f"CATTIVI (coerenti col canone): {', '.join(villains)}. EROI: {', '.join(heroes)}. "
-      "IMPORTANTISSIMO: replica ESATTAMENTE lo stile, i personaggi minifigure, i colori e l'impaginazione a griglia delle immagini di riferimento allegate. "
-      "Ogni etichetta di testo deve essere MOLTO BREVE (1-3 parole), GRANDE, centrata, in ITALIANO con ORTOGRAFIA PERFETTA, senza parole inventate, lettere doppie errate o testo tagliato. "
-      f"TESTI ESATTI da scrivere identici (nient'altro): 'SICURIX TALES', '{sett.upper()}', 'PERICOLO', 'SOLUZIONE 81+', 'Rischio:', 'Metodo 81+', 'Prima vedi. Poi sistemi.', '81plus.net', e i nomi adempimento: '"+"', '".join(a['adempimento'] for a in atoms_sel)+"'. "
       "NEGATIVE: nessun marchio LEGO reale, nessun personaggio protetto (Asterix ecc.), niente gore/horror, niente claim assoluti ('rischio zero','garantito','zero multe').")
 def build(code,idxs,rng):
     ats=ATOMS[code]; sel=[ats[i] for i in idxs]; sett=sel[0]["settore"]; sez=sel[0]["sezione"]
@@ -94,7 +89,7 @@ def run(n,seed=None):
     done=load_state(); rows=[]; tries=0; mx=n*80
     while len(rows)<n and tries<mx:
         tries+=1; code=rng.choice(CODES); k=len(ATOMS[code])
-        size=min(rng.choices([1,2,3,4,5,6],weights=[30,22,18,14,10,6])[0],k)
+        size=min(k, rng.choice([10,11,12]))
         idxs=rng.sample(range(k),size); s=sig(code,idxs)
         if s in done: continue
         done.add(s); rows.append(build(code,idxs,rng))

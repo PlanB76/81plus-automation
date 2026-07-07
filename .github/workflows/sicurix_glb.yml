@@ -1,0 +1,53 @@
+name: SICURIX GLB Factory (H24 - personaggi 3D via SF3D)
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"    # ogni 3 ore: un lotto di GLB finche' non sono tutti fatti
+  workflow_dispatch:
+    inputs:
+      n:
+        description: "Quanti GLB per run"
+        default: "6"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sicurix-glb
+  cancel-in-progress: false
+
+jobs:
+  glb:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Dipendenze
+        run: pip install --quiet gradio_client pillow
+
+      - name: (info) firma API dello Space
+        continue-on-error: true
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python cloud/glb/make_glb.py --api || true
+
+      - name: Genera un lotto di GLB (SF3D via API, GPU di Hugging Face)
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          GLB_N: ${{ github.event.inputs.n || '6' }}
+        run: python cloud/glb/make_glb.py ${GLB_N}
+
+      - name: Commit GLB + stato
+        run: |
+          git config user.name  "sicurix-bot"
+          git config user.email "bot@81plus.net"
+          git add cloud/glb/out cloud/glb/glb_state.json
+          git commit -m "SICURIX GLB factory: $(date +%F' '%H:%M)" || echo "nulla da committare"
+          git push || echo "push saltato"

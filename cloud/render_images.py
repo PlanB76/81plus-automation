@@ -17,7 +17,11 @@ def latest_csv():
     fs=sorted(x for x in glob.glob(str(OUTD/"SICURIX_GEN_*.csv")) if "MANIFEST" not in x)
     return fs[-1] if fs else None
 def refs():
-    return sorted(glob.glob(str(REFDIR/"*.jpg")))+sorted(glob.glob(str(REFDIR/"*.png")))
+    import random as _r
+    allr=sorted(glob.glob(str(REFDIR/"*.jpg")))+sorted(glob.glob(str(REFDIR/"*.png")))
+    pin=[x for x in allr if os.path.basename(x) in ("ref1.jpg","ref2.jpg")]
+    rest=[x for x in allr if x not in pin]; _r.shuffle(rest)
+    return (pin+rest)[:4]
 def _multipart(fields,files):
     b=b""; bnd="----sicurix"+uuid.uuid4().hex
     for k,v in fields.items():
