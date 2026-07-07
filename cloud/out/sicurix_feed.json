@@ -2,13 +2,6 @@
  "generato": "2026-07-07",
  "cards": [
   {
-   "titolo": "Commercio: 3 minuti oggi o un problema enorme domani. Scegli tu.",
-   "settore": "Commercio",
-   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
-   "cta": "Corso lavoratore parte GENERALE 4 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
    "titolo": "In Manifattura c'e' un obbligo che in tanti scoprono solo con la sanzione",
    "settore": "Manifattura",
    "cta_url": "https://81plus.net/?corso=corso-per-addetto-operazioni-di-pulizia-e-sanificazione-azie",
@@ -167,6 +160,13 @@
    "settore": "Trasporti/Magazzino",
    "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
    "cta": "Corso lavoratore parte GENERALE 4 ore",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "La differenza tra chi in Commercio dorme sereno e chi trema al controllo",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
+   "cta": "Corso privacy destinato ai lavoratori",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   }
  ]
