@@ -49,3 +49,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 0048,02.20.00,Utilizzo di aree forestali,Sicurezza,0001-0050,SICURIX_TALES_0048_022000_utilizzo_di_aree_forestali_SICUREZZA_v1.png,BRIEF_PRONTO
 0049,02.30.00,Raccolta di prodotti selvatici non legnosi,Sicurezza,0001-0050,SICURIX_TALES_0049_023000_raccolta_di_prodotti_selvatici_non_legno_SICUREZZA_v1.png,BRIEF_PRONTO
 0050,02.40.00,Servizi di supporto per la silvicoltura,Sicurezza,0001-0050,SICURIX_TALES_0050_024000_servizi_di_supporto_per_la_silvicoltura_SICUREZZA_v1.png,BRIEF_PRONTO
+0051,03.11.00,Pesca marina,Sicurezza,0051-0100,SICURIX_TALES_0051_031100_pesca_marina_SICUREZZA_v1.png,BRIEF_PRONTO
+0052,03.12.00,Pesca in acque dolci,Sicurezza,0051-0100,SICURIX_TALES_0052_031200_pesca_in_acque_dolci_SICUREZZA_v1.png,BRIEF_PRONTO
+0053,03.21.01,Coltivazione di alghe marine,Sicurezza,0051-0100,SICURIX_TALES_0053_032101_coltivazione_di_alghe_marine_SICUREZZA_v1.png,BRIEF_PRONTO
+0054,03.21.09,Altre attività di acquacoltura marina,Sicurezza,0051-0100,SICURIX_TALES_0054_032109_altre_attivit_di_acquacoltura_marina_SICUREZZA_v1.png,BRIEF_PRONTO
+0055,03.22.01,Coltivazione di alghe in acque dolci,Sicurezza,0051-0100,SICURIX_TALES_0055_032201_coltivazione_di_alghe_in_acque_dolci_SICUREZZA_v1.png,BRIEF_PRONTO
+0056,03.22.09,Altre attività di acquacoltura in acque dolci,Sicurezza,0051-0100,SICURIX_TALES_0056_032209_altre_attivit_di_acquacoltura_in_acque_d_SICUREZZA_v1.png,BRIEF_PRONTO
+0057,03.30.00,Attività di supporto alla pesca e all'acquacoltura,Sicurezza,0051-0100,SICURIX_TALES_0057_033000_attivit_di_supporto_alla_pesca_e_all_acq_SICUREZZA_v1.png,BRIEF_PRONTO
+0058,05.10.00,Estrazione di antracite,Sicurezza,0051-0100,SICURIX_TALES_0058_051000_estrazione_di_antracite_SICUREZZA_v1.png,BRIEF_PRONTO
+0059,05.20.00,Estrazione di lignite,Sicurezza,0051-0100,SICURIX_TALES_0059_052000_estrazione_di_lignite_SICUREZZA_v1.png,BRIEF_PRONTO
+0060,06.10.00,Estrazione di petrolio greggio,Sicurezza,0051-0100,SICURIX_TALES_0060_061000_estrazione_di_petrolio_greggio_SICUREZZA_v1.png,BRIEF_PRONTO
+0061,06.20.00,Estrazione di gas naturale,Sicurezza,0051-0100,SICURIX_TALES_0061_062000_estrazione_di_gas_naturale_SICUREZZA_v1.png,BRIEF_PRONTO
+0062,07.10.00,Estrazione di minerali metalliferi ferrosi,Sicurezza,0051-0100,SICURIX_TALES_0062_071000_estrazione_di_minerali_metalliferi_ferro_SICUREZZA_v1.png,BRIEF_PRONTO
+0063,07.21.00,Estrazione di minerali di uranio e torio,Sicurezza,0051-0100,SICURIX_TALES_0063_072100_estrazione_di_minerali_di_uranio_e_torio_SICUREZZA_v1.png,BRIEF_PRONTO
+0064,07.29.00,Estrazione di altri minerali metalliferi non ferrosi,Sicurezza,0051-0100,SICURIX_TALES_0064_072900_estrazione_di_altri_minerali_metalliferi_SICUREZZA_v1.png,BRIEF_PRONTO
+0065,08.11.00,"Estrazione di pietre ornamentali, calcare, pietra di gesso, ardesia e altre pietre",Sicurezza,0051-0100,SICURIX_TALES_0065_081100_estrazione_di_pietre_ornamentali_calcare_SICUREZZA_v1.png,BRIEF_PRONTO
+0066,08.12.00,"Estrazione di ghiaia, sabbia, argilla e caolino",Sicurezza,0051-0100,SICURIX_TALES_0066_081200_estrazione_di_ghiaia_sabbia_argilla_e_ca_SICUREZZA_v1.png,BRIEF_PRONTO
+0067,08.91.00,Estrazione di minerali per l'industria chimica e per la produzione di fertilizzanti,Sicurezza,0051-0100,SICURIX_TALES_0067_089100_estrazione_di_minerali_per_l_industria_c_SICUREZZA_v1.png,BRIEF_PRONTO
+0068,08.92.00,Estrazione di torba,Sicurezza,0051-0100,SICURIX_TALES_0068_089200_estrazione_di_torba_SICUREZZA_v1.png,BRIEF_PRONTO
+0069,08.93.01,Estrazione di sale dal sottosuolo,Sicurezza,0051-0100,SICURIX_TALES_0069_089301_estrazione_di_sale_dal_sottosuolo_SICUREZZA_v1.png,BRIEF_PRONTO
+0070,08.93.02,Salicoltura marina,Sicurezza,0051-0100,SICURIX_TALES_0070_089302_salicoltura_marina_SICUREZZA_v1.png,BRIEF_PRONTO
+0071,08.93.03,Produzione di sale da salamoia,Sicurezza,0051-0100,SICURIX_TALES_0071_089303_produzione_di_sale_da_salamoia_SICUREZZA_v1.png,BRIEF_PRONTO
+0072,08.99.01,Estrazione di asfalto e bitume naturale,Sicurezza,0051-0100,SICURIX_TALES_0072_089901_estrazione_di_asfalto_e_bitume_naturale_SICUREZZA_v1.png,BRIEF_PRONTO
+0073,08.99.09,Altre attività estrattive varie n.c.a.,Sicurezza,0051-0100,SICURIX_TALES_0073_089909_altre_attivit_estrattive_varie_n_c_a_SICUREZZA_v1.png,BRIEF_PRONTO
+0074,09.10.00,Attività di supporto all'estrazione di petrolio e gas naturale,Sicurezza,0051-0100,SICURIX_TALES_0074_091000_attivit_di_supporto_all_estrazione_di_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0075,09.90.00,Attività di supporto ad altre attività estrattive,Sicurezza,0051-0100,SICURIX_TALES_0075_099000_attivit_di_supporto_ad_altre_attivit_est_SICUREZZA_v1.png,BRIEF_PRONTO
+0076,10.11.00,"Lavorazione e conservazione di carne, esclusa la carne di volatili",HACCP,0051-0100,SICURIX_TALES_0076_101100_lavorazione_e_conservazione_di_carne_esc_HACCP_v1.png,BRIEF_PRONTO
+0077,10.12.00,Lavorazione e conservazione di carne di volatili,HACCP,0051-0100,SICURIX_TALES_0077_101200_lavorazione_e_conservazione_di_carne_di__HACCP_v1.png,BRIEF_PRONTO
+0078,10.13.00,"Produzione di prodotti a base di carne, inclusi prodotti a base di carne di volatili",HACCP,0051-0100,SICURIX_TALES_0078_101300_produzione_di_prodotti_a_base_di_carne_i_HACCP_v1.png,BRIEF_PRONTO
+0079,10.20.01,Lavorazione di alghe,Sicurezza,0051-0100,SICURIX_TALES_0079_102001_lavorazione_di_alghe_SICUREZZA_v1.png,BRIEF_PRONTO
+0080,10.20.09,"Altre attività di lavorazione e conservazione di pesce, crostacei e molluschi",HACCP,0051-0100,SICURIX_TALES_0080_102009_altre_attivit_di_lavorazione_e_conservaz_HACCP_v1.png,BRIEF_PRONTO
+0081,10.31.00,Lavorazione e conservazione di patate,Sicurezza,0051-0100,SICURIX_TALES_0081_103100_lavorazione_e_conservazione_di_patate_SICUREZZA_v1.png,BRIEF_PRONTO
+0082,10.32.00,Produzione di succhi a base di frutta e ortaggi,Sicurezza,0051-0100,SICURIX_TALES_0082_103200_produzione_di_succhi_a_base_di_frutta_e__SICUREZZA_v1.png,BRIEF_PRONTO
+0083,10.39.00,Altre attività di lavorazione e conservazione di frutta e ortaggi,Sicurezza,0051-0100,SICURIX_TALES_0083_103900_altre_attivit_di_lavorazione_e_conservaz_SICUREZZA_v1.png,BRIEF_PRONTO
+0084,10.41.10,Produzione di olio di oliva,Sicurezza,0051-0100,SICURIX_TALES_0084_104110_produzione_di_olio_di_oliva_SICUREZZA_v1.png,BRIEF_PRONTO
+0085,10.41.20,Produzione di altri oli vegetali,Sicurezza,0051-0100,SICURIX_TALES_0085_104120_produzione_di_altri_oli_vegetali_SICUREZZA_v1.png,BRIEF_PRONTO
+0086,10.41.30,Produzione di oli e grassi animali,Sicurezza,0051-0100,SICURIX_TALES_0086_104130_produzione_di_oli_e_grassi_animali_SICUREZZA_v1.png,BRIEF_PRONTO
+0087,10.42.00,Produzione di margarina e di grassi alimentari simili,HACCP,0051-0100,SICURIX_TALES_0087_104200_produzione_di_margarina_e_di_grassi_alim_HACCP_v1.png,BRIEF_PRONTO
+0088,10.51.10,Trattamento igienico del latte,HACCP,0051-0100,SICURIX_TALES_0088_105110_trattamento_igienico_del_latte_HACCP_v1.png,BRIEF_PRONTO
+0089,10.51.20,Produzione di derivati del latte,HACCP,0051-0100,SICURIX_TALES_0089_105120_produzione_di_derivati_del_latte_HACCP_v1.png,BRIEF_PRONTO
+0090,10.52.00,Produzione di gelati,HACCP,0051-0100,SICURIX_TALES_0090_105200_produzione_di_gelati_HACCP_v1.png,BRIEF_PRONTO
+0091,10.61.11,Lavorazione di frumento,Sicurezza,0051-0100,SICURIX_TALES_0091_106111_lavorazione_di_frumento_SICUREZZA_v1.png,BRIEF_PRONTO
+0092,10.61.19,Lavorazione di altri cereali,Sicurezza,0051-0100,SICURIX_TALES_0092_106119_lavorazione_di_altri_cereali_SICUREZZA_v1.png,BRIEF_PRONTO
+0093,10.61.20,Lavorazione del riso,Sicurezza,0051-0100,SICURIX_TALES_0093_106120_lavorazione_del_riso_SICUREZZA_v1.png,BRIEF_PRONTO
+0094,10.61.90,Lavorazioni di altre granaglie,Sicurezza,0051-0100,SICURIX_TALES_0094_106190_lavorazioni_di_altre_granaglie_SICUREZZA_v1.png,BRIEF_PRONTO
+0095,10.62.00,Produzione di amidi e di prodotti amidacei,Sicurezza,0051-0100,SICURIX_TALES_0095_106200_produzione_di_amidi_e_di_prodotti_amidac_SICUREZZA_v1.png,BRIEF_PRONTO
+0096,10.71.10,Produzione di pane e prodotti di panetteria simili,Sicurezza,0051-0100,SICURIX_TALES_0096_107110_produzione_di_pane_e_prodotti_di_panette_SICUREZZA_v1.png,BRIEF_PRONTO
+0097,10.71.20,Produzione di prodotti di pasticceria freschi,HACCP,0051-0100,SICURIX_TALES_0097_107120_produzione_di_prodotti_di_pasticceria_fr_HACCP_v1.png,BRIEF_PRONTO
+0098,10.72.00,"Produzione di fette biscottate, biscotti, prodotti di pasticceria conservati",HACCP,0051-0100,SICURIX_TALES_0098_107200_produzione_di_fette_biscottate_biscotti__HACCP_v1.png,BRIEF_PRONTO
+0099,10.73.01,Produzione di prodotti farinacei freschi,Sicurezza,0051-0100,SICURIX_TALES_0099_107301_produzione_di_prodotti_farinacei_freschi_SICUREZZA_v1.png,BRIEF_PRONTO
+0100,10.73.02,Produzione di prodotti farinacei conservati,Sicurezza,0051-0100,SICURIX_TALES_0100_107302_produzione_di_prodotti_farinacei_conserv_SICUREZZA_v1.png,BRIEF_PRONTO
