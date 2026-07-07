@@ -2,27 +2,6 @@
  "generato": "2026-07-07",
  "cards": [
   {
-   "titolo": "Manifattura: la verita su Addetto Primo Soccorso (in 30 secondi)",
-   "settore": "Manifattura",
-   "cta_url": "https://81plus.net/?corso=corso-primo-soccorso-a-b-c",
-   "cta": "Corso Primo Soccorso (A-B-C)",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "Commercio: 3 minuti oggi o un problema enorme domani. Scegli tu.",
-   "settore": "Commercio",
-   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
-   "cta": "Corso lavoratore parte GENERALE 4 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Manifattura c'e' un obbligo che in tanti scoprono solo con la sanzione",
-   "settore": "Manifattura",
-   "cta_url": "https://81plus.net/?corso=corso-per-addetto-operazioni-di-pulizia-e-sanificazione-azie",
-   "cta": "Corso per addetto operazioni di pulizia e sanificazione aziendale rischio Covid-19",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
    "titolo": "Quello che l'ispettore controlla per primo in Alloggio/Ristorazione (e quasi nessuno lo sa)",
    "settore": "Alloggio/Ristorazione",
    "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
@@ -167,6 +146,27 @@
    "settore": "Commercio",
    "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
    "cta": "Corso lavoratore parte GENERALE 4 ore",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Trasporti/Magazzino: la verita su Documento Valutazione Rischi (DVR) (in 30 secondi)",
+   "settore": "Trasporti/Magazzino",
+   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
+   "cta": "Corso lavoratore parte GENERALE 4 ore",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "La differenza tra chi in Commercio dorme sereno e chi trema al controllo",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
+   "cta": "Corso privacy destinato ai lavoratori",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Commercio: la verita su Addetto Primo Soccorso (in 30 secondi)",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=corso-primo-soccorso-a-b-c",
+   "cta": "Corso Primo Soccorso (A-B-C)",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   }
  ]
