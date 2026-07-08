@@ -10,7 +10,7 @@ ENV (GitHub Secrets/Variables o api/.env):
 Uso:  python social81_sheet.py            (ora corrente, pubblica)
       python social81_sheet.py --hour 8 --dry   (test, non pubblica)
 """
-import argparse,csv,datetime,io,json,os,re,urllib.parse,urllib.request,urllib.error
+import argparse,csv,datetime,io,json,os,re,urllib.parse,urllib.request,urllib.error,time,random,hmac,hashlib,base64
 
 SHEET_ID_DEFAULT="10gwruXienwqC6-lSvRXuDTs7kGd_SWiamkkTme3mJ5A"
 SITE="https://81plus.net"; TG="https://t.me/sicurissimi"
@@ -211,6 +211,47 @@ def fb_send(text,image):
     except Exception as e:
         print("[fb] errore",e)
 
+# ---- X / Twitter (OAuth 1.0a, testo <=280) ----
+def _oauth1(method,url,ck,cs,tok,tsec):
+    def q(s): return urllib.parse.quote(str(s),safe="")
+    o={"oauth_consumer_key":ck,"oauth_nonce":hashlib.md5(str(random.random()).encode()).hexdigest(),
+       "oauth_signature_method":"HMAC-SHA1","oauth_timestamp":str(int(time.time())),
+       "oauth_token":tok,"oauth_version":"1.0"}
+    base="&".join([method.upper(),q(url),q("&".join("%s=%s"%(q(k),q(o[k])) for k in sorted(o)))])
+    sig=base64.b64encode(hmac.new(("%s&%s"%(q(cs),q(tsec))).encode(),base.encode(),hashlib.sha1).digest()).decode()
+    o["oauth_signature"]=sig
+    return "OAuth "+", ".join('%s="%s"'%(q(k),q(o[k])) for k in o)
+
+def x_send(text,image):
+    ck,cs=env("X_API_KEY"),env("X_API_SECRET"); tok,tsec=env("X_ACCESS_TOKEN"),env("X_ACCESS_SECRET")
+    if not(ck and cs and tok and tsec): return
+    url="https://api.twitter.com/2/tweets"
+    try:
+        hdr=_oauth1("POST",url,ck,cs,tok,tsec)
+        data=json.dumps({"text":text[:280]}).encode()
+        r=urllib.request.urlopen(urllib.request.Request(url,data=data,headers={"Authorization":hdr,"Content-Type":"application/json"}),timeout=40).read()
+        j=json.loads(r); print("[x]","ok" if j.get("data") else str(j)[:150])
+    except urllib.error.HTTPError as e:
+        print("[x] errore",e.code,e.read().decode("utf-8","replace")[:150])
+    except Exception as e:
+        print("[x] errore",e)
+
+# ---- LinkedIn (pagina aziendale, testo) ----
+def li_send(text,image):
+    tok=env("LINKEDIN_TOKEN"); org=env("LINKEDIN_ORG")
+    if not(tok and org): return
+    payload={"author":"urn:li:organization:%s"%org,"lifecycleState":"PUBLISHED",
+             "specificContent":{"com.linkedin.ugc.ShareContent":{"shareCommentary":{"text":text[:3000]},"shareMediaCategory":"NONE"}},
+             "visibility":{"com.linkedin.ugc.MemberNetworkVisibility":"PUBLIC"}}
+    try:
+        r=urllib.request.urlopen(urllib.request.Request("https://api.linkedin.com/v2/ugcPosts",data=json.dumps(payload).encode(),
+            headers={"Authorization":"Bearer "+tok,"Content-Type":"application/json","X-Restli-Protocol-Version":"2.0.0"}),timeout=40).read()
+        print("[linkedin] ok")
+    except urllib.error.HTTPError as e:
+        print("[linkedin] errore",e.code,e.read().decode("utf-8","replace")[:150])
+    except Exception as e:
+        print("[linkedin] errore",e)
+
 def main():
     ap=argparse.ArgumentParser(); ap.add_argument("--hour",type=int); ap.add_argument("--dry",action="store_true")
     a=ap.parse_args()
@@ -227,5 +268,7 @@ def main():
     if not a.dry:
         tg_send(post["text"],post["image"])
         fb_send(post["text"],post["image"])
+        x_send(post["text"],post["image"])
+        li_send(post["text"],post["image"])
 
 if __name__=="__main__": main()
