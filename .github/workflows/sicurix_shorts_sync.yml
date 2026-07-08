@@ -1,0 +1,47 @@
+name: SICURIX Shorts Sync (ticker sito da @sicurissimo)
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # ogni 6 ore
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Aggiorna tales_videos.json dagli Shorts SICURIX del canale
+        run: python cloud/sync_shorts81.py
+
+      - name: Commit tales_videos.json nel repo
+        run: |
+          git config user.name  "sicurix-bot"
+          git config user.email "bot@81plus.net"
+          git add tales_videos.json || true
+          git commit -m "shorts sync $(date +%F' '%H:%M)" || echo "nulla da committare"
+          git push || echo "push saltato"
+
+      - name: Deploy su Hostinger via FTP (solo se i secret ci sono)
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_PASS: ${{ secrets.FTP_PASS }}
+          FTP_DIR:  ${{ secrets.FTP_DIR }}
+        run: |
+          if [ -n "$FTP_HOST" ] && [ -n "$FTP_USER" ] && [ -n "$FTP_PASS" ]; then
+            sudo apt-get update -y >/dev/null 2>&1 || true
+            sudo apt-get install -y lftp >/dev/null 2>&1 || true
+            lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:ssl-allow true; set ssl:verify-certificate no; cd ${FTP_DIR:-public_html}; put -O . tales_videos.json; bye" && echo "FTP: tales_videos.json caricato" || echo "FTP fallito (controlla host/dir)"
+          else
+            echo "FTP_HOST/FTP_USER/FTP_PASS assenti: salto il deploy sul sito live. Aggiungili come secret per aggiornare 81plus.net in automatico."
+          fi
