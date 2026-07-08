@@ -99,3 +99,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 0098,10.72.00,"Produzione di fette biscottate, biscotti, prodotti di pasticceria conservati",HACCP,0051-0100,SICURIX_TALES_0098_107200_produzione_di_fette_biscottate_biscotti__HACCP_v1.png,BRIEF_PRONTO
 0099,10.73.01,Produzione di prodotti farinacei freschi,Sicurezza,0051-0100,SICURIX_TALES_0099_107301_produzione_di_prodotti_farinacei_freschi_SICUREZZA_v1.png,BRIEF_PRONTO
 0100,10.73.02,Produzione di prodotti farinacei conservati,Sicurezza,0051-0100,SICURIX_TALES_0100_107302_produzione_di_prodotti_farinacei_conserv_SICUREZZA_v1.png,BRIEF_PRONTO
+0101,10.81.00,Produzione di zucchero,Sicurezza,0101-0150,SICURIX_TALES_0101_108100_produzione_di_zucchero_SICUREZZA_v1.png,BRIEF_PRONTO
+0102,10.82.00,"Produzione di cacao, cioccolato, caramelle e confetterie",Sicurezza,0101-0150,SICURIX_TALES_0102_108200_produzione_di_cacao_cioccolato_caramelle_SICUREZZA_v1.png,BRIEF_PRONTO
+0103,10.83.01,Lavorazione di tè e di altri preparati per infusi,Sicurezza,0101-0150,SICURIX_TALES_0103_108301_lavorazione_di_t_e_di_altri_preparati_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0104,10.83.02,Lavorazione di caffè,Sicurezza,0101-0150,SICURIX_TALES_0104_108302_lavorazione_di_caff_SICUREZZA_v1.png,BRIEF_PRONTO
+0105,10.84.00,Produzione di condimenti e spezie,Sicurezza,0101-0150,SICURIX_TALES_0105_108400_produzione_di_condimenti_e_spezie_SICUREZZA_v1.png,BRIEF_PRONTO
+0106,10.85.01,"Produzione di pasti e piatti preparati a base di carne, inclusi pasti e piatti preparati a base di carne di volatili",HACCP,0101-0150,SICURIX_TALES_0106_108501_produzione_di_pasti_e_piatti_preparati_a_HACCP_v1.png,BRIEF_PRONTO
+0107,10.85.02,Produzione di pasti e piatti preparati a base di pesce,HACCP,0101-0150,SICURIX_TALES_0107_108502_produzione_di_pasti_e_piatti_preparati_a_HACCP_v1.png,BRIEF_PRONTO
+0108,10.85.03,Produzione di pasti e piatti preparati a base di ortaggi,Sicurezza,0101-0150,SICURIX_TALES_0108_108503_produzione_di_pasti_e_piatti_preparati_a_SICUREZZA_v1.png,BRIEF_PRONTO
+0109,10.85.04,Produzione di pizza surgelata o altrimenti conservata,HACCP,0101-0150,SICURIX_TALES_0109_108504_produzione_di_pizza_surgelata_o_altrimen_HACCP_v1.png,BRIEF_PRONTO
+0110,10.85.05,Produzione di pasti e piatti preparati a base di pasta,Sicurezza,0101-0150,SICURIX_TALES_0110_108505_produzione_di_pasti_e_piatti_preparati_a_SICUREZZA_v1.png,BRIEF_PRONTO
+0111,10.85.09,Produzione di altri pasti e piatti preparati,Sicurezza,0101-0150,SICURIX_TALES_0111_108509_produzione_di_altri_pasti_e_piatti_prepa_SICUREZZA_v1.png,BRIEF_PRONTO
+0112,10.86.00,Produzione di preparati omogeneizzati e di alimenti dietetici,HACCP,0101-0150,SICURIX_TALES_0112_108600_produzione_di_preparati_omogeneizzati_e__HACCP_v1.png,BRIEF_PRONTO
+0113,10.89.01,Produzione di integratori alimentari,HACCP,0101-0150,SICURIX_TALES_0113_108901_produzione_di_integratori_alimentari_HACCP_v1.png,BRIEF_PRONTO
+0114,10.89.09,Produzione di altri prodotti alimentari vari n.c.a.,HACCP,0101-0150,SICURIX_TALES_0114_108909_produzione_di_altri_prodotti_alimentari__HACCP_v1.png,BRIEF_PRONTO
+0115,10.91.00,Produzione di mangimi per l'alimentazione degli animali da allevamento,HACCP,0101-0150,SICURIX_TALES_0115_109100_produzione_di_mangimi_per_l_alimentazion_HACCP_v1.png,BRIEF_PRONTO
+0116,10.92.00,Produzione di prodotti per l'alimentazione degli animali da compagnia,HACCP,0101-0150,SICURIX_TALES_0116_109200_produzione_di_prodotti_per_l_alimentazio_HACCP_v1.png,BRIEF_PRONTO
+0117,11.01.00,"Distillazione, rettifica e miscelatura di alcolici",Sicurezza,0101-0150,SICURIX_TALES_0117_110100_distillazione_rettifica_e_miscelatura_di_SICUREZZA_v1.png,BRIEF_PRONTO
+0118,11.02.10,"Produzione di vini, esclusi vini spumanti e altri vini speciali",Sicurezza,0101-0150,SICURIX_TALES_0118_110210_produzione_di_vini_esclusi_vini_spumanti_SICUREZZA_v1.png,BRIEF_PRONTO
+0119,11.02.20,Produzione di vini spumanti e altri vini speciali,Sicurezza,0101-0150,SICURIX_TALES_0119_110220_produzione_di_vini_spumanti_e_altri_vini_SICUREZZA_v1.png,BRIEF_PRONTO
+0120,11.03.00,Produzione di sidro e di altre bevande fermentate a base di frutta,HACCP,0101-0150,SICURIX_TALES_0120_110300_produzione_di_sidro_e_di_altre_bevande_f_HACCP_v1.png,BRIEF_PRONTO
+0121,11.04.00,Produzione di altre bevande fermentate non distillate,HACCP,0101-0150,SICURIX_TALES_0121_110400_produzione_di_altre_bevande_fermentate_n_HACCP_v1.png,BRIEF_PRONTO
+0122,11.05.00,Produzione di birra,Sicurezza,0101-0150,SICURIX_TALES_0122_110500_produzione_di_birra_SICUREZZA_v1.png,BRIEF_PRONTO
+0123,11.06.00,Produzione di malto,Sicurezza,0101-0150,SICURIX_TALES_0123_110600_produzione_di_malto_SICUREZZA_v1.png,BRIEF_PRONTO
+0124,11.07.01,Produzione di bibite analcoliche,Sicurezza,0101-0150,SICURIX_TALES_0124_110701_produzione_di_bibite_analcoliche_SICUREZZA_v1.png,BRIEF_PRONTO
+0125,11.07.02,Produzione di acque in bottiglia,Sicurezza,0101-0150,SICURIX_TALES_0125_110702_produzione_di_acque_in_bottiglia_SICUREZZA_v1.png,BRIEF_PRONTO
+0126,12.00.00,Produzione di prodotti del tabacco,Sicurezza,0101-0150,SICURIX_TALES_0126_120000_produzione_di_prodotti_del_tabacco_SICUREZZA_v1.png,BRIEF_PRONTO
+0127,13.10.00,Preparazione e filatura di fibre tessili,Sicurezza,0101-0150,SICURIX_TALES_0127_131000_preparazione_e_filatura_di_fibre_tessili_SICUREZZA_v1.png,BRIEF_PRONTO
+0128,13.20.00,Tessitura,Sicurezza,0101-0150,SICURIX_TALES_0128_132000_tessitura_SICUREZZA_v1.png,BRIEF_PRONTO
+0129,13.30.00,Finissaggio dei tessili,Sicurezza,0101-0150,SICURIX_TALES_0129_133000_finissaggio_dei_tessili_SICUREZZA_v1.png,BRIEF_PRONTO
+0130,13.91.00,Fabbricazione di tessuti a maglia e all'uncinetto,Sicurezza,0101-0150,SICURIX_TALES_0130_139100_fabbricazione_di_tessuti_a_maglia_e_all__SICUREZZA_v1.png,BRIEF_PRONTO
+0131,13.92.10,Fabbricazione di tessili per la casa,Sicurezza,0101-0150,SICURIX_TALES_0131_139210_fabbricazione_di_tessili_per_la_casa_SICUREZZA_v1.png,BRIEF_PRONTO
+0132,13.92.20,Fabbricazione di tessili per l'arredo,Sicurezza,0101-0150,SICURIX_TALES_0132_139220_fabbricazione_di_tessili_per_l_arredo_SICUREZZA_v1.png,BRIEF_PRONTO
+0133,13.93.00,Fabbricazione di tappeti e moquette,Sicurezza,0101-0150,SICURIX_TALES_0133_139300_fabbricazione_di_tappeti_e_moquette_SICUREZZA_v1.png,BRIEF_PRONTO
+0134,13.94.00,"Fabbricazione di spago, corde, funi e reti",Sicurezza,0101-0150,SICURIX_TALES_0134_139400_fabbricazione_di_spago_corde_funi_e_reti_SICUREZZA_v1.png,BRIEF_PRONTO
+0135,13.95.00,Fabbricazione di tessuti non-tessuti e di articoli in tessuto non-tessuto,Sicurezza,0101-0150,SICURIX_TALES_0135_139500_fabbricazione_di_tessuti_non_tessuti_e_d_SICUREZZA_v1.png,BRIEF_PRONTO
+0136,13.96.00,Fabbricazione di altri tessuti per uso tecnico e industriale,Sicurezza,0101-0150,SICURIX_TALES_0136_139600_fabbricazione_di_altri_tessuti_per_uso_t_SICUREZZA_v1.png,BRIEF_PRONTO
+0137,13.99.10,"Fabbricazione di ricami, tulle, pizzi e merletti",Sicurezza,0101-0150,SICURIX_TALES_0137_139910_fabbricazione_di_ricami_tulle_pizzi_e_me_SICUREZZA_v1.png,BRIEF_PRONTO
+0138,13.99.90,Fabbricazione di feltro e altri prodotti tessili diversi n.c.a.,Sicurezza,0101-0150,SICURIX_TALES_0138_139990_fabbricazione_di_feltro_e_altri_prodotti_SICUREZZA_v1.png,BRIEF_PRONTO
+0139,14.10.10,Fabbricazione di articoli di calzetteria a maglia e all'uncinetto,Sicurezza,0101-0150,SICURIX_TALES_0139_141010_fabbricazione_di_articoli_di_calzetteria_SICUREZZA_v1.png,BRIEF_PRONTO
+0140,14.10.20,Fabbricazione di maglioni e altri articoli a maglia e all'uncinetto,Sicurezza,0101-0150,SICURIX_TALES_0140_141020_fabbricazione_di_maglioni_e_altri_artico_SICUREZZA_v1.png,BRIEF_PRONTO
+0141,14.21.10,Fabbricazione in serie di abbigliamento esterno,Sicurezza,0101-0150,SICURIX_TALES_0141_142110_fabbricazione_in_serie_di_abbigliamento__SICUREZZA_v1.png,BRIEF_PRONTO
+0142,14.21.20,Sartoria e confezione su misura di abbigliamento esterno,Sicurezza,0101-0150,SICURIX_TALES_0142_142120_sartoria_e_confezione_su_misura_di_abbig_SICUREZZA_v1.png,BRIEF_PRONTO
+0143,14.22.00,Fabbricazione di biancheria intima,Sicurezza,0101-0150,SICURIX_TALES_0143_142200_fabbricazione_di_biancheria_intima_SICUREZZA_v1.png,BRIEF_PRONTO
+0144,14.23.00,Fabbricazione di indumenti da lavoro,Sicurezza,0101-0150,SICURIX_TALES_0144_142300_fabbricazione_di_indumenti_da_lavoro_SICUREZZA_v1.png,BRIEF_PRONTO
+0145,14.24.00,Fabbricazione di abbigliamento in pelle e in pelliccia,Sicurezza,0101-0150,SICURIX_TALES_0145_142400_fabbricazione_di_abbigliamento_in_pelle__SICUREZZA_v1.png,BRIEF_PRONTO
+0146,14.29.00,Fabbricazione di altri articoli di abbigliamento e accessori n.c.a.,Sicurezza,0101-0150,SICURIX_TALES_0146_142900_fabbricazione_di_altri_articoli_di_abbig_SICUREZZA_v1.png,BRIEF_PRONTO
+0147,15.11.00,"Concia, tintura e rifinizione di pelli, cuoi e pellicce",Sicurezza,0101-0150,SICURIX_TALES_0147_151100_concia_tintura_e_rifinizione_di_pelli_cu_SICUREZZA_v1.png,BRIEF_PRONTO
+0148,15.12.00,"Fabbricazione di articoli da viaggio, borse, pelletteria e selleria di qualsiasi materiale",Sicurezza,0101-0150,SICURIX_TALES_0148_151200_fabbricazione_di_articoli_da_viaggio_bor_SICUREZZA_v1.png,BRIEF_PRONTO
+0149,15.20.10,"Fabbricazione di calzature, escluse parti in cuoio per calzature",Sicurezza,0101-0150,SICURIX_TALES_0149_152010_fabbricazione_di_calzature_escluse_parti_SICUREZZA_v1.png,BRIEF_PRONTO
+0150,15.20.20,Fabbricazione di parti in cuoio per calzature,Sicurezza,0101-0150,SICURIX_TALES_0150_152020_fabbricazione_di_parti_in_cuoio_per_calz_SICUREZZA_v1.png,BRIEF_PRONTO
