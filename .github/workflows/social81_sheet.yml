@@ -22,6 +22,8 @@ jobs:
           TG_CHANNEL: ${{ vars.TG_CHANNEL }}
           SOCIAL81_SHEET_ID: ${{ vars.SOCIAL81_SHEET_ID }}
           TALES_BASE: ${{ vars.TALES_BASE }}
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          FB_PAGE_ID: ${{ vars.FB_PAGE_ID }}
         run: |
           if [ -n "${{ github.event.inputs.hour }}" ]; then
             python social81_sheet.py --hour ${{ github.event.inputs.hour }}
