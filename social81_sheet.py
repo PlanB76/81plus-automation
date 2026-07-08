@@ -10,7 +10,7 @@ ENV (GitHub Secrets/Variables o api/.env):
 Uso:  python social81_sheet.py            (ora corrente, pubblica)
       python social81_sheet.py --hour 8 --dry   (test, non pubblica)
 """
-import argparse,csv,datetime,io,json,os,re,urllib.parse,urllib.request
+import argparse,csv,datetime,io,json,os,re,urllib.parse,urllib.request,urllib.error
 
 SHEET_ID_DEFAULT="10gwruXienwqC6-lSvRXuDTs7kGd_SWiamkkTme3mJ5A"
 SITE="https://81plus.net"; TG="https://t.me/sicurissimi"
@@ -193,6 +193,24 @@ def tg_send(text,image):
     except Exception as e:
         print("[tg] errore",e); return False
 
+# ---- Facebook Pagina (stessi contenuti di Telegram) ----
+def fb_send(text,image):
+    tok=env("META_TOKEN") or env("FB_PAGE_TOKEN"); pid=env("FB_PAGE_ID")
+    if not(tok and pid): return
+    g="https://graph.facebook.com/v19.0"
+    try:
+        if image:
+            data=urllib.parse.urlencode({"url":image,"caption":text[:5000],"access_token":tok}).encode()
+            r=urllib.request.urlopen(urllib.request.Request(g+"/%s/photos"%pid,data=data),timeout=40).read()
+        else:
+            data=urllib.parse.urlencode({"message":text[:5000],"access_token":tok}).encode()
+            r=urllib.request.urlopen(urllib.request.Request(g+"/%s/feed"%pid,data=data),timeout=40).read()
+        j=json.loads(r); print("[fb]","ok" if ("id" in j or "post_id" in j) else str(j)[:150])
+    except urllib.error.HTTPError as e:
+        print("[fb] errore",e.code,e.read().decode("utf-8","replace")[:150])
+    except Exception as e:
+        print("[fb] errore",e)
+
 def main():
     ap=argparse.ArgumentParser(); ap.add_argument("--hour",type=int); ap.add_argument("--dry",action="store_true")
     a=ap.parse_args()
@@ -206,6 +224,8 @@ def main():
     print("="*60); print("ORA",h,"| doy",doy); print(post["text"]);
     if post["image"]: print("[img]",post["image"])
     print("="*60)
-    if not a.dry: tg_send(post["text"],post["image"])
+    if not a.dry:
+        tg_send(post["text"],post["image"])
+        fb_send(post["text"],post["image"])
 
 if __name__=="__main__": main()
