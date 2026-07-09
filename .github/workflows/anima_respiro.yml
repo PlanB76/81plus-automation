@@ -1,0 +1,79 @@
+# ANIMA81+ · RESPIRO H24 IN CLOUD (GitHub Actions) — funziona anche a PC spento.
+# Copia questo file nel repo GitHub in:  .github/workflows/anima_respiro.yml
+# Cosa fa: ogni 30 minuti fa battere ANIMA (un ciclo), aggiorna la memoria/stato,
+# li ricommitta nel repo (cloud primario) e li pubblica sul sito (accesso da telefono).
+name: ANIMA81 respiro
+on:
+  schedule:
+    - cron: "*/30 * * * *"     # ogni 30 minuti (UTC)
+  workflow_dispatch:            # + avvio manuale dal tab Actions
+concurrency:
+  group: anima-respiro
+  cancel-in-progress: false
+permissions:
+  contents: write               # per ricommittare lo stato aggiornato
+jobs:
+  battito:
+    runs-on: ubuntu-latest
+    env:
+      # chiavi LLM cloud (mettile in Settings > Secrets and variables > Actions)
+      GROQ_API_KEY:      ${{ secrets.GROQ_API_KEY }}
+      OPENAI_API_KEY:    ${{ secrets.OPENAI_API_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      GEMINI_API_KEY:    ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+
+      - name: Battito ANIMA (un ciclo headless)
+        run: |
+          cd anima 2>/dev/null || cd .        # cartella dove sta anima81.py
+          python anima81.py --once || python anima81.py once || true
+
+      - name: Snapshot cervello per il web (JSON leggibile da qualsiasi device)
+        run: |
+          python - <<'PY'
+          import sqlite3, json, os, glob, datetime
+          db = None
+          for c in ("anima/anima.sqlite","anima.sqlite","81plus.db","anima/81plus.db"):
+              if os.path.exists(c): db=c; break
+          out={"aggiornato": datetime.datetime.utcnow().isoformat()+"Z","db":db,"sitrep":"","memoria":[]}
+          try:
+              if db:
+                  cx=sqlite3.connect(db); cx.row_factory=sqlite3.Row
+                  try:
+                      r=cx.execute("SELECT * FROM an_sitrep ORDER BY rowid DESC LIMIT 1").fetchone()
+                      if r: out["sitrep"]=" ".join(str(v) for v in dict(r).values() if isinstance(v,str))[:1200]
+                  except Exception: pass
+                  try:
+                      for r in cx.execute("SELECT * FROM an_memory ORDER BY rowid DESC LIMIT 15"):
+                          out["memoria"].append(" · ".join(str(v) for v in dict(r).values() if isinstance(v,str))[:240])
+                  except Exception: pass
+          except Exception as e:
+              out["errore"]=str(e)
+          open("anima_stato.json","w",encoding="utf-8").write(json.dumps(out,ensure_ascii=False,indent=2))
+          print("snapshot ok:",db)
+          PY
+
+      - name: Ricommitta lo stato (cloud primario = GitHub)
+        run: |
+          git config user.name  "anima81-bot"
+          git config user.email "anima@81plus.net"
+          git add -A
+          git commit -m "ANIMA respiro $(date -u +%FT%TZ)" || echo "nulla da committare"
+          git push || echo "push saltato"
+
+      # OPZIONALE: pubblica lo snapshot sul sito cosi' lo apri dal telefono su 81plus.net.
+      # Serve impostare i Secrets FTP_HOST / FTP_USER / FTP_PASS.
+      - name: Pubblica snapshot sul sito (accesso da telefono)
+        if: ${{ secrets.FTP_HOST != '' }}
+        run: |
+          sudo apt-get -y install lftp >/dev/null 2>&1 || true
+          for f in anima_stato.json anima/SITREP.md; do
+            [ -f "$f" ] && lftp -u "$FTP_USER","$FTP_PASS" -e "set ftp:ssl-allow no; put -O / $f; bye" "$FTP_HOST" || true
+          done
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_PASS: ${{ secrets.FTP_PASS }}

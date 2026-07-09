@@ -1,0 +1,272 @@
+{
+  "brand": "81+",
+  "site_base": "https://81plus.net",
+  "site_root_local": "C:/81PLUS_GLOBAL_MASTER/81plus.net/0-81PLUS.NET",
+  "listino": {
+    "catalog_js": "../data/catalog_data.js",
+    "listino_page": "/LISTINO81+.html",
+    "seed_fallback": "data/listino_seed.json"
+  },
+  "links": {
+    "youtube": "https://www.youtube.com/@sicurissimo",
+    "telegram_channel": "https://t.me/sicurissimoonline",
+    "telegram_groups": "https://81plus.net/community.html",
+    "instagram": "https://www.instagram.com/sicurissimo",
+    "facebook": "https://www.facebook.com/sicurissimo",
+    "tiktok": "https://www.tiktok.com/@sicurissimo",
+    "listino": "/LISTINO81+.html",
+    "promo": "/promo/",
+    "audit": "/index.html#resta"
+  },
+  "paypal": {
+    "mode": "paypal.me",
+    "handle": "aifis",
+    "currency": "EUR"
+  },
+  "pack": {
+    "tiers": [
+      {
+        "key": "scudo",
+        "label": "SCUDO",
+        "tag": "S",
+        "items": 3,
+        "discount_pct": 35,
+        "seats": 25,
+        "badge": ""
+      },
+      {
+        "key": "corazza",
+        "label": "CORAZZA",
+        "tag": "M",
+        "items": 5,
+        "discount_pct": 50,
+        "seats": 12,
+        "badge": "PIU SCELTO"
+      },
+      {
+        "key": "fortezza",
+        "label": "FORTEZZA",
+        "tag": "L",
+        "items": 8,
+        "discount_pct": 58,
+        "seats": 7,
+        "badge": "MASSIMO VALORE"
+      }
+    ],
+    "psychological_ending": 0.9,
+    "min_full_value_eur": 150,
+    "countdown_hours": 72,
+    "repromo_cycle_days": 90,
+    "min_active_campaigns": 3,
+    "premium_cats_for_L": [
+      "Sigillo",
+      "Membership",
+      "Compliance",
+      "Dashboard",
+      "Documenti"
+    ]
+  },
+  "blog": {
+    "articles_per_run": 1,
+    "themes_rotation": [
+      "Casi reali (recensioni)",
+      "Sicurezza del Lavoro",
+      "Igiene Alimentare HACCP",
+      "Privacy & GDPR",
+      "Gare di Appalto",
+      "Crescita Personale",
+      "Corsi di Formazione",
+      "Economia Personale",
+      "SICURIX",
+      "I Libri di Mirco Pregnolato",
+      "Corsi di Formazione (video YT)"
+    ],
+    "rss_by_theme": {
+      "Sicurezza del Lavoro": [
+        "https://www.inail.it/portale/it/rss/tutte-le-news.rss",
+        "https://www.ansa.it/canale_lavoro/notizie/lavoro_rss.xml",
+        "https://news.google.com/rss/search?q=sicurezza+sul+lavoro+morti+infortuni&hl=it&gl=IT&ceid=IT:it"
+      ],
+      "Igiene Alimentare HACCP": [
+        "https://news.google.com/rss/search?q=HACCP+igiene+alimentare+controlli+NAS&hl=it&gl=IT&ceid=IT:it"
+      ],
+      "Privacy & GDPR": [
+        "https://news.google.com/rss/search?q=privacy+GDPR+garante+sanzione+aziende&hl=it&gl=IT&ceid=IT:it"
+      ],
+      "Gare di Appalto": [
+        "https://news.google.com/rss/search?q=gare+appalto+bandi+imprese+codice+appalti&hl=it&gl=IT&ceid=IT:it"
+      ],
+      "Crescita Personale": [
+        "https://news.google.com/rss/search?q=crescita+personale+produttivita+mindset&hl=it&gl=IT&ceid=IT:it"
+      ],
+      "Corsi di Formazione": [
+        "https://news.google.com/rss/search?q=bandi+formazione+finanziata+fondi+interprofessionali&hl=it&gl=IT&ceid=IT:it"
+      ],
+      "Economia Personale": [
+        "https://news.google.com/rss/search?q=bonus+imprese+incentivi+PMI+credito+imposta&hl=it&gl=IT&ceid=IT:it"
+      ],
+      "SICURIX": [
+        "https://news.google.com/rss/search?q=sicurezza+aziendale+cultura+prevenzione&hl=it&gl=IT&ceid=IT:it"
+      ]
+    },
+    "theme_to_listino_cat": {
+      "Sicurezza del Lavoro": [
+        "sicurezza",
+        "Sicurezza",
+        "antincendio",
+        "RLS",
+        "RSPP",
+        "ASPP",
+        "DPI",
+        "primo soccorso",
+        "datori"
+      ],
+      "Igiene Alimentare HACCP": [
+        "haccp",
+        "HACCP",
+        "alimentare"
+      ],
+      "Privacy & GDPR": [
+        "privacy",
+        "Privacy"
+      ],
+      "Gare di Appalto": [
+        "appalti",
+        "Appalti",
+        "compliance",
+        "Compliance"
+      ],
+      "Crescita Personale": [
+        "ACADEMY",
+        "Sviluppo",
+        "MASTER"
+      ],
+      "Corsi di Formazione": [
+        "Corsi",
+        "corso",
+        "formazione",
+        "SCHOOL"
+      ],
+      "Economia Personale": [
+        "membership",
+        "Membership",
+        "PLP",
+        "dashboard"
+      ],
+      "SICURIX": [
+        "sicurezza",
+        "Sigillo",
+        "compliance"
+      ]
+    },
+    "cta_emotions": [
+      "L'obbligo di legge non aspetta: o sei in regola, o rischi sanzioni e responsabilità.",
+      "Un controllo INL/NAS puo arrivare domani. Chi e pronto dorme sereno.",
+      "La paura di una multa non serve. Serve un sistema. 81+ e quel sistema."
+    ]
+  },
+  "llm": {
+    "provider": "auto",
+    "groq_env": "GROQ_API_KEY",
+    "model_groq": "llama-3.3-70b-versatile",
+    "openai_env": "OPENAI_API_KEY",
+    "model_openai": "gpt-4o-mini",
+    "anthropic_env": "ANTHROPIC_API_KEY",
+    "model_anthropic": "claude-sonnet-5",
+    "max_tokens": 2600
+  },
+  "publish": {
+    "site_root": "..",
+    "blog_index": "../blog81.html",
+    "blog_dir": "../blog",
+    "promo_dir": "../promo",
+    "promo_block": "../promo/_promo_block.html",
+    "index_target": "../index.html",
+    "index_marker": "<!--PACK81_PROMO-->"
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "token_env": "TG_BOT_TOKEN",
+      "channel_env": "TG_CHANNEL"
+    },
+    "facebook": {
+      "enabled": false,
+      "token_env": "FB_TOKEN"
+    },
+    "instagram": {
+      "enabled": false,
+      "token_env": "IG_TOKEN"
+    },
+    "email": {
+      "enabled": true,
+      "key_env": "EMAIL_PROVIDER_KEY",
+      "list_env": "EMAIL_LIST_ID"
+    }
+  },
+  "email_flow": {
+    "sequence_prefix": "PROMO_PACK",
+    "steps_hours": [
+      0,
+      24,
+      48,
+      68
+    ],
+    "steps_labels": [
+      "Lancio (TOFU)",
+      "Prova sociale (MOFU)",
+      "Sblocco bonus (MOFU)",
+      "Ultime ore (BOFU)"
+    ]
+  },
+  "legal": {
+    "vendor": "Sicurissimo · Labo Tecnic Studio · P.IVA IT01504180298",
+    "price_note": "Prezzi IVA esclusa salvo diversa indicazione. PV/PV+ = utility interne, mai denaro.",
+    "disclaimer": "Offerta a tempo limitato, valida fino allo scadere del countdown o a esaurimento posti."
+  },
+  "economia81": {
+    "pv_plus_cashback_pct": 30,
+    "pv_equals_eur": true,
+    "pvplus_per_eur": 1
+  },
+  "images": {
+    "site_img_base": "/img",
+    "book_cover_dir": "/img/libri",
+    "theme_img_dir": "/img/temi",
+    "local_root": "..",
+    "theme_query": {
+      "Sicurezza del Lavoro": "workplace safety helmet construction worker",
+      "Igiene Alimentare HACCP": "food safety hygiene commercial kitchen",
+      "Privacy & GDPR": "data privacy security padlock computer",
+      "Gare di Appalto": "business contract documents signing office",
+      "Crescita Personale": "personal growth success motivation",
+      "Corsi di Formazione": "classroom training students teacher",
+      "Economia Personale": "finance money savings calculator",
+      "SICURIX": "safety prevention workplace shield",
+      "Casi reali (recensioni)": "happy business owner handshake success",
+      "I Libri di Mirco Pregnolato": "book cover reading"
+    },
+    "keyword_query": {
+      "antincendio": "fire extinguisher training drill",
+      "primo soccorso": "first aid cpr training",
+      "elettric": "electrical safety worker gloves",
+      "ponteggi": "scaffolding construction safety",
+      "quota": "working at height harness safety",
+      "haccp": "food safety inspection kitchen",
+      "privacy": "cyber security data protection",
+      "appalt": "public tender contract documents",
+      "rls": "safety meeting workers training",
+      "rspp": "safety manager helmet clipboard"
+    },
+    "pixabay_env": "PIXABAY_API_KEY",
+    "enable_video": true,
+    "pexels_env": "PEXELS_API_KEY"
+  },
+  "youtube": {
+    "channel": "https://www.youtube.com/@sicurissimo",
+    "handle": "sicurissimo",
+    "api_env": "YOUTUBE_API_KEY",
+    "channel_id": "",
+    "videos": []
+  }
+}

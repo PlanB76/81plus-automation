@@ -1,0 +1,475 @@
+{
+  "campaigns": [
+    {
+      "id": "CEE2BAD63",
+      "slug": "pack81-elettrico-cee2bad63",
+      "theme": "elettrico",
+      "kind": "oneshot",
+      "name": "PACK Rischio Elettrico",
+      "promise": "Personale abilitato e cantiere in sicurezza, subito e a norma.",
+      "tiers": [
+        {
+          "key": "scudo",
+          "label": "SCUDO",
+          "tag": "S",
+          "badge": "",
+          "items": [
+            {
+              "name": "Corso di aggiornamento PEI",
+              "price": 250.0,
+              "recurring": false
+            },
+            {
+              "name": "Corso di formazione PEI",
+              "price": 350.0,
+              "recurring": false
+            },
+            {
+              "name": "Corso di formazione PES",
+              "price": 350.0,
+              "recurring": false
+            }
+          ],
+          "full_value_eur": 950.0,
+          "discount_pct": 35,
+          "promo_price_eur": 617.9,
+          "you_save_eur": 332.1,
+          "bonus_pv_plus": 617,
+          "cashback_pv_plus": 61.79,
+          "seats_left": 25,
+          "paypal_url": "https://www.paypal.me/aifis/617.90EUR"
+        },
+        {
+          "key": "corazza",
+          "label": "CORAZZA",
+          "tag": "M",
+          "badge": "PIU SCELTO",
+          "items": [
+            {
+              "name": "Corso di aggiornamento PEI",
+              "price": 250.0,
+              "recurring": false
+            },
+            {
+              "name": "Corso di formazione PEI",
+              "price": 350.0,
+              "recurring": false
+            },
+            {
+              "name": "Corso di formazione PES",
+              "price": 350.0,
+              "recurring": false
+            },
+            {
+              "name": "Corso di formazione PAV",
+              "price": 350.0,
+              "recurring": false
+            },
+            {
+              "name": "Corso di aggiornamento PES",
+              "price": 250.0,
+              "recurring": false
+            }
+          ],
+          "full_value_eur": 1550.0,
+          "discount_pct": 50,
+          "promo_price_eur": 774.9,
+          "you_save_eur": 775.1,
+          "bonus_pv_plus": 774,
+          "cashback_pv_plus": 77.49,
+          "seats_left": 12,
+          "paypal_url": "https://www.paypal.me/aifis/774.90EUR"
+        },
+        {
+          "key": "fortezza",
+          "label": "FORTEZZA",
+          "tag": "L",
+          "badge": "MASSIMO VALORE",
+          "items": [
+            {
+              "name": "Corso di aggiornamento PEI",
+              "price": 250.0,
+              "recurring": false
+            },
+            {
+              "name": "Corso di formazione PEI",
+              "price": 350.0,
+              "recurring": false
+            },
+            {
+              "name": "Corso di formazione PES",
+              "price": 350.0,
+              "recurring": false
+            },
+            {
+              "name": "Corso di formazione PAV",
+              "price": 350.0,
+              "recurring": false
+            },
+            {
+              "name": "Corso di aggiornamento PES",
+              "price": 250.0,
+              "recurring": false
+            },
+            {
+              "name": "Corso di aggiornamento PAV",
+              "price": 250.0,
+              "recurring": false
+            },
+            {
+              "name": "Corso di formazione PES - PAV - PEI",
+              "price": 600.0,
+              "recurring": false
+            },
+            {
+              "name": "Corso di aggiornamento PES - PAV - PEI",
+              "price": 300.0,
+              "recurring": false
+            }
+          ],
+          "full_value_eur": 2700.0,
+          "discount_pct": 58,
+          "promo_price_eur": 1133.9,
+          "you_save_eur": 1566.1,
+          "bonus_pv_plus": 1133,
+          "cashback_pv_plus": 113.39,
+          "seats_left": 7,
+          "paypal_url": "https://www.paypal.me/aifis/1133.90EUR"
+        }
+      ],
+      "created_utc": "2026-07-08T11:15:15.555475+00:00",
+      "deadline_utc": "2026-07-11T11:15:15.555475+00:00",
+      "countdown_hours": 72,
+      "status": "active",
+      "cycle": 1,
+      "next_promote_utc": "2026-10-06T11:15:15.555475+00:00",
+      "landing_url": "https://81plus.net/promo/pack81-elettrico-cee2bad63.html",
+      "legal": {
+        "vendor": "Sicurissimo · Labo Tecnic Studio · P.IVA IT01504180298",
+        "price_note": "Prezzi IVA esclusa salvo diversa indicazione. PV/PV+ = utility interne, mai denaro.",
+        "disclaimer": "Offerta a tempo limitato, valida fino allo scadere del countdown o a esaurimento posti."
+      },
+      "links": {
+        "youtube": "https://www.youtube.com/@sicurissimo",
+        "telegram_channel": "https://t.me/sicurissimoonline",
+        "telegram_groups": "https://81plus.net/community.html",
+        "instagram": "https://www.instagram.com/sicurissimo",
+        "facebook": "https://www.facebook.com/sicurissimo",
+        "tiktok": "https://www.tiktok.com/@sicurissimo",
+        "listino": "/LISTINO81+.html",
+        "promo": "/promo/",
+        "audit": "/index.html#resta"
+      }
+    },
+    {
+      "id": "C76F0C8D6",
+      "slug": "pack81-starter-c76f0c8d6",
+      "theme": "starter",
+      "kind": "oneshot",
+      "name": "PACK Starter 81+",
+      "promise": "Entri nell'ecosistema 81+ dalla porta giusta, spendendo pochissimo.",
+      "tiers": [
+        {
+          "key": "scudo",
+          "label": "SCUDO",
+          "tag": "S",
+          "badge": "",
+          "items": [
+            {
+              "name": "Tazza / mug 81+",
+              "price": 14.9,
+              "recurring": false
+            },
+            {
+              "name": "Magnete 81+",
+              "price": 3.9,
+              "recurring": false
+            },
+            {
+              "name": "Set adesivi 81+",
+              "price": 7.9,
+              "recurring": false
+            }
+          ],
+          "full_value_eur": 26.7,
+          "discount_pct": 35,
+          "promo_price_eur": 16.9,
+          "you_save_eur": 9.8,
+          "bonus_pv_plus": 16,
+          "cashback_pv_plus": 1.69,
+          "seats_left": 25,
+          "paypal_url": "https://www.paypal.me/aifis/16.90EUR"
+        },
+        {
+          "key": "corazza",
+          "label": "CORAZZA",
+          "tag": "M",
+          "badge": "PIU SCELTO",
+          "items": [
+            {
+              "name": "Tazza / mug 81+",
+              "price": 14.9,
+              "recurring": false
+            },
+            {
+              "name": "Magnete 81+",
+              "price": 3.9,
+              "recurring": false
+            },
+            {
+              "name": "Set adesivi 81+",
+              "price": 7.9,
+              "recurring": false
+            },
+            {
+              "name": "Giubbotto invernale 81+",
+              "price": 89.9,
+              "recurring": false
+            },
+            {
+              "name": "Penna 81+",
+              "price": 4.9,
+              "recurring": false
+            }
+          ],
+          "full_value_eur": 121.5,
+          "discount_pct": 50,
+          "promo_price_eur": 60.9,
+          "you_save_eur": 60.6,
+          "bonus_pv_plus": 60,
+          "cashback_pv_plus": 6.09,
+          "seats_left": 12,
+          "paypal_url": "https://www.paypal.me/aifis/60.90EUR"
+        },
+        {
+          "key": "fortezza",
+          "label": "FORTEZZA",
+          "tag": "L",
+          "badge": "MASSIMO VALORE",
+          "items": [
+            {
+              "name": "Tazza / mug 81+",
+              "price": 14.9,
+              "recurring": false
+            },
+            {
+              "name": "Magnete 81+",
+              "price": 3.9,
+              "recurring": false
+            },
+            {
+              "name": "Set adesivi 81+",
+              "price": 7.9,
+              "recurring": false
+            },
+            {
+              "name": "Giubbotto invernale 81+",
+              "price": 89.9,
+              "recurring": false
+            },
+            {
+              "name": "Penna 81+",
+              "price": 4.9,
+              "recurring": false
+            },
+            {
+              "name": "Gilet multitasche 81+",
+              "price": 49.9,
+              "recurring": false
+            },
+            {
+              "name": "Mousepad 81+",
+              "price": 12.9,
+              "recurring": false
+            },
+            {
+              "name": "Borraccia termica 81+",
+              "price": 29.9,
+              "recurring": false
+            }
+          ],
+          "full_value_eur": 214.2,
+          "discount_pct": 58,
+          "promo_price_eur": 89.9,
+          "you_save_eur": 124.3,
+          "bonus_pv_plus": 89,
+          "cashback_pv_plus": 8.99,
+          "seats_left": 7,
+          "paypal_url": "https://www.paypal.me/aifis/89.90EUR"
+        }
+      ],
+      "created_utc": "2026-07-08T11:15:15.558465+00:00",
+      "deadline_utc": "2026-07-11T11:15:15.558465+00:00",
+      "countdown_hours": 72,
+      "status": "active",
+      "cycle": 1,
+      "next_promote_utc": "2026-10-06T11:15:15.558465+00:00",
+      "landing_url": "https://81plus.net/promo/pack81-starter-c76f0c8d6.html",
+      "legal": {
+        "vendor": "Sicurissimo · Labo Tecnic Studio · P.IVA IT01504180298",
+        "price_note": "Prezzi IVA esclusa salvo diversa indicazione. PV/PV+ = utility interne, mai denaro.",
+        "disclaimer": "Offerta a tempo limitato, valida fino allo scadere del countdown o a esaurimento posti."
+      },
+      "links": {
+        "youtube": "https://www.youtube.com/@sicurissimo",
+        "telegram_channel": "https://t.me/sicurissimoonline",
+        "telegram_groups": "https://81plus.net/community.html",
+        "instagram": "https://www.instagram.com/sicurissimo",
+        "facebook": "https://www.facebook.com/sicurissimo",
+        "tiktok": "https://www.tiktok.com/@sicurissimo",
+        "listino": "/LISTINO81+.html",
+        "promo": "/promo/",
+        "audit": "/index.html#resta"
+      }
+    },
+    {
+      "id": "CB34E046C",
+      "slug": "pack81-presidio-cb34e046c",
+      "theme": "presidio",
+      "kind": "ricorrente",
+      "name": "PACK Presidio & Compliance",
+      "promise": "Compliance presidiata con dashboard e sigillo 81+: dormi sereno.",
+      "tiers": [
+        {
+          "key": "scudo",
+          "label": "SCUDO",
+          "tag": "S",
+          "badge": "",
+          "items": [
+            {
+              "name": "Pass Privacy/GDPR",
+              "price": 29.0,
+              "recurring": false
+            },
+            {
+              "name": "Pro+",
+              "price": 49.0,
+              "recurring": true
+            },
+            {
+              "name": "Blockchain +. Bitcoin, DeFi, NFT e Real World Assets dalla A alla Z",
+              "price": 17.0,
+              "recurring": false
+            }
+          ],
+          "full_value_eur": 95.0,
+          "discount_pct": 35,
+          "promo_price_eur": 61.9,
+          "you_save_eur": 33.1,
+          "bonus_pv_plus": 61,
+          "cashback_pv_plus": 6.19,
+          "seats_left": 25,
+          "paypal_url": "https://www.paypal.me/aifis/61.90EUR"
+        },
+        {
+          "key": "corazza",
+          "label": "CORAZZA",
+          "tag": "M",
+          "badge": "PIU SCELTO",
+          "items": [
+            {
+              "name": "Pass Privacy/GDPR",
+              "price": 29.0,
+              "recurring": false
+            },
+            {
+              "name": "Pro+",
+              "price": 49.0,
+              "recurring": true
+            },
+            {
+              "name": "Blockchain +. Bitcoin, DeFi, NFT e Real World Assets dalla A alla Z",
+              "price": 17.0,
+              "recurring": false
+            },
+            {
+              "name": "Compliance Business",
+              "price": 1900.0,
+              "recurring": false
+            },
+            {
+              "name": "SDP Pass LEGACY",
+              "price": 799.0,
+              "recurring": true
+            }
+          ],
+          "full_value_eur": 2794.0,
+          "discount_pct": 50,
+          "promo_price_eur": 1396.9,
+          "you_save_eur": 1397.1,
+          "bonus_pv_plus": 1396,
+          "cashback_pv_plus": 139.69,
+          "seats_left": 12,
+          "paypal_url": "https://www.paypal.me/aifis/1396.90EUR"
+        },
+        {
+          "key": "fortezza",
+          "label": "FORTEZZA",
+          "tag": "L",
+          "badge": "MASSIMO VALORE",
+          "items": [
+            {
+              "name": "Pass Privacy/GDPR",
+              "price": 29.0,
+              "recurring": false
+            },
+            {
+              "name": "Pro+",
+              "price": 49.0,
+              "recurring": true
+            },
+            {
+              "name": "Blockchain +. Bitcoin, DeFi, NFT e Real World Assets dalla A alla Z",
+              "price": 17.0,
+              "recurring": false
+            },
+            {
+              "name": "Compliance Business",
+              "price": 1900.0,
+              "recurring": false
+            },
+            {
+              "name": "SDP Pass LEGACY",
+              "price": 799.0,
+              "recurring": true
+            },
+            {
+              "name": "Presidio annuale Light",
+              "price": 490.0,
+              "recurring": false
+            },
+            {
+              "name": "200 PLP+ combo mensile",
+              "price": 29.0,
+              "recurring": true
+            },
+            {
+              "name": "500 PLP+ combo mensile",
+              "price": 49.0,
+              "recurring": true
+            }
+          ],
+          "full_value_eur": 3362.0,
+          "discount_pct": 58,
+          "promo_price_eur": 1411.9,
+          "you_save_eur": 1950.1,
+          "bonus_pv_plus": 1411,
+          "cashback_pv_plus": 141.19,
+          "seats_left": 7,
+          "paypal_url": "https://www.paypal.me/aifis/1411.90EUR"
+        }
+      ],
+      "created_utc": "2026-07-08T11:15:15.558991+00:00",
+      "deadline_utc": "2026-07-11T11:15:15.558991+00:00",
+      "countdown_hours": 72,
+      "status": "active",
+      "cycle": 1,
+      "next_promote_utc": "2026-10-06T11:15:15.558991+00:00",
+      "landing_url": "https://81plus.net/promo/pack81-presidio-cb34e046c.html",
+      "legal": {
+        "vendor": "Sicurissimo · Labo Tecnic Studio · P.IVA IT01504180298",
+        "price_note": "Prezzi IVA esclusa salvo diversa indicazione. PV/PV+ = utility interne, mai denaro.",
+        "disclaimer": "Offerta a tempo limitato, valida fino allo scadere del countdown o a esaurimento posti."
+      },
+      "links": {
+        "yout

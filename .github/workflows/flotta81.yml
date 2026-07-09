@@ -1,0 +1,29 @@
+# FLOTTA81+ · 20 agenti (OS Graziella) attivi in cloud H24 — funziona a PC spento.
+name: FLOTTA81 · 20 agenti
+on:
+  schedule:
+    - cron: "0 6 * * *"      # ogni giorno alle 06:00 UTC (brief del mattino)
+  workflow_dispatch: {}       # + avvio manuale dal tab Actions
+concurrency:
+  group: flotta81
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    env:
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Attiva la flotta (brief operativo del giorno)
+        run: python flotta81/flotta81.py
+      - name: Salva il brief nel repo (memoria della flotta)
+        run: |
+          git config user.name  "flotta81-bot"
+          git config user.email "flotta@81plus.net"
+          git add -A
+          git commit -m "FLOTTA81 brief $(date -u +%FT%TZ)" || echo "nulla da committare"
+          git push || echo "push saltato"

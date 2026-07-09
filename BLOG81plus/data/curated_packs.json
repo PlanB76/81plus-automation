@@ -1,0 +1,26 @@
+{
+  "_nota": "SPECIAL PACK 81+ — prezzi da listino, -30% sul totale. Order Bump: Corso Stress Lavoro Correlato -20% al carrello.",
+  "order_bump": {"name":"Corso Rischio Stress Lavoro-Correlato","full":150.0,"discount":20,"price":119.90},
+  "packs": [
+    {"id":"SP-GEN","title":"SPECIAL PACK 81+ · Generale","sector":"Tutti i settori","hours":48,
+     "desc":"Diventa autonomo sulla sicurezza della TUA azienda: metti insieme Datore di Lavoro-RSPP e capacita di formare i tuoi. Aggiornato all'Accordo Stato-Regioni 2025.",
+     "components":[{"n":"Corso Datore di Lavoro ASR 2025 (16 ore)","eur":500},{"n":"Modulo Comune DDL-RSPP (mod. 1 e 2)","eur":300},{"n":"Corso Formatori Sicurezza 24 ore","eur":600}],
+     "full":1400.0,"discount":30,"promo":979.90,"seats":15},
+    {"id":"SP-AGRI","title":"SPECIAL PACK 81+ · Agricoltura, Silvicoltura e Zootecnia","sector":"Agricoltura","hours":64,
+     "desc":"Il pacchetto completo per l'agricolo: Datore-RSPP, modulo di settore e capacita di formare i tuoi addetti. ASR 2025.",
+     "components":[{"n":"Corso Datore di Lavoro ASR 2025 (16 ore)","eur":500},{"n":"Modulo Comune DDL-RSPP (mod. 1 e 2)","eur":300},{"n":"RSPP modulo B - Agricoltura/Silvicoltura/Zootecnia","eur":450},{"n":"Corso Formatori Sicurezza 24 ore","eur":600}],
+     "full":1850.0,"discount":30,"promo":1294.90,"seats":12},
+    {"id":"SP-PESCA","title":"SPECIAL PACK 81+ · Pesca","sector":"Pesca","hours":60,
+     "desc":"Per chi opera nella pesca: Datore-RSPP, modulo di settore e formatore interno. ASR 2025.",
+     "components":[{"n":"Corso Datore di Lavoro ASR 2025 (16 ore)","eur":500},{"n":"Modulo Comune DDL-RSPP (mod. 1 e 2)","eur":300},{"n":"RSPP modulo B - Pesca (ASR 2025)","eur":450},{"n":"Corso Formatori Sicurezza 24 ore","eur":600}],
+     "full":1850.0,"discount":30,"promo":1294.90,"seats":10},
+    {"id":"SP-COSTR","title":"SPECIAL PACK 81+ · Costruzioni","sector":"Costruzioni","hours":64,
+     "desc":"Sicurezza in cantiere senza dipendere da terzi: Datore-RSPP, modulo Costruzioni e formatore interno. ASR 2025.",
+     "components":[{"n":"Corso Datore di Lavoro ASR 2025 (16 ore)","eur":500},{"n":"Modulo Comune DDL-RSPP (mod. 1 e 2)","eur":300},{"n":"RSPP modulo B - Costruzioni (ASR 2025)","eur":350},{"n":"Corso Formatori Sicurezza 24 ore","eur":600}],
+     "full":1750.0,"discount":30,"promo":1224.90,"seats":12},
+    {"id":"SP-CHIM","title":"SPECIAL PACK 81+ · Chimico-Petrolchimico","sector":"Chimico-Petrolchimico","hours":64,
+     "desc":"Alto rischio, massima autonomia: Datore-RSPP, modulo Petrolchimico e formatore interno. ASR 2025.",
+     "components":[{"n":"Corso Datore di Lavoro ASR 2025 (16 ore)","eur":500},{"n":"Modulo Comune DDL-RSPP (mod. 1 e 2)","eur":300},{"n":"RSPP modulo B - Petrolchimico (ASR 2025)","eur":400},{"n":"Corso Formatori Sicurezza 24 ore","eur":600}],
+     "full":1800.0,"discount":30,"promo":1259.90,"seats":8}
+  ]
+}
