@@ -64,10 +64,7 @@ jobs:
           git commit -m "ANIMA respiro $(date -u +%FT%TZ)" || echo "nulla da committare"
           git push || echo "push saltato"
 
-      # OPZIONALE: pubblica lo snapshot sul sito cosi' lo apri dal telefono su 81plus.net.
-      # Serve impostare i Secrets FTP_HOST / FTP_USER / FTP_PASS.
       - name: Pubblica snapshot sul sito (accesso da telefono)
-        if: ${{ secrets.FTP_HOST != '' }}
         run: |
           sudo apt-get -y install lftp >/dev/null 2>&1 || true
           for f in anima_stato.json anima/SITREP.md; do
