@@ -149,3 +149,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 0148,15.12.00,"Fabbricazione di articoli da viaggio, borse, pelletteria e selleria di qualsiasi materiale",Sicurezza,0101-0150,SICURIX_TALES_0148_151200_fabbricazione_di_articoli_da_viaggio_bor_SICUREZZA_v1.png,BRIEF_PRONTO
 0149,15.20.10,"Fabbricazione di calzature, escluse parti in cuoio per calzature",Sicurezza,0101-0150,SICURIX_TALES_0149_152010_fabbricazione_di_calzature_escluse_parti_SICUREZZA_v1.png,BRIEF_PRONTO
 0150,15.20.20,Fabbricazione di parti in cuoio per calzature,Sicurezza,0101-0150,SICURIX_TALES_0150_152020_fabbricazione_di_parti_in_cuoio_per_calz_SICUREZZA_v1.png,BRIEF_PRONTO
+0151,16.11.00,Taglio e piallatura del legno,Sicurezza,0151-0200,SICURIX_TALES_0151_161100_taglio_e_piallatura_del_legno_SICUREZZA_v1.png,BRIEF_PRONTO
+0152,16.12.00,Lavorazione e finitura del legno,Sicurezza,0151-0200,SICURIX_TALES_0152_161200_lavorazione_e_finitura_del_legno_SICUREZZA_v1.png,BRIEF_PRONTO
+0153,16.21.00,Fabbricazione di fogli da impiallacciatura e di pannelli a base di legno,Sicurezza,0151-0200,SICURIX_TALES_0153_162100_fabbricazione_di_fogli_da_impiallacciatu_SICUREZZA_v1.png,BRIEF_PRONTO
+0154,16.22.00,Fabbricazione di pavimenti di legno con elementi pre-assemblati,Sicurezza,0151-0200,SICURIX_TALES_0154_162200_fabbricazione_di_pavimenti_di_legno_con__SICUREZZA_v1.png,BRIEF_PRONTO
+0155,16.23.01,Fabbricazione di stand e strutture simili in legno per convegni e fiere,Sicurezza,0151-0200,SICURIX_TALES_0155_162301_fabbricazione_di_stand_e_strutture_simil_SICUREZZA_v1.png,BRIEF_PRONTO
+0156,16.23.09,Fabbricazione di altri prodotti di carpenteria in legno e falegnameria per l'edilizia n.c.a.,Sicurezza,0151-0200,SICURIX_TALES_0156_162309_fabbricazione_di_altri_prodotti_di_carpe_SICUREZZA_v1.png,BRIEF_PRONTO
+0157,16.24.00,Fabbricazione di imballaggi in legno,Sicurezza,0151-0200,SICURIX_TALES_0157_162400_fabbricazione_di_imballaggi_in_legno_SICUREZZA_v1.png,BRIEF_PRONTO
+0158,16.25.00,Fabbricazione di porte e finestre in legno,Sicurezza,0151-0200,SICURIX_TALES_0158_162500_fabbricazione_di_porte_e_finestre_in_leg_SICUREZZA_v1.png,BRIEF_PRONTO
+0159,16.26.00,Produzione di combustibili solidi da biomassa vegetale,Sicurezza,0151-0200,SICURIX_TALES_0159_162600_produzione_di_combustibili_solidi_da_bio_SICUREZZA_v1.png,BRIEF_PRONTO
+0160,16.27.00,Finitura di prodotti in legno,Sicurezza,0151-0200,SICURIX_TALES_0160_162700_finitura_di_prodotti_in_legno_SICUREZZA_v1.png,BRIEF_PRONTO
+0161,16.28.11,Fabbricazione di cornici,Sicurezza,0151-0200,SICURIX_TALES_0161_162811_fabbricazione_di_cornici_SICUREZZA_v1.png,BRIEF_PRONTO
+0162,16.28.19,Fabbricazione di altri prodotti in legno n.c.a.,Sicurezza,0151-0200,SICURIX_TALES_0162_162819_fabbricazione_di_altri_prodotti_in_legno_SICUREZZA_v1.png,BRIEF_PRONTO
+0163,16.28.20,Fabbricazione di articoli in sughero,Sicurezza,0151-0200,SICURIX_TALES_0163_162820_fabbricazione_di_articoli_in_sughero_SICUREZZA_v1.png,BRIEF_PRONTO
+0164,16.28.30,Fabbricazione di articoli in paglia e materiali da intreccio,Sicurezza,0151-0200,SICURIX_TALES_0164_162830_fabbricazione_di_articoli_in_paglia_e_ma_SICUREZZA_v1.png,BRIEF_PRONTO
+0165,17.11.00,Fabbricazione di pasta-carta,Sicurezza,0151-0200,SICURIX_TALES_0165_171100_fabbricazione_di_pasta_carta_SICUREZZA_v1.png,BRIEF_PRONTO
+0166,17.12.00,Fabbricazione di carta e cartone,Sicurezza,0151-0200,SICURIX_TALES_0166_171200_fabbricazione_di_carta_e_cartone_SICUREZZA_v1.png,BRIEF_PRONTO
+0167,17.21.00,"Fabbricazione di carta, cartone ondulato e di imballaggi di carta e cartone",Sicurezza,0151-0200,SICURIX_TALES_0167_172100_fabbricazione_di_carta_cartone_ondulato__SICUREZZA_v1.png,BRIEF_PRONTO
+0168,17.22.00,Fabbricazione di prodotti igienico-sanitari e per uso domestico in carta e ovatta di cellulosa,Sicurezza,0151-0200,SICURIX_TALES_0168_172200_fabbricazione_di_prodotti_igienico_sanit_SICUREZZA_v1.png,BRIEF_PRONTO
+0169,17.23.01,Fabbricazione di prodotti cartotecnici scolastici e commerciali,Sicurezza,0151-0200,SICURIX_TALES_0169_172301_fabbricazione_di_prodotti_cartotecnici_s_SICUREZZA_v1.png,BRIEF_PRONTO
+0170,17.23.09,Fabbricazione di altri prodotti cartotecnici,Sicurezza,0151-0200,SICURIX_TALES_0170_172309_fabbricazione_di_altri_prodotti_cartotec_SICUREZZA_v1.png,BRIEF_PRONTO
+0171,17.24.00,Fabbricazione di carta da parati,Sicurezza,0151-0200,SICURIX_TALES_0171_172400_fabbricazione_di_carta_da_parati_SICUREZZA_v1.png,BRIEF_PRONTO
+0172,17.25.00,Fabbricazione di altri articoli di carta e cartone,Sicurezza,0151-0200,SICURIX_TALES_0172_172500_fabbricazione_di_altri_articoli_di_carta_SICUREZZA_v1.png,BRIEF_PRONTO
+0173,18.11.00,Stampa di giornali,Sicurezza,0151-0200,SICURIX_TALES_0173_181100_stampa_di_giornali_SICUREZZA_v1.png,BRIEF_PRONTO
+0174,18.12.00,Altra stampa,Sicurezza,0151-0200,SICURIX_TALES_0174_181200_altra_stampa_SICUREZZA_v1.png,BRIEF_PRONTO
+0175,18.13.00,Lavorazioni preliminari alla stampa e ai media,Sicurezza,0151-0200,SICURIX_TALES_0175_181300_lavorazioni_preliminari_alla_stampa_e_ai_SICUREZZA_v1.png,BRIEF_PRONTO
+0176,18.14.00,Legatoria e servizi connessi,Sicurezza,0151-0200,SICURIX_TALES_0176_181400_legatoria_e_servizi_connessi_SICUREZZA_v1.png,BRIEF_PRONTO
+0177,18.20.00,Riproduzione di supporti registrati,Sicurezza,0151-0200,SICURIX_TALES_0177_182000_riproduzione_di_supporti_registrati_SICUREZZA_v1.png,BRIEF_PRONTO
+0178,19.10.00,Fabbricazione di prodotti di cokeria,Sicurezza,0151-0200,SICURIX_TALES_0178_191000_fabbricazione_di_prodotti_di_cokeria_SICUREZZA_v1.png,BRIEF_PRONTO
+0179,19.20.10,Raffinazione di petrolio,Sicurezza,0151-0200,SICURIX_TALES_0179_192010_raffinazione_di_petrolio_SICUREZZA_v1.png,BRIEF_PRONTO
+0180,19.20.20,Fabbricazione di derivati del petrolio,Sicurezza,0151-0200,SICURIX_TALES_0180_192020_fabbricazione_di_derivati_del_petrolio_SICUREZZA_v1.png,BRIEF_PRONTO
+0181,19.20.30,Miscelazione di gas petroliferi liquefatti (GPL) e loro imbottigliamento,Sicurezza,0151-0200,SICURIX_TALES_0181_192030_miscelazione_di_gas_petroliferi_liquefat_SICUREZZA_v1.png,BRIEF_PRONTO
+0182,19.20.40,Fabbricazione di prodotti di base per la copertura stradale,Sicurezza,0151-0200,SICURIX_TALES_0182_192040_fabbricazione_di_prodotti_di_base_per_la_SICUREZZA_v1.png,BRIEF_PRONTO
+0183,19.20.90,Fabbricazione di altri prodotti derivanti dalla raffinazione del petrolio e prodotti da combustibili fossili,Sicurezza,0151-0200,SICURIX_TALES_0183_192090_fabbricazione_di_altri_prodotti_derivant_SICUREZZA_v1.png,BRIEF_PRONTO
+0184,20.11.00,Fabbricazione di gas industriali,Sicurezza,0151-0200,SICURIX_TALES_0184_201100_fabbricazione_di_gas_industriali_SICUREZZA_v1.png,BRIEF_PRONTO
+0185,20.12.00,Fabbricazione di coloranti e pigmenti,Sicurezza,0151-0200,SICURIX_TALES_0185_201200_fabbricazione_di_coloranti_e_pigmenti_SICUREZZA_v1.png,BRIEF_PRONTO
+0186,20.13.00,Fabbricazione di altri prodotti chimici di base inorganici,Sicurezza,0151-0200,SICURIX_TALES_0186_201300_fabbricazione_di_altri_prodotti_chimici__SICUREZZA_v1.png,BRIEF_PRONTO
+0187,20.14.00,Fabbricazione di altri prodotti chimici di base organici,Sicurezza,0151-0200,SICURIX_TALES_0187_201400_fabbricazione_di_altri_prodotti_chimici__SICUREZZA_v1.png,BRIEF_PRONTO
+0188,20.15.00,Fabbricazione di fertilizzanti e composti azotati,Sicurezza,0151-0200,SICURIX_TALES_0188_201500_fabbricazione_di_fertilizzanti_e_compost_SICUREZZA_v1.png,BRIEF_PRONTO
+0189,20.16.00,Fabbricazione di materie plastiche in forme primarie,Sicurezza,0151-0200,SICURIX_TALES_0189_201600_fabbricazione_di_materie_plastiche_in_fo_SICUREZZA_v1.png,BRIEF_PRONTO
+0190,20.17.00,Fabbricazione di gomma sintetica in forme primarie,Sicurezza,0151-0200,SICURIX_TALES_0190_201700_fabbricazione_di_gomma_sintetica_in_form_SICUREZZA_v1.png,BRIEF_PRONTO
+0191,20.20.00,"Fabbricazione di fitofarmaci, disinfettanti e altri prodotti chimici per l'agricoltura",Sicurezza,0151-0200,SICURIX_TALES_0191_202000_fabbricazione_di_fitofarmaci_disinfettan_SICUREZZA_v1.png,BRIEF_PRONTO
+0192,20.30.00,"Fabbricazione di pitture, vernici e smalti, inchiostri da stampa e adesivi sintetici",Sicurezza,0151-0200,SICURIX_TALES_0192_203000_fabbricazione_di_pitture_vernici_e_smalt_SICUREZZA_v1.png,BRIEF_PRONTO
+0193,20.41.10,"Fabbricazione di saponi, detergenti e preparazioni tensioattive",Sicurezza,0151-0200,SICURIX_TALES_0193_204110_fabbricazione_di_saponi_detergenti_e_pre_SICUREZZA_v1.png,BRIEF_PRONTO
+0194,20.41.20,Fabbricazione di glicerina e altri prodotti per la pulizia e la lucidatura,Sicurezza,0151-0200,SICURIX_TALES_0194_204120_fabbricazione_di_glicerina_e_altri_prodo_SICUREZZA_v1.png,BRIEF_PRONTO
+0195,20.42.00,Fabbricazione di profumi e cosmetici,Sicurezza,0151-0200,SICURIX_TALES_0195_204200_fabbricazione_di_profumi_e_cosmetici_SICUREZZA_v1.png,BRIEF_PRONTO
+0196,20.51.00,Produzione di biocarburanti liquidi,Sicurezza,0151-0200,SICURIX_TALES_0196_205100_produzione_di_biocarburanti_liquidi_SICUREZZA_v1.png,BRIEF_PRONTO
+0197,20.59.11,Fabbricazione di fiammiferi,Sicurezza,0151-0200,SICURIX_TALES_0197_205911_fabbricazione_di_fiammiferi_SICUREZZA_v1.png,BRIEF_PRONTO
+0198,20.59.12,Fabbricazione di articoli esplosivi,Sicurezza,0151-0200,SICURIX_TALES_0198_205912_fabbricazione_di_articoli_esplosivi_SICUREZZA_v1.png,BRIEF_PRONTO
+0199,20.59.20,Fabbricazione di colle,Sicurezza,0151-0200,SICURIX_TALES_0199_205920_fabbricazione_di_colle_SICUREZZA_v1.png,BRIEF_PRONTO
+0200,20.59.30,Fabbricazione di oli essenziali,Sicurezza,0151-0200,SICURIX_TALES_0200_205930_fabbricazione_di_oli_essenziali_SICUREZZA_v1.png,BRIEF_PRONTO
