@@ -2,4 +2,21 @@
 81plus_secrets.env
 youtube_token.json
 client_secret*.json
+# CREDENZIALI token OAuth — mai nel repo
+token_*.json
+**/token_*.json
+*token*.json
+*.pem
+*.key
+service_account*.json
+# Python
+**/__pycache__/
+**/*.pyc
+# junk
+youtube_studio81/nel
+youtube_studio81/secret
 cloud_state/th_*.jpg
+
+# EMAILFLUX: mai committare DB/contatti
+emailflux81/*.db
+emailflux81/*.db-*
