@@ -100,20 +100,60 @@ def yt_upload(token_json, video_path, meta, categoryId):
         status, resp = req.next_chunk()
     return resp["id"]
 
+def _creds(token_json):
+    from google.oauth2.credentials import Credentials
+    data = json.loads(token_json)
+    return Credentials.from_authorized_user_info(data, scopes=data.get("scopes"))
+
+def drive_list_oauth(token_json, folder_id):
+    from googleapiclient.discovery import build
+    drv = build("drive","v3",credentials=_creds(token_json),cache_discovery=False)
+    out=[]; page=None
+    while True:
+        resp = drv.files().list(q="'%s' in parents and trashed=false" % folder_id,
+            fields="nextPageToken, files(id,name,mimeType,modifiedTime)",
+            pageSize=100, orderBy="modifiedTime desc",
+            includeItemsFromAllDrives=True, supportsAllDrives=True, pageToken=page).execute()
+        for f in resp.get("files", []):
+            n=f.get("name","").lower()
+            if ("video" in f.get("mimeType","")) or n.endswith(VID_EXT): out.append(f)
+        page = resp.get("nextPageToken")
+        if not page: break
+    return out
+
+def drive_download_oauth(token_json, file_id, dest):
+    import io
+    from googleapiclient.discovery import build
+    from googleapiclient.http import MediaIoBaseDownload
+    drv = build("drive","v3",credentials=_creds(token_json),cache_discovery=False)
+    req = drv.files().get_media(fileId=file_id, supportsAllDrives=True)
+    with open(dest,"wb") as fh:
+        dl = MediaIoBaseDownload(fh, req); done=False
+        while not done: _, done = dl.next_chunk()
+    return dest
+
 def run_channel(c, st):
-    api_key = os.environ.get(CFG["gdrive_api_key_secret"],"").strip() or os.environ.get("YOUTUBE_API_KEY","").strip()
     tok = os.environ.get(c["upload_secret"],"").strip()
-    if not api_key: log("SALTO %s: manca %s (chiave Drive)." % (c["handle"], CFG["gdrive_api_key_secret"])); return
-    if not tok: log("SALTO %s: manca %s (token upload)." % (c["handle"], c["upload_secret"])); return
-    try: files = drive_list(c["drive_folder_id"], api_key)
-    except Exception as e: log("Drive list ko per %s: %s" % (c["handle"], e)); return
+    if not tok: log("SALTO %s: manca %s (token)." % (c["handle"], c["upload_secret"])); return
+    api_key = os.environ.get(CFG.get("gdrive_api_key_secret",""),"").strip() or os.environ.get("YOUTUBE_API_KEY","").strip()
+    # Preferisci Drive via OAuth (token con scope drive.readonly). Fallback: API key.
+    modo="oauth"
+    try:
+        files = drive_list_oauth(tok, c["drive_folder_id"])
+    except Exception as e:
+        log("Drive OAuth ko per %s (%s). Provo API key." % (c["handle"], e))
+        if not api_key: log("SALTO %s: Drive non accessibile (né OAuth né API key)." % c["handle"]); return
+        try: files = drive_list(c["drive_folder_id"], api_key); modo="apikey"
+        except Exception as e2: log("Drive list ko per %s: %s" % (c["handle"], e2)); return
     nuovi = [f for f in files if f["id"] not in st["published"]]
-    log("%s: %d video nel Drive, %d nuovi." % (c["handle"], len(files), len(nuovi)))
+    log("%s: %d video nel Drive (%s), %d nuovi." % (c["handle"], len(files), modo, len(nuovi)))
     done=0
     for f in nuovi[:CFG.get("max_short_per_giro",3)]:
         try:
             tmp = os.path.join(tempfile.gettempdir(), f["id"]+"_"+re.sub(r"[^\w\.\-]","_",f["name"]))
-            log("scarico: "+f["name"]); drive_download(f["id"], api_key, tmp)
+            log("scarico: "+f["name"])
+            if modo=="oauth": drive_download_oauth(tok, f["id"], tmp)
+            else: drive_download(f["id"], api_key, tmp)
             meta = groq_meta(c["voce"], c["tema"], c["cta"], c["hashtag"], f["name"])
             vid = yt_upload(tok, tmp, meta, c["categoryId"])
             st["published"].append(f["id"]); done+=1
