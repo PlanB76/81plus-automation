@@ -1,0 +1,17 @@
+{
+  "_nota": "Libri di Mirco Pregnolato su Amazon (fonte: libri.html). Il poster Telegram ruota e posta 1 libro con caption divertente + link Amazon (anteprima = copertina).",
+  "libri": [
+    {"cat":"Sicurezza sul lavoro","t":"Sicurezza sul Lavoro Senza Stress. La guida pratica per le PMI","u":"https://www.amazon.it/s?k=Sicurezza+sul+Lavoro+Senza+Stress+Mirco+Pregnolato"},
+    {"cat":"Sicurezza sul lavoro","t":"Sicurissimo. La guida indispensabile alla Sicurezza Aziendale","u":"https://amzn.eu/d/0du1Uk62"},
+    {"cat":"HACCP","t":"Sicurissimo HACCP. Semplice e applicabile","u":"https://amzn.eu/d/02v5c0rw"},
+    {"cat":"Organizzazione","t":"Sicurissimo. Addio Burocrazia","u":"https://amzn.eu/d/0i70ybvF"},
+    {"cat":"Crescita personale","t":"Reset 90. Novanta giorni per ripartire","u":"https://amzn.eu/d/0bvFWTey"},
+    {"cat":"Salute","t":"Il Diario della Glicemia. Monitoraggio quotidiano","u":"https://amzn.eu/d/0jigFhvx"},
+    {"cat":"Crescita personale","t":"MAGIC+. Il segreto hawaiano per riallineare la tua vita in 30 giorni","u":"https://www.amazon.it/dp/B0H71M6439/"},
+    {"cat":"Scienza & Coscienza","t":"QUARTA DIMENSIONE. Dimensioni e definizioni · TIME81","u":"https://www.amazon.it/QUARTA-DIMENSIONE-dimensioni-definizioni-TIME81-ebook/dp/B0H75YXS3T/"},
+    {"cat":"Bitcoin & Cripto","t":"Bitcoin Svelato. La guida definitiva per scettici e principianti","u":"https://www.amazon.it/BITCOIN-SVELATO-Definitiva-Scettici-Principianti/dp/B0FCLZG8FD"},
+    {"cat":"Bitcoin & Cripto","t":"110 Modi per guadagnare con le criptovalute. I metodi piu sicuri","u":"https://www.amazon.it/110-Modi-guadagnare-criptovalute-Metodi/dp/B0G4S61SZP"},
+    {"cat":"Bitcoin & Cripto","t":"Blockchain+","u":"https://www.amazon.it/Blockchain-automatico-definitiva-guadagnare-blockchain/dp/B0H3C7MF52"},
+    {"cat":"Bitcoin & Cripto","t":"Se pensi che Bitcoin sia complicato, allora devi conoscere le Shitcoin","u":"https://www.amazon.it/BITCOIN-complicato-allora-conoscere-Shitcoin-ebook/dp/B0DWXZLH2H"}
+  ]
+}

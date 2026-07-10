@@ -1,0 +1,39 @@
+# YOUTUBE STUDIO 81+ · pubblica short dal Drive con metadata virali + cross-post Telegram
+name: YOUTUBE STUDIO 81+
+on:
+  schedule:
+    - cron: "0 8,14,20 * * *"   # 3 volte al giorno (UTC)
+  workflow_dispatch: {}
+concurrency:
+  group: youtube-studio81
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  studio:
+    runs-on: ubuntu-latest
+    env:
+      GROQ_API_KEY:               ${{ secrets.GROQ_API_KEY }}
+      GDRIVE_API_KEY:             ${{ secrets.GDRIVE_API_KEY }}
+      YOUTUBE_API_KEY:            ${{ secrets.YOUTUBE_API_KEY }}
+      YOUTUBE_TOKEN_JSON:         ${{ secrets.YOUTUBE_TOKEN_JSON }}
+      YOUTUBE_TOKEN_JSON_DESTINO: ${{ secrets.YOUTUBE_TOKEN_JSON_DESTINO }}
+      SICURIX_TG_TOKEN:           ${{ secrets.SICURIX_TG_TOKEN }}
+      SICURIX_TG_CHANNEL:         ${{ secrets.SICURIX_TG_CHANNEL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Dipendenze
+        run: pip install --quiet google-api-python-client google-auth google-auth-oauthlib Pillow
+      - name: Pubblica short (Drive -> YouTube -> Telegram)
+        run: python youtube_studio81/shorts_pub81.py
+      - name: Restyle video lunghi (titolo + descrizione + thumbnail, evergreen)
+        run: python youtube_studio81/restyle81.py
+      - name: Salva lo stato
+        run: |
+          git config user.name  "studio81-bot"
+          git config user.email "bot@81plus.net"
+          git add -A
+          git commit -m "YOUTUBE STUDIO 81+ giro $(date -u +%FT%TZ)" || echo "nulla da committare"
+          git push || echo "push saltato"
