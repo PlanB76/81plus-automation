@@ -199,3 +199,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 0198,20.59.12,Fabbricazione di articoli esplosivi,Sicurezza,0151-0200,SICURIX_TALES_0198_205912_fabbricazione_di_articoli_esplosivi_SICUREZZA_v1.png,BRIEF_PRONTO
 0199,20.59.20,Fabbricazione di colle,Sicurezza,0151-0200,SICURIX_TALES_0199_205920_fabbricazione_di_colle_SICUREZZA_v1.png,BRIEF_PRONTO
 0200,20.59.30,Fabbricazione di oli essenziali,Sicurezza,0151-0200,SICURIX_TALES_0200_205930_fabbricazione_di_oli_essenziali_SICUREZZA_v1.png,BRIEF_PRONTO
+0201,20.59.91,Fabbricazione di liquidi per inalazione per sigarette elettroniche,Sicurezza,0201-0250,SICURIX_TALES_0201_205991_fabbricazione_di_liquidi_per_inalazione__SICUREZZA_v1.png,BRIEF_PRONTO
+0202,20.59.99,Fabbricazione di tutti gli altri prodotti chimici vari n.c.a.,Sicurezza,0201-0250,SICURIX_TALES_0202_205999_fabbricazione_di_tutti_gli_altri_prodott_SICUREZZA_v1.png,BRIEF_PRONTO
+0203,20.60.00,Fabbricazione di fibre sintetiche e artificiali,Sicurezza,0201-0250,SICURIX_TALES_0203_206000_fabbricazione_di_fibre_sintetiche_e_arti_SICUREZZA_v1.png,BRIEF_PRONTO
+0204,21.10.00,Fabbricazione di prodotti farmaceutici di base,Sicurezza,0201-0250,SICURIX_TALES_0204_211000_fabbricazione_di_prodotti_farmaceutici_d_SICUREZZA_v1.png,BRIEF_PRONTO
+0205,21.20.01,Fabbricazione di sostanze diagnostiche radioattive in vivo,Sicurezza,0201-0250,SICURIX_TALES_0205_212001_fabbricazione_di_sostanze_diagnostiche_r_SICUREZZA_v1.png,BRIEF_PRONTO
+0206,21.20.09,Fabbricazione di medicinali e altri preparati farmaceutici,Sicurezza,0201-0250,SICURIX_TALES_0206_212009_fabbricazione_di_medicinali_e_altri_prep_SICUREZZA_v1.png,BRIEF_PRONTO
+0207,22.11.10,Fabbricazione di pneumatici e camere d'aria,Sicurezza,0201-0250,SICURIX_TALES_0207_221110_fabbricazione_di_pneumatici_e_camere_d_a_SICUREZZA_v1.png,BRIEF_PRONTO
+0208,22.11.20,Rigenerazione e ricostruzione di pneumatici,Sicurezza,0201-0250,SICURIX_TALES_0208_221120_rigenerazione_e_ricostruzione_di_pneumat_SICUREZZA_v1.png,BRIEF_PRONTO
+0209,22.12.00,Fabbricazione di altri prodotti in gomma,Sicurezza,0201-0250,SICURIX_TALES_0209_221200_fabbricazione_di_altri_prodotti_in_gomma_SICUREZZA_v1.png,BRIEF_PRONTO
+0210,22.21.00,"Fabbricazione di lastre, fogli, tubi e profilati in materie plastiche",Sicurezza,0201-0250,SICURIX_TALES_0210_222100_fabbricazione_di_lastre_fogli_tubi_e_pro_SICUREZZA_v1.png,BRIEF_PRONTO
+0211,22.22.00,Fabbricazione di imballaggi in materie plastiche,Sicurezza,0201-0250,SICURIX_TALES_0211_222200_fabbricazione_di_imballaggi_in_materie_p_SICUREZZA_v1.png,BRIEF_PRONTO
+0212,22.23.00,Fabbricazione di porte e finestre in materie plastiche,Sicurezza,0201-0250,SICURIX_TALES_0212_222300_fabbricazione_di_porte_e_finestre_in_mat_SICUREZZA_v1.png,BRIEF_PRONTO
+0213,22.24.01,Fabbricazione di rivestimenti per pareti e pavimenti in materie plastiche,Sicurezza,0201-0250,SICURIX_TALES_0213_222401_fabbricazione_di_rivestimenti_per_pareti_SICUREZZA_v1.png,BRIEF_PRONTO
+0214,22.24.09,Fabbricazione di altri articoli in materie plastiche per l'edilizia,Sicurezza,0201-0250,SICURIX_TALES_0214_222409_fabbricazione_di_altri_articoli_in_mater_SICUREZZA_v1.png,BRIEF_PRONTO
+0215,22.25.00,Lavorazione e finitura di prodotti in materie plastiche,Sicurezza,0201-0250,SICURIX_TALES_0215_222500_lavorazione_e_finitura_di_prodotti_in_ma_SICUREZZA_v1.png,BRIEF_PRONTO
+0216,22.26.11,Fabbricazione di articoli e attrezzature per la pulizia per uso domestico in materie plastiche,Sicurezza,0201-0250,SICURIX_TALES_0216_222611_fabbricazione_di_articoli_e_attrezzature_SICUREZZA_v1.png,BRIEF_PRONTO
+0217,22.26.12,Fabbricazione di articoli e attrezzature per la pulizia per uso non domestico in materie plastiche,Sicurezza,0201-0250,SICURIX_TALES_0217_222612_fabbricazione_di_articoli_e_attrezzature_SICUREZZA_v1.png,BRIEF_PRONTO
+0218,22.26.91,Fabbricazione di articoli per l'ufficio e la scuola in materie plastiche,Privacy,0201-0250,SICURIX_TALES_0218_222691_fabbricazione_di_articoli_per_l_ufficio__PRIVACY_v1.png,BRIEF_PRONTO
+0219,22.26.99,Fabbricazione di altri prodotti vari in materie plastiche n.c.a.,Sicurezza,0201-0250,SICURIX_TALES_0219_222699_fabbricazione_di_altri_prodotti_vari_in__SICUREZZA_v1.png,BRIEF_PRONTO
+0220,23.11.00,Fabbricazione di vetro piano,Sicurezza,0201-0250,SICURIX_TALES_0220_231100_fabbricazione_di_vetro_piano_SICUREZZA_v1.png,BRIEF_PRONTO
+0221,23.12.00,Lavorazione e trasformazione del vetro piano,Privacy,0201-0250,SICURIX_TALES_0221_231200_lavorazione_e_trasformazione_del_vetro_p_PRIVACY_v1.png,BRIEF_PRONTO
+0222,23.13.00,Fabbricazione di vetro cavo,Sicurezza,0201-0250,SICURIX_TALES_0222_231300_fabbricazione_di_vetro_cavo_SICUREZZA_v1.png,BRIEF_PRONTO
+0223,23.14.00,Fabbricazione di fibre di vetro,Sicurezza,0201-0250,SICURIX_TALES_0223_231400_fabbricazione_di_fibre_di_vetro_SICUREZZA_v1.png,BRIEF_PRONTO
+0224,23.15.10,Lavorazione di vetro a mano e a soffio artistico,Sicurezza,0201-0250,SICURIX_TALES_0224_231510_lavorazione_di_vetro_a_mano_e_a_soffio_a_SICUREZZA_v1.png,BRIEF_PRONTO
+0225,23.15.90,Altre attività di fabbricazione e lavorazione di altro vetro incluso il vetro per usi tecnici,Sicurezza,0201-0250,SICURIX_TALES_0225_231590_altre_attivit_di_fabbricazione_e_lavoraz_SICUREZZA_v1.png,BRIEF_PRONTO
+0226,23.20.00,Fabbricazione di prodotti refrattari,Sicurezza,0201-0250,SICURIX_TALES_0226_232000_fabbricazione_di_prodotti_refrattari_SICUREZZA_v1.png,BRIEF_PRONTO
+0227,23.31.00,Fabbricazione di piastrelle in ceramica per pavimenti e rivestimenti,Sicurezza,0201-0250,SICURIX_TALES_0227_233100_fabbricazione_di_piastrelle_in_ceramica__SICUREZZA_v1.png,BRIEF_PRONTO
+0228,23.32.00,"Fabbricazione di mattoni, tegole e altri prodotti per l'edilizia in terracotta",Sicurezza,0201-0250,SICURIX_TALES_0228_233200_fabbricazione_di_mattoni_tegole_e_altri__SICUREZZA_v1.png,BRIEF_PRONTO
+0229,23.41.00,Fabbricazione di prodotti in ceramica per usi domestici e ornamentali,Sicurezza,0201-0250,SICURIX_TALES_0229_234100_fabbricazione_di_prodotti_in_ceramica_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0230,23.42.00,Fabbricazione di articoli sanitari in ceramica,Sicurezza,0201-0250,SICURIX_TALES_0230_234200_fabbricazione_di_articoli_sanitari_in_ce_SICUREZZA_v1.png,BRIEF_PRONTO
+0231,23.43.00,Fabbricazione di isolatori e di pezzi isolanti in ceramica,Sicurezza,0201-0250,SICURIX_TALES_0231_234300_fabbricazione_di_isolatori_e_di_pezzi_is_SICUREZZA_v1.png,BRIEF_PRONTO
+0232,23.44.00,Fabbricazione di altri prodotti in ceramica per uso tecnico e industriale,Sicurezza,0201-0250,SICURIX_TALES_0232_234400_fabbricazione_di_altri_prodotti_in_ceram_SICUREZZA_v1.png,BRIEF_PRONTO
+0233,23.45.00,Fabbricazione di altri prodotti in ceramica,Sicurezza,0201-0250,SICURIX_TALES_0233_234500_fabbricazione_di_altri_prodotti_in_ceram_SICUREZZA_v1.png,BRIEF_PRONTO
+0234,23.51.00,Produzione di cemento,Sicurezza,0201-0250,SICURIX_TALES_0234_235100_produzione_di_cemento_SICUREZZA_v1.png,BRIEF_PRONTO
+0235,23.52.10,Produzione di calce,Sicurezza,0201-0250,SICURIX_TALES_0235_235210_produzione_di_calce_SICUREZZA_v1.png,BRIEF_PRONTO
+0236,23.52.20,Produzione di gesso,Sicurezza,0201-0250,SICURIX_TALES_0236_235220_produzione_di_gesso_SICUREZZA_v1.png,BRIEF_PRONTO
+0237,23.61.01,Fabbricazione di tubi prefabbricati in calcestruzzo per acqua potabile,Sicurezza,0201-0250,SICURIX_TALES_0237_236101_fabbricazione_di_tubi_prefabbricati_in_c_SICUREZZA_v1.png,BRIEF_PRONTO
+0238,23.61.02,Fabbricazione di caminetti prefabbricati in calcestruzzo,Sicurezza,0201-0250,SICURIX_TALES_0238_236102_fabbricazione_di_caminetti_prefabbricati_SICUREZZA_v1.png,BRIEF_PRONTO
+0239,23.61.03,Fabbricazione di elementi prefabbricati in calcestruzzo per l'edilizia,Sicurezza,0201-0250,SICURIX_TALES_0239_236103_fabbricazione_di_elementi_prefabbricati__SICUREZZA_v1.png,BRIEF_PRONTO
+0240,23.61.04,Fabbricazione di strutture prefabbricate in calcestruzzo per l'edilizia,Sicurezza,0201-0250,SICURIX_TALES_0240_236104_fabbricazione_di_strutture_prefabbricate_SICUREZZA_v1.png,BRIEF_PRONTO
+0241,23.61.09,Fabbricazione di prodotti in calcestruzzo per l'edilizia n.c.a.,Sicurezza,0201-0250,SICURIX_TALES_0241_236109_fabbricazione_di_prodotti_in_calcestruzz_SICUREZZA_v1.png,BRIEF_PRONTO
+0242,23.62.00,Fabbricazione di prodotti in gesso per l'edilizia,Sicurezza,0201-0250,SICURIX_TALES_0242_236200_fabbricazione_di_prodotti_in_gesso_per_l_SICUREZZA_v1.png,BRIEF_PRONTO
+0243,23.63.00,Produzione di calcestruzzo pronto per l'uso,Sicurezza,0201-0250,SICURIX_TALES_0243_236300_produzione_di_calcestruzzo_pronto_per_l__SICUREZZA_v1.png,BRIEF_PRONTO
+0244,23.64.00,Produzione di malta,Sicurezza,0201-0250,SICURIX_TALES_0244_236400_produzione_di_malta_SICUREZZA_v1.png,BRIEF_PRONTO
+0245,23.65.01,"Fabbricazione di prodotti in sostanze vegetali agglomerate con cemento, gesso o altri leganti minerali",Sicurezza,0201-0250,SICURIX_TALES_0245_236501_fabbricazione_di_prodotti_in_sostanze_ve_SICUREZZA_v1.png,BRIEF_PRONTO
+0246,23.65.02,Fabbricazione di prodotti in asbesto-cemento o cellulosa fibrocemento,Sicurezza,0201-0250,SICURIX_TALES_0246_236502_fabbricazione_di_prodotti_in_asbesto_cem_SICUREZZA_v1.png,BRIEF_PRONTO
+0247,23.66.01,"Fabbricazione di statue, bassorilievi e altorilievi, vasi e fioriere",Sicurezza,0201-0250,SICURIX_TALES_0247_236601_fabbricazione_di_statue_bassorilievi_e_a_SICUREZZA_v1.png,BRIEF_PRONTO
+0248,23.66.09,"Fabbricazione di altri prodotti in calcestruzzo, cemento e gesso n.c.a.",Sicurezza,0201-0250,SICURIX_TALES_0248_236609_fabbricazione_di_altri_prodotti_in_calce_SICUREZZA_v1.png,BRIEF_PRONTO
+0249,23.70.10,Taglio e lavorazione di pietre e di marmo,Sicurezza,0201-0250,SICURIX_TALES_0249_237010_taglio_e_lavorazione_di_pietre_e_di_marm_SICUREZZA_v1.png,BRIEF_PRONTO
+0250,23.70.20,Lavorazione artistica di marmo e di altre pietre affini,Sicurezza,0201-0250,SICURIX_TALES_0250_237020_lavorazione_artistica_di_marmo_e_di_altr_SICUREZZA_v1.png,BRIEF_PRONTO
