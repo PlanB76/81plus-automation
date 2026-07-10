@@ -1,0 +1,33 @@
+{
+  "_nota": "CANALI VIVI 81+ · automazioni engagement/SEO/playlist via YouTube Data API v3. Un solo token per canale (secret).",
+  "canali": [
+    {
+      "handle": "@sicurissimo",
+      "nome": "Sicurissimo81+",
+      "token_secret": "YOUTUBE_TOKEN_JSON",
+      "tema": "sicurezza sul lavoro, HACCP, privacy, formazione",
+      "cta": "Metti in regola la tua azienda in 1 click su 81plus.net",
+      "voce": "esperto sicurezza sul lavoro, tono rassicurante e concreto, italiano, frasi brevi, zero inventiva su norme e prezzi",
+      "hashtag": ["#sicurezzasullavoro", "#81plus", "#HACCP", "#formazione", "#SICURIX"],
+      "playlist_per_tema": true
+    },
+    {
+      "handle": "@destinorandagio",
+      "nome": "Destino Randagio",
+      "token_secret": "YOUTUBE_TOKEN_JSON_DESTINO",
+      "tema": "musica, visual, emozione, cantautorato AI",
+      "cta": "Ascolta tutti i brani e seguimi: 81plus.net",
+      "voce": "artista musicale, tono poetico e caldo, italiano, ringrazia chi ascolta, invita a salvare il brano",
+      "hashtag": ["#musica", "#cantautore", "#DestinoRandagio", "#officialvisual"],
+      "playlist_per_tema": true
+    }
+  ],
+  "azioni": {
+    "auto_reply_commenti": true,
+    "commento_cta_fissato": true,
+    "auto_playlist": true,
+    "seo_refresh_descrizione": true,
+    "max_video_recenti": 8,
+    "max_reply_per_giro": 15
+  }
+}

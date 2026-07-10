@@ -64,7 +64,8 @@ def run(send=False):
     stp=os.path.join(ROOT,"data","state.json")
     st=json.load(open(stp,encoding="utf-8")) if os.path.exists(stp) else {"articles_since_nl":0,"last_scad_month":"","theme_idx":0}
     rot=cfg["blog"]["themes_rotation"]; theme=rot[st.get("theme_idx",0)%len(rot)]; st["theme_idx"]=st.get("theme_idx",0)+1
-    art=BE.generate_article(cfg,cat,theme,cfg["links"]["promo"])
+    ang=cfg["blog"].get("angles",[]); angle=(ang[st.get("angle_idx",0)%len(ang)]["gancio"] if ang else None); st["angle_idx"]=st.get("angle_idx",0)+1
+    art=BE.generate_article(cfg,cat,theme,cfg["links"]["promo"],angle)
     areg=BE.write_article(cfg,art)
     st["articles_since_nl"]=st.get("articles_since_nl",0)+1
     # SCADENZARIO mensile (una volta al mese)

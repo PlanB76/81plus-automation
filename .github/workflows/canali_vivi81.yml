@@ -1,0 +1,33 @@
+# CANALI VIVI 81+ · engagement/SEO/playlist su @sicurissimo e @destinorandagio
+name: CANALI VIVI 81+
+on:
+  schedule:
+    - cron: "0 9,15,21 * * *"   # 3 volte al giorno (UTC)
+  workflow_dispatch: {}
+concurrency:
+  group: canali-vivi81
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  vivi:
+    runs-on: ubuntu-latest
+    env:
+      GROQ_API_KEY:              ${{ secrets.GROQ_API_KEY }}
+      YOUTUBE_TOKEN_JSON:        ${{ secrets.YOUTUBE_TOKEN_JSON }}
+      YOUTUBE_TOKEN_JSON_DESTINO: ${{ secrets.YOUTUBE_TOKEN_JSON_DESTINO }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Dipendenze
+        run: pip install --quiet google-api-python-client google-auth google-auth-oauthlib
+      - name: Rendi vivi i canali
+        run: python canali_vivi81/canali_vivi81.py
+      - name: Salva lo stato
+        run: |
+          git config user.name  "canali81-bot"
+          git config user.email "bot@81plus.net"
+          git add -A
+          git commit -m "CANALI VIVI 81+ giro $(date -u +%FT%TZ)" || echo "nulla da committare"
+          git push || echo "push saltato"

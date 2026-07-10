@@ -1,0 +1,43 @@
+{
+  "brand":"81+ / Sicurissimo",
+  "autore":"Mirco Pregnolato",
+  "promessa_madre":"Un business/azienda in regola che non dipende dalla tua presenza continua: il presidio lavora per te.",
+  "metodo":{
+    "nome":"Metodo 81+ (Presidio Asincrono)",
+    "una_frase":"Non un fornitore, un sistema: mette in regola, forma, documenta e presidia le scadenze al posto tuo.",
+    "3_pilastri":["Fondamenta a norma (DVR, HACCP, privacy, formazione)","Autonomia (formi i tuoi, decidi tu)","Presidio continuo (scadenze e aggiornamenti gestiti)"]
+  },
+  "avatar":"Datore di lavoro / titolare PMI, artigiano, ristoratore, impresa edile/agricola: poco tempo, teme controlli e multe, stanco di rincorrere consulenti e scadenze.",
+  "credenze_da_spostare":[
+    "La sicurezza e l'HACCP sono solo burocrazia e un costo.",
+    "Basta un corso una tantum e sono a posto per sempre.",
+    "Tanto a me non verranno mai a controllare.",
+    "Me la cavo all'ultimo momento quando serve.",
+    "E' tutto troppo complicato, meglio non pensarci."
+  ],
+  "perche_il_comune_non_funziona":[
+    "Il corso singolo scade e non copre gli aggiornamenti obbligatori.",
+    "Il consulente esterno ti lega a lui e ai suoi tempi (e alle sue fatture).",
+    "Il 'fai da te all'ultimo' ti espone proprio quando arriva il controllo.",
+    "Documenti sparsi = nessun presidio delle scadenze."
+  ],
+  "obiezioni":[
+    {"o":"Costa troppo","r":"Costa meno di UNA sanzione o di un fermo attività; e con i pack risparmi il 30-58% sul valore pieno."},
+    {"o":"Non ho tempo","r":"Il senso del Metodo 81+ è togliere tempo a te: pensiamo noi a scadenze, documenti e aggiornamenti."},
+    {"o":"Ho già un consulente","r":"Il Metodo ti rende autonomo: formi i tuoi, decidi tu, smetti di dipendere da terzi."},
+    {"o":"E' complicato","r":"Ti diamo un percorso passo-passo e i documenti pronti: zero burocrazia gestita da te."}
+  ],
+  "costi_nascosti_inazione":[
+    "Sanzioni fino a migliaia di euro e sospensione attività.",
+    "Responsabilità penale del datore in caso di infortunio.",
+    "Ore perse a rincorrere scadenze e consulenti.",
+    "Stress costante del 'sono davvero a posto?'"
+  ],
+  "scala_offerte":[
+    {"step":"AUDIT81+ gratuito","url":"/index.html#resta","ruolo":"scopri dove sei scoperto (TOFU/MOFU)"},
+    {"step":"SPECIAL PACK 81+ (-30%)","url":"/promo/","ruolo":"metti in regola e diventa autonomo (BOFU)"},
+    {"step":"PACK81+ a tempo","url":"/promo/","ruolo":"bundle tematico a prezzo tagliato (BOFU)"},
+    {"step":"Membership 81+","url":"/membership.html","ruolo":"presidio continuo e vantaggi ricorrenti"}
+  ],
+  "tono":"Prima persona (Mirco), diretto, umano, concreto, autorevole; niente fuffa; leva emotiva OBBLIGO/PAURA vs SOLUZIONE 81+; frasi brevi."
+}

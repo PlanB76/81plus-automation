@@ -14,6 +14,25 @@ import reviews
 
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def cfgload(): return json.load(open(os.path.join(ROOT,"config","blog81_config.json"),encoding="utf-8"))
+def fondaload(cfg):
+    try: return json.load(open(os.path.join(ROOT, cfg.get("fondamenta_file","config/fondamenta81.json")),encoding="utf-8"))
+    except Exception: return {}
+def _presell_context(cfg):
+    d=fondaload(cfg)
+    if not d: return ""
+    met=d.get("metodo",{})
+    ob="; ".join(o.get("o","")+" -> "+o.get("r","") for o in d.get("obiezioni",[]))
+    return ("CONTESTO 81+ PER IL PRESELLING (usalo, non elencarlo):\n"
+        "- Metodo: "+met.get("nome","Metodo 81+")+" - "+met.get("una_frase","")+"\n"
+        "- Avatar: "+d.get("avatar","")+"\n"
+        "- Credenze da spostare: "+"; ".join(d.get("credenze_da_spostare",[]))+"\n"
+        "- Perche il comune fallisce: "+"; ".join(d.get("perche_il_comune_non_funziona",[]))+"\n"
+        "- Obiezioni->risposte: "+ob+"\n"
+        "- Costi nascosti: "+"; ".join(d.get("costi_nascosti_inazione",[]))+"\n"
+        "- Scala offerte: AUDIT81+ gratuito -> SPECIAL PACK/PACK81+ -> Membership.\n"
+        "OBIETTIVO: sposta UNA credenza, mostra il costo nascosto dell'inazione, presenta il Metodo 81+, "
+        "gestisci UNA obiezione, chiudi con CTA a AUDIT81+ e alle offerte. NIENTE link al listino.")
+
 def now(): return datetime.datetime.now(datetime.timezone.utc)
 
 HEAD_INC='<link rel="stylesheet" href="/promo81.css">'
@@ -74,7 +93,7 @@ def clickbait(theme, base=None):
     return f"{random.choice(CLICK)} {theme} (e come blindarti in 48 ore)"
 
 # ---- LLM ----
-def llm_write(cfg, theme, sources, pack_url):
+def llm_write(cfg, theme, sources, pack_url, angle=None):
     p=cfg["llm"]
     sys=(f"Sei Mirco Pregnolato, fondatore di 81+/Sicurissimo, e scrivi in PRIMA PERSONA un VERO articolo di blog "
          f"(non un volantino) sul tema '{theme}'. Deve sembrare scritto da me: diretto, esperto, umano, con aneddoti e opinioni. "
@@ -85,6 +104,7 @@ def llm_write(cfg, theme, sources, pack_url):
          f"CTA: NON linkare mai il listino. Rimanda a un PACK81+ in promo ({pack_url}), all'AUDIT81+ gratuito, "
          f"al canale YouTube @sicurissimo e a Telegram. HTML semplice (<h1><h2><h3><p><ul><li><blockquote><strong>), "
          f"niente <html>/<head>. 800-1100 parole, italiano.")
+    sys = sys + "\n\n" + _presell_context(cfg) + (("\nANGOLO OBBLIGATO dell'articolo: " + angle) if angle else "")
     src="\n".join(f"- {s['title']}: {s['desc']}" for s in sources) or "(usa la tua esperienza e la normativa vigente)"
     user=f"NOTIZIE REALI DI OGGI:\n{src}\n\nScrivi l'articolo completo ora."
     gk=os.environ.get(p.get("groq_env",""),"")
@@ -114,26 +134,32 @@ def llm_write(cfg, theme, sources, pack_url):
         except Exception as e: print("[llm openai]",e)
     return None
 
-def template_article(cfg, theme, sources, pack_url):
-    L=cfg["links"]
-    news="".join(f'<li><a href="{s["link"]}" target="_blank" rel="noopener">{html.escape(s["title"])}</a> — {html.escape(s["desc"][:140])}…</li>' for s in sources[:5]) or "<li>Gli aggiornamenti normativi di questi giorni.</li>"
-    fear=random.choice(cfg["blog"]["cta_emotions"])
-    return f'''<h1>{clickbait(theme)}</h1>
-<p>Te lo dico senza giri di parole, come lo direi a un amico davanti a un caffè: sul tema <em>{theme.lower()}</em> la maggior parte delle aziende è scoperta e non lo sa. E quando arriva il controllo, è troppo tardi.</p>
-<h2>Cosa è successo in questi giorni</h2><ul>{news}</ul>
-<h2>Perché dovrebbe farti paura (in senso buono)</h2>
-<p>Ogni notizia qui sopra nasconde un obbligo di legge, una responsabilità personale, una sanzione possibile. {fear}
-Non ti scrivo per spaventarti: ti scrivo perché in 20 anni ho visto imprenditori in gamba pagare care distrazioni evitabilissime.</p>
-<blockquote>La differenza tra chi rischia e chi dorme sereno non è la fortuna. È avere un sistema. Il mio si chiama 81+.</blockquote>
-<h2>Come ti blindi (davvero) in 48 ore</h2>
-<p>Ho impacchettato tutto in un'offerta a tempo, così non devi scegliere pezzo per pezzo:</p>
-<p>🔥 <a href="{pack_url}"><strong>Guarda il PACK81+ in promo su questo tema →</strong></a> (posti limitati, countdown attivo)</p>
-<p>Preferisci prima capire dove sei scoperto? <a href="{L['audit']}"><strong>Fai l'AUDIT81+ gratuito →</strong></a></p>
-<h3>Restiamo in contatto</h3>
-<p>Ti spiego tutto anche a voce: ▶ <a href="{L['youtube']}" target="_blank">YouTube @sicurissimo</a> ·
-✈ <a href="{L['telegram_channel']}" target="_blank">canale Telegram</a> ·
-👥 <a href="{L['telegram_groups']}">i gruppi</a>. Ci vediamo dentro.</p>
-<p><em>— Mirco</em></p>'''
+def template_article(cfg, theme, sources, pack_url, angle=None):
+    L=cfg["links"]; d=fondaload(cfg)
+    news="".join(f'<li><a href="{s["link"]}" target="_blank" rel="noopener">{html.escape(s["title"])}</a> - {html.escape(s["desc"][:140])}</li>' for s in sources[:4]) or "<li>Gli aggiornamenti normativi di questi giorni.</li>"
+    cred=random.choice(d.get("credenze_da_spostare",["basti un corso una tantum e sei a posto per sempre"]))
+    fail=random.choice(d.get("perche_il_comune_non_funziona",["il fai-da-te all'ultimo ti scopre proprio al controllo"]))
+    cost=random.choice(d.get("costi_nascosti_inazione",["una sanzione e il fermo dell'attivita"]))
+    ob=random.choice(d.get("obiezioni",[{"o":"costa troppo","r":"costa meno di una sola multa"}]))
+    met=d.get("metodo",{}); pil="".join("<li>&#9989; "+html.escape(x)+"</li>" for x in met.get("3_pilastri",[]))
+    return ("<h1>"+clickbait(theme)+"</h1>"
+      "<p>Parliamoci chiaro, come tra imprenditori: se pensi che <em>"+html.escape(cred)+"</em>, questo articolo ti riguarda. Perche e' questa idea che tiene scoperte la maggior parte delle aziende, finche' non arriva il controllo.</p>"
+      "<h2>La credenza che ti tiene scoperto</h2>"
+      "<p>&laquo;"+html.escape(cred)+"&raquo;. Suona ragionevole. Ma nella pratica e' il modo piu' veloce per trovarti fuori regola senza accorgertene.</p>"
+      "<h2>Perche' il modo comune non basta</h2>"
+      "<p>"+html.escape(fail)+". E le notizie di questi giorni lo confermano:</p><ul>"+news+"</ul>"
+      "<blockquote>La differenza tra chi rischia e chi dorme sereno non e' la fortuna. E' avere un sistema. Il mio si chiama 81+.</blockquote>"
+      "<h2>Il costo nascosto di non fare niente</h2>"
+      "<p>Non e' risparmiare: e' rimandare un conto che cresce. "+html.escape(cost)+". Piu' lo stress del &laquo;sono davvero a posto?&raquo;.</p>"
+      "<h2>&laquo;"+html.escape(ob["o"])+"&raquo; - l'obiezione che sento sempre</h2>"
+      "<p>"+html.escape(ob["r"])+".</p>"
+      "<h2>Il Metodo 81+, in pratica</h2>"
+      "<p>"+html.escape(met.get("una_frase",""))+"</p><ul>"+pil+"</ul>"
+      "<h2>Il tuo prossimo passo (senza una call)</h2>"
+      "<p>&#127919; <a href=\""+L["audit"]+"\"><strong>Fai l'AUDIT81+ gratuito</strong></a>: scopri in 2 minuti dove sei scoperto.</p>"
+      "<p>&#128293; <a href=\""+pack_url+"\"><strong>Guarda le offerte SPECIAL PACK / PACK81+</strong></a>: metti in regola e diventa autonomo, a prezzo tagliato.</p>"
+      "<p>&#9654; <a href=\""+L["youtube"]+"\" target=\"_blank\">YouTube @sicurissimo</a> &middot; &#9992; <a href=\""+L["telegram_channel"]+"\" target=\"_blank\">Telegram</a>.</p>"
+      "<p><em>- Mirco</em></p>")
 
 def book_article(cfg, books, feat=None):
     L=cfg["links"]; b=feat or (random.choice(books) if books else None)
@@ -181,8 +207,31 @@ def slugify(t):
 def reading_time(htmltext):
     words=len(re.sub("<[^>]+>"," ",htmltext).split()); return max(2, round(words/200))
 
+def _related_and_ladder(cfg, art):
+    L=cfg["links"]
+    try: reg=json.load(open(os.path.join(ROOT,"data","articles_registry.json"),encoding="utf-8"))["articles"]
+    except Exception: reg=[]
+    same=[a for a in reg if a.get("slug")!=art.get("slug") and a.get("theme")==art.get("theme")]
+    rest=[a for a in reg if a.get("slug")!=art.get("slug") and a.get("theme")!=art.get("theme")]
+    rel=(same+rest)[:3]; cards=""
+    for a in rel:
+        img=a.get("image") or ""
+        cards+=('<a href="/blog/'+a["slug"]+'.html" style="flex:0 0 220px;width:220px;text-decoration:none;color:#0B0B0C;border:1px solid #E6E6E8;border-radius:12px;overflow:hidden">'
+                '<span style="display:block;height:96px;background:#0B0B0C center/cover no-repeat;background-image:url('+chr(39)+img+chr(39)+')"></span>'
+                '<span style="display:block;padding:8px 10px"><b style="color:#FB6B00;font-size:10px;text-transform:uppercase">'+html.escape(a.get("theme",""))+'</b>'
+                '<span style="display:block;font-weight:700;font-size:13px;line-height:1.2">'+html.escape(a.get("title","")[:70])+'</span></span></a>')
+    related=('<h2>Leggi anche</h2><div style="display:flex;gap:12px;overflow:auto;padding-bottom:6px">'+cards+'</div>') if rel else ''
+    ladder=('<div style="background:#0B0B0C;color:#fff;border:3px solid #FB6B00;border-radius:16px;padding:18px;margin:22px 0">'
+        '<div style="color:#FB6B00;font-weight:900;text-transform:uppercase;font-size:12px;letter-spacing:.1em">Il tuo prossimo passo</div>'
+        '<p style="color:#eee;margin:6px 0 12px">Non serve una call. Scegli da dove partire:</p>'
+        '<a href="'+L["audit"]+'" style="display:inline-block;background:#FB6B00;color:#0B0B0C;font-weight:900;text-decoration:none;padding:12px 18px;border-radius:10px;margin:4px">1) AUDIT81+ gratuito &rarr;</a> '
+        '<a href="/promo/" style="display:inline-block;background:#fff;color:#0B0B0C;font-weight:900;text-decoration:none;padding:12px 18px;border-radius:10px;margin:4px">2) SPECIAL PACK / PACK81+ &rarr;</a> '
+        '<a href="/membership.html" style="display:inline-block;background:transparent;color:#fff;border:1.5px solid #fff;font-weight:800;text-decoration:none;padding:12px 18px;border-radius:10px;margin:4px">3) Membership 81+ &rarr;</a></div>')
+    return related+ladder
+
 def render_article_page(cfg, art):
     L=cfg["links"]
+    related_html=_related_and_ladder(cfg, art)
     if art.get("video"):
         heromedia=f'<video class="arthero" controls playsinline poster="{art["image"]}" style="width:100%"><source src="{art["video"]}" type="video/mp4"></video>'
     else:
@@ -211,12 +260,13 @@ def render_article_page(cfg, art):
 {art["html"].split('</h1>',1)[0]+'</h1>' if '</h1>' in art['html'] else '<h1>'+html.escape(art['title'])+'</h1>'}
 <div class="byline"><span class="av">MP</span><span><strong>Mirco Pregnolato</strong> · {art['date'][:10]} · {art['read']} min di lettura</span></div>
 {art["html"].split('</h1>',1)[1] if '</h1>' in art['html'] else art['html']}
+{related_html}
 <div class="share"><a href="{L['youtube']}" target="_blank">▶ YouTube</a><a href="{L['telegram_channel']}" target="_blank">✈ Telegram</a><a href="{L['telegram_groups']}">👥 Gruppi</a><a href="{L['instagram']}" target="_blank">📸 Instagram</a><a href="/promo/">🔥 Offerte</a></div>
 </div>
 {FOOT_INC}
 </body></html>'''
 
-def generate_article(cfg, catalog, theme, pack_url):
+def generate_article(cfg, catalog, theme, pack_url, angle=None):
     feat=None; sources=[]
     if theme=="I Libri di Mirco Pregnolato":
         books=get_books(catalog); feat=random.choice(books) if books else None
@@ -227,7 +277,7 @@ def generate_article(cfg, catalog, theme, pack_url):
         body=course_video_article(cfg, catalog)
     else:
         sources=gather_sources(cfg, theme)
-        body=llm_write(cfg, theme, sources, pack_url) or template_article(cfg, theme, sources, pack_url)
+        body=llm_write(cfg, theme, sources, pack_url, angle) or template_article(cfg, theme, sources, pack_url, angle)
     m=re.search(r"<h1>(.*?)</h1>", body, re.S)
     title=re.sub("<[^>]+>","",m.group(1)).strip() if m else clickbait(theme)
     excerpt=re.sub(r"\s+"," ",re.sub("<[^>]+>","",body)).strip()[:160]

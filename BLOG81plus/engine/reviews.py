@@ -9,6 +9,7 @@ ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def load_reviews(cfg):
     root=os.path.join(ROOT, cfg["images"]["local_root"])
     fp=os.path.join(root,"recensioni_seed.js")
+    if not os.path.exists(fp): fp=os.path.join(ROOT,"data","recensioni_seed.js")
     if not os.path.exists(fp): return []
     s=open(fp,encoding="utf-8",errors="ignore").read()
     m=re.search(r'RECENSIONI_SEED\s*=\s*(\[.*\])\s*;?', s, re.S)

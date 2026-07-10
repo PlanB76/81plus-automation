@@ -163,6 +163,36 @@
       "L'obbligo di legge non aspetta: o sei in regola, o rischi sanzioni e responsabilità.",
       "Un controllo INL/NAS puo arrivare domani. Chi e pronto dorme sereno.",
       "La paura di una multa non serve. Serve un sistema. 81+ e quel sistema."
+    ],
+    "angles": [
+      {
+        "key": "credenza",
+        "gancio": "smonta una credenza sbagliata sul tema"
+      },
+      {
+        "key": "metodo_fallace",
+        "gancio": "perche il modo comune non funziona"
+      },
+      {
+        "key": "meccanismo",
+        "gancio": "il Metodo 81+ spiegato"
+      },
+      {
+        "key": "obiezione",
+        "gancio": "rispondi a un'obiezione ricorrente"
+      },
+      {
+        "key": "costo_nascosto",
+        "gancio": "il costo nascosto del non fare nulla"
+      },
+      {
+        "key": "caso",
+        "gancio": "caso reale dalle recensioni"
+      },
+      {
+        "key": "notizia",
+        "gancio": "notizia reale del giorno con presa di posizione"
+      }
     ]
   },
   "llm": {
@@ -268,5 +298,6 @@
     "api_env": "YOUTUBE_API_KEY",
     "channel_id": "",
     "videos": []
-  }
+  },
+  "fondamenta_file": "config/fondamenta81.json"
 }
