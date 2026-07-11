@@ -1,0 +1,20 @@
+name: GUARDIAN 81+ · gating gruppi Telegram per membership
+on:
+  schedule:
+    - cron: '17 */6 * * *'   # ogni 6 ore
+  workflow_dispatch:
+jobs:
+  guardian:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - name: Guardian run
+        env:
+          BOT_GUARDIAN_TOKEN: ${{ secrets.BOT_GUARDIAN_TOKEN }}
+          ADMIN_KEY: ${{ secrets.ADMIN_KEY }}
+          GUARDIAN_PLAN_URL: https://81plus.net/api/guardian_plan.php
+          GUARDIAN_ACK_URL: https://81plus.net/api/guardian_ack.php
+          ADMIN_CHAT: '642593407'
+        run: python guardian81.py
