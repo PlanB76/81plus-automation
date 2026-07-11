@@ -1,0 +1,39 @@
+{
+  "_nota": "SORGENTE DI VERITA' per il Guardian: mappa membership_del_sito -> gruppo Telegram privato (chat_id reali letti dallo stato Telegram web 11/07/2026). Le chiavi 'codice' combaciano con membership81_pricing.js / DB unico 81plus.db. Per correggere un'assegnazione cambia il chat_id qui.",
+  "canale_principale": { "nome": "SICURISSIMO", "chat_id": -1002194582076, "username": "sicurissimoonline" },
+  "community_free": { "nome": "81+ ECOSYSTEM", "chat_id": -1002159961036 },
+  "gruppo_pubblico": { "nome": "@sicurissimi", "username": "sicurissimi" },
+
+  "membership_groups": {
+    "BASIC_PLUS":     { "membership": "Basic+",     "gruppo": "81+ BASIC",       "chat_id": -1004417905342 },
+    "PRO_PLUS":       { "membership": "Pro+",       "gruppo": "81+PRO",          "chat_id": -1003982907447 },
+    "ELITE_PLUS":     { "membership": "Elite+",     "gruppo": "81+ ELITE",       "chat_id": -1004428976131 },
+    "VIP_PLUS":       { "membership": "Vip+",       "gruppo": "81+ VIP",         "chat_id": -1004409715690 },
+    "ROYAL_PLUS":     { "membership": "Royal+",     "gruppo": "81+ CLUB",        "chat_id": -1004292323206 },
+    "GENESYS81_PLUS": { "membership": "GENESYS81+", "gruppo": "81+ FRANCHISING", "chat_id": -1003981828948 }
+  },
+
+  "trasversali": {
+    "NETWORK": { "nome": "81+ NETWORK", "chat_id": -1003779908185, "regola": "aggiunto a chi aderisce al Network81+, in aggiunta al gruppo del suo tier" }
+  },
+
+  "futuri": {
+    "CLUB_ELITE": { "nome": "81+ ELITE GROUP", "chat_id": -1004335264591, "nota": "gruppo del futuro Club Elite (non tier membership)" }
+  },
+
+  "da_cancellare_in_app_dal_owner": {
+    "_nota": "Un bot NON puo' cancellare un supergruppo: vanno eliminati a mano da Telegram (Gestione gruppo > Elimina). Non usati dal sistema.",
+    "Sicurissimo81Basic": -1003943735162,
+    "Sicurissimo81Pro": -1003850067046,
+    "Sicurissimo81Elite": -1004203458753
+  },
+
+  "regole_guardian": {
+    "attiva":       "membership attiva -> invita/approva nel gruppo del suo codice; se aderente Network -> anche 81+ NETWORK",
+    "upgrade":      "kick dal gruppo vecchio, invita nel nuovo",
+    "downgrade":    "kick dal gruppo alto, invita nel basso",
+    "scadenza":     "reminder (T-3g, T-1g, scaduto) poi kick dal gruppo tier",
+    "riattivazione":"reinvita al gruppo tier",
+    "una_sola_appartenenza_tier": true
+  }
+}
