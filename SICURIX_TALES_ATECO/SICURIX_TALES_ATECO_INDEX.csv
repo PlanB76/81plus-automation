@@ -249,3 +249,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 0248,23.66.09,"Fabbricazione di altri prodotti in calcestruzzo, cemento e gesso n.c.a.",Sicurezza,0201-0250,SICURIX_TALES_0248_236609_fabbricazione_di_altri_prodotti_in_calce_SICUREZZA_v1.png,BRIEF_PRONTO
 0249,23.70.10,Taglio e lavorazione di pietre e di marmo,Sicurezza,0201-0250,SICURIX_TALES_0249_237010_taglio_e_lavorazione_di_pietre_e_di_marm_SICUREZZA_v1.png,BRIEF_PRONTO
 0250,23.70.20,Lavorazione artistica di marmo e di altre pietre affini,Sicurezza,0201-0250,SICURIX_TALES_0250_237020_lavorazione_artistica_di_marmo_e_di_altr_SICUREZZA_v1.png,BRIEF_PRONTO
+0251,23.70.30,Frantumazione di pietre,Sicurezza,0251-0300,SICURIX_TALES_0251_237030_frantumazione_di_pietre_SICUREZZA_v1.png,BRIEF_PRONTO
+0252,23.91.00,Fabbricazione di prodotti abrasivi,Sicurezza,0251-0300,SICURIX_TALES_0252_239100_fabbricazione_di_prodotti_abrasivi_SICUREZZA_v1.png,BRIEF_PRONTO
+0253,23.99.00,Fabbricazione di altri prodotti in minerali non metalliferi n.c.a.,Sicurezza,0251-0300,SICURIX_TALES_0253_239900_fabbricazione_di_altri_prodotti_in_miner_SICUREZZA_v1.png,BRIEF_PRONTO
+0254,24.10.00,"Fabbricazione di ferro, acciaio e ferroleghe",Sicurezza,0251-0300,SICURIX_TALES_0254_241000_fabbricazione_di_ferro_acciaio_e_ferrole_SICUREZZA_v1.png,BRIEF_PRONTO
+0255,24.20.10,"Fabbricazione di tubi, condotti, profilati cavi non saldati e relativi raccordi in acciaio",Privacy,0251-0300,SICURIX_TALES_0255_242010_fabbricazione_di_tubi_condotti_profilati_PRIVACY_v1.png,BRIEF_PRONTO
+0256,24.20.20,"Fabbricazione di tubi, condotti, profilati cavi saldati e relativi raccordi in acciaio",Privacy,0251-0300,SICURIX_TALES_0256_242020_fabbricazione_di_tubi_condotti_profilati_PRIVACY_v1.png,BRIEF_PRONTO
+0257,24.31.00,Trafilatura a freddo di barre,HACCP,0251-0300,SICURIX_TALES_0257_243100_trafilatura_a_freddo_di_barre_HACCP_v1.png,BRIEF_PRONTO
+0258,24.32.00,Laminazione a freddo di nastri,Sicurezza,0251-0300,SICURIX_TALES_0258_243200_laminazione_a_freddo_di_nastri_SICUREZZA_v1.png,BRIEF_PRONTO
+0259,24.33.01,Profilatura mediante formatura o piegatura a freddo di profilati aperti e lamiere grecate,Sicurezza,0251-0300,SICURIX_TALES_0259_243301_profilatura_mediante_formatura_o_piegatu_SICUREZZA_v1.png,BRIEF_PRONTO
+0260,24.33.02,Profilatura mediante formatura o piegatura a freddo di pannelli stratificati,Sicurezza,0251-0300,SICURIX_TALES_0260_243302_profilatura_mediante_formatura_o_piegatu_SICUREZZA_v1.png,BRIEF_PRONTO
+0261,24.33.03,Presagomatura dell'acciaio per cemento armato e attività simili,Sicurezza,0251-0300,SICURIX_TALES_0261_243303_presagomatura_dell_acciaio_per_cemento_a_SICUREZZA_v1.png,BRIEF_PRONTO
+0262,24.34.00,Trafilatura a freddo di fili,Sicurezza,0251-0300,SICURIX_TALES_0262_243400_trafilatura_a_freddo_di_fili_SICUREZZA_v1.png,BRIEF_PRONTO
+0263,24.41.00,Produzione di metalli preziosi,Sicurezza,0251-0300,SICURIX_TALES_0263_244100_produzione_di_metalli_preziosi_SICUREZZA_v1.png,BRIEF_PRONTO
+0264,24.42.00,Produzione di alluminio,Sicurezza,0251-0300,SICURIX_TALES_0264_244200_produzione_di_alluminio_SICUREZZA_v1.png,BRIEF_PRONTO
+0265,24.43.00,"Produzione di piombo, zinco e stagno",Sicurezza,0251-0300,SICURIX_TALES_0265_244300_produzione_di_piombo_zinco_e_stagno_SICUREZZA_v1.png,BRIEF_PRONTO
+0266,24.44.00,Produzione di rame,Sicurezza,0251-0300,SICURIX_TALES_0266_244400_produzione_di_rame_SICUREZZA_v1.png,BRIEF_PRONTO
+0267,24.45.00,Produzione di altri metalli non ferrosi,Sicurezza,0251-0300,SICURIX_TALES_0267_244500_produzione_di_altri_metalli_non_ferrosi_SICUREZZA_v1.png,BRIEF_PRONTO
+0268,24.46.00,Trattamento di combustibili nucleari,Sicurezza,0251-0300,SICURIX_TALES_0268_244600_trattamento_di_combustibili_nucleari_SICUREZZA_v1.png,BRIEF_PRONTO
+0269,24.51.01,Fusione di getti in ghisa grigia o lamellare,Sicurezza,0251-0300,SICURIX_TALES_0269_245101_fusione_di_getti_in_ghisa_grigia_o_lamel_SICUREZZA_v1.png,BRIEF_PRONTO
+0270,24.51.02,Fusione di getti in ghisa duttile,Sicurezza,0251-0300,SICURIX_TALES_0270_245102_fusione_di_getti_in_ghisa_duttile_SICUREZZA_v1.png,BRIEF_PRONTO
+0271,24.51.09,Fusione di getti in ghisa n.c.a.,Sicurezza,0251-0300,SICURIX_TALES_0271_245109_fusione_di_getti_in_ghisa_n_c_a_SICUREZZA_v1.png,BRIEF_PRONTO
+0272,24.52.00,Fusione di getti in acciaio,Sicurezza,0251-0300,SICURIX_TALES_0272_245200_fusione_di_getti_in_acciaio_SICUREZZA_v1.png,BRIEF_PRONTO
+0273,24.53.01,Fusione di getti in alluminio,Sicurezza,0251-0300,SICURIX_TALES_0273_245301_fusione_di_getti_in_alluminio_SICUREZZA_v1.png,BRIEF_PRONTO
+0274,24.53.02,Fusione di getti in magnesio,Sicurezza,0251-0300,SICURIX_TALES_0274_245302_fusione_di_getti_in_magnesio_SICUREZZA_v1.png,BRIEF_PRONTO
+0275,24.53.03,Fusione di getti in superleghe a base cobalto,Sicurezza,0251-0300,SICURIX_TALES_0275_245303_fusione_di_getti_in_superleghe_a_base_co_SICUREZZA_v1.png,BRIEF_PRONTO
+0276,24.53.09,Fusione di getti in metalli leggeri n.c.a.,Sicurezza,0251-0300,SICURIX_TALES_0276_245309_fusione_di_getti_in_metalli_leggeri_n_c__SICUREZZA_v1.png,BRIEF_PRONTO
+0277,24.54.01,Fusione di getti in rame,Sicurezza,0251-0300,SICURIX_TALES_0277_245401_fusione_di_getti_in_rame_SICUREZZA_v1.png,BRIEF_PRONTO
+0278,24.54.02,Fusione di getti in zinco,Sicurezza,0251-0300,SICURIX_TALES_0278_245402_fusione_di_getti_in_zinco_SICUREZZA_v1.png,BRIEF_PRONTO
+0279,24.54.03,Fusione di getti in nichel,Sicurezza,0251-0300,SICURIX_TALES_0279_245403_fusione_di_getti_in_nichel_SICUREZZA_v1.png,BRIEF_PRONTO
+0280,24.54.09,Fusione di getti in altri metalli non ferrosi n.c.a.,Sicurezza,0251-0300,SICURIX_TALES_0280_245409_fusione_di_getti_in_altri_metalli_non_fe_SICUREZZA_v1.png,BRIEF_PRONTO
+0281,25.11.00,Fabbricazione di strutture metalliche e di parti di strutture metalliche,Sicurezza,0251-0300,SICURIX_TALES_0281_251100_fabbricazione_di_strutture_metalliche_e__SICUREZZA_v1.png,BRIEF_PRONTO
+0282,25.12.10,"Fabbricazione di porte, finestre e loro telai, imposte e cancelli in metallo",Sicurezza,0251-0300,SICURIX_TALES_0282_251210_fabbricazione_di_porte_finestre_e_loro_t_SICUREZZA_v1.png,BRIEF_PRONTO
+0283,25.12.20,Fabbricazione di tende in metallo e prodotti simili,Sicurezza,0251-0300,SICURIX_TALES_0283_251220_fabbricazione_di_tende_in_metallo_e_prod_SICUREZZA_v1.png,BRIEF_PRONTO
+0284,25.21.10,Fabbricazione di radiatori e contenitori in metallo per caldaie per il riscaldamento centrale,Sicurezza,0251-0300,SICURIX_TALES_0284_252110_fabbricazione_di_radiatori_e_contenitori_SICUREZZA_v1.png,BRIEF_PRONTO
+0285,25.21.20,Fabbricazione di generatori di vapore,Sicurezza,0251-0300,SICURIX_TALES_0285_252120_fabbricazione_di_generatori_di_vapore_SICUREZZA_v1.png,BRIEF_PRONTO
+0286,25.22.00,"Fabbricazione di altre cisterne, serbatoi e contenitori in metallo",Sicurezza,0251-0300,SICURIX_TALES_0286_252200_fabbricazione_di_altre_cisterne_serbatoi_SICUREZZA_v1.png,BRIEF_PRONTO
+0287,25.30.10,Fabbricazione di armi e munizioni per uso militare,Sicurezza,0251-0300,SICURIX_TALES_0287_253010_fabbricazione_di_armi_e_munizioni_per_us_SICUREZZA_v1.png,BRIEF_PRONTO
+0288,25.30.20,Fabbricazione di armi e munizioni per uso sportivo e civile,Sicurezza,0251-0300,SICURIX_TALES_0288_253020_fabbricazione_di_armi_e_munizioni_per_us_SICUREZZA_v1.png,BRIEF_PRONTO
+0289,25.40.00,Fucinatura e formatura dei metalli e metallurgia delle polveri,Sicurezza,0251-0300,SICURIX_TALES_0289_254000_fucinatura_e_formatura_dei_metalli_e_met_SICUREZZA_v1.png,BRIEF_PRONTO
+0290,25.51.00,Rivestimento dei metalli,Sicurezza,0251-0300,SICURIX_TALES_0290_255100_rivestimento_dei_metalli_SICUREZZA_v1.png,BRIEF_PRONTO
+0291,25.52.00,Trattamento termico dei metalli,Sicurezza,0251-0300,SICURIX_TALES_0291_255200_trattamento_termico_dei_metalli_SICUREZZA_v1.png,BRIEF_PRONTO
+0292,25.53.00,Lavori di meccanica generale dei metalli,Sicurezza,0251-0300,SICURIX_TALES_0292_255300_lavori_di_meccanica_generale_dei_metalli_SICUREZZA_v1.png,BRIEF_PRONTO
+0293,25.61.00,Fabbricazione di articoli di coltelleria e posateria,Sicurezza,0251-0300,SICURIX_TALES_0293_256100_fabbricazione_di_articoli_di_coltelleria_SICUREZZA_v1.png,BRIEF_PRONTO
+0294,25.62.00,Fabbricazione di serrature e cerniere,Sicurezza,0251-0300,SICURIX_TALES_0294_256200_fabbricazione_di_serrature_e_cerniere_SICUREZZA_v1.png,BRIEF_PRONTO
+0295,25.63.11,Fabbricazione di utensileria ad azionamento manuale,Sicurezza,0251-0300,SICURIX_TALES_0295_256311_fabbricazione_di_utensileria_ad_azioname_SICUREZZA_v1.png,BRIEF_PRONTO
+0296,25.63.12,Fabbricazione di parti intercambiabili per macchine utensili,Sicurezza,0251-0300,SICURIX_TALES_0296_256312_fabbricazione_di_parti_intercambiabili_p_SICUREZZA_v1.png,BRIEF_PRONTO
+0297,25.63.20,"Fabbricazione di stampi, portastampi, sagome, forme per macchine",Sicurezza,0251-0300,SICURIX_TALES_0297_256320_fabbricazione_di_stampi_portastampi_sago_SICUREZZA_v1.png,BRIEF_PRONTO
+0298,25.91.00,Fabbricazione di bidoni in acciaio e di contenitori simili,Sicurezza,0251-0300,SICURIX_TALES_0298_259100_fabbricazione_di_bidoni_in_acciaio_e_di__SICUREZZA_v1.png,BRIEF_PRONTO
+0299,25.92.00,Fabbricazione di imballaggi in metallo leggero,Sicurezza,0251-0300,SICURIX_TALES_0299_259200_fabbricazione_di_imballaggi_in_metallo_l_SICUREZZA_v1.png,BRIEF_PRONTO
+0300,25.93.10,Fabbricazione di prodotti fabbricati con fili metallici,Sicurezza,0251-0300,SICURIX_TALES_0300_259310_fabbricazione_di_prodotti_fabbricati_con_SICUREZZA_v1.png,BRIEF_PRONTO
