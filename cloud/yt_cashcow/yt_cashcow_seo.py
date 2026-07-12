@@ -129,6 +129,10 @@ PROMPT_TMPL=(
 "colore testo per macro-tema: ROSSO per pericoli/rischi, VERDE per procedure corrette/DPI, ARANCIONE per normativa/formazione.")
 
 def _http_json(url,headers,payload,timeout=90):
+    headers=dict(headers)
+    # User-Agent da browser: Groq/altri sono dietro Cloudflare che blocca 'Python-urllib' (errore 1010)
+    headers.setdefault("User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36")
+    headers.setdefault("Accept","application/json")
     req=urllib.request.Request(url,data=json.dumps(payload).encode("utf-8"),headers=headers,method="POST")
     try:
         with urllib.request.urlopen(req,timeout=timeout) as r:
