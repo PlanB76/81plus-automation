@@ -19,11 +19,9 @@ Nessun segreto viene stampato. Se manca YOUTUBE_API_KEY -> esce con messaggio, n
 import os,sys,json,csv,re,time,io,datetime,urllib.request,urllib.parse,urllib.error,pathlib
 
 HERE=pathlib.Path(__file__).resolve().parent
-STATE=HERE.parent/"cloud_state"
-# quando gira sul repo, cloud_state e' accanto a cloud/; in locale, accanto al file
-for cand in (HERE.parent/"cloud_state", HERE/"cloud_state"):
-    pass
-STATE=(HERE.parent/"cloud_state"); STATE.mkdir(parents=True,exist_ok=True)
+# cloud_state DEVE stare nella radice del repo (dove il workflow fa git add cloud_state/...)
+STATE=pathlib.Path(os.environ.get("GITHUB_WORKSPACE") or HERE.parent.parent)/"cloud_state"
+STATE.mkdir(parents=True,exist_ok=True)
 REVIEW_CSV=STATE/"yt_seo_review.csv"
 
 def env(*names,default=""):
@@ -234,7 +232,9 @@ def normalize(j):
     if tcol not in ("rosso","verde","arancione"): tcol=theme_color(title+" "+desc)
     td=th.get("descrizione_grafica","")
     tp=s(j.get("thumbnail_prompt"))
-    nhr=bool(j.get("needs_human_review"))
+    # NON usare il needs_human_review del modello (troppo prudente, blocca tutto):
+    # la revisione la decidono solo i controlli di qualita' oggettivi qui sotto.
+    nhr=False
     # regole di qualita' -> forza revisione umana
     if not title or len(title)<12: nhr=True
     if not desc or len(desc)<80: nhr=True
@@ -296,8 +296,8 @@ def main():
         except Exception as e:
             print("  [ai errore]",str(e)[:120]); nz=normalize(_heuristic(tit,content)); eng="heuristic"
             nz["needs_human_review"]="SI"
-        # AUTO: approva da solo le righe sicure (contenuto sufficiente); le vaghe restano da rivedere
-        approva="SI" if (AUTO and nz["needs_human_review"]=="NO") else ""
+        # AUTO: approva solo se generato da AI vera (no heuristic) e passa i controlli di qualita'
+        approva="SI" if (AUTO and eng!="heuristic" and nz["needs_human_review"]=="NO") else ""
         rows.append({"video_id":vid,"url":"https://youtu.be/"+vid,"APPROVA":approva,
             "needs_human_review":nz["needs_human_review"],"engine":eng,
             "titolo_attuale":tit,"views":m.get("views",0),"likes":m.get("likes",0),"commenti":m.get("comments",0),

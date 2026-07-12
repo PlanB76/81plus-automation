@@ -15,7 +15,7 @@ Nessun segreto stampato.
 import os,sys,json,csv,datetime,pathlib,io
 
 HERE=pathlib.Path(__file__).resolve().parent
-STATE=HERE.parent/"cloud_state"; STATE.mkdir(parents=True,exist_ok=True)
+STATE=pathlib.Path(os.environ.get("GITHUB_WORKSPACE") or HERE.parent.parent)/"cloud_state"; STATE.mkdir(parents=True,exist_ok=True)
 REVIEW_CSV=STATE/"yt_seo_review.csv"
 LOG=STATE/"yt_seo_applied.log"
 ROLLBACK=STATE/"yt_seo_rollback.csv"      # metadati ORIGINALI salvati prima di sovrascrivere

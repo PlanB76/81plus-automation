@@ -13,7 +13,7 @@ ENV: YOUTUBE_API_KEY (obblig.), YT_CHANNEL_ID (o channels.json), YOUTUBE_TOKEN_J
 import os,sys,json,csv,re,datetime,pathlib,urllib.request,urllib.parse
 
 HERE=pathlib.Path(__file__).resolve().parent
-STATE=HERE.parent/"cloud_state"; STATE.mkdir(parents=True,exist_ok=True)
+STATE=pathlib.Path(os.environ.get("GITHUB_WORKSPACE") or HERE.parent.parent)/"cloud_state"; STATE.mkdir(parents=True,exist_ok=True)
 
 def env(*n,default=""):
     for x in n:
