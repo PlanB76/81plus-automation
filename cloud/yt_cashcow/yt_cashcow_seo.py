@@ -130,8 +130,13 @@ PROMPT_TMPL=(
 
 def _http_json(url,headers,payload,timeout=90):
     req=urllib.request.Request(url,data=json.dumps(payload).encode("utf-8"),headers=headers,method="POST")
-    with urllib.request.urlopen(req,timeout=timeout) as r:
-        return json.loads(r.read().decode("utf-8","replace"))
+    try:
+        with urllib.request.urlopen(req,timeout=timeout) as r:
+            return json.loads(r.read().decode("utf-8","replace"))
+    except urllib.error.HTTPError as e:
+        try: body=e.read().decode("utf-8","replace")
+        except Exception: body=""
+        raise RuntimeError("HTTP %s: %s"%(e.code,body[:240]))
 
 def ai_generate(title,content,variant=0):
     """Ritorna (dict_json, engine). Prova Groq -> Anthropic -> OpenAI -> euristico."""
@@ -145,11 +150,11 @@ def ai_generate(title,content,variant=0):
         try:
             d=_http_json("https://api.groq.com/openai/v1/chat/completions",
                 {"Authorization":"Bearer "+gk,"Content-Type":"application/json"},
-                {"model":env("GROQ_MODEL",default="llama-3.3-70b-versatile"),
+                {"model":env("GROQ_MODEL",default="llama-3.1-8b-instant"),
                  "temperature":0.6,"response_format":{"type":"json_object"},
                  "messages":[{"role":"system","content":SYSTEM},{"role":"user","content":prompt}]})
             return _parse(d["choices"][0]["message"]["content"]),"groq"
-        except Exception as e: print("  [groq]",str(e)[:120])
+        except Exception as e: print("  [groq]",str(e)[:240])
     ak=env("ANTHROPIC_API_KEY")
     if ak:
         try:
@@ -158,7 +163,7 @@ def ai_generate(title,content,variant=0):
                 {"model":env("ANTHROPIC_MODEL",default="claude-3-5-haiku-20241022"),"max_tokens":1200,
                  "system":SYSTEM,"messages":[{"role":"user","content":prompt}]})
             return _parse(d["content"][0]["text"]),"anthropic"
-        except Exception as e: print("  [anthropic]",str(e)[:120])
+        except Exception as e: print("  [anthropic]",str(e)[:240])
     ok=env("OPENAI_API_KEY")
     if ok:
         try:
@@ -168,7 +173,7 @@ def ai_generate(title,content,variant=0):
                  "response_format":{"type":"json_object"},
                  "messages":[{"role":"system","content":SYSTEM},{"role":"user","content":prompt}]})
             return _parse(d["choices"][0]["message"]["content"]),"openai"
-        except Exception as e: print("  [openai]",str(e)[:120])
+        except Exception as e: print("  [openai]",str(e)[:240])
     return _heuristic(title,content),"heuristic"
 
 def _parse(txt):
