@@ -32,8 +32,9 @@ jobs:
       YT_CHANNEL_ID:      ${{ vars.YT_CHANNEL_ID }}
       YT_SEO_AUTO:        "1"
       YT_SEO_SKIP_DONE:   "1"
+      YT_SEO_LIMIT:       "60"
       YT_APPLY_THUMB:     "1"
-      YT_APPLY_LIMIT:     ${{ github.event.inputs.limit || '80' }}
+      YT_APPLY_LIMIT:     ${{ github.event.inputs.limit || '60' }}
       RECHECK_DAYS:       "18"
     steps:
       - uses: actions/checkout@v4
