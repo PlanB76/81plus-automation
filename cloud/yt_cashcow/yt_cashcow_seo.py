@@ -151,14 +151,21 @@ def ai_generate(title,content,variant=0):
                  "(nuovo hook, nuovo beneficio, parole chiave diverse, testo thumbnail diverso). Non ripetere la versione precedente." % variant)
     gk=env("GROQ_API_KEY")
     if gk:
-        try:
-            d=_http_json("https://api.groq.com/openai/v1/chat/completions",
-                {"Authorization":"Bearer "+gk,"Content-Type":"application/json"},
-                {"model":env("GROQ_MODEL",default="llama-3.1-8b-instant"),
-                 "temperature":0.6,"response_format":{"type":"json_object"},
-                 "messages":[{"role":"system","content":SYSTEM},{"role":"user","content":prompt}]})
-            return _parse(d["choices"][0]["message"]["content"]),"groq"
-        except Exception as e: print("  [groq]",str(e)[:240])
+        for attempt in range(5):
+            try:
+                d=_http_json("https://api.groq.com/openai/v1/chat/completions",
+                    {"Authorization":"Bearer "+gk,"Content-Type":"application/json"},
+                    {"model":env("GROQ_MODEL",default="llama-3.1-8b-instant"),
+                     "temperature":0.6,"response_format":{"type":"json_object"},
+                     "messages":[{"role":"system","content":SYSTEM},{"role":"user","content":prompt}]})
+                return _parse(d["choices"][0]["message"]["content"]),"groq"
+            except Exception as e:
+                s=str(e)
+                if "429" in s and attempt<4:
+                    m=re.search(r"try again in ([\d.]+)s",s)
+                    wait=(float(m.group(1))+1.5) if m else 10.0*(attempt+1)
+                    print("  [groq] rate limit: attendo %.1fs e riprovo"%min(wait,40)); time.sleep(min(wait,40)); continue
+                print("  [groq]",s[:240]); break
     ak=env("ANTHROPIC_API_KEY")
     if ak:
         try:
@@ -299,7 +306,7 @@ def main():
             "thumb_text":nz["thumb_text"],"thumb_color":nz["thumb_color"],
             "thumb_desc":nz["thumb_desc"],"thumb_prompt":nz["thumb_prompt"],
             "ts":datetime.datetime.utcnow().isoformat()})
-        time.sleep(float(env("YT_SEO_DELAY",default="0.4") or "0.4"))
+        time.sleep(float(env("YT_SEO_DELAY",default="1.5") or "1.5"))
     # merge con CSV esistente (mantieni APPROVA gia' messi)
     prev={}
     if REVIEW_CSV.exists():
