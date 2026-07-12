@@ -1,0 +1,38 @@
+name: YTCASHCOW81+ · RECHECK ciclo 7gg (ri-ottimizza chi non cresce)
+# Ogni 7 giorni controlla i video gia' ottimizzati: se dopo >=18 giorni le visualizzazioni NON sono cresciute,
+# rigenera titolo/descrizione/thumbnail con un ANGOLO DIVERSO (variante+1) e li rimette in coda.
+# I video "rinati" che crescono restano INTOCCATI (winner). Poi il workflow giornaliero applica le nuove versioni.
+on:
+  schedule:
+    - cron: '0 6 * * 1'      # ogni lunedi 08:00 IT (cadenza settimanale)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: yt-cashcow-recheck
+  cancel-in-progress: false
+jobs:
+  recheck:
+    runs-on: ubuntu-latest
+    env:
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      YT_CHANNEL_ID:   ${{ vars.YT_CHANNEL_ID }}
+      RECHECK_DAYS:    "18"     # eta' minima dall'apply prima di giudicare
+      MIN_GROWTH_ABS:  "15"     # crescita minima assoluta (views) per considerarlo "rinato"
+      MIN_GROWTH_PCT:  "0.15"   # oppure +15% sulle views al momento dell'apply
+      MAX_VARIANTS:    "4"      # oltre 4 tentativi si ferma (evita loop infinito)
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install --quiet google-api-python-client google-auth
+      - name: RECHECK performance (7gg)
+        run: python cloud/yt_cashcow/yt_perf_recheck.py || echo "recheck skip"
+      - name: Salva stato ciclo nel repo
+        run: |
+          git config user.name  "cashcow-recheck-bot"
+          git config user.email "bot@81plus.net"
+          git pull --rebase --autostash || true
+          git add cloud_state/yt_seo_review.csv cloud_state/yt_variant.json cloud_state/yt_perf_track.json cloud_state/yt_recheck.log 2>/dev/null || true
+          git commit -m "YTCASHCOW recheck 7gg $(date -u +%FT%TZ)" || echo "nulla da committare"
+          git push || echo "push saltato"
