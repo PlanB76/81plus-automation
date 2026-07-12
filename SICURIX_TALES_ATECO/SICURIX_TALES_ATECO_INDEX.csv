@@ -299,3 +299,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 0298,25.91.00,Fabbricazione di bidoni in acciaio e di contenitori simili,Sicurezza,0251-0300,SICURIX_TALES_0298_259100_fabbricazione_di_bidoni_in_acciaio_e_di__SICUREZZA_v1.png,BRIEF_PRONTO
 0299,25.92.00,Fabbricazione di imballaggi in metallo leggero,Sicurezza,0251-0300,SICURIX_TALES_0299_259200_fabbricazione_di_imballaggi_in_metallo_l_SICUREZZA_v1.png,BRIEF_PRONTO
 0300,25.93.10,Fabbricazione di prodotti fabbricati con fili metallici,Sicurezza,0251-0300,SICURIX_TALES_0300_259310_fabbricazione_di_prodotti_fabbricati_con_SICUREZZA_v1.png,BRIEF_PRONTO
+0301,25.93.20,Fabbricazione di catene,Sicurezza,0301-0350,SICURIX_TALES_0301_259320_fabbricazione_di_catene_SICUREZZA_v1.png,BRIEF_PRONTO
+0302,25.93.30,Fabbricazione di molle,Sicurezza,0301-0350,SICURIX_TALES_0302_259330_fabbricazione_di_molle_SICUREZZA_v1.png,BRIEF_PRONTO
+0303,25.94.00,Fabbricazione di articoli di bulloneria,Sicurezza,0301-0350,SICURIX_TALES_0303_259400_fabbricazione_di_articoli_di_bulloneria_SICUREZZA_v1.png,BRIEF_PRONTO
+0304,25.99.10,Fabbricazione di articoli domestici in metallo per la cucina e le stanze da bagno,HACCP,0301-0350,SICURIX_TALES_0304_259910_fabbricazione_di_articoli_domestici_in_m_HACCP_v1.png,BRIEF_PRONTO
+0305,25.99.20,"Fabbricazione di casseforti, cassette di sicurezza e porte metalliche blindate",Sicurezza,0301-0350,SICURIX_TALES_0305_259920_fabbricazione_di_casseforti_cassette_di__SICUREZZA_v1.png,BRIEF_PRONTO
+0306,25.99.90,Fabbricazione di altri prodotti vari in metallo n.c.a.,Sicurezza,0301-0350,SICURIX_TALES_0306_259990_fabbricazione_di_altri_prodotti_vari_in__SICUREZZA_v1.png,BRIEF_PRONTO
+0307,26.11.00,Fabbricazione di componenti elettronici,Sicurezza,0301-0350,SICURIX_TALES_0307_261100_fabbricazione_di_componenti_elettronici_SICUREZZA_v1.png,BRIEF_PRONTO
+0308,26.12.00,Fabbricazione di schede elettroniche integrate,Sicurezza,0301-0350,SICURIX_TALES_0308_261200_fabbricazione_di_schede_elettroniche_int_SICUREZZA_v1.png,BRIEF_PRONTO
+0309,26.20.00,Fabbricazione di computer e unità periferiche,Sicurezza,0301-0350,SICURIX_TALES_0309_262000_fabbricazione_di_computer_e_unit_perifer_SICUREZZA_v1.png,BRIEF_PRONTO
+0310,26.30.01,Fabbricazione di apparecchiature trasmittenti radiotelevisive,Sicurezza,0301-0350,SICURIX_TALES_0310_263001_fabbricazione_di_apparecchiature_trasmit_SICUREZZA_v1.png,BRIEF_PRONTO
+0311,26.30.09,Fabbricazione di altre apparecchiature per le comunicazioni,Sicurezza,0301-0350,SICURIX_TALES_0311_263009_fabbricazione_di_altre_apparecchiature_p_SICUREZZA_v1.png,BRIEF_PRONTO
+0312,26.40.01,Fabbricazione di console per videogiochi,Sicurezza,0301-0350,SICURIX_TALES_0312_264001_fabbricazione_di_console_per_videogiochi_SICUREZZA_v1.png,BRIEF_PRONTO
+0313,26.40.09,Fabbricazione di altri prodotti di elettronica di consumo,Sicurezza,0301-0350,SICURIX_TALES_0313_264009_fabbricazione_di_altri_prodotti_di_elett_SICUREZZA_v1.png,BRIEF_PRONTO
+0314,26.51.10,"Fabbricazione di strumenti per navigazione, idrologia, geofisica e meteorologia",Sicurezza,0301-0350,SICURIX_TALES_0314_265110_fabbricazione_di_strumenti_per_navigazio_SICUREZZA_v1.png,BRIEF_PRONTO
+0315,26.51.21,Fabbricazione di sistemi antifurto e antincendio,Sicurezza,0301-0350,SICURIX_TALES_0315_265121_fabbricazione_di_sistemi_antifurto_e_ant_SICUREZZA_v1.png,BRIEF_PRONTO
+0316,26.51.29,Fabbricazione di altri strumenti e apparecchi di misurazione e prova n.c.a.,Sicurezza,0301-0350,SICURIX_TALES_0316_265129_fabbricazione_di_altri_strumenti_e_appar_SICUREZZA_v1.png,BRIEF_PRONTO
+0317,26.52.00,Fabbricazione di orologi,Sicurezza,0301-0350,SICURIX_TALES_0317_265200_fabbricazione_di_orologi_SICUREZZA_v1.png,BRIEF_PRONTO
+0318,26.60.01,"Fabbricazione di apparecchiature per irradiazione, elettromedicali ed elettroterapeutiche per usi medici",Sicurezza,0301-0350,SICURIX_TALES_0318_266001_fabbricazione_di_apparecchiature_per_irr_SICUREZZA_v1.png,BRIEF_PRONTO
+0319,26.60.02,"Fabbricazione di apparecchiature per irradiazione, elettromedicali ed elettroterapeutiche per usi non medici",Sicurezza,0301-0350,SICURIX_TALES_0319_266002_fabbricazione_di_apparecchiature_per_irr_SICUREZZA_v1.png,BRIEF_PRONTO
+0320,26.70.11,Fabbricazione di strumenti ottici e strumenti ottici di precisione,Sicurezza,0301-0350,SICURIX_TALES_0320_267011_fabbricazione_di_strumenti_ottici_e_stru_SICUREZZA_v1.png,BRIEF_PRONTO
+0321,26.70.12,Fabbricazione di strumenti ottici di misurazione e controllo,Sicurezza,0301-0350,SICURIX_TALES_0321_267012_fabbricazione_di_strumenti_ottici_di_mis_SICUREZZA_v1.png,BRIEF_PRONTO
+0322,26.70.20,Fabbricazione di supporti magnetici e ottici,Sicurezza,0301-0350,SICURIX_TALES_0322_267020_fabbricazione_di_supporti_magnetici_e_ot_SICUREZZA_v1.png,BRIEF_PRONTO
+0323,26.70.30,Fabbricazione di apparecchiature fotografiche,Sicurezza,0301-0350,SICURIX_TALES_0323_267030_fabbricazione_di_apparecchiature_fotogra_SICUREZZA_v1.png,BRIEF_PRONTO
+0324,27.11.00,"Fabbricazione di motori, generatori e trasformatori elettrici",Sicurezza,0301-0350,SICURIX_TALES_0324_271100_fabbricazione_di_motori_generatori_e_tra_SICUREZZA_v1.png,BRIEF_PRONTO
+0325,27.12.00,Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità,Sicurezza,0301-0350,SICURIX_TALES_0325_271200_fabbricazione_di_apparecchiature_per_la__SICUREZZA_v1.png,BRIEF_PRONTO
+0326,27.20.00,Fabbricazione di batterie e accumulatori,Sicurezza,0301-0350,SICURIX_TALES_0326_272000_fabbricazione_di_batterie_e_accumulatori_SICUREZZA_v1.png,BRIEF_PRONTO
+0327,27.31.00,Fabbricazione di cavi in fibra ottica,Sicurezza,0301-0350,SICURIX_TALES_0327_273100_fabbricazione_di_cavi_in_fibra_ottica_SICUREZZA_v1.png,BRIEF_PRONTO
+0328,27.32.00,Fabbricazione di altri fili e cavi elettronici ed elettrici,Sicurezza,0301-0350,SICURIX_TALES_0328_273200_fabbricazione_di_altri_fili_e_cavi_elett_SICUREZZA_v1.png,BRIEF_PRONTO
+0329,27.33.00,Fabbricazione di attrezzature per cablaggio,Sicurezza,0301-0350,SICURIX_TALES_0329_273300_fabbricazione_di_attrezzature_per_cablag_SICUREZZA_v1.png,BRIEF_PRONTO
+0330,27.40.01,Fabbricazione di apparecchiature per l'illuminazione per mezzi di trasporto,Sicurezza,0301-0350,SICURIX_TALES_0330_274001_fabbricazione_di_apparecchiature_per_l_i_SICUREZZA_v1.png,BRIEF_PRONTO
+0331,27.40.02,Fabbricazione di luminarie per feste,Sicurezza,0301-0350,SICURIX_TALES_0331_274002_fabbricazione_di_luminarie_per_feste_SICUREZZA_v1.png,BRIEF_PRONTO
+0332,27.40.09,Fabbricazione di altre apparecchiature per l'illuminazione,Sicurezza,0301-0350,SICURIX_TALES_0332_274009_fabbricazione_di_altre_apparecchiature_p_SICUREZZA_v1.png,BRIEF_PRONTO
+0333,27.51.00,Fabbricazione di elettrodomestici,Sicurezza,0301-0350,SICURIX_TALES_0333_275100_fabbricazione_di_elettrodomestici_SICUREZZA_v1.png,BRIEF_PRONTO
+0334,27.52.00,Fabbricazione di apparecchi non elettrici per uso domestico,Sicurezza,0301-0350,SICURIX_TALES_0334_275200_fabbricazione_di_apparecchi_non_elettric_SICUREZZA_v1.png,BRIEF_PRONTO
+0335,27.90.01,Fabbricazione di apparecchiature elettriche per saldatura e brasatura,Sicurezza,0301-0350,SICURIX_TALES_0335_279001_fabbricazione_di_apparecchiature_elettri_SICUREZZA_v1.png,BRIEF_PRONTO
+0336,27.90.02,Fabbricazione di insegne elettriche e apparecchiature elettriche di segnalazione,Sicurezza,0301-0350,SICURIX_TALES_0336_279002_fabbricazione_di_insegne_elettriche_e_ap_SICUREZZA_v1.png,BRIEF_PRONTO
+0337,27.90.03,"Fabbricazione di capacitori, resistenze, condensatori elettrici e simili",Sicurezza,0301-0350,SICURIX_TALES_0337_279003_fabbricazione_di_capacitori_resistenze_c_SICUREZZA_v1.png,BRIEF_PRONTO
+0338,27.90.04,"Fabbricazione di apparecchiature elettriche per parrucchieri, solarium e centri estetici",Sicurezza,0301-0350,SICURIX_TALES_0338_279004_fabbricazione_di_apparecchiature_elettri_SICUREZZA_v1.png,BRIEF_PRONTO
+0339,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.,Sicurezza,0301-0350,SICURIX_TALES_0339_279009_fabbricazione_di_altre_apparecchiature_e_SICUREZZA_v1.png,BRIEF_PRONTO
+0340,28.11.10,"Fabbricazione di motori, esclusi motori per aeromobili, veicoli e motocicli",Sicurezza,0301-0350,SICURIX_TALES_0340_281110_fabbricazione_di_motori_esclusi_motori_p_SICUREZZA_v1.png,BRIEF_PRONTO
+0341,28.11.20,Fabbricazione di turbine,Sicurezza,0301-0350,SICURIX_TALES_0341_281120_fabbricazione_di_turbine_SICUREZZA_v1.png,BRIEF_PRONTO
+0342,28.12.00,Fabbricazione di apparecchiature fluidodinamiche,Sicurezza,0301-0350,SICURIX_TALES_0342_281200_fabbricazione_di_apparecchiature_fluidod_SICUREZZA_v1.png,BRIEF_PRONTO
+0343,28.13.00,Fabbricazione di altre pompe e compressori,Sicurezza,0301-0350,SICURIX_TALES_0343_281300_fabbricazione_di_altre_pompe_e_compresso_SICUREZZA_v1.png,BRIEF_PRONTO
+0344,28.14.00,Fabbricazione di altri rubinetti e valvole,Sicurezza,0301-0350,SICURIX_TALES_0344_281400_fabbricazione_di_altri_rubinetti_e_valvo_SICUREZZA_v1.png,BRIEF_PRONTO
+0345,28.15.00,"Fabbricazione di cuscinetti, ingranaggi e organi di trasmissione",Sicurezza,0301-0350,SICURIX_TALES_0345_281500_fabbricazione_di_cuscinetti_ingranaggi_e_SICUREZZA_v1.png,BRIEF_PRONTO
+0346,28.21.10,Fabbricazione di forni,Sicurezza,0301-0350,SICURIX_TALES_0346_282110_fabbricazione_di_forni_SICUREZZA_v1.png,BRIEF_PRONTO
+0347,28.21.20,Fabbricazione di caldaie e apparecchiature fisse per il riscaldamento domestico,Sicurezza,0301-0350,SICURIX_TALES_0347_282120_fabbricazione_di_caldaie_e_apparecchiatu_SICUREZZA_v1.png,BRIEF_PRONTO
+0348,28.22.01,"Fabbricazione di ascensori, scale mobili e tappeti mobili",Sicurezza,0301-0350,SICURIX_TALES_0348_282201_fabbricazione_di_ascensori_scale_mobili__SICUREZZA_v1.png,BRIEF_PRONTO
+0349,28.22.09,Fabbricazione di altri apparecchi di sollevamento e movimentazione,Sicurezza,0301-0350,SICURIX_TALES_0349_282209_fabbricazione_di_altri_apparecchi_di_sol_SICUREZZA_v1.png,BRIEF_PRONTO
+0350,28.23.00,"Fabbricazione di macchine e attrezzature per ufficio, esclusi computer e unità periferiche",Sicurezza,0301-0350,SICURIX_TALES_0350_282300_fabbricazione_di_macchine_e_attrezzature_SICUREZZA_v1.png,BRIEF_PRONTO
