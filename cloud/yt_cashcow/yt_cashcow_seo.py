@@ -144,7 +144,7 @@ def _http_json(url,headers,payload,timeout=90):
 
 def ai_generate(title,content,variant=0):
     """Ritorna (dict_json, engine). Prova Groq -> Anthropic -> OpenAI -> euristico."""
-    prompt=PROMPT_TMPL.format(title=title[:200],content=(content or title)[:6000])
+    prompt=PROMPT_TMPL.format(title=title[:180],content=(content or title)[:900])
     if variant and variant>0:
         prompt+=("\n\nATTENZIONE: e' la RI-OTTIMIZZAZIONE numero %d di questo video: il titolo/descrizione/thumbnail "
                  "precedenti NON hanno aumentato le visualizzazioni. Genera un ANGOLO COMPLETAMENTE DIVERSO "
@@ -287,8 +287,8 @@ def main():
         m=meta.get(vid,{})
         tit=m.get("title","");
         print("[%d/%d] %s | %s" % (n,len(todo),vid,tit[:60]))
-        tx=transcript(vid)
-        content=tx if len(tx)>120 else (tit+"\n"+(m.get("desc","")[:1500]))
+        tx=transcript(vid)[:900]   # limita i token: piu' richieste stanno sotto il rate-limit Groq gratuito
+        content=tx if len(tx)>120 else (tit+"\n"+(m.get("desc","")[:500]))
         var=int(VARIANTS.get(vid,0) or 0)
         try:
             j,eng=ai_generate(tit,content,variant=var)
