@@ -1,0 +1,2852 @@
+[
+ {
+  "pagina": "0351",
+  "codice_ateco": "28.24.00",
+  "descrizione_ateco": "Fabbricazione di utensili portatili a motore",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.2",
+  "classe": "28.24",
+  "categoria": "28.24.0",
+  "sottocategoria": "28.24.00",
+  "titolo_fumetto": "Fabbricazione di utensili portatili a motore — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di utensili portatili a motore",
+  "cattivi": [
+   "Riskix",
+   "Cadutix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di utensili portatili a motore"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di utensili portatili a motore'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di utensili portatili a motore. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Riskix, Cadutix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di utensili portatili a motore. Scena: 1) problema 2) entra Riskix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di utensili portatili a motore: Riskix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di utensili portatili a motore — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Riskix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0351_282400_fabbricazione_di_utensili_portatili_a_mo_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0352",
+  "codice_ateco": "28.25.00",
+  "descrizione_ateco": "Fabbricazione di apparecchiature di climatizzazione per uso non domestico",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.2",
+  "classe": "28.25",
+  "categoria": "28.25.0",
+  "sottocategoria": "28.25.00",
+  "titolo_fumetto": "Fabbricazione di apparecchiature di climatiz — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di apparecchiature di climatizzazione per uso non domest",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di apparecchiature di climatizzazione per uso non domest"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di apparecchiature di climatizzazion'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di apparecchiature di climatizzazione per uso non domest. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di apparecchiature di climatizzazione per uso non domest. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di apparecchiature di climatizzazione per uso non domest: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di apparecchiature di climatizzazione per uso  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0352_282500_fabbricazione_di_apparecchiature_di_clim_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0353",
+  "codice_ateco": "28.29.10",
+  "descrizione_ateco": "Fabbricazione di bilance e distributori automatici",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.2",
+  "classe": "28.29",
+  "categoria": "28.29.1",
+  "sottocategoria": "28.29.10",
+  "titolo_fumetto": "Fabbricazione di bilance e distributori auto — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di bilance e distributori automatici",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di bilance e distributori automatici"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di bilance e distributori automatici'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di bilance e distributori automatici. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di bilance e distributori automatici. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di bilance e distributori automatici: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di bilance e distributori automatici — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0353_282910_fabbricazione_di_bilance_e_distributori__SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0354",
+  "codice_ateco": "28.29.20",
+  "descrizione_ateco": "Fabbricazione di impianti di distillazione o rettificazione per raffinerie di petrolio e industrie chimiche",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.2",
+  "classe": "28.29",
+  "categoria": "28.29.2",
+  "sottocategoria": "28.29.20",
+  "titolo_fumetto": "Fabbricazione di impianti di distillazione o — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di impianti di distillazione o rettificazione per raffin",
+  "cattivi": [
+   "Voltix",
+   "Fumix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di impianti di distillazione o rettificazione per raffin"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di impianti di distillazione o retti'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di impianti di distillazione o rettificazione per raffin. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di impianti di distillazione o rettificazione per raffin. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di impianti di distillazione o rettificazione per raffin: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di impianti di distillazione o rettificazione  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0354_282920_fabbricazione_di_impianti_di_distillazio_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0355",
+  "codice_ateco": "28.29.30",
+  "descrizione_ateco": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.2",
+  "classe": "28.29",
+  "categoria": "28.29.3",
+  "sottocategoria": "28.29.30",
+  "titolo_fumetto": "Fabbricazione di macchine per la dosatura, l — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di macchine per la dosatura, la confezione e per l'imbal",
+  "cattivi": [
+   "Fumix",
+   "Polverix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di macchine per la dosatura, la confezione e per l'imbal"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine per la dosatura, la conf'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine per la dosatura, la confezione e per l'imbal. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Fumix, Polverix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine per la dosatura, la confezione e per l'imbal. Scena: 1) problema 2) entra Fumix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine per la dosatura, la confezione e per l'imbal: Fumix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine per la dosatura, la confezione e p — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Fumix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0355_282930_fabbricazione_di_macchine_per_la_dosatur_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0356",
+  "codice_ateco": "28.29.41",
+  "descrizione_ateco": "Fabbricazione di macchine per la pulizia di pavimenti, superfici e ambienti per uso non domestico",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.2",
+  "classe": "28.29",
+  "categoria": "28.29.4",
+  "sottocategoria": "28.29.41",
+  "titolo_fumetto": "Fabbricazione di macchine per la pulizia di  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di macchine per la pulizia di pavimenti, superfici e amb",
+  "cattivi": [
+   "Polverix",
+   "Nondpix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di macchine per la pulizia di pavimenti, superfici e amb"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine per la pulizia di pavime'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine per la pulizia di pavimenti, superfici e amb. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine per la pulizia di pavimenti, superfici e amb. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine per la pulizia di pavimenti, superfici e amb: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine per la pulizia di pavimenti, super — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0356_282941_fabbricazione_di_macchine_per_la_pulizia_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0357",
+  "codice_ateco": "28.29.49",
+  "descrizione_ateco": "Fabbricazione di altre macchine per la pulizia per uso non domestico",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.2",
+  "classe": "28.29",
+  "categoria": "28.29.4",
+  "sottocategoria": "28.29.49",
+  "titolo_fumetto": "Fabbricazione di altre macchine per la puliz — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di altre macchine per la pulizia per uso non domestico",
+  "cattivi": [
+   "Nondpix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di altre macchine per la pulizia per uso non domestico"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di altre macchine per la pulizia per'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di altre macchine per la pulizia per uso non domestico. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Nondpix, Segnalex, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di altre macchine per la pulizia per uso non domestico. Scena: 1) problema 2) entra Nondpix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di altre macchine per la pulizia per uso non domestico: Nondpix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di altre macchine per la pulizia per uso non d — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Nondpix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0357_282949_fabbricazione_di_altre_macchine_per_la_p_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0358",
+  "codice_ateco": "28.29.91",
+  "descrizione_ateco": "Fabbricazione di apparecchi per depurare e filtrare liquidi",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.2",
+  "classe": "28.29",
+  "categoria": "28.29.9",
+  "sottocategoria": "28.29.91",
+  "titolo_fumetto": "Fabbricazione di apparecchi per depurare e f — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di apparecchi per depurare e filtrare liquidi",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di apparecchi per depurare e filtrare liquidi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di apparecchi per depurare e filtrar'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di apparecchi per depurare e filtrare liquidi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di apparecchi per depurare e filtrare liquidi. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di apparecchi per depurare e filtrare liquidi: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di apparecchi per depurare e filtrare liquidi — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0358_282991_fabbricazione_di_apparecchi_per_depurare_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0359",
+  "codice_ateco": "28.29.92",
+  "descrizione_ateco": "Fabbricazione di livelle, metri doppi a nastro e utensili simili, strumenti di precisione per meccanica",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.2",
+  "classe": "28.29",
+  "categoria": "28.29.9",
+  "sottocategoria": "28.29.92",
+  "titolo_fumetto": "Fabbricazione di livelle, metri doppi a nast — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di livelle, metri doppi a nastro e utensili simili, stru",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di livelle, metri doppi a nastro e utensili simili, stru"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di livelle, metri doppi a nastro e u'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di livelle, metri doppi a nastro e utensili simili, stru. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di livelle, metri doppi a nastro e utensili simili, stru. Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di livelle, metri doppi a nastro e utensili simili, stru: Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di livelle, metri doppi a nastro e utensili si — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0359_282992_fabbricazione_di_livelle_metri_doppi_a_n_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0360",
+  "codice_ateco": "28.29.99",
+  "descrizione_ateco": "Fabbricazione di altre macchine varie di impiego generale n.c.a.",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.2",
+  "classe": "28.29",
+  "categoria": "28.29.9",
+  "sottocategoria": "28.29.99",
+  "titolo_fumetto": "Fabbricazione di altre macchine varie di imp — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di altre macchine varie di impiego generale n.c.a.",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di altre macchine varie di impiego generale n.c.a."
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di altre macchine varie di impiego g'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di altre macchine varie di impiego generale n.c.a.. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di altre macchine varie di impiego generale n.c.a.. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di altre macchine varie di impiego generale n.c.a.: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di altre macchine varie di impiego generale n. — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0360_282999_fabbricazione_di_altre_macchine_varie_di_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0361",
+  "codice_ateco": "28.30.10",
+  "descrizione_ateco": "Fabbricazione di trattori per l'agricoltura e la silvicoltura",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.3",
+  "classe": "28.30",
+  "categoria": "28.30.1",
+  "sottocategoria": "28.30.10",
+  "titolo_fumetto": "Fabbricazione di trattori per l'agricoltura  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di trattori per l'agricoltura e la silvicoltura",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di trattori per l'agricoltura e la silvicoltura"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di trattori per l'agricoltura e la s'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di trattori per l'agricoltura e la silvicoltura. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di trattori per l'agricoltura e la silvicoltura. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di trattori per l'agricoltura e la silvicoltura: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di trattori per l'agricoltura e la silvicoltur — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0361_283010_fabbricazione_di_trattori_per_l_agricolt_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0362",
+  "codice_ateco": "28.30.91",
+  "descrizione_ateco": "Fabbricazione di macchine per il giardinaggio e la cura del verde",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.3",
+  "classe": "28.30",
+  "categoria": "28.30.9",
+  "sottocategoria": "28.30.91",
+  "titolo_fumetto": "Fabbricazione di macchine per il giardinaggi — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di macchine per il giardinaggio e la cura del verde",
+  "cattivi": [
+   "Caosix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di macchine per il giardinaggio e la cura del verde"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine per il giardinaggio e la'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine per il giardinaggio e la cura del verde. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Caosix, Segnalex, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine per il giardinaggio e la cura del verde. Scena: 1) problema 2) entra Caosix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine per il giardinaggio e la cura del verde: Caosix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine per il giardinaggio e la cura del  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Caosix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0362_283091_fabbricazione_di_macchine_per_il_giardin_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0363",
+  "codice_ateco": "28.30.99",
+  "descrizione_ateco": "Fabbricazione di altre macchine per l'agricoltura e la silvicoltura n.c.a.",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.3",
+  "classe": "28.30",
+  "categoria": "28.30.9",
+  "sottocategoria": "28.30.99",
+  "titolo_fumetto": "Fabbricazione di altre macchine per l'agrico — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di altre macchine per l'agricoltura e la silvicoltura n.",
+  "cattivi": [
+   "Segnalex",
+   "Riskix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di altre macchine per l'agricoltura e la silvicoltura n."
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di altre macchine per l'agricoltura '. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di altre macchine per l'agricoltura e la silvicoltura n.. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Riskix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di altre macchine per l'agricoltura e la silvicoltura n.. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di altre macchine per l'agricoltura e la silvicoltura n.: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di altre macchine per l'agricoltura e la silvi — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0363_283099_fabbricazione_di_altre_macchine_per_l_ag_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0364",
+  "codice_ateco": "28.41.00",
+  "descrizione_ateco": "Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili per la lavorazione dei metalli",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.4",
+  "classe": "28.41",
+  "categoria": "28.41.0",
+  "sottocategoria": "28.41.00",
+  "titolo_fumetto": "Fabbricazione di macchine per la deformazion — Pericolo vs Metodo81+",
+  "area": "Privacy",
+  "ambientazione": "Fabbricazione di macchine per la deformazione dei metalli e di altre m",
+  "cattivi": [
+   "Permissionix",
+   "Cancelix"
+  ],
+  "eroi": [
+   "Luxpectorix",
+   "Cifrix"
+  ],
+  "rischi": [
+   "Rischio Privacy prevalente per: Fabbricazione di macchine per la deformazione dei metalli e di altre m"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine per la deformazione dei '. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine per la deformazione dei metalli e di altre m. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Permissionix, Cancelix, gli eroi Luxpectorix, Cifrix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine per la deformazione dei metalli e di altre m. Scena: 1) problema 2) entra Permissionix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Luxpectorix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine per la deformazione dei metalli e di altre m: Permissionix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Luxpectorix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine per la deformazione dei metalli e  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Permissionix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Privacy #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0364_284100_fabbricazione_di_macchine_per_la_deforma_PRIVACY_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0365",
+  "codice_ateco": "28.42.00",
+  "descrizione_ateco": "Fabbricazione di altre macchine utensili",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.4",
+  "classe": "28.42",
+  "categoria": "28.42.0",
+  "sottocategoria": "28.42.00",
+  "titolo_fumetto": "Fabbricazione di altre macchine utensili — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di altre macchine utensili",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di altre macchine utensili"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di altre macchine utensili'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di altre macchine utensili. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di altre macchine utensili. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di altre macchine utensili: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di altre macchine utensili — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0365_284200_fabbricazione_di_altre_macchine_utensili_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0366",
+  "codice_ateco": "28.91.00",
+  "descrizione_ateco": "Fabbricazione di macchine per la metallurgia",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.91",
+  "categoria": "28.91.0",
+  "sottocategoria": "28.91.00",
+  "titolo_fumetto": "Fabbricazione di macchine per la metallurgia — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di macchine per la metallurgia",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di macchine per la metallurgia"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine per la metallurgia'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine per la metallurgia. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine per la metallurgia. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine per la metallurgia: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine per la metallurgia — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0366_289100_fabbricazione_di_macchine_per_la_metallu_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0367",
+  "codice_ateco": "28.92.00",
+  "descrizione_ateco": "Fabbricazione di macchine da miniera, cava e cantiere",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.92",
+  "categoria": "28.92.0",
+  "sottocategoria": "28.92.00",
+  "titolo_fumetto": "Fabbricazione di macchine da miniera, cava e — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di macchine da miniera, cava e cantiere",
+  "cattivi": [
+   "Voltix",
+   "Fumix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di macchine da miniera, cava e cantiere"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine da miniera, cava e canti'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine da miniera, cava e cantiere. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine da miniera, cava e cantiere. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine da miniera, cava e cantiere: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine da miniera, cava e cantiere — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0367_289200_fabbricazione_di_macchine_da_miniera_cav_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0368",
+  "codice_ateco": "28.93.00",
+  "descrizione_ateco": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.93",
+  "categoria": "28.93.0",
+  "sottocategoria": "28.93.00",
+  "titolo_fumetto": "Fabbricazione di macchine per l'industria al — Pericolo vs Metodo81+",
+  "area": "HACCP",
+  "ambientazione": "Fabbricazione di macchine per l'industria alimentare, delle bevande e ",
+  "cattivi": [
+   "Mescolix",
+   "Dosagix"
+  ],
+  "eroi": [
+   "Blinkix",
+   "Chefix"
+  ],
+  "rischi": [
+   "Rischio HACCP prevalente per: Fabbricazione di macchine per l'industria alimentare, delle bevande e "
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine per l'industria alimenta'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine per l'industria alimentare, delle bevande e . Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Mescolix, Dosagix, gli eroi Blinkix, Chefix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine per l'industria alimentare, delle bevande e . Scena: 1) problema 2) entra Mescolix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Blinkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine per l'industria alimentare, delle bevande e : Mescolix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Blinkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine per l'industria alimentare, delle  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Mescolix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #HACCP #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0368_289300_fabbricazione_di_macchine_per_l_industri_HACCP_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0369",
+  "codice_ateco": "28.94.10",
+  "descrizione_ateco": "Fabbricazione di macchine tessili",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.94",
+  "categoria": "28.94.1",
+  "sottocategoria": "28.94.10",
+  "titolo_fumetto": "Fabbricazione di macchine tessili — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di macchine tessili",
+  "cattivi": [
+   "Polverix",
+   "Nondpix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di macchine tessili"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine tessili'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine tessili. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine tessili. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine tessili: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine tessili — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0369_289410_fabbricazione_di_macchine_tessili_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0370",
+  "codice_ateco": "28.94.20",
+  "descrizione_ateco": "Fabbricazione di macchine per la lavorazione delle pelli e del cuoio",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.94",
+  "categoria": "28.94.2",
+  "sottocategoria": "28.94.20",
+  "titolo_fumetto": "Fabbricazione di macchine per la lavorazione — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di macchine per la lavorazione delle pelli e del cuoio",
+  "cattivi": [
+   "Nondpix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di macchine per la lavorazione delle pelli e del cuoio"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine per la lavorazione delle'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine per la lavorazione delle pelli e del cuoio. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Nondpix, Segnalex, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine per la lavorazione delle pelli e del cuoio. Scena: 1) problema 2) entra Nondpix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine per la lavorazione delle pelli e del cuoio: Nondpix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine per la lavorazione delle pelli e d — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Nondpix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0370_289420_fabbricazione_di_macchine_per_la_lavoraz_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0371",
+  "codice_ateco": "28.94.30",
+  "descrizione_ateco": "Fabbricazione di macchine per lavanderie e stirerie",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.94",
+  "categoria": "28.94.3",
+  "sottocategoria": "28.94.30",
+  "titolo_fumetto": "Fabbricazione di macchine per lavanderie e s — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di macchine per lavanderie e stirerie",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di macchine per lavanderie e stirerie"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine per lavanderie e stireri'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine per lavanderie e stirerie. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine per lavanderie e stirerie. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine per lavanderie e stirerie: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine per lavanderie e stirerie — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0371_289430_fabbricazione_di_macchine_per_lavanderie_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0372",
+  "codice_ateco": "28.95.00",
+  "descrizione_ateco": "Fabbricazione di macchine per l'industria della carta e del cartone",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.95",
+  "categoria": "28.95.0",
+  "sottocategoria": "28.95.00",
+  "titolo_fumetto": "Fabbricazione di macchine per l'industria de — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di macchine per l'industria della carta e del cartone",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di macchine per l'industria della carta e del cartone"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine per l'industria della ca'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine per l'industria della carta e del cartone. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine per l'industria della carta e del cartone. Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine per l'industria della carta e del cartone: Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine per l'industria della carta e del  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0372_289500_fabbricazione_di_macchine_per_l_industri_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0373",
+  "codice_ateco": "28.96.00",
+  "descrizione_ateco": "Fabbricazione di macchine per l'industria delle materie plastiche e della gomma",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.96",
+  "categoria": "28.96.0",
+  "sottocategoria": "28.96.00",
+  "titolo_fumetto": "Fabbricazione di macchine per l'industria de — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di macchine per l'industria delle materie plastiche e de",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di macchine per l'industria delle materie plastiche e de"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine per l'industria delle ma'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine per l'industria delle materie plastiche e de. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine per l'industria delle materie plastiche e de. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine per l'industria delle materie plastiche e de: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine per l'industria delle materie plas — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0373_289600_fabbricazione_di_macchine_per_l_industri_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0374",
+  "codice_ateco": "28.97.01",
+  "descrizione_ateco": "Fabbricazione di macchine per la produzione additiva per deposizione di materiali metallici",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.97",
+  "categoria": "28.97.0",
+  "sottocategoria": "28.97.01",
+  "titolo_fumetto": "Fabbricazione di macchine per la produzione  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di macchine per la produzione additiva per deposizione d",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di macchine per la produzione additiva per deposizione d"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine per la produzione additi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine per la produzione additiva per deposizione d. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine per la produzione additiva per deposizione d. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine per la produzione additiva per deposizione d: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine per la produzione additiva per dep — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0374_289701_fabbricazione_di_macchine_per_la_produzi_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0375",
+  "codice_ateco": "28.97.02",
+  "descrizione_ateco": "Fabbricazione di macchine per la produzione additiva per deposizione di materie plastiche o di gomma",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.97",
+  "categoria": "28.97.0",
+  "sottocategoria": "28.97.02",
+  "titolo_fumetto": "Fabbricazione di macchine per la produzione  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di macchine per la produzione additiva per deposizione d",
+  "cattivi": [
+   "Caosix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di macchine per la produzione additiva per deposizione d"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine per la produzione additi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine per la produzione additiva per deposizione d. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Caosix, Segnalex, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine per la produzione additiva per deposizione d. Scena: 1) problema 2) entra Caosix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine per la produzione additiva per deposizione d: Caosix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine per la produzione additiva per dep — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Caosix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0375_289702_fabbricazione_di_macchine_per_la_produzi_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0376",
+  "codice_ateco": "28.97.09",
+  "descrizione_ateco": "Fabbricazione di macchine per la produzione additiva n.c.a.",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.97",
+  "categoria": "28.97.0",
+  "sottocategoria": "28.97.09",
+  "titolo_fumetto": "Fabbricazione di macchine per la produzione  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di macchine per la produzione additiva n.c.a.",
+  "cattivi": [
+   "Segnalex",
+   "Riskix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di macchine per la produzione additiva n.c.a."
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine per la produzione additi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine per la produzione additiva n.c.a.. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Riskix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine per la produzione additiva n.c.a.. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine per la produzione additiva n.c.a.: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine per la produzione additiva n.c.a. — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0376_289709_fabbricazione_di_macchine_per_la_produzi_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0377",
+  "codice_ateco": "28.99.10",
+  "descrizione_ateco": "Fabbricazione di macchine per la stampa e la legatoria",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.99",
+  "categoria": "28.99.1",
+  "sottocategoria": "28.99.10",
+  "titolo_fumetto": "Fabbricazione di macchine per la stampa e la — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di macchine per la stampa e la legatoria",
+  "cattivi": [
+   "Riskix",
+   "Cadutix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di macchine per la stampa e la legatoria"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di macchine per la stampa e la legat'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di macchine per la stampa e la legatoria. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Riskix, Cadutix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di macchine per la stampa e la legatoria. Scena: 1) problema 2) entra Riskix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di macchine per la stampa e la legatoria: Riskix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di macchine per la stampa e la legatoria — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Riskix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0377_289910_fabbricazione_di_macchine_per_la_stampa__SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0378",
+  "codice_ateco": "28.99.20",
+  "descrizione_ateco": "Fabbricazione di robot industriali con compiti multipli per scopi speciali",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.99",
+  "categoria": "28.99.2",
+  "sottocategoria": "28.99.20",
+  "titolo_fumetto": "Fabbricazione di robot industriali con compi — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di robot industriali con compiti multipli per scopi spec",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di robot industriali con compiti multipli per scopi spec"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di robot industriali con compiti mul'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di robot industriali con compiti multipli per scopi spec. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di robot industriali con compiti multipli per scopi spec. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di robot industriali con compiti multipli per scopi spec: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di robot industriali con compiti multipli per  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0378_289920_fabbricazione_di_robot_industriali_con_c_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0379",
+  "codice_ateco": "28.99.91",
+  "descrizione_ateco": "Fabbricazione di apparecchiature per il lancio di aeromobili, catapulte per portaerei e relative attrezzature",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.99",
+  "categoria": "28.99.9",
+  "sottocategoria": "28.99.91",
+  "titolo_fumetto": "Fabbricazione di apparecchiature per il lanc — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di apparecchiature per il lancio di aeromobili, catapult",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di apparecchiature per il lancio di aeromobili, catapult"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di apparecchiature per il lancio di '. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di apparecchiature per il lancio di aeromobili, catapult. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di apparecchiature per il lancio di aeromobili, catapult. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di apparecchiature per il lancio di aeromobili, catapult: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di apparecchiature per il lancio di aeromobili — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0379_289991_fabbricazione_di_apparecchiature_per_il__SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0380",
+  "codice_ateco": "28.99.92",
+  "descrizione_ateco": "Fabbricazione di giostre, altalene e altre attrazioni di divertimento",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.99",
+  "categoria": "28.99.9",
+  "sottocategoria": "28.99.92",
+  "titolo_fumetto": "Fabbricazione di giostre, altalene e altre a — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di giostre, altalene e altre attrazioni di divertimento",
+  "cattivi": [
+   "Voltix",
+   "Fumix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di giostre, altalene e altre attrazioni di divertimento"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di giostre, altalene e altre attrazi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di giostre, altalene e altre attrazioni di divertimento. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di giostre, altalene e altre attrazioni di divertimento. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di giostre, altalene e altre attrazioni di divertimento: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di giostre, altalene e altre attrazioni di div — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0380_289992_fabbricazione_di_giostre_altalene_e_altr_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0381",
+  "codice_ateco": "28.99.93",
+  "descrizione_ateco": "Fabbricazione di apparecchiature per l'allineamento e il bilanciamento delle ruote e altre apparecchiature per il bilanciamento",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.99",
+  "categoria": "28.99.9",
+  "sottocategoria": "28.99.93",
+  "titolo_fumetto": "Fabbricazione di apparecchiature per l'allin — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di apparecchiature per l'allineamento e il bilanciamento",
+  "cattivi": [
+   "Fumix",
+   "Polverix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di apparecchiature per l'allineamento e il bilanciamento"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di apparecchiature per l'allineament'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di apparecchiature per l'allineamento e il bilanciamento. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Fumix, Polverix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di apparecchiature per l'allineamento e il bilanciamento. Scena: 1) problema 2) entra Fumix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di apparecchiature per l'allineamento e il bilanciamento: Fumix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di apparecchiature per l'allineamento e il bil — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Fumix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0381_289993_fabbricazione_di_apparecchiature_per_l_a_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0382",
+  "codice_ateco": "28.99.99",
+  "descrizione_ateco": "Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.",
+  "sezione": "C Manifattura",
+  "divisione": "28",
+  "gruppo": "28.9",
+  "classe": "28.99",
+  "categoria": "28.99.9",
+  "sottocategoria": "28.99.99",
+  "titolo_fumetto": "Fabbricazione di tutte le altre macchine var — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di tutte le altre macchine varie per impieghi speciali n",
+  "cattivi": [
+   "Polverix",
+   "Nondpix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di tutte le altre macchine varie per impieghi speciali n"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di tutte le altre macchine varie per'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di tutte le altre macchine varie per impieghi speciali n. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di tutte le altre macchine varie per impieghi speciali n. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di tutte le altre macchine varie per impieghi speciali n: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di tutte le altre macchine varie per impieghi  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0382_289999_fabbricazione_di_tutte_le_altre_macchine_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0383",
+  "codice_ateco": "29.10.00",
+  "descrizione_ateco": "Fabbricazione di autoveicoli",
+  "sezione": "C Manifattura",
+  "divisione": "29",
+  "gruppo": "29.1",
+  "classe": "29.10",
+  "categoria": "29.10.0",
+  "sottocategoria": "29.10.00",
+  "titolo_fumetto": "Fabbricazione di autoveicoli — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di autoveicoli",
+  "cattivi": [
+   "Nondpix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di autoveicoli"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di autoveicoli'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di autoveicoli. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Nondpix, Segnalex, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di autoveicoli. Scena: 1) problema 2) entra Nondpix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di autoveicoli: Nondpix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di autoveicoli — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Nondpix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0383_291000_fabbricazione_di_autoveicoli_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0384",
+  "codice_ateco": "29.20.00",
+  "descrizione_ateco": "Fabbricazione di carrozzerie per autoveicoli; fabbricazione di rimorchi e semirimorchi",
+  "sezione": "C Manifattura",
+  "divisione": "29",
+  "gruppo": "29.2",
+  "classe": "29.20",
+  "categoria": "29.20.0",
+  "sottocategoria": "29.20.00",
+  "titolo_fumetto": "Fabbricazione di carrozzerie per autoveicoli — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di carrozzerie per autoveicoli; fabbricazione di rimorch",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di carrozzerie per autoveicoli; fabbricazione di rimorch"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di carrozzerie per autoveicoli; fabb'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di carrozzerie per autoveicoli; fabbricazione di rimorch. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di carrozzerie per autoveicoli; fabbricazione di rimorch. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di carrozzerie per autoveicoli; fabbricazione di rimorch: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di carrozzerie per autoveicoli; fabbricazione  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0384_292000_fabbricazione_di_carrozzerie_per_autovei_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0385",
+  "codice_ateco": "29.31.00",
+  "descrizione_ateco": "Fabbricazione di apparecchiature elettriche ed elettroniche per autoveicoli",
+  "sezione": "C Manifattura",
+  "divisione": "29",
+  "gruppo": "29.3",
+  "classe": "29.31",
+  "categoria": "29.31.0",
+  "sottocategoria": "29.31.00",
+  "titolo_fumetto": "Fabbricazione di apparecchiature elettriche  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di apparecchiature elettriche ed elettroniche per autove",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di apparecchiature elettriche ed elettroniche per autove"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di apparecchiature elettriche ed ele'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di apparecchiature elettriche ed elettroniche per autove. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di apparecchiature elettriche ed elettroniche per autove. Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di apparecchiature elettriche ed elettroniche per autove: Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di apparecchiature elettriche ed elettroniche  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0385_293100_fabbricazione_di_apparecchiature_elettri_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0386",
+  "codice_ateco": "29.32.00",
+  "descrizione_ateco": "Fabbricazione di altre parti e accessori per autoveicoli",
+  "sezione": "C Manifattura",
+  "divisione": "29",
+  "gruppo": "29.3",
+  "classe": "29.32",
+  "categoria": "29.32.0",
+  "sottocategoria": "29.32.00",
+  "titolo_fumetto": "Fabbricazione di altre parti e accessori per — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di altre parti e accessori per autoveicoli",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di altre parti e accessori per autoveicoli"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di altre parti e accessori per autov'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di altre parti e accessori per autoveicoli. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di altre parti e accessori per autoveicoli. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di altre parti e accessori per autoveicoli: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di altre parti e accessori per autoveicoli — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0386_293200_fabbricazione_di_altre_parti_e_accessori_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0387",
+  "codice_ateco": "30.11.00",
+  "descrizione_ateco": "Costruzione di navi e di strutture galleggianti per scopi civili",
+  "sezione": "C Manifattura",
+  "divisione": "30",
+  "gruppo": "30.1",
+  "classe": "30.11",
+  "categoria": "30.11.0",
+  "sottocategoria": "30.11.00",
+  "titolo_fumetto": "Costruzione di navi e di strutture galleggia — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Costruzione di navi e di strutture galleggianti per scopi civili",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Costruzione di navi e di strutture galleggianti per scopi civili"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Costruzione di navi e di strutture galleggianti pe'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Costruzione di navi e di strutture galleggianti per scopi civili. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Costruzione di navi e di strutture galleggianti per scopi civili. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Costruzione di navi e di strutture galleggianti per scopi civili: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Costruzione di navi e di strutture galleggianti per scopi ci — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0387_301100_costruzione_di_navi_e_di_strutture_galle_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0388",
+  "codice_ateco": "30.12.00",
+  "descrizione_ateco": "Costruzione di imbarcazioni da diporto e sportive",
+  "sezione": "C Manifattura",
+  "divisione": "30",
+  "gruppo": "30.1",
+  "classe": "30.12",
+  "categoria": "30.12.0",
+  "sottocategoria": "30.12.00",
+  "titolo_fumetto": "Costruzione di imbarcazioni da diporto e spo — Pericolo vs Metodo81+",
+  "area": "HACCP",
+  "ambientazione": "Costruzione di imbarcazioni da diporto e sportive",
+  "cattivi": [
+   "Scadutix",
+   "Mescolix"
+  ],
+  "eroi": [
+   "Blinkix",
+   "Chefix"
+  ],
+  "rischi": [
+   "Rischio HACCP prevalente per: Costruzione di imbarcazioni da diporto e sportive"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Costruzione di imbarcazioni da diporto e sportive'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Costruzione di imbarcazioni da diporto e sportive. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Scadutix, Mescolix, gli eroi Blinkix, Chefix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Costruzione di imbarcazioni da diporto e sportive. Scena: 1) problema 2) entra Scadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Blinkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Costruzione di imbarcazioni da diporto e sportive: Scadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Blinkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Costruzione di imbarcazioni da diporto e sportive — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Scadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #HACCP #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0388_301200_costruzione_di_imbarcazioni_da_diporto_e_HACCP_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0389",
+  "codice_ateco": "30.13.00",
+  "descrizione_ateco": "Costruzione di navi e imbarcazioni per scopi militari",
+  "sezione": "C Manifattura",
+  "divisione": "30",
+  "gruppo": "30.1",
+  "classe": "30.13",
+  "categoria": "30.13.0",
+  "sottocategoria": "30.13.00",
+  "titolo_fumetto": "Costruzione di navi e imbarcazioni per scopi — Pericolo vs Metodo81+",
+  "area": "HACCP",
+  "ambientazione": "Costruzione di navi e imbarcazioni per scopi militari",
+  "cattivi": [
+   "Mescolix",
+   "Dosagix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Hygienix"
+  ],
+  "rischi": [
+   "Rischio HACCP prevalente per: Costruzione di navi e imbarcazioni per scopi militari"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Costruzione di navi e imbarcazioni per scopi milit'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Costruzione di navi e imbarcazioni per scopi militari. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Mescolix, Dosagix, gli eroi Checkix, Hygienix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Costruzione di navi e imbarcazioni per scopi militari. Scena: 1) problema 2) entra Mescolix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Costruzione di navi e imbarcazioni per scopi militari: Mescolix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Costruzione di navi e imbarcazioni per scopi militari — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Mescolix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #HACCP #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0389_301300_costruzione_di_navi_e_imbarcazioni_per_s_HACCP_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0390",
+  "codice_ateco": "30.20.00",
+  "descrizione_ateco": "Costruzione di locomotive e di materiale rotabile ferro-tranviario",
+  "sezione": "C Manifattura",
+  "divisione": "30",
+  "gruppo": "30.2",
+  "classe": "30.20",
+  "categoria": "30.20.0",
+  "sottocategoria": "30.20.00",
+  "titolo_fumetto": "Costruzione di locomotive e di materiale rot — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Costruzione di locomotive e di materiale rotabile ferro-tranviario",
+  "cattivi": [
+   "Riskix",
+   "Cadutix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Costruzione di locomotive e di materiale rotabile ferro-tranviario"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Costruzione di locomotive e di materiale rotabile '. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Costruzione di locomotive e di materiale rotabile ferro-tranviario. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Riskix, Cadutix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Costruzione di locomotive e di materiale rotabile ferro-tranviario. Scena: 1) problema 2) entra Riskix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Costruzione di locomotive e di materiale rotabile ferro-tranviario: Riskix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Costruzione di locomotive e di materiale rotabile ferro-tran — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Riskix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0390_302000_costruzione_di_locomotive_e_di_materiale_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0391",
+  "codice_ateco": "30.31.00",
+  "descrizione_ateco": "Fabbricazione di aeromobili, veicoli spaziali e relativi equipaggiamenti per scopi civili",
+  "sezione": "C Manifattura",
+  "divisione": "30",
+  "gruppo": "30.3",
+  "classe": "30.31",
+  "categoria": "30.31.0",
+  "sottocategoria": "30.31.00",
+  "titolo_fumetto": "Fabbricazione di aeromobili, veicoli spazial — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di aeromobili, veicoli spaziali e relativi equipaggiamen",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di aeromobili, veicoli spaziali e relativi equipaggiamen"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di aeromobili, veicoli spaziali e re'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di aeromobili, veicoli spaziali e relativi equipaggiamen. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di aeromobili, veicoli spaziali e relativi equipaggiamen. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di aeromobili, veicoli spaziali e relativi equipaggiamen: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di aeromobili, veicoli spaziali e relativi equ — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0391_303100_fabbricazione_di_aeromobili_veicoli_spaz_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0392",
+  "codice_ateco": "30.32.00",
+  "descrizione_ateco": "Fabbricazione di aeromobili, veicoli spaziali e relativi equipaggiamenti per scopi militari",
+  "sezione": "C Manifattura",
+  "divisione": "30",
+  "gruppo": "30.3",
+  "classe": "30.32",
+  "categoria": "30.32.0",
+  "sottocategoria": "30.32.00",
+  "titolo_fumetto": "Fabbricazione di aeromobili, veicoli spazial — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di aeromobili, veicoli spaziali e relativi equipaggiamen",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di aeromobili, veicoli spaziali e relativi equipaggiamen"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di aeromobili, veicoli spaziali e re'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di aeromobili, veicoli spaziali e relativi equipaggiamen. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di aeromobili, veicoli spaziali e relativi equipaggiamen. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di aeromobili, veicoli spaziali e relativi equipaggiamen: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di aeromobili, veicoli spaziali e relativi equ — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0392_303200_fabbricazione_di_aeromobili_veicoli_spaz_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0393",
+  "codice_ateco": "30.40.00",
+  "descrizione_ateco": "Fabbricazione di veicoli militari da combattimento",
+  "sezione": "C Manifattura",
+  "divisione": "30",
+  "gruppo": "30.4",
+  "classe": "30.40",
+  "categoria": "30.40.0",
+  "sottocategoria": "30.40.00",
+  "titolo_fumetto": "Fabbricazione di veicoli militari da combatt — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di veicoli militari da combattimento",
+  "cattivi": [
+   "Voltix",
+   "Fumix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di veicoli militari da combattimento"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di veicoli militari da combattimento'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di veicoli militari da combattimento. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di veicoli militari da combattimento. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di veicoli militari da combattimento: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di veicoli militari da combattimento — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0393_304000_fabbricazione_di_veicoli_militari_da_com_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0394",
+  "codice_ateco": "30.91.11",
+  "descrizione_ateco": "Fabbricazione di motori per motocicli",
+  "sezione": "C Manifattura",
+  "divisione": "30",
+  "gruppo": "30.9",
+  "classe": "30.91",
+  "categoria": "30.91.1",
+  "sottocategoria": "30.91.11",
+  "titolo_fumetto": "Fabbricazione di motori per motocicli — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di motori per motocicli",
+  "cattivi": [
+   "Fumix",
+   "Polverix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di motori per motocicli"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di motori per motocicli'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di motori per motocicli. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Fumix, Polverix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di motori per motocicli. Scena: 1) problema 2) entra Fumix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di motori per motocicli: Fumix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di motori per motocicli — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Fumix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0394_309111_fabbricazione_di_motori_per_motocicli_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0395",
+  "codice_ateco": "30.91.12",
+  "descrizione_ateco": "Fabbricazione di motocicli, esclusi motori",
+  "sezione": "C Manifattura",
+  "divisione": "30",
+  "gruppo": "30.9",
+  "classe": "30.91",
+  "categoria": "30.91.1",
+  "sottocategoria": "30.91.12",
+  "titolo_fumetto": "Fabbricazione di motocicli, esclusi motori — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di motocicli, esclusi motori",
+  "cattivi": [
+   "Polverix",
+   "Nondpix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di motocicli, esclusi motori"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di motocicli, esclusi motori'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di motocicli, esclusi motori. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di motocicli, esclusi motori. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di motocicli, esclusi motori: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di motocicli, esclusi motori — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0395_309112_fabbricazione_di_motocicli_esclusi_motor_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0396",
+  "codice_ateco": "30.91.20",
+  "descrizione_ateco": "Fabbricazione di parti e accessori per motocicli",
+  "sezione": "C Manifattura",
+  "divisione": "30",
+  "gruppo": "30.9",
+  "classe": "30.91",
+  "categoria": "30.91.2",
+  "sottocategoria": "30.91.20",
+  "titolo_fumetto": "Fabbricazione di parti e accessori per motoc — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di parti e accessori per motocicli",
+  "cattivi": [
+   "Nondpix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di parti e accessori per motocicli"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di parti e accessori per motocicli'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di parti e accessori per motocicli. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Nondpix, Segnalex, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di parti e accessori per motocicli. Scena: 1) problema 2) entra Nondpix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di parti e accessori per motocicli: Nondpix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di parti e accessori per motocicli — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Nondpix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0396_309120_fabbricazione_di_parti_e_accessori_per_m_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0397",
+  "codice_ateco": "30.92.10",
+  "descrizione_ateco": "Fabbricazione di biciclette, escluse parti e accessori",
+  "sezione": "C Manifattura",
+  "divisione": "30",
+  "gruppo": "30.9",
+  "classe": "30.92",
+  "categoria": "30.92.1",
+  "sottocategoria": "30.92.10",
+  "titolo_fumetto": "Fabbricazione di biciclette, escluse parti e — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di biciclette, escluse parti e accessori",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di biciclette, escluse parti e accessori"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di biciclette, escluse parti e acces'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di biciclette, escluse parti e accessori. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di biciclette, escluse parti e accessori. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di biciclette, escluse parti e accessori: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di biciclette, escluse parti e accessori — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0397_309210_fabbricazione_di_biciclette_escluse_part_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0398",
+  "codice_ateco": "30.92.20",
+  "descrizione_ateco": "Fabbricazione di parti e accessori per biciclette",
+  "sezione": "C Manifattura",
+  "divisione": "30",
+  "gruppo": "30.9",
+  "classe": "30.92",
+  "categoria": "30.92.2",
+  "sottocategoria": "30.92.20",
+  "titolo_fumetto": "Fabbricazione di parti e accessori per bicic — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di parti e accessori per biciclette",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di parti e accessori per biciclette"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di parti e accessori per biciclette'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di parti e accessori per biciclette. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di parti e accessori per biciclette. Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di parti e accessori per biciclette: Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di parti e accessori per biciclette — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0398_309220_fabbricazione_di_parti_e_accessori_per_b_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0399",
+  "codice_ateco": "30.92.30",
+  "descrizione_ateco": "Fabbricazione di veicoli per disabili",
+  "sezione": "C Manifattura",
+  "divisione": "30",
+  "gruppo": "30.9",
+  "classe": "30.92",
+  "categoria": "30.92.3",
+  "sottocategoria": "30.92.30",
+  "titolo_fumetto": "Fabbricazione di veicoli per disabili — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di veicoli per disabili",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di veicoli per disabili"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di veicoli per disabili'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di veicoli per disabili. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di veicoli per disabili. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di veicoli per disabili: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di veicoli per disabili — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0399_309230_fabbricazione_di_veicoli_per_disabili_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0400",
+  "codice_ateco": "30.92.40",
+  "descrizione_ateco": "Fabbricazione di carrozzine e passeggini",
+  "sezione": "C Manifattura",
+  "divisione": "30",
+  "gruppo": "30.9",
+  "classe": "30.92",
+  "categoria": "30.92.4",
+  "sottocategoria": "30.92.40",
+  "titolo_fumetto": "Fabbricazione di carrozzine e passeggini — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Fabbricazione di carrozzine e passeggini",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Fabbricazione di carrozzine e passeggini"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Fabbricazione di carrozzine e passeggini'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Fabbricazione di carrozzine e passeggini. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Fabbricazione di carrozzine e passeggini. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Fabbricazione di carrozzine e passeggini: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Fabbricazione di carrozzine e passeggini — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0400_309240_fabbricazione_di_carrozzine_e_passeggini_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0351-0400/",
+  "stato": "DA_GENERARE"
+ }
+]
