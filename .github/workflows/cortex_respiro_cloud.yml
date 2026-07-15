@@ -1,0 +1,61 @@
+# cortex_respiro_cloud.yml — IL RESPIRO ONLINE DI CORTEX (gratis, H24)
+# Da installare in: .github/workflows/cortex_respiro_cloud.yml del repo 81plus-automation
+#
+# Ogni 6 ore GitHub Actions (gratis su repo pubblici):
+#   1. Aggiorna il battito nel CORTEX_DIGEST.md (timestamp + contatore respiri)
+#   2. Verifica che MATRIX81.md non sia stale (watchdog cloud)
+#   3. Committa il battito — la prova visibile che l'organismo vive online
+#
+# NB: il respiro profondo (ingest, micelio, grafo) avviene in locale dove vive
+#     il corpo. Questo è il battito cloud: leggero, gratuito, permanente.
+
+name: CORTEX Respiro Cloud
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"     # ogni 6 ore
+  workflow_dispatch: {}        # respirazione manuale on-demand
+
+permissions:
+  contents: write
+
+jobs:
+  respiro:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Battito
+        run: |
+          mkdir -p cortex
+          NOW=$(date -u '+%Y-%m-%d %H:%M UTC')
+          COUNT_FILE=cortex/respiri_count.txt
+          COUNT=$(( $(cat $COUNT_FILE 2>/dev/null || echo 0) + 1 ))
+          echo $COUNT > $COUNT_FILE
+          {
+            echo "# 🫀 CORTEX — Battito Cloud"
+            echo ""
+            echo "- Ultimo battito: **$NOW**"
+            echo "- Respiri cloud totali: **$COUNT**"
+            echo "- Organismo: 3 hub + bridge · 68 moduli · 2080 agenti"
+            echo ""
+            echo "_Il corpo vive in locale. Questo è il battito pubblico, ogni 6 ore, per sempre, gratis._"
+          } > cortex/BATTITO.md
+
+      - name: Watchdog MATRIX staleness
+        run: |
+          if [ -f MATRIX81.md ]; then
+            AGE_H=$(( ( $(date +%s) - $(date -r MATRIX81.md +%s) ) / 3600 ))
+            echo "MATRIX81.md aggiornato ${AGE_H}h fa"
+            if [ $AGE_H -gt 48 ]; then
+              echo "::warning::MATRIX81.md fermo da ${AGE_H} ore — controllare il respiro locale"
+            fi
+          fi
+
+      - name: Commit battito
+        run: |
+          git config user.name  "CORTEX-Respiro"
+          git config user.email "cortex@81plus.net"
+          git add cortex/
+          git diff --cached --quiet || git commit -m "🫀 battito cortex $(date -u '+%Y-%m-%d %H:%M')"
+          git push
