@@ -449,3 +449,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 0448,33.12.30,Riparazione e manutenzione di apparecchi di sollevamento e movimentazione,Sicurezza,0401-0450,SICURIX_TALES_0448_331230_riparazione_e_manutenzione_di_apparecchi_SICUREZZA_v1.png,BRIEF_PRONTO
 0449,33.12.40,Riparazione e manutenzione di impianti di refrigerazione industriale e di depurazione dell'aria,Sicurezza,0401-0450,SICURIX_TALES_0449_331240_riparazione_e_manutenzione_di_impianti_d_SICUREZZA_v1.png,BRIEF_PRONTO
 0450,33.12.51,Riparazione e manutenzione di macchine e attrezzature per ufficio,Sicurezza,0401-0450,SICURIX_TALES_0450_331251_riparazione_e_manutenzione_di_macchine_e_SICUREZZA_v1.png,BRIEF_PRONTO
+0451,33.12.52,Riparazione e manutenzione di bilance e distributori automatici,Sicurezza,0451-0500,SICURIX_TALES_0451_331252_riparazione_e_manutenzione_di_bilance_e__SICUREZZA_v1.png,BRIEF_PRONTO
+0452,33.12.53,Riparazione e manutenzione di impianti di distillazione o rettificazione per raffinerie di petrolio e industrie chimiche,Sicurezza,0451-0500,SICURIX_TALES_0452_331253_riparazione_e_manutenzione_di_impianti_d_SICUREZZA_v1.png,BRIEF_PRONTO
+0453,33.12.54,Riparazione e manutenzione di macchine per impacchettare e imballare,Sicurezza,0451-0500,SICURIX_TALES_0453_331254_riparazione_e_manutenzione_di_macchine_p_SICUREZZA_v1.png,BRIEF_PRONTO
+0454,33.12.59,Riparazione e manutenzione di altre macchine di impiego generale n.c.a.,Sicurezza,0451-0500,SICURIX_TALES_0454_331259_riparazione_e_manutenzione_di_altre_macc_SICUREZZA_v1.png,BRIEF_PRONTO
+0455,33.12.60,Riparazione e manutenzione di trattori agricoli,Sicurezza,0451-0500,SICURIX_TALES_0455_331260_riparazione_e_manutenzione_di_trattori_a_SICUREZZA_v1.png,BRIEF_PRONTO
+0456,33.12.70,Riparazione e manutenzione di altre macchine per l'agricoltura e la silvicoltura,Sicurezza,0451-0500,SICURIX_TALES_0456_331270_riparazione_e_manutenzione_di_altre_macc_SICUREZZA_v1.png,BRIEF_PRONTO
+0457,33.12.91,Affilatura di lame e seghe per macchinari,Sicurezza,0451-0500,SICURIX_TALES_0457_331291_affilatura_di_lame_e_seghe_per_macchinar_SICUREZZA_v1.png,BRIEF_PRONTO
+0458,33.12.92,"Riparazione e manutenzione di giostre, altalene e altre attrazioni di divertimento",Sicurezza,0451-0500,SICURIX_TALES_0458_331292_riparazione_e_manutenzione_di_giostre_al_SICUREZZA_v1.png,BRIEF_PRONTO
+0459,33.12.99,Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a.,Sicurezza,0451-0500,SICURIX_TALES_0459_331299_riparazione_e_manutenzione_di_altre_macc_SICUREZZA_v1.png,BRIEF_PRONTO
+0460,33.13.01,"Riparazione e manutenzione di apparecchiature per irradiazione, elettromedicali ed elettroterapeutiche",Sicurezza,0451-0500,SICURIX_TALES_0460_331301_riparazione_e_manutenzione_di_apparecchi_SICUREZZA_v1.png,BRIEF_PRONTO
+0461,33.13.02,Riparazione e manutenzione di strumenti e apparecchiature ottiche,Sicurezza,0451-0500,SICURIX_TALES_0461_331302_riparazione_e_manutenzione_di_strumenti__SICUREZZA_v1.png,BRIEF_PRONTO
+0462,33.13.09,Riparazione e manutenzione di altre apparecchiature elettroniche e ottiche,Sicurezza,0451-0500,SICURIX_TALES_0462_331309_riparazione_e_manutenzione_di_altre_appa_SICUREZZA_v1.png,BRIEF_PRONTO
+0463,33.14.00,Riparazione e manutenzione di apparecchiature elettriche,Sicurezza,0451-0500,SICURIX_TALES_0463_331400_riparazione_e_manutenzione_di_apparecchi_SICUREZZA_v1.png,BRIEF_PRONTO
+0464,33.15.00,Riparazione e manutenzione di navi e imbarcazioni per scopi civili,HACCP,0451-0500,SICURIX_TALES_0464_331500_riparazione_e_manutenzione_di_navi_e_imb_HACCP_v1.png,BRIEF_PRONTO
+0465,33.16.00,Riparazione e manutenzione di aeromobili e veicoli spaziali per scopi civili,Sicurezza,0451-0500,SICURIX_TALES_0465_331600_riparazione_e_manutenzione_di_aeromobili_SICUREZZA_v1.png,BRIEF_PRONTO
+0466,33.17.00,Riparazione e manutenzione di altri mezzi di trasporto per scopi civili,Sicurezza,0451-0500,SICURIX_TALES_0466_331700_riparazione_e_manutenzione_di_altri_mezz_SICUREZZA_v1.png,BRIEF_PRONTO
+0467,33.18.10,Riparazione e manutenzione di veicoli da combattimento per scopi militari,Sicurezza,0451-0500,SICURIX_TALES_0467_331810_riparazione_e_manutenzione_di_veicoli_da_SICUREZZA_v1.png,BRIEF_PRONTO
+0468,33.18.20,Riparazione e manutenzione di navi e imbarcazioni per scopi militari,HACCP,0451-0500,SICURIX_TALES_0468_331820_riparazione_e_manutenzione_di_navi_e_imb_HACCP_v1.png,BRIEF_PRONTO
+0469,33.18.30,Riparazione e manutenzione di aeromobili e veicoli spaziali per scopi militari,Sicurezza,0451-0500,SICURIX_TALES_0469_331830_riparazione_e_manutenzione_di_aeromobili_SICUREZZA_v1.png,BRIEF_PRONTO
+0470,33.19.00,Riparazione e manutenzione di altre apparecchiature,Sicurezza,0451-0500,SICURIX_TALES_0470_331900_riparazione_e_manutenzione_di_altre_appa_SICUREZZA_v1.png,BRIEF_PRONTO
+0471,33.20.01,"Installazione di motori, generatori e trasformatori elettrici e di apparecchiature per la distribuzione e il controllo della elettricità",Sicurezza,0451-0500,SICURIX_TALES_0471_332001_installazione_di_motori_generatori_e_tra_SICUREZZA_v1.png,BRIEF_PRONTO
+0472,33.20.02,Installazione di apparecchiature per le comunicazioni e di apparecchiature radiotelevisive,Sicurezza,0451-0500,SICURIX_TALES_0472_332002_installazione_di_apparecchiature_per_le__SICUREZZA_v1.png,BRIEF_PRONTO
+0473,33.20.03,Installazione di strumenti e apparecchi di misurazione e controllo,Sicurezza,0451-0500,SICURIX_TALES_0473_332003_installazione_di_strumenti_e_apparecchi__SICUREZZA_v1.png,BRIEF_PRONTO
+0474,33.20.04,"Installazione di cisterne, serbatoi e contenitori in metallo",Sicurezza,0451-0500,SICURIX_TALES_0474_332004_installazione_di_cisterne_serbatoi_e_con_SICUREZZA_v1.png,BRIEF_PRONTO
+0475,33.20.05,Installazione di generatori di vapore,Sicurezza,0451-0500,SICURIX_TALES_0475_332005_installazione_di_generatori_di_vapore_SICUREZZA_v1.png,BRIEF_PRONTO
+0476,33.20.06,Installazione di macchinari e attrezzature per ufficio,Sicurezza,0451-0500,SICURIX_TALES_0476_332006_installazione_di_macchinari_e_attrezzatu_SICUREZZA_v1.png,BRIEF_PRONTO
+0477,33.20.07,Installazione di strumenti e apparecchiature mediche e dentistiche,Sicurezza,0451-0500,SICURIX_TALES_0477_332007_installazione_di_strumenti_e_apparecchia_SICUREZZA_v1.png,BRIEF_PRONTO
+0478,33.20.09,Installazione di altre macchine e apparecchiature industriali,Sicurezza,0451-0500,SICURIX_TALES_0478_332009_installazione_di_altre_macchine_e_appare_SICUREZZA_v1.png,BRIEF_PRONTO
+0479,35.11.00,Produzione di energia elettrica da fonti non rinnovabili,Sicurezza,0451-0500,SICURIX_TALES_0479_351100_produzione_di_energia_elettrica_da_fonti_SICUREZZA_v1.png,BRIEF_PRONTO
+0480,35.12.00,Produzione di energia elettrica da fonti rinnovabili,Sicurezza,0451-0500,SICURIX_TALES_0480_351200_produzione_di_energia_elettrica_da_fonti_SICUREZZA_v1.png,BRIEF_PRONTO
+0481,35.13.00,Trasmissione di energia elettrica,Sicurezza,0451-0500,SICURIX_TALES_0481_351300_trasmissione_di_energia_elettrica_SICUREZZA_v1.png,BRIEF_PRONTO
+0482,35.14.00,Distribuzione di energia elettrica,Sicurezza,0451-0500,SICURIX_TALES_0482_351400_distribuzione_di_energia_elettrica_SICUREZZA_v1.png,BRIEF_PRONTO
+0483,35.15.00,Commercio di energia elettrica,Sicurezza,0451-0500,SICURIX_TALES_0483_351500_commercio_di_energia_elettrica_SICUREZZA_v1.png,BRIEF_PRONTO
+0484,35.16.00,Stoccaggio di energia elettrica,Sicurezza,0451-0500,SICURIX_TALES_0484_351600_stoccaggio_di_energia_elettrica_SICUREZZA_v1.png,BRIEF_PRONTO
+0485,35.21.00,Produzione di gas,Sicurezza,0451-0500,SICURIX_TALES_0485_352100_produzione_di_gas_SICUREZZA_v1.png,BRIEF_PRONTO
+0486,35.22.00,Distribuzione di combustibili gassosi mediante condotte,Sicurezza,0451-0500,SICURIX_TALES_0486_352200_distribuzione_di_combustibili_gassosi_me_SICUREZZA_v1.png,BRIEF_PRONTO
+0487,35.23.00,Commercio di gas distribuito mediante condotte,Sicurezza,0451-0500,SICURIX_TALES_0487_352300_commercio_di_gas_distribuito_mediante_co_SICUREZZA_v1.png,BRIEF_PRONTO
+0488,35.24.00,Stoccaggio di gas nell'ambito dei servizi di fornitura della rete,Sicurezza,0451-0500,SICURIX_TALES_0488_352400_stoccaggio_di_gas_nell_ambito_dei_serviz_SICUREZZA_v1.png,BRIEF_PRONTO
+0489,35.30.00,Fornitura di vapore e aria condizionata,Sicurezza,0451-0500,SICURIX_TALES_0489_353000_fornitura_di_vapore_e_aria_condizionata_SICUREZZA_v1.png,BRIEF_PRONTO
+0490,35.40.00,Attività di servizi di intermediazione per l'energia elettrica e il gas naturale,Sicurezza,0451-0500,SICURIX_TALES_0490_354000_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0491,36.00.00,"Raccolta, trattamento e fornitura di acqua",Sicurezza,0451-0500,SICURIX_TALES_0491_360000_raccolta_trattamento_e_fornitura_di_acqu_SICUREZZA_v1.png,BRIEF_PRONTO
+0492,37.00.00,Gestione delle reti fognarie,Sicurezza,0451-0500,SICURIX_TALES_0492_370000_gestione_delle_reti_fognarie_SICUREZZA_v1.png,BRIEF_PRONTO
+0493,38.11.00,Raccolta di rifiuti non pericolosi,Sicurezza,0451-0500,SICURIX_TALES_0493_381100_raccolta_di_rifiuti_non_pericolosi_SICUREZZA_v1.png,BRIEF_PRONTO
+0494,38.12.00,Raccolta di rifiuti pericolosi,Sicurezza,0451-0500,SICURIX_TALES_0494_381200_raccolta_di_rifiuti_pericolosi_SICUREZZA_v1.png,BRIEF_PRONTO
+0495,38.21.11,Smantellamento di carcasse di navi per il recupero dei materiali,Sicurezza,0451-0500,SICURIX_TALES_0495_382111_smantellamento_di_carcasse_di_navi_per_i_SICUREZZA_v1.png,BRIEF_PRONTO
+0496,38.21.12,Smantellamento di altre carcasse,Sicurezza,0451-0500,SICURIX_TALES_0496_382112_smantellamento_di_altre_carcasse_SICUREZZA_v1.png,BRIEF_PRONTO
+0497,38.21.20,Recupero dei materiali da rifiuti metallici,Sicurezza,0451-0500,SICURIX_TALES_0497_382120_recupero_dei_materiali_da_rifiuti_metall_SICUREZZA_v1.png,BRIEF_PRONTO
+0498,38.21.30,Recupero dei materiali da rifiuti plastici,Sicurezza,0451-0500,SICURIX_TALES_0498_382130_recupero_dei_materiali_da_rifiuti_plasti_SICUREZZA_v1.png,BRIEF_PRONTO
+0499,38.21.40,Recupero dei materiali da altri rifiuti,Sicurezza,0451-0500,SICURIX_TALES_0499_382140_recupero_dei_materiali_da_altri_rifiuti_SICUREZZA_v1.png,BRIEF_PRONTO
+0500,38.22.00,Recupero di energia,Sicurezza,0451-0500,SICURIX_TALES_0500_382200_recupero_di_energia_SICUREZZA_v1.png,BRIEF_PRONTO
