@@ -1,151 +1,39 @@
 {
- "generato": "2026-07-15",
+ "generato": "2026-07-16",
  "cards": [
   {
-   "titolo": "Quello che l'ispettore controlla per primo in Sanita/Sociale (e quasi nessuno lo sa)",
+   "titolo": "La differenza tra chi in PA dorme sereno e chi trema al controllo",
+   "settore": "PA",
+   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
+   "cta": "Corso privacy destinato ai lavoratori",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Sanita/Sociale: 3 minuti oggi o un problema enorme domani. Scegli tu.",
    "settore": "Sanita/Sociale",
-   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
-   "cta": "Corso lavoratore parte GENERALE 4 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Arte/Sport c'e' un obbligo che in tanti scoprono solo con la sanzione",
-   "settore": "Arte/Sport",
-   "cta_url": "https://81plus.net/?corso=corso-per-preposto",
-   "cta": "Corso per Preposto",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "Manifattura: 3 minuti oggi o un problema enorme domani. Scegli tu.",
-   "settore": "Manifattura",
-   "cta_url": "https://81plus.net/?corso=haccp-corso-responsabile-industria-alimentare",
-   "cta": "Haccp - Corso responsabile industria alimentare",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In ICT/Informazione non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
-   "settore": "ICT/Informazione",
-   "cta_url": "https://81plus.net/?corso=corso-lavori-in-quota-e-dpi-anticaduta",
-   "cta": "Corso Lavori in Quota e DPI Anticaduta",
+   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
+   "cta": "Corso privacy destinato ai lavoratori",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   },
   {
    "titolo": "La differenza tra chi in Manifattura dorme sereno e chi trema al controllo",
    "settore": "Manifattura",
-   "cta_url": "https://81plus.net/?corso=rischio-stress-lavoro-correlato",
-   "cta": "Rischio stress lavoro correlato",
+   "cta_url": "https://81plus.net/?corso=formazione-integrativa-lavoratore-4-ore-gestione-e-smaltimen",
+   "cta": "Formazione integrativa lavoratore 4 ore – gestione e smaltimento rifiuti",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   },
   {
-   "titolo": "In Trasporti/Magazzino non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
-   "settore": "Trasporti/Magazzino",
-   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
-   "cta": "Corso lavoratore parte GENERALE 4 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Commercio c'e' un obbligo che in tanti scoprono solo con la sanzione",
-   "settore": "Commercio",
-   "cta_url": "https://81plus.net/?corso=rischio-stress-lavoro-correlato",
-   "cta": "Rischio stress lavoro correlato",
+   "titolo": "Manifattura: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Manifattura",
+   "cta_url": "https://81plus.net/?corso=formazione-integrativa-lavoratore-4-ore-gestione-e-smaltimen",
+   "cta": "Formazione integrativa lavoratore 4 ore – gestione e smaltimento rifiuti",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   },
   {
    "titolo": "Quello che l'ispettore controlla per primo in Manifattura (e quasi nessuno lo sa)",
    "settore": "Manifattura",
-   "cta_url": "https://81plus.net/?corso=preposto-incaricato-alla-gestione-ambientale-nei-cantieri-16",
-   "cta": "Preposto incaricato alla gestione ambientale nei cantieri - 16 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Manifattura c'e' un obbligo che in tanti scoprono solo con la sanzione",
-   "settore": "Manifattura",
-   "cta_url": "https://81plus.net/?corso=preposto-incaricato-alla-gestione-ambientale-nei-cantieri-16",
-   "cta": "Preposto incaricato alla gestione ambientale nei cantieri - 16 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Commercio c'e' un obbligo che in tanti scoprono solo con la sanzione",
-   "settore": "Commercio",
-   "cta_url": "https://81plus.net/?corso=haccp-corso-responsabile-industria-alimentare",
-   "cta": "Haccp - Corso responsabile industria alimentare",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "Altri servizi: 3 minuti oggi o un problema enorme domani. Scegli tu.",
-   "settore": "Altri servizi",
-   "cta_url": "https://81plus.net/?corso=gdpr-2016-679-privacy-e-trattamento-dei-dati-personali",
-   "cta": "GDPR 2016/679: privacy e trattamento dei dati personali",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "La differenza tra chi in Commercio dorme sereno e chi trema al controllo",
-   "settore": "Commercio",
-   "cta_url": "https://81plus.net/?corso=manuale-autocontrollo-alimentare",
-   "cta": "Manuale autocontrollo alimentare",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Manifattura non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
-   "settore": "Manifattura",
-   "cta_url": "https://81plus.net/?corso=preposto-incaricato-alla-gestione-ambientale-nei-cantieri-16",
-   "cta": "Preposto incaricato alla gestione ambientale nei cantieri - 16 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Agricoltura c'e' un obbligo che in tanti scoprono solo con la sanzione",
-   "settore": "Agricoltura",
-   "cta_url": "https://81plus.net/?corso=corso-per-preposto",
-   "cta": "Corso per Preposto",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Commercio non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
-   "settore": "Commercio",
-   "cta_url": "https://81plus.net/?corso=haccp-corso-responsabile-industria-alimentare",
-   "cta": "Haccp - Corso responsabile industria alimentare",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "Trasporti/Magazzino: 3 minuti oggi o un problema enorme domani. Scegli tu.",
-   "settore": "Trasporti/Magazzino",
-   "cta_url": "https://81plus.net/?corso=preposto-incaricato-alla-gestione-ambientale-nei-cantieri-16",
-   "cta": "Preposto incaricato alla gestione ambientale nei cantieri - 16 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "Commercio: 3 minuti oggi o un problema enorme domani. Scegli tu.",
-   "settore": "Commercio",
-   "cta_url": "https://81plus.net/?corso=rspp-datore-di-lavoro-modulo-1-e-2",
-   "cta": "RSPP Datore di Lavoro modulo 1 e 2",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "Quello che l'ispettore controlla per primo in Estrazione (e quasi nessuno lo sa)",
-   "settore": "Estrazione",
-   "cta_url": "https://81plus.net/?corso=corso-lavori-in-quota-e-dpi-anticaduta",
-   "cta": "Corso Lavori in Quota e DPI Anticaduta",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Immobiliare c'e' un obbligo che in tanti scoprono solo con la sanzione",
-   "settore": "Immobiliare",
-   "cta_url": "https://81plus.net/?corso=corso-lavori-in-quota-e-dpi-anticaduta",
-   "cta": "Corso Lavori in Quota e DPI Anticaduta",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Servizi alle imprese non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
-   "settore": "Servizi alle imprese",
-   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
-   "cta": "Corso lavoratore parte GENERALE 4 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "La differenza tra chi in Agricoltura dorme sereno e chi trema al controllo",
-   "settore": "Agricoltura",
-   "cta_url": "https://81plus.net/?corso=haccp-corso-responsabile-industria-alimentare",
-   "cta": "Haccp - Corso responsabile industria alimentare",
+   "cta_url": "https://81plus.net/?corso=formazione-integrativa-lavoratore-4-ore-gestione-e-smaltimen",
+   "cta": "Formazione integrativa lavoratore 4 ore – gestione e smaltimento rifiuti",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   },
   {
@@ -156,14 +44,126 @@
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   },
   {
-   "titolo": "Trasporti/Magazzino: 3 minuti oggi o un problema enorme domani. Scegli tu.",
-   "settore": "Trasporti/Magazzino",
+   "titolo": "In Famiglie datori non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
+   "settore": "Famiglie datori",
+   "cta_url": "https://81plus.net/?corso=corso-rls",
+   "cta": "Corso RLS",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "La differenza tra chi in Famiglie datori dorme sereno e chi trema al controllo",
+   "settore": "Famiglie datori",
+   "cta_url": "https://81plus.net/?corso=gdpr-2016-679-privacy-e-trattamento-dei-dati-personali",
+   "cta": "GDPR 2016/679: privacy e trattamento dei dati personali",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Manifattura: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Manifattura",
    "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
    "cta": "Corso lavoratore parte GENERALE 4 ore",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   },
   {
-   "titolo": "Quello che l'ispettore controlla per primo in Commercio (e quasi nessuno lo sa)",
+   "titolo": "In Manifattura non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
+   "settore": "Manifattura",
+   "cta_url": "https://81plus.net/?corso=rspp-datore-di-lavoro-modulo-1-e-2",
+   "cta": "RSPP Datore di Lavoro modulo 1 e 2",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "In Trasporti/Magazzino c'e' un obbligo che in tanti scoprono solo con la sanzione",
+   "settore": "Trasporti/Magazzino",
+   "cta_url": "https://81plus.net/?corso=corso-lavori-in-quota-e-dpi-anticaduta",
+   "cta": "Corso Lavori in Quota e DPI Anticaduta",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "La differenza tra chi in Manifattura dorme sereno e chi trema al controllo",
+   "settore": "Manifattura",
+   "cta_url": "https://81plus.net/?corso=gdpr-2016-679-privacy-e-trattamento-dei-dati-personali",
+   "cta": "GDPR 2016/679: privacy e trattamento dei dati personali",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "In Manifattura c'e' un obbligo che in tanti scoprono solo con la sanzione",
+   "settore": "Manifattura",
+   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
+   "cta": "Corso privacy destinato ai lavoratori",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "In Manifattura non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
+   "settore": "Manifattura",
+   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
+   "cta": "Corso privacy destinato ai lavoratori",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "La differenza tra chi in Altri servizi dorme sereno e chi trema al controllo",
+   "settore": "Altri servizi",
+   "cta_url": "https://81plus.net/?corso=haccp-corso-responsabile-industria-alimentare",
+   "cta": "Haccp - Corso responsabile industria alimentare",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "La differenza tra chi in Immobiliare dorme sereno e chi trema al controllo",
+   "settore": "Immobiliare",
+   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
+   "cta": "Corso privacy destinato ai lavoratori",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Servizi alle imprese: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Servizi alle imprese",
+   "cta_url": "https://81plus.net/?corso=corso-lavori-in-quota-e-dpi-anticaduta",
+   "cta": "Corso Lavori in Quota e DPI Anticaduta",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "La differenza tra chi in Commercio dorme sereno e chi trema al controllo",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
+   "cta": "Corso lavoratore parte GENERALE 4 ore",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "In Manifattura non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
+   "settore": "Manifattura",
+   "cta_url": "https://81plus.net/?corso=corso-rspp-datore-di-lavoro-rischio-rumore",
+   "cta": "Corso RSPP Datore di Lavoro : rischio rumore",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Quello che l'ispettore controlla per primo in PA (e quasi nessuno lo sa)",
+   "settore": "PA",
+   "cta_url": "https://81plus.net/?corso=rischio-stress-lavoro-correlato",
+   "cta": "Rischio stress lavoro correlato",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "In Manifattura non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
+   "settore": "Manifattura",
+   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
+   "cta": "Corso privacy destinato ai lavoratori",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Costruzioni: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Costruzioni",
+   "cta_url": "https://81plus.net/?corso=corso-per-preposto",
+   "cta": "Corso per Preposto",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "In Manifattura non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
+   "settore": "Manifattura",
+   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
+   "cta": "Corso privacy destinato ai lavoratori",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "La differenza tra chi in Commercio dorme sereno e chi trema al controllo",
    "settore": "Commercio",
    "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
    "cta": "Corso privacy destinato ai lavoratori",
