@@ -499,3 +499,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 0498,38.21.30,Recupero dei materiali da rifiuti plastici,Sicurezza,0451-0500,SICURIX_TALES_0498_382130_recupero_dei_materiali_da_rifiuti_plasti_SICUREZZA_v1.png,BRIEF_PRONTO
 0499,38.21.40,Recupero dei materiali da altri rifiuti,Sicurezza,0451-0500,SICURIX_TALES_0499_382140_recupero_dei_materiali_da_altri_rifiuti_SICUREZZA_v1.png,BRIEF_PRONTO
 0500,38.22.00,Recupero di energia,Sicurezza,0451-0500,SICURIX_TALES_0500_382200_recupero_di_energia_SICUREZZA_v1.png,BRIEF_PRONTO
+0501,38.23.00,Altre attività di recupero dei rifiuti,Sicurezza,0501-0550,SICURIX_TALES_0501_382300_altre_attivit_di_recupero_dei_rifiuti_SICUREZZA_v1.png,BRIEF_PRONTO
+0502,38.31.00,Incenerimento senza recupero di energia,Sicurezza,0501-0550,SICURIX_TALES_0502_383100_incenerimento_senza_recupero_di_energia_SICUREZZA_v1.png,BRIEF_PRONTO
+0503,38.32.00,Conferimento in discarica o stoccaggio permanente,Sicurezza,0501-0550,SICURIX_TALES_0503_383200_conferimento_in_discarica_o_stoccaggio_p_SICUREZZA_v1.png,BRIEF_PRONTO
+0504,38.33.00,Altre attività di smaltimento dei rifiuti,Sicurezza,0501-0550,SICURIX_TALES_0504_383300_altre_attivit_di_smaltimento_dei_rifiuti_SICUREZZA_v1.png,BRIEF_PRONTO
+0505,39.00.01,"Attività di rimozione di amianto, vernici a base di piombo e altri materiali tossici",Sicurezza,0501-0550,SICURIX_TALES_0505_390001_attivit_di_rimozione_di_amianto_vernici__SICUREZZA_v1.png,BRIEF_PRONTO
+0506,39.00.09,Attività di risanamento e altri servizi di gestione dei rifiuti n.c.a.,Sicurezza,0501-0550,SICURIX_TALES_0506_390009_attivit_di_risanamento_e_altri_servizi_d_SICUREZZA_v1.png,BRIEF_PRONTO
+0507,41.00.00,Costruzione di edifici residenziali e non residenziali,Sicurezza,0501-0550,SICURIX_TALES_0507_410000_costruzione_di_edifici_residenziali_e_no_SICUREZZA_v1.png,BRIEF_PRONTO
+0508,42.11.00,Costruzione di strade e autostrade,Sicurezza,0501-0550,SICURIX_TALES_0508_421100_costruzione_di_strade_e_autostrade_SICUREZZA_v1.png,BRIEF_PRONTO
+0509,42.12.00,Costruzione di linee ferroviarie e metropolitane,Sicurezza,0501-0550,SICURIX_TALES_0509_421200_costruzione_di_linee_ferroviarie_e_metro_SICUREZZA_v1.png,BRIEF_PRONTO
+0510,42.13.00,Costruzione di ponti e gallerie,Sicurezza,0501-0550,SICURIX_TALES_0510_421300_costruzione_di_ponti_e_gallerie_SICUREZZA_v1.png,BRIEF_PRONTO
+0511,42.21.00,Costruzione di opere di pubblica utilità per il trasporto dei fluidi,Sicurezza,0501-0550,SICURIX_TALES_0511_422100_costruzione_di_opere_di_pubblica_utilit__SICUREZZA_v1.png,BRIEF_PRONTO
+0512,42.22.00,Costruzione di opere di pubblica utilità per l'energia elettrica e le telecomunicazioni,Privacy,0501-0550,SICURIX_TALES_0512_422200_costruzione_di_opere_di_pubblica_utilit__PRIVACY_v1.png,BRIEF_PRONTO
+0513,42.91.00,Costruzione di opere idrauliche,Sicurezza,0501-0550,SICURIX_TALES_0513_429100_costruzione_di_opere_idrauliche_SICUREZZA_v1.png,BRIEF_PRONTO
+0514,42.99.00,Costruzione di altre opere di ingegneria civile n.c.a.,Sicurezza,0501-0550,SICURIX_TALES_0514_429900_costruzione_di_altre_opere_di_ingegneria_SICUREZZA_v1.png,BRIEF_PRONTO
+0515,43.11.00,Demolizione,Sicurezza,0501-0550,SICURIX_TALES_0515_431100_demolizione_SICUREZZA_v1.png,BRIEF_PRONTO
+0516,43.12.01,Preparazione del sito per scavi archeologici,Sicurezza,0501-0550,SICURIX_TALES_0516_431201_preparazione_del_sito_per_scavi_archeolo_SICUREZZA_v1.png,BRIEF_PRONTO
+0517,43.12.09,Altre attività di preparazione del cantiere edile,Sicurezza,0501-0550,SICURIX_TALES_0517_431209_altre_attivit_di_preparazione_del_cantie_SICUREZZA_v1.png,BRIEF_PRONTO
+0518,43.13.00,Trivellazioni e perforazioni,Sicurezza,0501-0550,SICURIX_TALES_0518_431300_trivellazioni_e_perforazioni_SICUREZZA_v1.png,BRIEF_PRONTO
+0519,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,Sicurezza,0501-0550,SICURIX_TALES_0519_432101_installazione_di_impianti_di_illuminazio_SICUREZZA_v1.png,BRIEF_PRONTO
+0520,43.21.02,Installazione di cablaggi per telecomunicazioni e altre reti,Privacy,0501-0550,SICURIX_TALES_0520_432102_installazione_di_cablaggi_per_telecomuni_PRIVACY_v1.png,BRIEF_PRONTO
+0521,43.21.03,Installazione di impianti di illuminazione stradale e di piste aeroportuali,Sicurezza,0501-0550,SICURIX_TALES_0521_432103_installazione_di_impianti_di_illuminazio_SICUREZZA_v1.png,BRIEF_PRONTO
+0522,43.21.04,Installazione di insegne elettriche e luminarie per feste,Sicurezza,0501-0550,SICURIX_TALES_0522_432104_installazione_di_insegne_elettriche_e_lu_SICUREZZA_v1.png,BRIEF_PRONTO
+0523,43.21.05,Installazione di impianti di illuminazione elettrica votiva e cimiteriale,Sicurezza,0501-0550,SICURIX_TALES_0523_432105_installazione_di_impianti_di_illuminazio_SICUREZZA_v1.png,BRIEF_PRONTO
+0524,43.22.01,Installazione di impianti geotermici,Sicurezza,0501-0550,SICURIX_TALES_0524_432201_installazione_di_impianti_geotermici_SICUREZZA_v1.png,BRIEF_PRONTO
+0525,43.22.02,Installazione di impianti di depurazione per piscine,Sicurezza,0501-0550,SICURIX_TALES_0525_432202_installazione_di_impianti_di_depurazione_SICUREZZA_v1.png,BRIEF_PRONTO
+0526,43.22.03,Installazione di impianti di spegnimento di incendi,Sicurezza,0501-0550,SICURIX_TALES_0526_432203_installazione_di_impianti_di_spegnimento_SICUREZZA_v1.png,BRIEF_PRONTO
+0527,43.22.04,Installazione di impianti di irrigazione per giardini,Sicurezza,0501-0550,SICURIX_TALES_0527_432204_installazione_di_impianti_di_irrigazione_SICUREZZA_v1.png,BRIEF_PRONTO
+0528,43.22.05,Installazione di altri impianti termo-idraulici,Sicurezza,0501-0550,SICURIX_TALES_0528_432205_installazione_di_altri_impianti_termo_id_SICUREZZA_v1.png,BRIEF_PRONTO
+0529,43.22.06,Installazione di impianti per la distribuzione del gas,Sicurezza,0501-0550,SICURIX_TALES_0529_432206_installazione_di_impianti_per_la_distrib_SICUREZZA_v1.png,BRIEF_PRONTO
+0530,43.22.07,Installazione di impianti di riscaldamento e di condizionamento dell'aria,Sicurezza,0501-0550,SICURIX_TALES_0530_432207_installazione_di_impianti_di_riscaldamen_SICUREZZA_v1.png,BRIEF_PRONTO
+0531,43.23.00,Installazione di sistemi per l'isolamento,Sicurezza,0501-0550,SICURIX_TALES_0531_432300_installazione_di_sistemi_per_l_isolament_SICUREZZA_v1.png,BRIEF_PRONTO
+0532,43.24.01,Installazione di ascensori e scale mobili,Sicurezza,0501-0550,SICURIX_TALES_0532_432401_installazione_di_ascensori_e_scale_mobil_SICUREZZA_v1.png,BRIEF_PRONTO
+0533,43.24.02,Installazione di insegne non elettriche,Sicurezza,0501-0550,SICURIX_TALES_0533_432402_installazione_di_insegne_non_elettriche_SICUREZZA_v1.png,BRIEF_PRONTO
+0534,43.24.09,Altri lavori di installazione edili n.c.a.,Sicurezza,0501-0550,SICURIX_TALES_0534_432409_altri_lavori_di_installazione_edili_n_c__SICUREZZA_v1.png,BRIEF_PRONTO
+0535,43.31.01,Posa in opera di cartongesso,Sicurezza,0501-0550,SICURIX_TALES_0535_433101_posa_in_opera_di_cartongesso_SICUREZZA_v1.png,BRIEF_PRONTO
+0536,43.31.02,Altri lavori di intonacatura,Sicurezza,0501-0550,SICURIX_TALES_0536_433102_altri_lavori_di_intonacatura_SICUREZZA_v1.png,BRIEF_PRONTO
+0537,43.32.01,Posa in opera di porte blindate,Sicurezza,0501-0550,SICURIX_TALES_0537_433201_posa_in_opera_di_porte_blindate_SICUREZZA_v1.png,BRIEF_PRONTO
+0538,43.32.02,"Posa in opera di porte non blindate, finestre, arredi, controsoffitti, pareti mobili e simili",Sicurezza,0501-0550,SICURIX_TALES_0538_433202_posa_in_opera_di_porte_non_blindate_fine_SICUREZZA_v1.png,BRIEF_PRONTO
+0539,43.33.00,Rivestimento di pavimenti e di pareti,Sicurezza,0501-0550,SICURIX_TALES_0539_433300_rivestimento_di_pavimenti_e_di_pareti_SICUREZZA_v1.png,BRIEF_PRONTO
+0540,43.34.01,Tinteggiatura,Sicurezza,0501-0550,SICURIX_TALES_0540_433401_tinteggiatura_SICUREZZA_v1.png,BRIEF_PRONTO
+0541,43.34.02,Posa in opera di vetri,Sicurezza,0501-0550,SICURIX_TALES_0541_433402_posa_in_opera_di_vetri_SICUREZZA_v1.png,BRIEF_PRONTO
+0542,43.35.00,Altri lavori di completamento e finitura degli edifici,Sicurezza,0501-0550,SICURIX_TALES_0542_433500_altri_lavori_di_completamento_e_finitura_SICUREZZA_v1.png,BRIEF_PRONTO
+0543,43.41.00,Realizzazione di coperture,Sicurezza,0501-0550,SICURIX_TALES_0543_434100_realizzazione_di_coperture_SICUREZZA_v1.png,BRIEF_PRONTO
+0544,43.42.00,Altri lavori di costruzione specializzati nella costruzione di edifici,Sicurezza,0501-0550,SICURIX_TALES_0544_434200_altri_lavori_di_costruzione_specializzat_SICUREZZA_v1.png,BRIEF_PRONTO
+0545,43.50.00,Lavori di costruzione specializzati nell'ingegneria civile,Sicurezza,0501-0550,SICURIX_TALES_0545_435000_lavori_di_costruzione_specializzati_nell_SICUREZZA_v1.png,BRIEF_PRONTO
+0546,43.60.00,Attività di servizi di intermediazione per servizi di costruzione specializzati,Sicurezza,0501-0550,SICURIX_TALES_0546_436000_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0547,43.91.00,Lavori di muratura,Sicurezza,0501-0550,SICURIX_TALES_0547_439100_lavori_di_muratura_SICUREZZA_v1.png,BRIEF_PRONTO
+0548,43.99.01,Noleggio di gru e altre attrezzature edili con operatore,Sicurezza,0501-0550,SICURIX_TALES_0548_439901_noleggio_di_gru_e_altre_attrezzature_edi_SICUREZZA_v1.png,BRIEF_PRONTO
+0549,43.99.02,Interventi su siti ed edifici storici e archeologici,Sicurezza,0501-0550,SICURIX_TALES_0549_439902_interventi_su_siti_ed_edifici_storici_e__SICUREZZA_v1.png,BRIEF_PRONTO
+0550,43.99.09,Altri lavori vari di costruzione specializzati n.c.a.,Sicurezza,0501-0550,SICURIX_TALES_0550_439909_altri_lavori_vari_di_costruzione_special_SICUREZZA_v1.png,BRIEF_PRONTO
