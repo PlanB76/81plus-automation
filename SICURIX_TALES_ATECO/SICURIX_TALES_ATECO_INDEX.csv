@@ -599,3 +599,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 0598,46.18.32,Attività di intermediari del commercio all'ingrosso di giornali e riviste,Sicurezza,0551-0600,SICURIX_TALES_0598_461832_attivit_di_intermediari_del_commercio_al_SICUREZZA_v1.png,BRIEF_PRONTO
 0599,46.18.33,Attività di intermediari del commercio all'ingrosso di articoli di cancelleria,Sicurezza,0551-0600,SICURIX_TALES_0599_461833_attivit_di_intermediari_del_commercio_al_SICUREZZA_v1.png,BRIEF_PRONTO
 0600,46.18.41,Attività di intermediari del commercio all'ingrosso di automobili e autoveicoli leggeri,Sicurezza,0551-0600,SICURIX_TALES_0600_461841_attivit_di_intermediari_del_commercio_al_SICUREZZA_v1.png,BRIEF_PRONTO
+0601,46.18.42,Attività di intermediari del commercio all'ingrosso di altri autoveicoli,Sicurezza,0601-0650,SICURIX_TALES_0601_461842_attivit_di_intermediari_del_commercio_al_SICUREZZA_v1.png,BRIEF_PRONTO
+0602,46.18.43,Attività di intermediari del commercio all'ingrosso di parti e accessori di autoveicoli,Sicurezza,0601-0650,SICURIX_TALES_0602_461843_attivit_di_intermediari_del_commercio_al_SICUREZZA_v1.png,BRIEF_PRONTO
+0603,46.18.44,Attività di intermediari del commercio all'ingrosso di motocicli,Sicurezza,0601-0650,SICURIX_TALES_0603_461844_attivit_di_intermediari_del_commercio_al_SICUREZZA_v1.png,BRIEF_PRONTO
+0604,46.18.45,Attività di intermediari del commercio all'ingrosso di parti e accessori di motocicli,Sicurezza,0601-0650,SICURIX_TALES_0604_461845_attivit_di_intermediari_del_commercio_al_SICUREZZA_v1.png,BRIEF_PRONTO
+0605,46.18.46,Attività di intermediari del commercio all'ingrosso di materiale rotabile e di parti e accessori per materiale rotabile,Sicurezza,0601-0650,SICURIX_TALES_0605_461846_attivit_di_intermediari_del_commercio_al_SICUREZZA_v1.png,BRIEF_PRONTO
+0606,46.18.50,Attività di intermediari del commercio all'ingrosso di apparecchiature audio e video,Sicurezza,0601-0650,SICURIX_TALES_0606_461850_attivit_di_intermediari_del_commercio_al_SICUREZZA_v1.png,BRIEF_PRONTO
+0607,46.18.91,Attività di intermediari del commercio all'ingrosso di rifiuti,Sicurezza,0601-0650,SICURIX_TALES_0607_461891_attivit_di_intermediari_del_commercio_al_SICUREZZA_v1.png,BRIEF_PRONTO
+0608,46.18.92,Attività di intermediari del commercio all'ingrosso di rivestimenti per pareti e per pavimenti,Sicurezza,0601-0650,SICURIX_TALES_0608_461892_attivit_di_intermediari_del_commercio_al_SICUREZZA_v1.png,BRIEF_PRONTO
+0609,46.18.93,Attività di intermediari del commercio all'ingrosso di strumenti musicali,Sicurezza,0601-0650,SICURIX_TALES_0609_461893_attivit_di_intermediari_del_commercio_al_SICUREZZA_v1.png,BRIEF_PRONTO
+0610,46.18.99,Attività di intermediari del commercio all'ingrosso di altri prodotti specifici vari n.c.a.,Sicurezza,0601-0650,SICURIX_TALES_0610_461899_attivit_di_intermediari_del_commercio_al_SICUREZZA_v1.png,BRIEF_PRONTO
+0611,46.19.00,Attività di intermediari del commercio all'ingrosso non specializzato,Sicurezza,0601-0650,SICURIX_TALES_0611_461900_attivit_di_intermediari_del_commercio_al_SICUREZZA_v1.png,BRIEF_PRONTO
+0612,46.21.10,Commercio all'ingrosso di cereali,Sicurezza,0601-0650,SICURIX_TALES_0612_462110_commercio_all_ingrosso_di_cereali_SICUREZZA_v1.png,BRIEF_PRONTO
+0613,46.21.21,Commercio all'ingrosso di tabacco grezzo,Sicurezza,0601-0650,SICURIX_TALES_0613_462121_commercio_all_ingrosso_di_tabacco_grezzo_SICUREZZA_v1.png,BRIEF_PRONTO
+0614,46.21.22,Commercio all'ingrosso di sementi e alimenti per il bestiame,HACCP,0601-0650,SICURIX_TALES_0614_462122_commercio_all_ingrosso_di_sementi_e_alim_HACCP_v1.png,BRIEF_PRONTO
+0615,46.22.00,Commercio all'ingrosso di fiori e piante,Sicurezza,0601-0650,SICURIX_TALES_0615_462200_commercio_all_ingrosso_di_fiori_e_piante_SICUREZZA_v1.png,BRIEF_PRONTO
+0616,46.23.00,Commercio all'ingrosso di animali vivi,Sicurezza,0601-0650,SICURIX_TALES_0616_462300_commercio_all_ingrosso_di_animali_vivi_SICUREZZA_v1.png,BRIEF_PRONTO
+0617,46.24.01,Commercio all'ingrosso di pelli per pellicceria,Sicurezza,0601-0650,SICURIX_TALES_0617_462401_commercio_all_ingrosso_di_pelli_per_pell_SICUREZZA_v1.png,BRIEF_PRONTO
+0618,46.24.02,Commercio all'ingrosso di pelli non per pellicceria e cuoio,Sicurezza,0601-0650,SICURIX_TALES_0618_462402_commercio_all_ingrosso_di_pelli_non_per__SICUREZZA_v1.png,BRIEF_PRONTO
+0619,46.31.10,Commercio all'ingrosso di frutta e ortaggi freschi,Sicurezza,0601-0650,SICURIX_TALES_0619_463110_commercio_all_ingrosso_di_frutta_e_ortag_SICUREZZA_v1.png,BRIEF_PRONTO
+0620,46.31.20,Commercio all'ingrosso di frutta e ortaggi conservati o surgelati,HACCP,0601-0650,SICURIX_TALES_0620_463120_commercio_all_ingrosso_di_frutta_e_ortag_HACCP_v1.png,BRIEF_PRONTO
+0621,46.32.11,Commercio all'ingrosso di carni fresche,Sicurezza,0601-0650,SICURIX_TALES_0621_463211_commercio_all_ingrosso_di_carni_fresche_SICUREZZA_v1.png,BRIEF_PRONTO
+0622,46.32.12,Commercio all'ingrosso di carni conservate o surgelate,HACCP,0601-0650,SICURIX_TALES_0622_463212_commercio_all_ingrosso_di_carni_conserva_HACCP_v1.png,BRIEF_PRONTO
+0623,46.32.20,Commercio all'ingrosso di salumi e di altri prodotti a base di carne,HACCP,0601-0650,SICURIX_TALES_0623_463220_commercio_all_ingrosso_di_salumi_e_di_al_HACCP_v1.png,BRIEF_PRONTO
+0624,46.32.31,Commercio all'ingrosso di pesci freschi,Sicurezza,0601-0650,SICURIX_TALES_0624_463231_commercio_all_ingrosso_di_pesci_freschi_SICUREZZA_v1.png,BRIEF_PRONTO
+0625,46.32.32,Commercio all'ingrosso di pesci conservati o surgelati e di prodotti a base di pesce,HACCP,0601-0650,SICURIX_TALES_0625_463232_commercio_all_ingrosso_di_pesci_conserva_HACCP_v1.png,BRIEF_PRONTO
+0626,46.33.10,Commercio all'ingrosso di prodotti lattiero-caseari e uova,HACCP,0601-0650,SICURIX_TALES_0626_463310_commercio_all_ingrosso_di_prodotti_latti_HACCP_v1.png,BRIEF_PRONTO
+0627,46.33.20,Commercio all'ingrosso di oli e grassi alimentari,HACCP,0601-0650,SICURIX_TALES_0627_463320_commercio_all_ingrosso_di_oli_e_grassi_a_HACCP_v1.png,BRIEF_PRONTO
+0628,46.34.10,Commercio all'ingrosso di bevande alcoliche,HACCP,0601-0650,SICURIX_TALES_0628_463410_commercio_all_ingrosso_di_bevande_alcoli_HACCP_v1.png,BRIEF_PRONTO
+0629,46.34.20,Commercio all'ingrosso di bevande analcoliche,HACCP,0601-0650,SICURIX_TALES_0629_463420_commercio_all_ingrosso_di_bevande_analco_HACCP_v1.png,BRIEF_PRONTO
+0630,46.35.01,Commercio all'ingrosso di sigarette elettroniche,Sicurezza,0601-0650,SICURIX_TALES_0630_463501_commercio_all_ingrosso_di_sigarette_elet_SICUREZZA_v1.png,BRIEF_PRONTO
+0631,46.35.09,Commercio all'ingrosso di prodotti del tabacco n.c.a.,Sicurezza,0601-0650,SICURIX_TALES_0631_463509_commercio_all_ingrosso_di_prodotti_del_t_SICUREZZA_v1.png,BRIEF_PRONTO
+0632,46.36.00,"Commercio all'ingrosso di zucchero, cioccolato e dolciumi",Sicurezza,0601-0650,SICURIX_TALES_0632_463600_commercio_all_ingrosso_di_zucchero_ciocc_SICUREZZA_v1.png,BRIEF_PRONTO
+0633,46.37.01,Commercio all'ingrosso di caffè,Sicurezza,0601-0650,SICURIX_TALES_0633_463701_commercio_all_ingrosso_di_caff_SICUREZZA_v1.png,BRIEF_PRONTO
+0634,46.37.02,"Commercio all'ingrosso di tè, cacao e spezie",Sicurezza,0601-0650,SICURIX_TALES_0634_463702_commercio_all_ingrosso_di_t_cacao_e_spez_SICUREZZA_v1.png,BRIEF_PRONTO
+0635,46.38.00,Commercio all'ingrosso di altri prodotti alimentari,HACCP,0601-0650,SICURIX_TALES_0635_463800_commercio_all_ingrosso_di_altri_prodotti_HACCP_v1.png,BRIEF_PRONTO
+0636,46.39.00,"Commercio all'ingrosso non specializzato di prodotti alimentari, bevande e tabacchi",HACCP,0601-0650,SICURIX_TALES_0636_463900_commercio_all_ingrosso_non_specializzato_HACCP_v1.png,BRIEF_PRONTO
+0637,46.41.10,Commercio all'ingrosso di tessuti,Sicurezza,0601-0650,SICURIX_TALES_0637_464110_commercio_all_ingrosso_di_tessuti_SICUREZZA_v1.png,BRIEF_PRONTO
+0638,46.41.20,Commercio all'ingrosso di filati e articoli di merceria,Sicurezza,0601-0650,SICURIX_TALES_0638_464120_commercio_all_ingrosso_di_filati_e_artic_SICUREZZA_v1.png,BRIEF_PRONTO
+0639,46.41.90,Commercio all'ingrosso di altri prodotti tessili,Sicurezza,0601-0650,SICURIX_TALES_0639_464190_commercio_all_ingrosso_di_altri_prodotti_SICUREZZA_v1.png,BRIEF_PRONTO
+0640,46.42.10,Commercio all'ingrosso di abbigliamento e di accessori per l'abbigliamento,Sicurezza,0601-0650,SICURIX_TALES_0640_464210_commercio_all_ingrosso_di_abbigliamento__SICUREZZA_v1.png,BRIEF_PRONTO
+0641,46.42.20,Commercio all'ingrosso di articoli in pelliccia,Sicurezza,0601-0650,SICURIX_TALES_0641_464220_commercio_all_ingrosso_di_articoli_in_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0642,46.42.30,Commercio all'ingrosso di calzature,Sicurezza,0601-0650,SICURIX_TALES_0642_464230_commercio_all_ingrosso_di_calzature_SICUREZZA_v1.png,BRIEF_PRONTO
+0643,46.43.10,Commercio all'ingrosso di articoli per fotografia e ottica,Sicurezza,0601-0650,SICURIX_TALES_0643_464310_commercio_all_ingrosso_di_articoli_per_f_SICUREZZA_v1.png,BRIEF_PRONTO
+0644,46.43.20,Commercio all'ingrosso di apparecchiature radiotelevisive,Sicurezza,0601-0650,SICURIX_TALES_0644_464320_commercio_all_ingrosso_di_apparecchiatur_SICUREZZA_v1.png,BRIEF_PRONTO
+0645,46.43.30,Commercio all'ingrosso di altri elettrodomestici,Sicurezza,0601-0650,SICURIX_TALES_0645_464330_commercio_all_ingrosso_di_altri_elettrod_SICUREZZA_v1.png,BRIEF_PRONTO
+0646,46.44.10,Commercio all'ingrosso di articoli di porcellana,Sicurezza,0601-0650,SICURIX_TALES_0646_464410_commercio_all_ingrosso_di_articoli_di_po_SICUREZZA_v1.png,BRIEF_PRONTO
+0647,46.44.20,Commercio all'ingrosso di articoli di vetro,Sicurezza,0601-0650,SICURIX_TALES_0647_464420_commercio_all_ingrosso_di_articoli_di_ve_SICUREZZA_v1.png,BRIEF_PRONTO
+0648,46.44.30,"Commercio all'ingrosso di altri utensili per la casa, stoviglie e vasellame",Sicurezza,0601-0650,SICURIX_TALES_0648_464430_commercio_all_ingrosso_di_altri_utensili_SICUREZZA_v1.png,BRIEF_PRONTO
+0649,46.44.40,Commercio all'ingrosso di prodotti per la pulizia,Sicurezza,0601-0650,SICURIX_TALES_0649_464440_commercio_all_ingrosso_di_prodotti_per_l_SICUREZZA_v1.png,BRIEF_PRONTO
+0650,46.45.00,Commercio all'ingrosso di profumi e cosmetici,Sicurezza,0601-0650,SICURIX_TALES_0650_464500_commercio_all_ingrosso_di_profumi_e_cosm_SICUREZZA_v1.png,BRIEF_PRONTO
