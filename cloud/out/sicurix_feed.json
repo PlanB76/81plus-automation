@@ -1,18 +1,81 @@
 {
- "generato": "2026-07-18",
+ "generato": "2026-07-19",
  "cards": [
   {
-   "titolo": "In Immobiliare non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
-   "settore": "Immobiliare",
-   "cta_url": "https://81plus.net/?corso=corso-primo-soccorso-a-b-c",
-   "cta": "Corso Primo Soccorso (A-B-C)",
+   "titolo": "In Commercio non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=rspp-datore-di-lavoro-modulo-1-e-2",
+   "cta": "RSPP Datore di Lavoro modulo 1 e 2",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   },
   {
    "titolo": "Commercio: 3 minuti oggi o un problema enorme domani. Scegli tu.",
    "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=corso-rls",
+   "cta": "Corso RLS",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "La differenza tra chi in Commercio dorme sereno e chi trema al controllo",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=manuale-autocontrollo-alimentare",
+   "cta": "Manuale autocontrollo alimentare",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Quello che l'ispettore controlla per primo in Commercio (e quasi nessuno lo sa)",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=rspp-datore-di-lavoro-modulo-1-e-2",
+   "cta": "RSPP Datore di Lavoro modulo 1 e 2",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Manifattura: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Manifattura",
+   "cta_url": "https://81plus.net/?corso=formazione-integrativa-lavoratore-4-ore-gestione-e-smaltimen",
+   "cta": "Formazione integrativa lavoratore 4 ore – gestione e smaltimento rifiuti",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "In Manifattura c'e' un obbligo che in tanti scoprono solo con la sanzione",
+   "settore": "Manifattura",
+   "cta_url": "https://81plus.net/?corso=corso-rls",
+   "cta": "Corso RLS",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Manifattura: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Manifattura",
+   "cta_url": "https://81plus.net/?corso=corso-antincendio-livello-1",
+   "cta": "Corso antincendio livello 1",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "In ICT/Informazione c'e' un obbligo che in tanti scoprono solo con la sanzione",
+   "settore": "ICT/Informazione",
    "cta_url": "https://81plus.net/?corso=corso-primo-soccorso-a-b-c",
    "cta": "Corso Primo Soccorso (A-B-C)",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Famiglie datori: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Famiglie datori",
+   "cta_url": "https://81plus.net/?corso=rspp-datore-di-lavoro-modulo-1-e-2",
+   "cta": "RSPP Datore di Lavoro modulo 1 e 2",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Quello che l'ispettore controlla per primo in Commercio (e quasi nessuno lo sa)",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
+   "cta": "Corso privacy destinato ai lavoratori",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Costruzioni: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Costruzioni",
+   "cta_url": "https://81plus.net/?corso=rischio-stress-lavoro-correlato",
+   "cta": "Rischio stress lavoro correlato",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   },
   {
@@ -23,139 +86,6 @@
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   },
   {
-   "titolo": "La differenza tra chi in PA dorme sereno e chi trema al controllo",
-   "settore": "PA",
-   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
-   "cta": "Corso privacy destinato ai lavoratori",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "Servizi alle imprese: 3 minuti oggi o un problema enorme domani. Scegli tu.",
-   "settore": "Servizi alle imprese",
-   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
-   "cta": "Corso lavoratore parte GENERALE 4 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Commercio non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
-   "settore": "Commercio",
-   "cta_url": "https://81plus.net/?corso=gdpr-2016-679-privacy-e-trattamento-dei-dati-personali",
-   "cta": "GDPR 2016/679: privacy e trattamento dei dati personali",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Manifattura c'e' un obbligo che in tanti scoprono solo con la sanzione",
-   "settore": "Manifattura",
-   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
-   "cta": "Corso privacy destinato ai lavoratori",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "Quello che l'ispettore controlla per primo in Trasporti/Magazzino (e quasi nessuno lo sa)",
-   "settore": "Trasporti/Magazzino",
-   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
-   "cta": "Corso lavoratore parte GENERALE 4 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "La differenza tra chi in Agricoltura dorme sereno e chi trema al controllo",
-   "settore": "Agricoltura",
-   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
-   "cta": "Corso lavoratore parte GENERALE 4 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "La differenza tra chi in Trasporti/Magazzino dorme sereno e chi trema al controllo",
-   "settore": "Trasporti/Magazzino",
-   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
-   "cta": "Corso lavoratore parte GENERALE 4 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Manifattura c'e' un obbligo che in tanti scoprono solo con la sanzione",
-   "settore": "Manifattura",
-   "cta_url": "https://81plus.net/?corso=corso-rspp-datore-di-lavoro-rischio-rumore",
-   "cta": "Corso RSPP Datore di Lavoro : rischio rumore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "Quello che l'ispettore controlla per primo in Sanita/Sociale (e quasi nessuno lo sa)",
-   "settore": "Sanita/Sociale",
-   "cta_url": "https://81plus.net/?corso=corso-rspp-datore-di-lavoro-movimentazione-manuale-carichi",
-   "cta": "Corso RSPP Datore di Lavoro : Movimentazione manuale carichi",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "Trasporti/Magazzino: 3 minuti oggi o un problema enorme domani. Scegli tu.",
-   "settore": "Trasporti/Magazzino",
-   "cta_url": "https://81plus.net/?corso=formazione-integrativa-lavoratore-4-ore-gestione-e-smaltimen",
-   "cta": "Formazione integrativa lavoratore 4 ore – gestione e smaltimento rifiuti",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "La differenza tra chi in Manifattura dorme sereno e chi trema al controllo",
-   "settore": "Manifattura",
-   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
-   "cta": "Corso lavoratore parte GENERALE 4 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "Quello che l'ispettore controlla per primo in Finanza/Assicurazioni (e quasi nessuno lo sa)",
-   "settore": "Finanza/Assicurazioni",
-   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
-   "cta": "Corso privacy destinato ai lavoratori",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "Agricoltura: 3 minuti oggi o un problema enorme domani. Scegli tu.",
-   "settore": "Agricoltura",
-   "cta_url": "https://81plus.net/?corso=corso-per-preposto",
-   "cta": "Corso per Preposto",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Istruzione c'e' un obbligo che in tanti scoprono solo con la sanzione",
-   "settore": "Istruzione",
-   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
-   "cta": "Corso privacy destinato ai lavoratori",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "Manifattura: 3 minuti oggi o un problema enorme domani. Scegli tu.",
-   "settore": "Manifattura",
-   "cta_url": "https://81plus.net/?corso=corso-rls",
-   "cta": "Corso RLS",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Servizi alle imprese non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
-   "settore": "Servizi alle imprese",
-   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
-   "cta": "Corso lavoratore parte GENERALE 4 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "La differenza tra chi in Immobiliare dorme sereno e chi trema al controllo",
-   "settore": "Immobiliare",
-   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
-   "cta": "Corso lavoratore parte GENERALE 4 ore",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "In Manifattura c'e' un obbligo che in tanti scoprono solo con la sanzione",
-   "settore": "Manifattura",
-   "cta_url": "https://81plus.net/?corso=rspp-datore-di-lavoro-modulo-1-e-2",
-   "cta": "RSPP Datore di Lavoro modulo 1 e 2",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
-   "titolo": "La differenza tra chi in Commercio dorme sereno e chi trema al controllo",
-   "settore": "Commercio",
-   "cta_url": "https://81plus.net/?corso=rspp-datore-di-lavoro-modulo-1-e-2",
-   "cta": "RSPP Datore di Lavoro modulo 1 e 2",
-   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
-  },
-  {
    "titolo": "In Famiglie datori c'e' un obbligo che in tanti scoprono solo con la sanzione",
    "settore": "Famiglie datori",
    "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
@@ -163,10 +93,80 @@
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   },
   {
-   "titolo": "La differenza tra chi in Agricoltura dorme sereno e chi trema al controllo",
-   "settore": "Agricoltura",
-   "cta_url": "https://81plus.net/?corso=haccp-corso-responsabile-industria-alimentare",
-   "cta": "Haccp - Corso responsabile industria alimentare",
+   "titolo": "Sanita/Sociale: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Sanita/Sociale",
+   "cta_url": "https://81plus.net/?corso=corso-antincendio-livello-1",
+   "cta": "Corso antincendio livello 1",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Alloggio/Ristorazione: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Alloggio/Ristorazione",
+   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
+   "cta": "Corso privacy destinato ai lavoratori",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Trasporti/Magazzino: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Trasporti/Magazzino",
+   "cta_url": "https://81plus.net/?corso=corso-rspp-datore-di-lavoro-movimentazione-manuale-carichi",
+   "cta": "Corso RSPP Datore di Lavoro : Movimentazione manuale carichi",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Quello che l'ispettore controlla per primo in Manifattura (e quasi nessuno lo sa)",
+   "settore": "Manifattura",
+   "cta_url": "https://81plus.net/?corso=corso-lavori-in-quota-e-dpi-anticaduta",
+   "cta": "Corso Lavori in Quota e DPI Anticaduta",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "In Commercio c'e' un obbligo che in tanti scoprono solo con la sanzione",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
+   "cta": "Corso lavoratore parte GENERALE 4 ore",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "In Estrazione non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
+   "settore": "Estrazione",
+   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
+   "cta": "Corso lavoratore parte GENERALE 4 ore",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "In Commercio non e' 'se' arriva il controllo, e' 'quando'. Sei pronto?",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=corso-privacy-destinato-ai-lavoratori",
+   "cta": "Corso privacy destinato ai lavoratori",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "In Servizi alle imprese c'e' un obbligo che in tanti scoprono solo con la sanzione",
+   "settore": "Servizi alle imprese",
+   "cta_url": "https://81plus.net/?corso=corso-rspp-datore-di-lavoro-videoterminali",
+   "cta": "Corso RSPP Datore di Lavoro : videoterminali",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Commercio: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=corso-lavoratore-parte-generale-4-ore",
+   "cta": "Corso lavoratore parte GENERALE 4 ore",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Commercio: 3 minuti oggi o un problema enorme domani. Scegli tu.",
+   "settore": "Commercio",
+   "cta_url": "https://81plus.net/?corso=rspp-datore-di-lavoro-modulo-1-e-2",
+   "cta": "RSPP Datore di Lavoro modulo 1 e 2",
+   "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
+  },
+  {
+   "titolo": "Quello che l'ispettore controlla per primo in Famiglie datori (e quasi nessuno lo sa)",
+   "settore": "Famiglie datori",
+   "cta_url": "https://81plus.net/?corso=corso-rls",
+   "cta": "Corso RLS",
    "img": "https://81plus.net/SICURIX81+/0_MASTER_VISUAL_SICURIX.png"
   }
  ]
