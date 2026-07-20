@@ -649,3 +649,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 0648,46.44.30,"Commercio all'ingrosso di altri utensili per la casa, stoviglie e vasellame",Sicurezza,0601-0650,SICURIX_TALES_0648_464430_commercio_all_ingrosso_di_altri_utensili_SICUREZZA_v1.png,BRIEF_PRONTO
 0649,46.44.40,Commercio all'ingrosso di prodotti per la pulizia,Sicurezza,0601-0650,SICURIX_TALES_0649_464440_commercio_all_ingrosso_di_prodotti_per_l_SICUREZZA_v1.png,BRIEF_PRONTO
 0650,46.45.00,Commercio all'ingrosso di profumi e cosmetici,Sicurezza,0601-0650,SICURIX_TALES_0650_464500_commercio_all_ingrosso_di_profumi_e_cosm_SICUREZZA_v1.png,BRIEF_PRONTO
+0651,46.46.10,Commercio all'ingrosso di prodotti farmaceutici di base e di preparati farmaceutici,Sicurezza,0651-0700,SICURIX_TALES_0651_464610_commercio_all_ingrosso_di_prodotti_farma_SICUREZZA_v1.png,BRIEF_PRONTO
+0652,46.46.20,Commercio all'ingrosso di rimedi erboristici,Sicurezza,0651-0700,SICURIX_TALES_0652_464620_commercio_all_ingrosso_di_rimedi_erboris_SICUREZZA_v1.png,BRIEF_PRONTO
+0653,46.46.31,Commercio all'ingrosso di occhiali e lenti,Sicurezza,0651-0700,SICURIX_TALES_0653_464631_commercio_all_ingrosso_di_occhiali_e_len_SICUREZZA_v1.png,BRIEF_PRONTO
+0654,46.46.39,Commercio all'ingrosso di prodotti medicali e ortopedici n.c.a.,Sicurezza,0651-0700,SICURIX_TALES_0654_464639_commercio_all_ingrosso_di_prodotti_medic_SICUREZZA_v1.png,BRIEF_PRONTO
+0655,46.47.10,"Commercio all'ingrosso di mobili per la casa, l'ufficio e i negozi",Sicurezza,0651-0700,SICURIX_TALES_0655_464710_commercio_all_ingrosso_di_mobili_per_la__SICUREZZA_v1.png,BRIEF_PRONTO
+0656,46.47.20,"Commercio all'ingrosso di tappeti per la casa, l'ufficio e i negozi",Sicurezza,0651-0700,SICURIX_TALES_0656_464720_commercio_all_ingrosso_di_tappeti_per_la_SICUREZZA_v1.png,BRIEF_PRONTO
+0657,46.47.30,"Commercio all'ingrosso di articoli per l'illuminazione per la casa, l'ufficio e i negozi",Sicurezza,0651-0700,SICURIX_TALES_0657_464730_commercio_all_ingrosso_di_articoli_per_l_SICUREZZA_v1.png,BRIEF_PRONTO
+0658,46.48.00,Commercio all'ingrosso di orologi e di gioielleria,Sicurezza,0651-0700,SICURIX_TALES_0658_464800_commercio_all_ingrosso_di_orologi_e_di_g_SICUREZZA_v1.png,BRIEF_PRONTO
+0659,46.49.10,"Commercio all'ingrosso di carta, cartone e articoli di cartoleria",Sicurezza,0651-0700,SICURIX_TALES_0659_464910_commercio_all_ingrosso_di_carta_cartone__SICUREZZA_v1.png,BRIEF_PRONTO
+0660,46.49.21,Commercio all'ingrosso di libri,Sicurezza,0651-0700,SICURIX_TALES_0660_464921_commercio_all_ingrosso_di_libri_SICUREZZA_v1.png,BRIEF_PRONTO
+0661,46.49.22,Commercio all'ingrosso di riviste e giornali,Sicurezza,0651-0700,SICURIX_TALES_0661_464922_commercio_all_ingrosso_di_riviste_e_gior_SICUREZZA_v1.png,BRIEF_PRONTO
+0662,46.49.30,"Commercio all'ingrosso di giochi, giocattoli e attrezzature per bambini",Sicurezza,0651-0700,SICURIX_TALES_0662_464930_commercio_all_ingrosso_di_giochi_giocatt_SICUREZZA_v1.png,BRIEF_PRONTO
+0663,46.49.41,Commercio all'ingrosso di biciclette,Sicurezza,0651-0700,SICURIX_TALES_0663_464941_commercio_all_ingrosso_di_biciclette_SICUREZZA_v1.png,BRIEF_PRONTO
+0664,46.49.49,Commercio all'ingrosso di altre attrezzature e articoli sportivi,Sicurezza,0651-0700,SICURIX_TALES_0664_464949_commercio_all_ingrosso_di_altre_attrezza_SICUREZZA_v1.png,BRIEF_PRONTO
+0665,46.49.50,Commercio all'ingrosso di articoli in pelle e articoli da viaggio,Sicurezza,0651-0700,SICURIX_TALES_0665_464950_commercio_all_ingrosso_di_articoli_in_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0666,46.49.91,Commercio all'ingrosso di articoli promozionali,Sicurezza,0651-0700,SICURIX_TALES_0666_464991_commercio_all_ingrosso_di_articoli_promo_SICUREZZA_v1.png,BRIEF_PRONTO
+0667,46.49.92,Commercio all'ingrosso di bomboniere,Sicurezza,0651-0700,SICURIX_TALES_0667_464992_commercio_all_ingrosso_di_bomboniere_SICUREZZA_v1.png,BRIEF_PRONTO
+0668,46.49.99,Commercio all'ingrosso di altri beni di consumo vari n.c.a.,Sicurezza,0651-0700,SICURIX_TALES_0668_464999_commercio_all_ingrosso_di_altri_beni_di__SICUREZZA_v1.png,BRIEF_PRONTO
+0669,46.50.10,"Commercio all'ingrosso di computer, unità periferiche e software",Privacy,0651-0700,SICURIX_TALES_0669_465010_commercio_all_ingrosso_di_computer_unit__PRIVACY_v1.png,BRIEF_PRONTO
+0670,46.50.20,Commercio all'ingrosso di apparecchiature per telecomunicazioni,Privacy,0651-0700,SICURIX_TALES_0670_465020_commercio_all_ingrosso_di_apparecchiatur_PRIVACY_v1.png,BRIEF_PRONTO
+0671,46.50.30,Commercio all'ingrosso di altre macchine e attrezzature per ufficio,Sicurezza,0651-0700,SICURIX_TALES_0671_465030_commercio_all_ingrosso_di_altre_macchine_SICUREZZA_v1.png,BRIEF_PRONTO
+0672,46.61.00,"Commercio all'ingrosso di macchinari, attrezzature e forniture agricole",Sicurezza,0651-0700,SICURIX_TALES_0672_466100_commercio_all_ingrosso_di_macchinari_att_SICUREZZA_v1.png,BRIEF_PRONTO
+0673,46.62.00,Commercio all'ingrosso di macchine utensili,Sicurezza,0651-0700,SICURIX_TALES_0673_466200_commercio_all_ingrosso_di_macchine_utens_SICUREZZA_v1.png,BRIEF_PRONTO
+0674,46.63.00,"Commercio all'ingrosso di macchinari per l'estrazione, l'edilizia e l'ingegneria civile",Sicurezza,0651-0700,SICURIX_TALES_0674_466300_commercio_all_ingrosso_di_macchinari_per_SICUREZZA_v1.png,BRIEF_PRONTO
+0675,46.64.11,Commercio all'ingrosso di navi e imbarcazioni,HACCP,0651-0700,SICURIX_TALES_0675_466411_commercio_all_ingrosso_di_navi_e_imbarca_HACCP_v1.png,BRIEF_PRONTO
+0676,46.64.19,Commercio all'ingrosso di altri mezzi di trasporto,Sicurezza,0651-0700,SICURIX_TALES_0676_466419_commercio_all_ingrosso_di_altri_mezzi_di_SICUREZZA_v1.png,BRIEF_PRONTO
+0677,46.64.20,Commercio all'ingrosso di materiale elettrico per impianti industriali,Sicurezza,0651-0700,SICURIX_TALES_0677_466420_commercio_all_ingrosso_di_materiale_elet_SICUREZZA_v1.png,BRIEF_PRONTO
+0678,46.64.30,"Commercio all'ingrosso di attrezzature per parrucchieri, palestre, solarium e centri estetici",Sicurezza,0651-0700,SICURIX_TALES_0678_466430_commercio_all_ingrosso_di_attrezzature_p_SICUREZZA_v1.png,BRIEF_PRONTO
+0679,46.64.40,"Commercio all'ingrosso di macchine tessili, per la lavorazione delle pelli e del cuoio, per lavanderie e stirerie",Sicurezza,0651-0700,SICURIX_TALES_0679_466440_commercio_all_ingrosso_di_macchine_tessi_SICUREZZA_v1.png,BRIEF_PRONTO
+0680,46.64.51,Commercio all'ingrosso di macchine e attrezzature per ristoranti e bar,HACCP,0651-0700,SICURIX_TALES_0680_466451_commercio_all_ingrosso_di_macchine_e_att_HACCP_v1.png,BRIEF_PRONTO
+0681,46.64.59,Commercio all'ingrosso di altri macchinari per l'industria alimentare e delle bevande,HACCP,0651-0700,SICURIX_TALES_0681_466459_commercio_all_ingrosso_di_altri_macchina_HACCP_v1.png,BRIEF_PRONTO
+0682,46.64.60,Commercio all'ingrosso di macchinari e attrezzature per la pulizia,Sicurezza,0651-0700,SICURIX_TALES_0682_466460_commercio_all_ingrosso_di_macchinari_e_a_SICUREZZA_v1.png,BRIEF_PRONTO
+0683,46.64.91,Commercio all'ingrosso di strumenti e apparecchiature di misurazione,Sicurezza,0651-0700,SICURIX_TALES_0683_466491_commercio_all_ingrosso_di_strumenti_e_ap_SICUREZZA_v1.png,BRIEF_PRONTO
+0684,46.64.92,Commercio all'ingrosso di attrazioni per parchi divertimento e parchi tematici e videogiochi,Sicurezza,0651-0700,SICURIX_TALES_0684_466492_commercio_all_ingrosso_di_attrazioni_per_SICUREZZA_v1.png,BRIEF_PRONTO
+0685,46.64.99,Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.,Sicurezza,0651-0700,SICURIX_TALES_0685_466499_commercio_all_ingrosso_di_altri_macchina_SICUREZZA_v1.png,BRIEF_PRONTO
+0686,46.71.10,Commercio all'ingrosso di automobili e autoveicoli leggeri,Sicurezza,0651-0700,SICURIX_TALES_0686_467110_commercio_all_ingrosso_di_automobili_e_a_SICUREZZA_v1.png,BRIEF_PRONTO
+0687,46.71.20,Commercio all'ingrosso di altri autoveicoli,Sicurezza,0651-0700,SICURIX_TALES_0687_467120_commercio_all_ingrosso_di_altri_autoveic_SICUREZZA_v1.png,BRIEF_PRONTO
+0688,46.72.00,Commercio all'ingrosso di parti e accessori di autoveicoli,Sicurezza,0651-0700,SICURIX_TALES_0688_467200_commercio_all_ingrosso_di_parti_e_access_SICUREZZA_v1.png,BRIEF_PRONTO
+0689,46.73.10,Commercio all'ingrosso di motocicli,Sicurezza,0651-0700,SICURIX_TALES_0689_467310_commercio_all_ingrosso_di_motocicli_SICUREZZA_v1.png,BRIEF_PRONTO
+0690,46.73.20,Commercio all'ingrosso di parti e accessori di motocicli,Sicurezza,0651-0700,SICURIX_TALES_0690_467320_commercio_all_ingrosso_di_parti_e_access_SICUREZZA_v1.png,BRIEF_PRONTO
+0691,46.81.00,"Commercio all'ingrosso di combustibili solidi, liquidi, gassosi e di prodotti derivati",Sicurezza,0651-0700,SICURIX_TALES_0691_468100_commercio_all_ingrosso_di_combustibili_s_SICUREZZA_v1.png,BRIEF_PRONTO
+0692,46.82.10,Commercio all'ingrosso di metalli e minerali metalliferi ferrosi,Sicurezza,0651-0700,SICURIX_TALES_0692_468210_commercio_all_ingrosso_di_metalli_e_mine_SICUREZZA_v1.png,BRIEF_PRONTO
+0693,46.82.21,Attività di compro oro,Sicurezza,0651-0700,SICURIX_TALES_0693_468221_attivit_di_compro_oro_SICUREZZA_v1.png,BRIEF_PRONTO
+0694,46.82.29,Commercio all'ingrosso di altri metalli e minerali metalliferi non ferrosi,Sicurezza,0651-0700,SICURIX_TALES_0694_468229_commercio_all_ingrosso_di_altri_metalli__SICUREZZA_v1.png,BRIEF_PRONTO
+0695,46.83.10,Commercio all'ingrosso di legname,Sicurezza,0651-0700,SICURIX_TALES_0695_468310_commercio_all_ingrosso_di_legname_SICUREZZA_v1.png,BRIEF_PRONTO
+0696,46.83.21,"Commercio all'ingrosso di pitture, vernici e lacche",Sicurezza,0651-0700,SICURIX_TALES_0696_468321_commercio_all_ingrosso_di_pitture_vernic_SICUREZZA_v1.png,BRIEF_PRONTO
+0697,46.83.22,Commercio all'ingrosso di carta da parati e rivestimenti per pavimenti,Sicurezza,0651-0700,SICURIX_TALES_0697_468322_commercio_all_ingrosso_di_carta_da_parat_SICUREZZA_v1.png,BRIEF_PRONTO
+0698,46.83.23,"Commercio all'ingrosso di porte, finestre e persiane",Sicurezza,0651-0700,SICURIX_TALES_0698_468323_commercio_all_ingrosso_di_porte_finestre_SICUREZZA_v1.png,BRIEF_PRONTO
+0699,46.83.29,Commercio all'ingrosso di altri materiali da costruzione,Sicurezza,0651-0700,SICURIX_TALES_0699_468329_commercio_all_ingrosso_di_altri_material_SICUREZZA_v1.png,BRIEF_PRONTO
+0700,46.83.30,Commercio all'ingrosso di articoli igienico-sanitari,Sicurezza,0651-0700,SICURIX_TALES_0700_468330_commercio_all_ingrosso_di_articoli_igien_SICUREZZA_v1.png,BRIEF_PRONTO

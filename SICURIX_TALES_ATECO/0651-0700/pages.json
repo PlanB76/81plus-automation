@@ -1,0 +1,2852 @@
+[
+ {
+  "pagina": "0651",
+  "codice_ateco": "46.46.10",
+  "descrizione_ateco": "Commercio all'ingrosso di prodotti farmaceutici di base e di preparati farmaceutici",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.46",
+  "categoria": "46.46.1",
+  "sottocategoria": "46.46.10",
+  "titolo_fumetto": "Commercio all'ingrosso di prodotti farmaceut — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di prodotti farmaceutici di base e di preparati",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di prodotti farmaceutici di base e di preparati"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di prodotti farmaceutici di'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di prodotti farmaceutici di base e di preparati. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di prodotti farmaceutici di base e di preparati. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di prodotti farmaceutici di base e di preparati: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di prodotti farmaceutici di base e di — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0651_464610_commercio_all_ingrosso_di_prodotti_farma_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0652",
+  "codice_ateco": "46.46.20",
+  "descrizione_ateco": "Commercio all'ingrosso di rimedi erboristici",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.46",
+  "categoria": "46.46.2",
+  "sottocategoria": "46.46.20",
+  "titolo_fumetto": "Commercio all'ingrosso di rimedi erboristici — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di rimedi erboristici",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di rimedi erboristici"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di rimedi erboristici'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di rimedi erboristici. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di rimedi erboristici. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di rimedi erboristici: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di rimedi erboristici — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0652_464620_commercio_all_ingrosso_di_rimedi_erboris_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0653",
+  "codice_ateco": "46.46.31",
+  "descrizione_ateco": "Commercio all'ingrosso di occhiali e lenti",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.46",
+  "categoria": "46.46.3",
+  "sottocategoria": "46.46.31",
+  "titolo_fumetto": "Commercio all'ingrosso di occhiali e lenti — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di occhiali e lenti",
+  "cattivi": [
+   "Voltix",
+   "Fumix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di occhiali e lenti"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di occhiali e lenti'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di occhiali e lenti. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di occhiali e lenti. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di occhiali e lenti: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di occhiali e lenti — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0653_464631_commercio_all_ingrosso_di_occhiali_e_len_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0654",
+  "codice_ateco": "46.46.39",
+  "descrizione_ateco": "Commercio all'ingrosso di prodotti medicali e ortopedici n.c.a.",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.46",
+  "categoria": "46.46.3",
+  "sottocategoria": "46.46.39",
+  "titolo_fumetto": "Commercio all'ingrosso di prodotti medicali  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di prodotti medicali e ortopedici n.c.a.",
+  "cattivi": [
+   "Fumix",
+   "Polverix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di prodotti medicali e ortopedici n.c.a."
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di prodotti medicali e orto'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di prodotti medicali e ortopedici n.c.a.. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Fumix, Polverix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di prodotti medicali e ortopedici n.c.a.. Scena: 1) problema 2) entra Fumix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di prodotti medicali e ortopedici n.c.a.: Fumix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di prodotti medicali e ortopedici n.c — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Fumix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0654_464639_commercio_all_ingrosso_di_prodotti_medic_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0655",
+  "codice_ateco": "46.47.10",
+  "descrizione_ateco": "Commercio all'ingrosso di mobili per la casa, l'ufficio e i negozi",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.47",
+  "categoria": "46.47.1",
+  "sottocategoria": "46.47.10",
+  "titolo_fumetto": "Commercio all'ingrosso di mobili per la casa — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di mobili per la casa, l'ufficio e i negozi",
+  "cattivi": [
+   "Polverix",
+   "Nondpix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di mobili per la casa, l'ufficio e i negozi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di mobili per la casa, l'uf'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di mobili per la casa, l'ufficio e i negozi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di mobili per la casa, l'ufficio e i negozi. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di mobili per la casa, l'ufficio e i negozi: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di mobili per la casa, l'ufficio e i  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0655_464710_commercio_all_ingrosso_di_mobili_per_la__SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0656",
+  "codice_ateco": "46.47.20",
+  "descrizione_ateco": "Commercio all'ingrosso di tappeti per la casa, l'ufficio e i negozi",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.47",
+  "categoria": "46.47.2",
+  "sottocategoria": "46.47.20",
+  "titolo_fumetto": "Commercio all'ingrosso di tappeti per la cas — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di tappeti per la casa, l'ufficio e i negozi",
+  "cattivi": [
+   "Nondpix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di tappeti per la casa, l'ufficio e i negozi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di tappeti per la casa, l'u'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di tappeti per la casa, l'ufficio e i negozi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Nondpix, Segnalex, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di tappeti per la casa, l'ufficio e i negozi. Scena: 1) problema 2) entra Nondpix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di tappeti per la casa, l'ufficio e i negozi: Nondpix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di tappeti per la casa, l'ufficio e i — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Nondpix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0656_464720_commercio_all_ingrosso_di_tappeti_per_la_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0657",
+  "codice_ateco": "46.47.30",
+  "descrizione_ateco": "Commercio all'ingrosso di articoli per l'illuminazione per la casa, l'ufficio e i negozi",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.47",
+  "categoria": "46.47.3",
+  "sottocategoria": "46.47.30",
+  "titolo_fumetto": "Commercio all'ingrosso di articoli per l'ill — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di articoli per l'illuminazione per la casa, l'",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di articoli per l'illuminazione per la casa, l'"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di articoli per l'illuminaz'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di articoli per l'illuminazione per la casa, l'. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di articoli per l'illuminazione per la casa, l'. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di articoli per l'illuminazione per la casa, l': Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di articoli per l'illuminazione per l — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0657_464730_commercio_all_ingrosso_di_articoli_per_l_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0658",
+  "codice_ateco": "46.48.00",
+  "descrizione_ateco": "Commercio all'ingrosso di orologi e di gioielleria",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.48",
+  "categoria": "46.48.0",
+  "sottocategoria": "46.48.00",
+  "titolo_fumetto": "Commercio all'ingrosso di orologi e di gioie — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di orologi e di gioielleria",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di orologi e di gioielleria"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di orologi e di gioielleria'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di orologi e di gioielleria. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di orologi e di gioielleria. Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di orologi e di gioielleria: Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di orologi e di gioielleria — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0658_464800_commercio_all_ingrosso_di_orologi_e_di_g_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0659",
+  "codice_ateco": "46.49.10",
+  "descrizione_ateco": "Commercio all'ingrosso di carta, cartone e articoli di cartoleria",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.49",
+  "categoria": "46.49.1",
+  "sottocategoria": "46.49.10",
+  "titolo_fumetto": "Commercio all'ingrosso di carta, cartone e a — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di carta, cartone e articoli di cartoleria",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di carta, cartone e articoli di cartoleria"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di carta, cartone e articol'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di carta, cartone e articoli di cartoleria. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di carta, cartone e articoli di cartoleria. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di carta, cartone e articoli di cartoleria: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di carta, cartone e articoli di carto — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0659_464910_commercio_all_ingrosso_di_carta_cartone__SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0660",
+  "codice_ateco": "46.49.21",
+  "descrizione_ateco": "Commercio all'ingrosso di libri",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.49",
+  "categoria": "46.49.2",
+  "sottocategoria": "46.49.21",
+  "titolo_fumetto": "Commercio all'ingrosso di libri — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di libri",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di libri"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di libri'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di libri. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di libri. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di libri: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di libri — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0660_464921_commercio_all_ingrosso_di_libri_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0661",
+  "codice_ateco": "46.49.22",
+  "descrizione_ateco": "Commercio all'ingrosso di riviste e giornali",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.49",
+  "categoria": "46.49.2",
+  "sottocategoria": "46.49.22",
+  "titolo_fumetto": "Commercio all'ingrosso di riviste e giornali — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di riviste e giornali",
+  "cattivi": [
+   "Caosix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di riviste e giornali"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di riviste e giornali'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di riviste e giornali. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Caosix, Segnalex, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di riviste e giornali. Scena: 1) problema 2) entra Caosix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di riviste e giornali: Caosix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di riviste e giornali — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Caosix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0661_464922_commercio_all_ingrosso_di_riviste_e_gior_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0662",
+  "codice_ateco": "46.49.30",
+  "descrizione_ateco": "Commercio all'ingrosso di giochi, giocattoli e attrezzature per bambini",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.49",
+  "categoria": "46.49.3",
+  "sottocategoria": "46.49.30",
+  "titolo_fumetto": "Commercio all'ingrosso di giochi, giocattoli — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di giochi, giocattoli e attrezzature per bambin",
+  "cattivi": [
+   "Segnalex",
+   "Riskix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di giochi, giocattoli e attrezzature per bambin"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di giochi, giocattoli e att'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di giochi, giocattoli e attrezzature per bambin. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Riskix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di giochi, giocattoli e attrezzature per bambin. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di giochi, giocattoli e attrezzature per bambin: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di giochi, giocattoli e attrezzature  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0662_464930_commercio_all_ingrosso_di_giochi_giocatt_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0663",
+  "codice_ateco": "46.49.41",
+  "descrizione_ateco": "Commercio all'ingrosso di biciclette",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.49",
+  "categoria": "46.49.4",
+  "sottocategoria": "46.49.41",
+  "titolo_fumetto": "Commercio all'ingrosso di biciclette — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di biciclette",
+  "cattivi": [
+   "Riskix",
+   "Cadutix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di biciclette"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di biciclette'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di biciclette. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Riskix, Cadutix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di biciclette. Scena: 1) problema 2) entra Riskix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di biciclette: Riskix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di biciclette — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Riskix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0663_464941_commercio_all_ingrosso_di_biciclette_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0664",
+  "codice_ateco": "46.49.49",
+  "descrizione_ateco": "Commercio all'ingrosso di altre attrezzature e articoli sportivi",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.49",
+  "categoria": "46.49.4",
+  "sottocategoria": "46.49.49",
+  "titolo_fumetto": "Commercio all'ingrosso di altre attrezzature — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di altre attrezzature e articoli sportivi",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di altre attrezzature e articoli sportivi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di altre attrezzature e art'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di altre attrezzature e articoli sportivi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di altre attrezzature e articoli sportivi. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di altre attrezzature e articoli sportivi: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di altre attrezzature e articoli spor — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0664_464949_commercio_all_ingrosso_di_altre_attrezza_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0665",
+  "codice_ateco": "46.49.50",
+  "descrizione_ateco": "Commercio all'ingrosso di articoli in pelle e articoli da viaggio",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.49",
+  "categoria": "46.49.5",
+  "sottocategoria": "46.49.50",
+  "titolo_fumetto": "Commercio all'ingrosso di articoli in pelle  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di articoli in pelle e articoli da viaggio",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di articoli in pelle e articoli da viaggio"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di articoli in pelle e arti'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di articoli in pelle e articoli da viaggio. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di articoli in pelle e articoli da viaggio. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di articoli in pelle e articoli da viaggio: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di articoli in pelle e articoli da vi — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0665_464950_commercio_all_ingrosso_di_articoli_in_pe_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0666",
+  "codice_ateco": "46.49.91",
+  "descrizione_ateco": "Commercio all'ingrosso di articoli promozionali",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.49",
+  "categoria": "46.49.9",
+  "sottocategoria": "46.49.91",
+  "titolo_fumetto": "Commercio all'ingrosso di articoli promozion — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di articoli promozionali",
+  "cattivi": [
+   "Voltix",
+   "Fumix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di articoli promozionali"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di articoli promozionali'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di articoli promozionali. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di articoli promozionali. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di articoli promozionali: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di articoli promozionali — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0666_464991_commercio_all_ingrosso_di_articoli_promo_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0667",
+  "codice_ateco": "46.49.92",
+  "descrizione_ateco": "Commercio all'ingrosso di bomboniere",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.49",
+  "categoria": "46.49.9",
+  "sottocategoria": "46.49.92",
+  "titolo_fumetto": "Commercio all'ingrosso di bomboniere — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di bomboniere",
+  "cattivi": [
+   "Fumix",
+   "Polverix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di bomboniere"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di bomboniere'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di bomboniere. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Fumix, Polverix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di bomboniere. Scena: 1) problema 2) entra Fumix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di bomboniere: Fumix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di bomboniere — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Fumix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0667_464992_commercio_all_ingrosso_di_bomboniere_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0668",
+  "codice_ateco": "46.49.99",
+  "descrizione_ateco": "Commercio all'ingrosso di altri beni di consumo vari n.c.a.",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.4",
+  "classe": "46.49",
+  "categoria": "46.49.9",
+  "sottocategoria": "46.49.99",
+  "titolo_fumetto": "Commercio all'ingrosso di altri beni di cons — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di altri beni di consumo vari n.c.a.",
+  "cattivi": [
+   "Polverix",
+   "Nondpix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di altri beni di consumo vari n.c.a."
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di altri beni di consumo va'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di altri beni di consumo vari n.c.a.. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di altri beni di consumo vari n.c.a.. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di altri beni di consumo vari n.c.a.: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di altri beni di consumo vari n.c.a. — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0668_464999_commercio_all_ingrosso_di_altri_beni_di__SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0669",
+  "codice_ateco": "46.50.10",
+  "descrizione_ateco": "Commercio all'ingrosso di computer, unità periferiche e software",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.5",
+  "classe": "46.50",
+  "categoria": "46.50.1",
+  "sottocategoria": "46.50.10",
+  "titolo_fumetto": "Commercio all'ingrosso di computer, unità pe — Pericolo vs Metodo81+",
+  "area": "Privacy",
+  "ambientazione": "Commercio all'ingrosso di computer, unità periferiche e software",
+  "cattivi": [
+   "Hackix",
+   "Permissionix"
+  ],
+  "eroi": [
+   "Luxpectorix",
+   "Cifrix"
+  ],
+  "rischi": [
+   "Rischio Privacy prevalente per: Commercio all'ingrosso di computer, unità periferiche e software"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di computer, unità periferi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di computer, unità periferiche e software. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Hackix, Permissionix, gli eroi Luxpectorix, Cifrix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di computer, unità periferiche e software. Scena: 1) problema 2) entra Hackix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Luxpectorix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di computer, unità periferiche e software: Hackix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Luxpectorix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di computer, unità periferiche e soft — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Hackix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Privacy #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0669_465010_commercio_all_ingrosso_di_computer_unit__PRIVACY_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0670",
+  "codice_ateco": "46.50.20",
+  "descrizione_ateco": "Commercio all'ingrosso di apparecchiature per telecomunicazioni",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.5",
+  "classe": "46.50",
+  "categoria": "46.50.2",
+  "sottocategoria": "46.50.20",
+  "titolo_fumetto": "Commercio all'ingrosso di apparecchiature pe — Pericolo vs Metodo81+",
+  "area": "Privacy",
+  "ambientazione": "Commercio all'ingrosso di apparecchiature per telecomunicazioni",
+  "cattivi": [
+   "Permissionix",
+   "Cancelix"
+  ],
+  "eroi": [
+   "Privacix",
+   "Consensix"
+  ],
+  "rischi": [
+   "Rischio Privacy prevalente per: Commercio all'ingrosso di apparecchiature per telecomunicazioni"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di apparecchiature per tele'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di apparecchiature per telecomunicazioni. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Permissionix, Cancelix, gli eroi Privacix, Consensix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di apparecchiature per telecomunicazioni. Scena: 1) problema 2) entra Permissionix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Privacix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di apparecchiature per telecomunicazioni: Permissionix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Privacix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di apparecchiature per telecomunicazi — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Permissionix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Privacy #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0670_465020_commercio_all_ingrosso_di_apparecchiatur_PRIVACY_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0671",
+  "codice_ateco": "46.50.30",
+  "descrizione_ateco": "Commercio all'ingrosso di altre macchine e attrezzature per ufficio",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.5",
+  "classe": "46.50",
+  "categoria": "46.50.3",
+  "sottocategoria": "46.50.30",
+  "titolo_fumetto": "Commercio all'ingrosso di altre macchine e a — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di altre macchine e attrezzature per ufficio",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di altre macchine e attrezzature per ufficio"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di altre macchine e attrezz'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di altre macchine e attrezzature per ufficio. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di altre macchine e attrezzature per ufficio. Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di altre macchine e attrezzature per ufficio: Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di altre macchine e attrezzature per  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0671_465030_commercio_all_ingrosso_di_altre_macchine_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0672",
+  "codice_ateco": "46.61.00",
+  "descrizione_ateco": "Commercio all'ingrosso di macchinari, attrezzature e forniture agricole",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.6",
+  "classe": "46.61",
+  "categoria": "46.61.0",
+  "sottocategoria": "46.61.00",
+  "titolo_fumetto": "Commercio all'ingrosso di macchinari, attrez — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di macchinari, attrezzature e forniture agricol",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di macchinari, attrezzature e forniture agricol"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di macchinari, attrezzature'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di macchinari, attrezzature e forniture agricol. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di macchinari, attrezzature e forniture agricol. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di macchinari, attrezzature e forniture agricol: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di macchinari, attrezzature e fornitu — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0672_466100_commercio_all_ingrosso_di_macchinari_att_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0673",
+  "codice_ateco": "46.62.00",
+  "descrizione_ateco": "Commercio all'ingrosso di macchine utensili",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.6",
+  "classe": "46.62",
+  "categoria": "46.62.0",
+  "sottocategoria": "46.62.00",
+  "titolo_fumetto": "Commercio all'ingrosso di macchine utensili — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di macchine utensili",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di macchine utensili"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di macchine utensili'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di macchine utensili. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di macchine utensili. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di macchine utensili: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di macchine utensili — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0673_466200_commercio_all_ingrosso_di_macchine_utens_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0674",
+  "codice_ateco": "46.63.00",
+  "descrizione_ateco": "Commercio all'ingrosso di macchinari per l'estrazione, l'edilizia e l'ingegneria civile",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.6",
+  "classe": "46.63",
+  "categoria": "46.63.0",
+  "sottocategoria": "46.63.00",
+  "titolo_fumetto": "Commercio all'ingrosso di macchinari per l'e — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di macchinari per l'estrazione, l'edilizia e l'",
+  "cattivi": [
+   "Caosix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di macchinari per l'estrazione, l'edilizia e l'"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di macchinari per l'estrazi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di macchinari per l'estrazione, l'edilizia e l'. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Caosix, Segnalex, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di macchinari per l'estrazione, l'edilizia e l'. Scena: 1) problema 2) entra Caosix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di macchinari per l'estrazione, l'edilizia e l': Caosix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di macchinari per l'estrazione, l'edi — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Caosix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0674_466300_commercio_all_ingrosso_di_macchinari_per_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0675",
+  "codice_ateco": "46.64.11",
+  "descrizione_ateco": "Commercio all'ingrosso di navi e imbarcazioni",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.6",
+  "classe": "46.64",
+  "categoria": "46.64.1",
+  "sottocategoria": "46.64.11",
+  "titolo_fumetto": "Commercio all'ingrosso di navi e imbarcazion — Pericolo vs Metodo81+",
+  "area": "HACCP",
+  "ambientazione": "Commercio all'ingrosso di navi e imbarcazioni",
+  "cattivi": [
+   "Scadutix",
+   "Mescolix"
+  ],
+  "eroi": [
+   "Chefix",
+   "Traccix"
+  ],
+  "rischi": [
+   "Rischio HACCP prevalente per: Commercio all'ingrosso di navi e imbarcazioni"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di navi e imbarcazioni'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di navi e imbarcazioni. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Scadutix, Mescolix, gli eroi Chefix, Traccix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di navi e imbarcazioni. Scena: 1) problema 2) entra Scadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Chefix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di navi e imbarcazioni: Scadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Chefix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di navi e imbarcazioni — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Scadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #HACCP #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0675_466411_commercio_all_ingrosso_di_navi_e_imbarca_HACCP_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0676",
+  "codice_ateco": "46.64.19",
+  "descrizione_ateco": "Commercio all'ingrosso di altri mezzi di trasporto",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.6",
+  "classe": "46.64",
+  "categoria": "46.64.1",
+  "sottocategoria": "46.64.19",
+  "titolo_fumetto": "Commercio all'ingrosso di altri mezzi di tra — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di altri mezzi di trasporto",
+  "cattivi": [
+   "Riskix",
+   "Cadutix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di altri mezzi di trasporto"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di altri mezzi di trasporto'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di altri mezzi di trasporto. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Riskix, Cadutix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di altri mezzi di trasporto. Scena: 1) problema 2) entra Riskix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di altri mezzi di trasporto: Riskix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di altri mezzi di trasporto — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Riskix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0676_466419_commercio_all_ingrosso_di_altri_mezzi_di_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0677",
+  "codice_ateco": "46.64.20",
+  "descrizione_ateco": "Commercio all'ingrosso di materiale elettrico per impianti industriali",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.6",
+  "classe": "46.64",
+  "categoria": "46.64.2",
+  "sottocategoria": "46.64.20",
+  "titolo_fumetto": "Commercio all'ingrosso di materiale elettric — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di materiale elettrico per impianti industriali",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di materiale elettrico per impianti industriali"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di materiale elettrico per '. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di materiale elettrico per impianti industriali. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di materiale elettrico per impianti industriali. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di materiale elettrico per impianti industriali: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di materiale elettrico per impianti i — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0677_466420_commercio_all_ingrosso_di_materiale_elet_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0678",
+  "codice_ateco": "46.64.30",
+  "descrizione_ateco": "Commercio all'ingrosso di attrezzature per parrucchieri, palestre, solarium e centri estetici",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.6",
+  "classe": "46.64",
+  "categoria": "46.64.3",
+  "sottocategoria": "46.64.30",
+  "titolo_fumetto": "Commercio all'ingrosso di attrezzature per p — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di attrezzature per parrucchieri, palestre, sol",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di attrezzature per parrucchieri, palestre, sol"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di attrezzature per parrucc'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di attrezzature per parrucchieri, palestre, sol. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di attrezzature per parrucchieri, palestre, sol. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di attrezzature per parrucchieri, palestre, sol: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di attrezzature per parrucchieri, pal — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0678_466430_commercio_all_ingrosso_di_attrezzature_p_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0679",
+  "codice_ateco": "46.64.40",
+  "descrizione_ateco": "Commercio all'ingrosso di macchine tessili, per la lavorazione delle pelli e del cuoio, per lavanderie e stirerie",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.6",
+  "classe": "46.64",
+  "categoria": "46.64.4",
+  "sottocategoria": "46.64.40",
+  "titolo_fumetto": "Commercio all'ingrosso di macchine tessili,  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di macchine tessili, per la lavorazione delle p",
+  "cattivi": [
+   "Voltix",
+   "Fumix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di macchine tessili, per la lavorazione delle p"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di macchine tessili, per la'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di macchine tessili, per la lavorazione delle p. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di macchine tessili, per la lavorazione delle p. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di macchine tessili, per la lavorazione delle p: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di macchine tessili, per la lavorazio — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0679_466440_commercio_all_ingrosso_di_macchine_tessi_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0680",
+  "codice_ateco": "46.64.51",
+  "descrizione_ateco": "Commercio all'ingrosso di macchine e attrezzature per ristoranti e bar",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.6",
+  "classe": "46.64",
+  "categoria": "46.64.5",
+  "sottocategoria": "46.64.51",
+  "titolo_fumetto": "Commercio all'ingrosso di macchine e attrezz — Pericolo vs Metodo81+",
+  "area": "HACCP",
+  "ambientazione": "Commercio all'ingrosso di macchine e attrezzature per ristoranti e bar",
+  "cattivi": [
+   "Crossix",
+   "Temporix"
+  ],
+  "eroi": [
+   "Chefix",
+   "Traccix"
+  ],
+  "rischi": [
+   "Rischio HACCP prevalente per: Commercio all'ingrosso di macchine e attrezzature per ristoranti e bar"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di macchine e attrezzature '. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di macchine e attrezzature per ristoranti e bar. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Crossix, Temporix, gli eroi Chefix, Traccix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di macchine e attrezzature per ristoranti e bar. Scena: 1) problema 2) entra Crossix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Chefix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di macchine e attrezzature per ristoranti e bar: Crossix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Chefix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di macchine e attrezzature per ristor — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Crossix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #HACCP #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0680_466451_commercio_all_ingrosso_di_macchine_e_att_HACCP_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0681",
+  "codice_ateco": "46.64.59",
+  "descrizione_ateco": "Commercio all'ingrosso di altri macchinari per l'industria alimentare e delle bevande",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.6",
+  "classe": "46.64",
+  "categoria": "46.64.5",
+  "sottocategoria": "46.64.59",
+  "titolo_fumetto": "Commercio all'ingrosso di altri macchinari p — Pericolo vs Metodo81+",
+  "area": "HACCP",
+  "ambientazione": "Commercio all'ingrosso di altri macchinari per l'industria alimentare ",
+  "cattivi": [
+   "Temporix",
+   "Scadutix"
+  ],
+  "eroi": [
+   "Hygienix",
+   "Blinkix"
+  ],
+  "rischi": [
+   "Rischio HACCP prevalente per: Commercio all'ingrosso di altri macchinari per l'industria alimentare "
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di altri macchinari per l'i'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di altri macchinari per l'industria alimentare . Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Temporix, Scadutix, gli eroi Hygienix, Blinkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di altri macchinari per l'industria alimentare . Scena: 1) problema 2) entra Temporix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Hygienix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di altri macchinari per l'industria alimentare : Temporix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Hygienix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di altri macchinari per l'industria a — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Temporix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #HACCP #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0681_466459_commercio_all_ingrosso_di_altri_macchina_HACCP_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0682",
+  "codice_ateco": "46.64.60",
+  "descrizione_ateco": "Commercio all'ingrosso di macchinari e attrezzature per la pulizia",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.6",
+  "classe": "46.64",
+  "categoria": "46.64.6",
+  "sottocategoria": "46.64.60",
+  "titolo_fumetto": "Commercio all'ingrosso di macchinari e attre — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di macchinari e attrezzature per la pulizia",
+  "cattivi": [
+   "Nondpix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di macchinari e attrezzature per la pulizia"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di macchinari e attrezzatur'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di macchinari e attrezzature per la pulizia. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Nondpix, Segnalex, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di macchinari e attrezzature per la pulizia. Scena: 1) problema 2) entra Nondpix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di macchinari e attrezzature per la pulizia: Nondpix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di macchinari e attrezzature per la p — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Nondpix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0682_466460_commercio_all_ingrosso_di_macchinari_e_a_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0683",
+  "codice_ateco": "46.64.91",
+  "descrizione_ateco": "Commercio all'ingrosso di strumenti e apparecchiature di misurazione",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.6",
+  "classe": "46.64",
+  "categoria": "46.64.9",
+  "sottocategoria": "46.64.91",
+  "titolo_fumetto": "Commercio all'ingrosso di strumenti e appare — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di strumenti e apparecchiature di misurazione",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di strumenti e apparecchiature di misurazione"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di strumenti e apparecchiat'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di strumenti e apparecchiature di misurazione. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di strumenti e apparecchiature di misurazione. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di strumenti e apparecchiature di misurazione: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di strumenti e apparecchiature di mis — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0683_466491_commercio_all_ingrosso_di_strumenti_e_ap_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0684",
+  "codice_ateco": "46.64.92",
+  "descrizione_ateco": "Commercio all'ingrosso di attrazioni per parchi divertimento e parchi tematici e videogiochi",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.6",
+  "classe": "46.64",
+  "categoria": "46.64.9",
+  "sottocategoria": "46.64.92",
+  "titolo_fumetto": "Commercio all'ingrosso di attrazioni per par — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di attrazioni per parchi divertimento e parchi ",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di attrazioni per parchi divertimento e parchi "
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di attrazioni per parchi di'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di attrazioni per parchi divertimento e parchi . Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di attrazioni per parchi divertimento e parchi . Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di attrazioni per parchi divertimento e parchi : Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di attrazioni per parchi divertimento — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0684_466492_commercio_all_ingrosso_di_attrazioni_per_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0685",
+  "codice_ateco": "46.64.99",
+  "descrizione_ateco": "Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.6",
+  "classe": "46.64",
+  "categoria": "46.64.9",
+  "sottocategoria": "46.64.99",
+  "titolo_fumetto": "Commercio all'ingrosso di altri macchinari e — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a."
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di altri macchinari e attre'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di altri macchinari e attrezzature va — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0685_466499_commercio_all_ingrosso_di_altri_macchina_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0686",
+  "codice_ateco": "46.71.10",
+  "descrizione_ateco": "Commercio all'ingrosso di automobili e autoveicoli leggeri",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.7",
+  "classe": "46.71",
+  "categoria": "46.71.1",
+  "sottocategoria": "46.71.10",
+  "titolo_fumetto": "Commercio all'ingrosso di automobili e autov — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di automobili e autoveicoli leggeri",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di automobili e autoveicoli leggeri"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di automobili e autoveicoli'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di automobili e autoveicoli leggeri. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di automobili e autoveicoli leggeri. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di automobili e autoveicoli leggeri: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di automobili e autoveicoli leggeri — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0686_467110_commercio_all_ingrosso_di_automobili_e_a_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0687",
+  "codice_ateco": "46.71.20",
+  "descrizione_ateco": "Commercio all'ingrosso di altri autoveicoli",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.7",
+  "classe": "46.71",
+  "categoria": "46.71.2",
+  "sottocategoria": "46.71.20",
+  "titolo_fumetto": "Commercio all'ingrosso di altri autoveicoli — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di altri autoveicoli",
+  "cattivi": [
+   "Caosix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di altri autoveicoli"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di altri autoveicoli'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di altri autoveicoli. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Caosix, Segnalex, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di altri autoveicoli. Scena: 1) problema 2) entra Caosix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di altri autoveicoli: Caosix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di altri autoveicoli — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Caosix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0687_467120_commercio_all_ingrosso_di_altri_autoveic_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0688",
+  "codice_ateco": "46.72.00",
+  "descrizione_ateco": "Commercio all'ingrosso di parti e accessori di autoveicoli",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.7",
+  "classe": "46.72",
+  "categoria": "46.72.0",
+  "sottocategoria": "46.72.00",
+  "titolo_fumetto": "Commercio all'ingrosso di parti e accessori  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di parti e accessori di autoveicoli",
+  "cattivi": [
+   "Segnalex",
+   "Riskix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di parti e accessori di autoveicoli"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di parti e accessori di aut'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di parti e accessori di autoveicoli. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Riskix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di parti e accessori di autoveicoli. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di parti e accessori di autoveicoli: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di parti e accessori di autoveicoli — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0688_467200_commercio_all_ingrosso_di_parti_e_access_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0689",
+  "codice_ateco": "46.73.10",
+  "descrizione_ateco": "Commercio all'ingrosso di motocicli",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.7",
+  "classe": "46.73",
+  "categoria": "46.73.1",
+  "sottocategoria": "46.73.10",
+  "titolo_fumetto": "Commercio all'ingrosso di motocicli — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di motocicli",
+  "cattivi": [
+   "Riskix",
+   "Cadutix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di motocicli"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di motocicli'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di motocicli. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Riskix, Cadutix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di motocicli. Scena: 1) problema 2) entra Riskix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di motocicli: Riskix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di motocicli — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Riskix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0689_467310_commercio_all_ingrosso_di_motocicli_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0690",
+  "codice_ateco": "46.73.20",
+  "descrizione_ateco": "Commercio all'ingrosso di parti e accessori di motocicli",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.7",
+  "classe": "46.73",
+  "categoria": "46.73.2",
+  "sottocategoria": "46.73.20",
+  "titolo_fumetto": "Commercio all'ingrosso di parti e accessori  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di parti e accessori di motocicli",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di parti e accessori di motocicli"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di parti e accessori di mot'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di parti e accessori di motocicli. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di parti e accessori di motocicli. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di parti e accessori di motocicli: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di parti e accessori di motocicli — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0690_467320_commercio_all_ingrosso_di_parti_e_access_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0691",
+  "codice_ateco": "46.81.00",
+  "descrizione_ateco": "Commercio all'ingrosso di combustibili solidi, liquidi, gassosi e di prodotti derivati",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.8",
+  "classe": "46.81",
+  "categoria": "46.81.0",
+  "sottocategoria": "46.81.00",
+  "titolo_fumetto": "Commercio all'ingrosso di combustibili solid — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di combustibili solidi, liquidi, gassosi e di p",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di combustibili solidi, liquidi, gassosi e di p"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di combustibili solidi, liq'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di combustibili solidi, liquidi, gassosi e di p. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di combustibili solidi, liquidi, gassosi e di p. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di combustibili solidi, liquidi, gassosi e di p: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di combustibili solidi, liquidi, gass — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0691_468100_commercio_all_ingrosso_di_combustibili_s_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0692",
+  "codice_ateco": "46.82.10",
+  "descrizione_ateco": "Commercio all'ingrosso di metalli e minerali metalliferi ferrosi",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.8",
+  "classe": "46.82",
+  "categoria": "46.82.1",
+  "sottocategoria": "46.82.10",
+  "titolo_fumetto": "Commercio all'ingrosso di metalli e minerali — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di metalli e minerali metalliferi ferrosi",
+  "cattivi": [
+   "Voltix",
+   "Fumix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di metalli e minerali metalliferi ferrosi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di metalli e minerali metal'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di metalli e minerali metalliferi ferrosi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di metalli e minerali metalliferi ferrosi. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di metalli e minerali metalliferi ferrosi: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di metalli e minerali metalliferi fer — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0692_468210_commercio_all_ingrosso_di_metalli_e_mine_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0693",
+  "codice_ateco": "46.82.21",
+  "descrizione_ateco": "Attività di compro oro",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.8",
+  "classe": "46.82",
+  "categoria": "46.82.2",
+  "sottocategoria": "46.82.21",
+  "titolo_fumetto": "Attività di compro oro — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Attività di compro oro",
+  "cattivi": [
+   "Fumix",
+   "Polverix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Attività di compro oro"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di compro oro'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di compro oro. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Fumix, Polverix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di compro oro. Scena: 1) problema 2) entra Fumix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di compro oro: Fumix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di compro oro — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Fumix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0693_468221_attivit_di_compro_oro_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0694",
+  "codice_ateco": "46.82.29",
+  "descrizione_ateco": "Commercio all'ingrosso di altri metalli e minerali metalliferi non ferrosi",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.8",
+  "classe": "46.82",
+  "categoria": "46.82.2",
+  "sottocategoria": "46.82.29",
+  "titolo_fumetto": "Commercio all'ingrosso di altri metalli e mi — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di altri metalli e minerali metalliferi non fer",
+  "cattivi": [
+   "Polverix",
+   "Nondpix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di altri metalli e minerali metalliferi non fer"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di altri metalli e minerali'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di altri metalli e minerali metalliferi non fer. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di altri metalli e minerali metalliferi non fer. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di altri metalli e minerali metalliferi non fer: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di altri metalli e minerali metallife — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0694_468229_commercio_all_ingrosso_di_altri_metalli__SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0695",
+  "codice_ateco": "46.83.10",
+  "descrizione_ateco": "Commercio all'ingrosso di legname",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.8",
+  "classe": "46.83",
+  "categoria": "46.83.1",
+  "sottocategoria": "46.83.10",
+  "titolo_fumetto": "Commercio all'ingrosso di legname — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di legname",
+  "cattivi": [
+   "Nondpix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di legname"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di legname'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di legname. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Nondpix, Segnalex, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di legname. Scena: 1) problema 2) entra Nondpix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di legname: Nondpix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di legname — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Nondpix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0695_468310_commercio_all_ingrosso_di_legname_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0696",
+  "codice_ateco": "46.83.21",
+  "descrizione_ateco": "Commercio all'ingrosso di pitture, vernici e lacche",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.8",
+  "classe": "46.83",
+  "categoria": "46.83.2",
+  "sottocategoria": "46.83.21",
+  "titolo_fumetto": "Commercio all'ingrosso di pitture, vernici e — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di pitture, vernici e lacche",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di pitture, vernici e lacche"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di pitture, vernici e lacch'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di pitture, vernici e lacche. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di pitture, vernici e lacche. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di pitture, vernici e lacche: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di pitture, vernici e lacche — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0696_468321_commercio_all_ingrosso_di_pitture_vernic_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0697",
+  "codice_ateco": "46.83.22",
+  "descrizione_ateco": "Commercio all'ingrosso di carta da parati e rivestimenti per pavimenti",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.8",
+  "classe": "46.83",
+  "categoria": "46.83.2",
+  "sottocategoria": "46.83.22",
+  "titolo_fumetto": "Commercio all'ingrosso di carta da parati e  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di carta da parati e rivestimenti per pavimenti",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di carta da parati e rivestimenti per pavimenti"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di carta da parati e rivest'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di carta da parati e rivestimenti per pavimenti. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di carta da parati e rivestimenti per pavimenti. Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di carta da parati e rivestimenti per pavimenti: Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di carta da parati e rivestimenti per — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0697_468322_commercio_all_ingrosso_di_carta_da_parat_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0698",
+  "codice_ateco": "46.83.23",
+  "descrizione_ateco": "Commercio all'ingrosso di porte, finestre e persiane",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.8",
+  "classe": "46.83",
+  "categoria": "46.83.2",
+  "sottocategoria": "46.83.23",
+  "titolo_fumetto": "Commercio all'ingrosso di porte, finestre e  — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di porte, finestre e persiane",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di porte, finestre e persiane"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di porte, finestre e persia'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di porte, finestre e persiane. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di porte, finestre e persiane. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di porte, finestre e persiane: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di porte, finestre e persiane — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0698_468323_commercio_all_ingrosso_di_porte_finestre_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0699",
+  "codice_ateco": "46.83.29",
+  "descrizione_ateco": "Commercio all'ingrosso di altri materiali da costruzione",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.8",
+  "classe": "46.83",
+  "categoria": "46.83.2",
+  "sottocategoria": "46.83.29",
+  "titolo_fumetto": "Commercio all'ingrosso di altri materiali da — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di altri materiali da costruzione",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di altri materiali da costruzione"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di altri materiali da costr'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di altri materiali da costruzione. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di altri materiali da costruzione. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di altri materiali da costruzione: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di altri materiali da costruzione — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0699_468329_commercio_all_ingrosso_di_altri_material_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "0700",
+  "codice_ateco": "46.83.30",
+  "descrizione_ateco": "Commercio all'ingrosso di articoli igienico-sanitari",
+  "sezione": "G Commercio",
+  "divisione": "46",
+  "gruppo": "46.8",
+  "classe": "46.83",
+  "categoria": "46.83.3",
+  "sottocategoria": "46.83.30",
+  "titolo_fumetto": "Commercio all'ingrosso di articoli igienico- — Pericolo vs Metodo81+",
+  "area": "Sicurezza",
+  "ambientazione": "Commercio all'ingrosso di articoli igienico-sanitari",
+  "cattivi": [
+   "Caosix",
+   "Segnalex"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Sicurezza prevalente per: Commercio all'ingrosso di articoli igienico-sanitari"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Commercio all'ingrosso di articoli igienico-sanita'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Commercio all'ingrosso di articoli igienico-sanitari. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Caosix, Segnalex, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Commercio all'ingrosso di articoli igienico-sanitari. Scena: 1) problema 2) entra Caosix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Commercio all'ingrosso di articoli igienico-sanitari: Caosix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Commercio all'ingrosso di articoli igienico-sanitari — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Caosix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Sicurezza #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_0700_468330_commercio_all_ingrosso_di_articoli_igien_SICUREZZA_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /0651-0700/",
+  "stato": "DA_GENERARE"
+ }
+]
