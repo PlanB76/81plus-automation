@@ -749,3 +749,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 0748,47.53.12,Commercio al dettaglio di tende,Sicurezza,0701-0750,SICURIX_TALES_0748_475312_commercio_al_dettaglio_di_tende_SICUREZZA_v1.png,BRIEF_PRONTO
 0749,47.53.20,Commercio al dettaglio di rivestimenti per pareti e pavimenti,Sicurezza,0701-0750,SICURIX_TALES_0749_475320_commercio_al_dettaglio_di_rivestimenti_p_SICUREZZA_v1.png,BRIEF_PRONTO
 0750,47.54.00,Commercio al dettaglio di elettrodomestici,Sicurezza,0701-0750,SICURIX_TALES_0750_475400_commercio_al_dettaglio_di_elettrodomesti_SICUREZZA_v1.png,BRIEF_PRONTO
+0751,47.55.10,Commercio al dettaglio di mobili per la casa,Sicurezza,0751-0800,SICURIX_TALES_0751_475510_commercio_al_dettaglio_di_mobili_per_la__SICUREZZA_v1.png,BRIEF_PRONTO
+0752,47.55.20,Commercio al dettaglio di altri mobili,Sicurezza,0751-0800,SICURIX_TALES_0752_475520_commercio_al_dettaglio_di_altri_mobili_SICUREZZA_v1.png,BRIEF_PRONTO
+0753,47.55.30,Commercio al dettaglio di articoli per l'illuminazione,Sicurezza,0751-0800,SICURIX_TALES_0753_475530_commercio_al_dettaglio_di_articoli_per_l_SICUREZZA_v1.png,BRIEF_PRONTO
+0754,47.55.40,Commercio al dettaglio di articoli per la tavola e la cucina,HACCP,0751-0800,SICURIX_TALES_0754_475540_commercio_al_dettaglio_di_articoli_per_l_HACCP_v1.png,BRIEF_PRONTO
+0755,47.55.90,Commercio al dettaglio di attrezzature per bambini e altri articoli per la casa,Sicurezza,0751-0800,SICURIX_TALES_0755_475590_commercio_al_dettaglio_di_attrezzature_p_SICUREZZA_v1.png,BRIEF_PRONTO
+0756,47.61.00,Commercio al dettaglio di libri,Sicurezza,0751-0800,SICURIX_TALES_0756_476100_commercio_al_dettaglio_di_libri_SICUREZZA_v1.png,BRIEF_PRONTO
+0757,47.62.10,Commercio al dettaglio di giornali e altre pubblicazioni periodiche,Sicurezza,0751-0800,SICURIX_TALES_0757_476210_commercio_al_dettaglio_di_giornali_e_alt_SICUREZZA_v1.png,BRIEF_PRONTO
+0758,47.62.20,Commercio al dettaglio di articoli di cancelleria,Sicurezza,0751-0800,SICURIX_TALES_0758_476220_commercio_al_dettaglio_di_articoli_di_ca_SICUREZZA_v1.png,BRIEF_PRONTO
+0759,47.63.10,Commercio al dettaglio di imbarcazioni,HACCP,0751-0800,SICURIX_TALES_0759_476310_commercio_al_dettaglio_di_imbarcazioni_HACCP_v1.png,BRIEF_PRONTO
+0760,47.63.21,Commercio al dettaglio di biciclette,Sicurezza,0751-0800,SICURIX_TALES_0760_476321_commercio_al_dettaglio_di_biciclette_SICUREZZA_v1.png,BRIEF_PRONTO
+0761,47.63.29,Commercio al dettaglio di altre attrezzature sportive,Sicurezza,0751-0800,SICURIX_TALES_0761_476329_commercio_al_dettaglio_di_altre_attrezza_SICUREZZA_v1.png,BRIEF_PRONTO
+0762,47.64.00,Commercio al dettaglio di giochi e giocattoli,Sicurezza,0751-0800,SICURIX_TALES_0762_476400_commercio_al_dettaglio_di_giochi_e_gioca_SICUREZZA_v1.png,BRIEF_PRONTO
+0763,47.69.11,Commercio al dettaglio di supporti registrati,Sicurezza,0751-0800,SICURIX_TALES_0763_476911_commercio_al_dettaglio_di_supporti_regis_SICUREZZA_v1.png,BRIEF_PRONTO
+0764,47.69.12,Commercio al dettaglio di strumenti musicali,Sicurezza,0751-0800,SICURIX_TALES_0764_476912_commercio_al_dettaglio_di_strumenti_musi_SICUREZZA_v1.png,BRIEF_PRONTO
+0765,47.69.20,"Commercio al dettaglio di articoli di filatelia, numismatica e da collezionismo",Sicurezza,0751-0800,SICURIX_TALES_0765_476920_commercio_al_dettaglio_di_articoli_di_fi_SICUREZZA_v1.png,BRIEF_PRONTO
+0766,47.69.30,"Commercio al dettaglio di articoli per disegno, pittura e scultura",Sicurezza,0751-0800,SICURIX_TALES_0766_476930_commercio_al_dettaglio_di_articoli_per_d_SICUREZZA_v1.png,BRIEF_PRONTO
+0767,47.69.91,Commercio al dettaglio di opere d'arte,Sicurezza,0751-0800,SICURIX_TALES_0767_476991_commercio_al_dettaglio_di_opere_d_arte_SICUREZZA_v1.png,BRIEF_PRONTO
+0768,47.69.99,Commercio al dettaglio di altri articoli vari culturali e ricreativi n.c.a.,Sicurezza,0751-0800,SICURIX_TALES_0768_476999_commercio_al_dettaglio_di_altri_articoli_SICUREZZA_v1.png,BRIEF_PRONTO
+0769,47.71.10,Commercio al dettaglio di articoli di abbigliamento per adulti,Sicurezza,0751-0800,SICURIX_TALES_0769_477110_commercio_al_dettaglio_di_articoli_di_ab_SICUREZZA_v1.png,BRIEF_PRONTO
+0770,47.71.20,Commercio al dettaglio di articoli di abbigliamento per neonati e bambini,Sicurezza,0751-0800,SICURIX_TALES_0770_477120_commercio_al_dettaglio_di_articoli_di_ab_SICUREZZA_v1.png,BRIEF_PRONTO
+0771,47.71.30,Commercio al dettaglio di articoli di biancheria intima,Sicurezza,0751-0800,SICURIX_TALES_0771_477130_commercio_al_dettaglio_di_articoli_di_bi_SICUREZZA_v1.png,BRIEF_PRONTO
+0772,47.71.40,Commercio al dettaglio di articoli di abbigliamento in pelle e pelliccia,Sicurezza,0751-0800,SICURIX_TALES_0772_477140_commercio_al_dettaglio_di_articoli_di_ab_SICUREZZA_v1.png,BRIEF_PRONTO
+0773,47.71.50,Commercio al dettaglio di accessori per l'abbigliamento,Sicurezza,0751-0800,SICURIX_TALES_0773_477150_commercio_al_dettaglio_di_accessori_per__SICUREZZA_v1.png,BRIEF_PRONTO
+0774,47.72.11,Commercio al dettaglio di calzature e accessori per calzature per adulti,Sicurezza,0751-0800,SICURIX_TALES_0774_477211_commercio_al_dettaglio_di_calzature_e_ac_SICUREZZA_v1.png,BRIEF_PRONTO
+0775,47.72.12,Commercio al dettaglio di calzature e accessori per calzature per neonati e bambini,Sicurezza,0751-0800,SICURIX_TALES_0775_477212_commercio_al_dettaglio_di_calzature_e_ac_SICUREZZA_v1.png,BRIEF_PRONTO
+0776,47.72.20,Commercio al dettaglio di articoli in pelle e articoli da viaggio,Sicurezza,0751-0800,SICURIX_TALES_0776_477220_commercio_al_dettaglio_di_articoli_in_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0777,47.73.10,Commercio al dettaglio di medicinali soggetti a prescrizione medica,Sicurezza,0751-0800,SICURIX_TALES_0777_477310_commercio_al_dettaglio_di_medicinali_sog_SICUREZZA_v1.png,BRIEF_PRONTO
+0778,47.73.20,Commercio al dettaglio di rimedi erboristici,Sicurezza,0751-0800,SICURIX_TALES_0778_477320_commercio_al_dettaglio_di_rimedi_erboris_SICUREZZA_v1.png,BRIEF_PRONTO
+0779,47.73.90,Commercio al dettaglio di altri prodotti farmaceutici,Sicurezza,0751-0800,SICURIX_TALES_0779_477390_commercio_al_dettaglio_di_altri_prodotti_SICUREZZA_v1.png,BRIEF_PRONTO
+0780,47.74.01,Commercio al dettaglio di occhiali e lenti,Sicurezza,0751-0800,SICURIX_TALES_0780_477401_commercio_al_dettaglio_di_occhiali_e_len_SICUREZZA_v1.png,BRIEF_PRONTO
+0781,47.74.09,Commercio al dettaglio di altri articoli medicali e ortopedici,Sicurezza,0751-0800,SICURIX_TALES_0781_477409_commercio_al_dettaglio_di_altri_articoli_SICUREZZA_v1.png,BRIEF_PRONTO
+0782,47.75.00,Commercio al dettaglio di cosmetici e di articoli di profumeria,Sicurezza,0751-0800,SICURIX_TALES_0782_477500_commercio_al_dettaglio_di_cosmetici_e_di_SICUREZZA_v1.png,BRIEF_PRONTO
+0783,47.76.10,"Commercio al dettaglio di fiori, piante e fertilizzanti",Sicurezza,0751-0800,SICURIX_TALES_0783_477610_commercio_al_dettaglio_di_fiori_piante_e_SICUREZZA_v1.png,BRIEF_PRONTO
+0784,47.76.20,Commercio al dettaglio di animali da compagnia e alimenti per animali da compagnia,HACCP,0751-0800,SICURIX_TALES_0784_477620_commercio_al_dettaglio_di_animali_da_com_HACCP_v1.png,BRIEF_PRONTO
+0785,47.77.00,Commercio al dettaglio di orologi e articoli di gioielleria,Sicurezza,0751-0800,SICURIX_TALES_0785_477700_commercio_al_dettaglio_di_orologi_e_arti_SICUREZZA_v1.png,BRIEF_PRONTO
+0786,47.78.10,Commercio al dettaglio di articoli per fotografia e ottica,Sicurezza,0751-0800,SICURIX_TALES_0786_477810_commercio_al_dettaglio_di_articoli_per_f_SICUREZZA_v1.png,BRIEF_PRONTO
+0787,47.78.21,Commercio al dettaglio di souvenir,Sicurezza,0751-0800,SICURIX_TALES_0787_477821_commercio_al_dettaglio_di_souvenir_SICUREZZA_v1.png,BRIEF_PRONTO
+0788,47.78.22,Commercio al dettaglio di articoli di artigianato,Sicurezza,0751-0800,SICURIX_TALES_0788_477822_commercio_al_dettaglio_di_articoli_di_ar_SICUREZZA_v1.png,BRIEF_PRONTO
+0789,47.78.23,Commercio al dettaglio di articoli religiosi,Sicurezza,0751-0800,SICURIX_TALES_0789_477823_commercio_al_dettaglio_di_articoli_relig_SICUREZZA_v1.png,BRIEF_PRONTO
+0790,47.78.24,Commercio al dettaglio di bigiotteria,Sicurezza,0751-0800,SICURIX_TALES_0790_477824_commercio_al_dettaglio_di_bigiotteria_SICUREZZA_v1.png,BRIEF_PRONTO
+0791,47.78.25,Commercio al dettaglio di bomboniere,Sicurezza,0751-0800,SICURIX_TALES_0791_477825_commercio_al_dettaglio_di_bomboniere_SICUREZZA_v1.png,BRIEF_PRONTO
+0792,47.78.30,"Commercio al dettaglio di combustibile per uso domestico, bombole di gas, carbone e legna da ardere",Sicurezza,0751-0800,SICURIX_TALES_0792_477830_commercio_al_dettaglio_di_combustibile_p_SICUREZZA_v1.png,BRIEF_PRONTO
+0793,47.78.40,Commercio al dettaglio di prodotti per la pulizia,Sicurezza,0751-0800,SICURIX_TALES_0793_477840_commercio_al_dettaglio_di_prodotti_per_l_SICUREZZA_v1.png,BRIEF_PRONTO
+0794,47.78.91,Commercio al dettaglio di articoli per imballaggio,Sicurezza,0751-0800,SICURIX_TALES_0794_477891_commercio_al_dettaglio_di_articoli_per_i_SICUREZZA_v1.png,BRIEF_PRONTO
+0795,47.78.92,Commercio al dettaglio di articoli funerari e cimiteriali,Sicurezza,0751-0800,SICURIX_TALES_0795_477892_commercio_al_dettaglio_di_articoli_funer_SICUREZZA_v1.png,BRIEF_PRONTO
+0796,47.78.93,Commercio al dettaglio di articoli per adulti,Sicurezza,0751-0800,SICURIX_TALES_0796_477893_commercio_al_dettaglio_di_articoli_per_a_SICUREZZA_v1.png,BRIEF_PRONTO
+0797,47.78.99,Commercio al dettaglio di altri prodotti vari non di seconda mano n.c.a.,Sicurezza,0751-0800,SICURIX_TALES_0797_477899_commercio_al_dettaglio_di_altri_prodotti_SICUREZZA_v1.png,BRIEF_PRONTO
+0798,47.79.10,Commercio al dettaglio di libri di seconda mano,Sicurezza,0751-0800,SICURIX_TALES_0798_477910_commercio_al_dettaglio_di_libri_di_secon_SICUREZZA_v1.png,BRIEF_PRONTO
+0799,47.79.20,Commercio al dettaglio di oggetti di antiquariato e mobili di seconda mano,Sicurezza,0751-0800,SICURIX_TALES_0799_477920_commercio_al_dettaglio_di_oggetti_di_ant_SICUREZZA_v1.png,BRIEF_PRONTO
+0800,47.79.31,Commercio al dettaglio di articoli di abbigliamento di seconda mano,Sicurezza,0751-0800,SICURIX_TALES_0800_477931_commercio_al_dettaglio_di_articoli_di_ab_SICUREZZA_v1.png,BRIEF_PRONTO
