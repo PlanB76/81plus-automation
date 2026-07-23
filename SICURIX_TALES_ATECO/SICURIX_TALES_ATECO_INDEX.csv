@@ -799,3 +799,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 0798,47.79.10,Commercio al dettaglio di libri di seconda mano,Sicurezza,0751-0800,SICURIX_TALES_0798_477910_commercio_al_dettaglio_di_libri_di_secon_SICUREZZA_v1.png,BRIEF_PRONTO
 0799,47.79.20,Commercio al dettaglio di oggetti di antiquariato e mobili di seconda mano,Sicurezza,0751-0800,SICURIX_TALES_0799_477920_commercio_al_dettaglio_di_oggetti_di_ant_SICUREZZA_v1.png,BRIEF_PRONTO
 0800,47.79.31,Commercio al dettaglio di articoli di abbigliamento di seconda mano,Sicurezza,0751-0800,SICURIX_TALES_0800_477931_commercio_al_dettaglio_di_articoli_di_ab_SICUREZZA_v1.png,BRIEF_PRONTO
+0801,47.79.32,Commercio al dettaglio di orologi e articoli di gioielleria di seconda mano,Sicurezza,0801-0850,SICURIX_TALES_0801_477932_commercio_al_dettaglio_di_orologi_e_arti_SICUREZZA_v1.png,BRIEF_PRONTO
+0802,47.79.39,Commercio al dettaglio di altri articoli di seconda mano n.c.a.,Sicurezza,0801-0850,SICURIX_TALES_0802_477939_commercio_al_dettaglio_di_altri_articoli_SICUREZZA_v1.png,BRIEF_PRONTO
+0803,47.81.10,Commercio al dettaglio di automobili e autoveicoli leggeri,Sicurezza,0801-0850,SICURIX_TALES_0803_478110_commercio_al_dettaglio_di_automobili_e_a_SICUREZZA_v1.png,BRIEF_PRONTO
+0804,47.81.20,Commercio al dettaglio di altri autoveicoli,Sicurezza,0801-0850,SICURIX_TALES_0804_478120_commercio_al_dettaglio_di_altri_autoveic_SICUREZZA_v1.png,BRIEF_PRONTO
+0805,47.82.00,Commercio al dettaglio di parti e accessori di autoveicoli,Sicurezza,0801-0850,SICURIX_TALES_0805_478200_commercio_al_dettaglio_di_parti_e_access_SICUREZZA_v1.png,BRIEF_PRONTO
+0806,47.83.10,Commercio al dettaglio di motocicli,Sicurezza,0801-0850,SICURIX_TALES_0806_478310_commercio_al_dettaglio_di_motocicli_SICUREZZA_v1.png,BRIEF_PRONTO
+0807,47.83.20,Commercio al dettaglio di parti e accessori di motocicli,Sicurezza,0801-0850,SICURIX_TALES_0807_478320_commercio_al_dettaglio_di_parti_e_access_SICUREZZA_v1.png,BRIEF_PRONTO
+0808,47.91.10,Attività di servizi di intermediazione per il commercio al dettaglio non specializzato di articoli di seconda mano,Sicurezza,0801-0850,SICURIX_TALES_0808_479110_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0809,47.91.20,Attività di servizi di intermediazione per il commercio al dettaglio non specializzato di prodotti nuovi,Sicurezza,0801-0850,SICURIX_TALES_0809_479120_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0810,47.92.10,Attività di servizi di intermediazione per il commercio al dettaglio specializzato di prodotti alimentari e bevande,HACCP,0801-0850,SICURIX_TALES_0810_479210_attivit_di_servizi_di_intermediazione_pe_HACCP_v1.png,BRIEF_PRONTO
+0811,47.92.21,Attività di servizi di intermediazione per il commercio al dettaglio specializzato di autoveicoli e motocicli di seconda mano,Sicurezza,0801-0850,SICURIX_TALES_0811_479221_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0812,47.92.22,Attività di servizi di intermediazione per il commercio al dettaglio specializzato di parti e accessori di autoveicoli e motocicli di seconda mano,Sicurezza,0801-0850,SICURIX_TALES_0812_479222_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0813,47.92.29,Attività di servizi di intermediazione per il commercio al dettaglio specializzato di altri articoli di seconda mano,Sicurezza,0801-0850,SICURIX_TALES_0813_479229_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0814,47.92.31,"Attività di servizi di intermediazione per il commercio al dettaglio specializzato di autoveicoli, esclusi articoli di seconda mano",Sicurezza,0801-0850,SICURIX_TALES_0814_479231_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0815,47.92.32,"Attività di servizi di intermediazione per il commercio al dettaglio specializzato di parti e accessori di autoveicoli, esclusi articoli di seconda mano",Sicurezza,0801-0850,SICURIX_TALES_0815_479232_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0816,47.92.33,"Attività di servizi di intermediazione per il commercio al dettaglio specializzato di motocicli, parti e accessori di motocicli, esclusi articoli di seconda mano",Sicurezza,0801-0850,SICURIX_TALES_0816_479233_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0817,47.92.34,"Attività di servizi di intermediazione per il commercio al dettaglio specializzato di elettrodomestici e altri articoli per la casa, esclusi articoli di seconda mano",Sicurezza,0801-0850,SICURIX_TALES_0817_479234_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0818,47.92.35,"Attività di servizi di intermediazione per il commercio al dettaglio specializzato di prodotti tessili, articoli di abbigliamento e calzature, esclusi articoli di seconda mano",Sicurezza,0801-0850,SICURIX_TALES_0818_479235_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0819,47.92.36,"Attività di servizi di intermediazione per il commercio al dettaglio specializzato di cosmetici e di articoli di profumeria, esclusi articoli di seconda mano",Sicurezza,0801-0850,SICURIX_TALES_0819_479236_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0820,47.92.39,Attività di servizi di intermediazione per il commercio al dettaglio specializzato di prodotti nuovi n.c.a.,Sicurezza,0801-0850,SICURIX_TALES_0820_479239_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+0821,49.11.00,Trasporto di passeggeri su ferrovia pesante,Sicurezza,0801-0850,SICURIX_TALES_0821_491100_trasporto_di_passeggeri_su_ferrovia_pesa_SICUREZZA_v1.png,BRIEF_PRONTO
+0822,49.12.00,Altri trasporti ferroviari di passeggeri,Sicurezza,0801-0850,SICURIX_TALES_0822_491200_altri_trasporti_ferroviari_di_passeggeri_SICUREZZA_v1.png,BRIEF_PRONTO
+0823,49.20.00,Trasporto ferroviario di merci,Sicurezza,0801-0850,SICURIX_TALES_0823_492000_trasporto_ferroviario_di_merci_SICUREZZA_v1.png,BRIEF_PRONTO
+0824,49.31.01,Trasporto di linea di passeggeri su strada specializzato per visite turistiche,Sicurezza,0801-0850,SICURIX_TALES_0824_493101_trasporto_di_linea_di_passeggeri_su_stra_SICUREZZA_v1.png,BRIEF_PRONTO
+0825,49.31.02,Altri trasporti di linea di passeggeri su strada,Sicurezza,0801-0850,SICURIX_TALES_0825_493102_altri_trasporti_di_linea_di_passeggeri_s_SICUREZZA_v1.png,BRIEF_PRONTO
+0826,49.32.01,Trasporto non di linea di passeggeri su strada specializzato per visite turistiche,Sicurezza,0801-0850,SICURIX_TALES_0826_493201_trasporto_non_di_linea_di_passeggeri_su__SICUREZZA_v1.png,BRIEF_PRONTO
+0827,49.32.02,Altri trasporti non di linea di passeggeri su strada,Sicurezza,0801-0850,SICURIX_TALES_0827_493202_altri_trasporti_non_di_linea_di_passegge_SICUREZZA_v1.png,BRIEF_PRONTO
+0828,49.33.10,Trasporto su taxi,Sicurezza,0801-0850,SICURIX_TALES_0828_493310_trasporto_su_taxi_SICUREZZA_v1.png,BRIEF_PRONTO
+0829,49.33.20,Trasporto su veicoli a noleggio con conducente,Sicurezza,0801-0850,SICURIX_TALES_0829_493320_trasporto_su_veicoli_a_noleggio_con_cond_SICUREZZA_v1.png,BRIEF_PRONTO
+0830,49.34.00,Trasporto di passeggeri mediante funivie e sciovie,Sicurezza,0801-0850,SICURIX_TALES_0830_493400_trasporto_di_passeggeri_mediante_funivie_SICUREZZA_v1.png,BRIEF_PRONTO
+0831,49.39.00,Altri trasporti terrestri di passeggeri n.c.a.,Sicurezza,0801-0850,SICURIX_TALES_0831_493900_altri_trasporti_terrestri_di_passeggeri__SICUREZZA_v1.png,BRIEF_PRONTO
+0832,49.41.00,Trasporto di merci su strada,Sicurezza,0801-0850,SICURIX_TALES_0832_494100_trasporto_di_merci_su_strada_SICUREZZA_v1.png,BRIEF_PRONTO
+0833,49.42.00,Servizi di trasloco,Sicurezza,0801-0850,SICURIX_TALES_0833_494200_servizi_di_trasloco_SICUREZZA_v1.png,BRIEF_PRONTO
+0834,49.50.10,Trasporto mediante condotte di gas,Sicurezza,0801-0850,SICURIX_TALES_0834_495010_trasporto_mediante_condotte_di_gas_SICUREZZA_v1.png,BRIEF_PRONTO
+0835,49.50.20,Trasporto mediante condotte di liquidi,Sicurezza,0801-0850,SICURIX_TALES_0835_495020_trasporto_mediante_condotte_di_liquidi_SICUREZZA_v1.png,BRIEF_PRONTO
+0836,50.10.00,Trasporto marittimo e costiero di passeggeri,Sicurezza,0801-0850,SICURIX_TALES_0836_501000_trasporto_marittimo_e_costiero_di_passeg_SICUREZZA_v1.png,BRIEF_PRONTO
+0837,50.20.00,Trasporto marittimo e costiero di merci,Sicurezza,0801-0850,SICURIX_TALES_0837_502000_trasporto_marittimo_e_costiero_di_merci_SICUREZZA_v1.png,BRIEF_PRONTO
+0838,50.30.00,Trasporto per vie d'acqua interne di passeggeri,Sicurezza,0801-0850,SICURIX_TALES_0838_503000_trasporto_per_vie_d_acqua_interne_di_pas_SICUREZZA_v1.png,BRIEF_PRONTO
+0839,50.40.00,Trasporto per vie d'acqua interne di merci,Sicurezza,0801-0850,SICURIX_TALES_0839_504000_trasporto_per_vie_d_acqua_interne_di_mer_SICUREZZA_v1.png,BRIEF_PRONTO
+0840,51.10.10,Trasporto aereo di linea di passeggeri,Sicurezza,0801-0850,SICURIX_TALES_0840_511010_trasporto_aereo_di_linea_di_passeggeri_SICUREZZA_v1.png,BRIEF_PRONTO
+0841,51.10.20,Trasporto aereo non di linea di passeggeri,Sicurezza,0801-0850,SICURIX_TALES_0841_511020_trasporto_aereo_non_di_linea_di_passegge_SICUREZZA_v1.png,BRIEF_PRONTO
+0842,51.21.00,Trasporto aereo di merci,Sicurezza,0801-0850,SICURIX_TALES_0842_512100_trasporto_aereo_di_merci_SICUREZZA_v1.png,BRIEF_PRONTO
+0843,51.22.00,Trasporto spaziale,Sicurezza,0801-0850,SICURIX_TALES_0843_512200_trasporto_spaziale_SICUREZZA_v1.png,BRIEF_PRONTO
+0844,52.10.10,Magazzinaggio e deposito non refrigerato,Sicurezza,0801-0850,SICURIX_TALES_0844_521010_magazzinaggio_e_deposito_non_refrigerato_SICUREZZA_v1.png,BRIEF_PRONTO
+0845,52.10.20,Magazzinaggio e deposito refrigerato,Sicurezza,0801-0850,SICURIX_TALES_0845_521020_magazzinaggio_e_deposito_refrigerato_SICUREZZA_v1.png,BRIEF_PRONTO
+0846,52.21.10,Gestione di infrastrutture ferroviarie,Sicurezza,0801-0850,SICURIX_TALES_0846_522110_gestione_di_infrastrutture_ferroviarie_SICUREZZA_v1.png,BRIEF_PRONTO
+0847,52.21.20,Gestione e manutenzione di strade,Sicurezza,0801-0850,SICURIX_TALES_0847_522120_gestione_e_manutenzione_di_strade_SICUREZZA_v1.png,BRIEF_PRONTO
+0848,52.21.30,Gestione di stazioni per autobus,Sicurezza,0801-0850,SICURIX_TALES_0848_522130_gestione_di_stazioni_per_autobus_SICUREZZA_v1.png,BRIEF_PRONTO
+0849,52.21.40,Gestione di centri di movimentazione merci,Sicurezza,0801-0850,SICURIX_TALES_0849_522140_gestione_di_centri_di_movimentazione_mer_SICUREZZA_v1.png,BRIEF_PRONTO
+0850,52.21.50,Gestione di parcheggi e autorimesse,Sicurezza,0801-0850,SICURIX_TALES_0850_522150_gestione_di_parcheggi_e_autorimesse_SICUREZZA_v1.png,BRIEF_PRONTO
