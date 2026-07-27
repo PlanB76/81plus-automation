@@ -999,3 +999,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 0998,71.20.19,Altri collaudi e analisi tecniche di prodotti,Misto,0951-1000,SICURIX_TALES_0998_712019_altri_collaudi_e_analisi_tecniche_di_pro_MISTO_v1.png,BRIEF_PRONTO
 0999,71.20.21,Attività di riconoscimento dell'origine dei prodotti,Misto,0951-1000,SICURIX_TALES_0999_712021_attivit_di_riconoscimento_dell_origine_d_MISTO_v1.png,BRIEF_PRONTO
 1000,71.20.22,Revisione periodica a norma di legge dell'idoneità alla circolazione di autoveicoli e motocicli,Misto,0951-1000,SICURIX_TALES_1000_712022_revisione_periodica_a_norma_di_legge_del_MISTO_v1.png,BRIEF_PRONTO
+1001,71.20.29,Altre attività di controllo di qualità e certificazione di prodotti,Misto,1001-1050,SICURIX_TALES_1001_712029_altre_attivit_di_controllo_di_qualit_e_c_MISTO_v1.png,BRIEF_PRONTO
+1002,72.10.10,Ricerca e sviluppo sperimentale nel campo delle biotecnologie,Misto,1001-1050,SICURIX_TALES_1002_721010_ricerca_e_sviluppo_sperimentale_nel_camp_MISTO_v1.png,BRIEF_PRONTO
+1003,72.10.21,Ricerca e sviluppo sperimentale nel campo della geologia,Misto,1001-1050,SICURIX_TALES_1003_721021_ricerca_e_sviluppo_sperimentale_nel_camp_MISTO_v1.png,BRIEF_PRONTO
+1004,72.10.22,Ricerca e sviluppo sperimentale nel campo della diagnostica per la conservazione dei beni culturali,Misto,1001-1050,SICURIX_TALES_1004_721022_ricerca_e_sviluppo_sperimentale_nel_camp_MISTO_v1.png,BRIEF_PRONTO
+1005,72.10.29,Ricerca e sviluppo sperimentale nel campo delle altre scienze naturali e dell'ingegneria n.c.a.,Misto,1001-1050,SICURIX_TALES_1005_721029_ricerca_e_sviluppo_sperimentale_nel_camp_MISTO_v1.png,BRIEF_PRONTO
+1006,72.20.01,Ricerca e sviluppo sperimentale nel campo dell'archeologia,Misto,1001-1050,SICURIX_TALES_1006_722001_ricerca_e_sviluppo_sperimentale_nel_camp_MISTO_v1.png,BRIEF_PRONTO
+1007,72.20.09,Ricerca e sviluppo sperimentale nel campo delle altre scienze sociali e umanistiche,Misto,1001-1050,SICURIX_TALES_1007_722009_ricerca_e_sviluppo_sperimentale_nel_camp_MISTO_v1.png,BRIEF_PRONTO
+1008,73.11.01,Ideazione di campagne pubblicitarie,Privacy,1001-1050,SICURIX_TALES_1008_731101_ideazione_di_campagne_pubblicitarie_PRIVACY_v1.png,BRIEF_PRONTO
+1009,73.11.02,Conduzione di campagne di marketing e altri servizi pubblicitari,Privacy,1001-1050,SICURIX_TALES_1009_731102_conduzione_di_campagne_di_marketing_e_al_PRIVACY_v1.png,BRIEF_PRONTO
+1010,73.11.03,Attività di influencer marketing,Privacy,1001-1050,SICURIX_TALES_1010_731103_attivit_di_influencer_marketing_PRIVACY_v1.png,BRIEF_PRONTO
+1011,73.12.00,Attività di concessionarie pubblicitarie,Privacy,1001-1050,SICURIX_TALES_1011_731200_attivit_di_concessionarie_pubblicitarie_PRIVACY_v1.png,BRIEF_PRONTO
+1012,73.20.00,Ricerche di mercato e sondaggi di opinione,Misto,1001-1050,SICURIX_TALES_1012_732000_ricerche_di_mercato_e_sondaggi_di_opinio_MISTO_v1.png,BRIEF_PRONTO
+1013,73.30.01,Attività di rappresentanza di interessi,Misto,1001-1050,SICURIX_TALES_1013_733001_attivit_di_rappresentanza_di_interessi_MISTO_v1.png,BRIEF_PRONTO
+1014,73.30.02,Attività di informazione scientifica inerente prodotti farmaceutici e articoli medicali per scopi promozionali,Privacy,1001-1050,SICURIX_TALES_1014_733002_attivit_di_informazione_scientifica_iner_PRIVACY_v1.png,BRIEF_PRONTO
+1015,73.30.03,Attività di promozione di altri prodotti,Misto,1001-1050,SICURIX_TALES_1015_733003_attivit_di_promozione_di_altri_prodotti_MISTO_v1.png,BRIEF_PRONTO
+1016,73.30.09,Pubbliche relazioni e comunicazione n.c.a.,Misto,1001-1050,SICURIX_TALES_1016_733009_pubbliche_relazioni_e_comunicazione_n_c__MISTO_v1.png,BRIEF_PRONTO
+1017,74.11.10,Attività di progettazione di prodotti industriali,Misto,1001-1050,SICURIX_TALES_1017_741110_attivit_di_progettazione_di_prodotti_ind_MISTO_v1.png,BRIEF_PRONTO
+1018,74.11.20,Attività di progettazione di moda,Misto,1001-1050,SICURIX_TALES_1018_741120_attivit_di_progettazione_di_moda_MISTO_v1.png,BRIEF_PRONTO
+1019,74.12.01,Grafica di pagine web,Misto,1001-1050,SICURIX_TALES_1019_741201_grafica_di_pagine_web_MISTO_v1.png,BRIEF_PRONTO
+1020,74.12.09,Altre attività di progettazione grafica e di comunicazione visiva,Misto,1001-1050,SICURIX_TALES_1020_741209_altre_attivit_di_progettazione_grafica_e_MISTO_v1.png,BRIEF_PRONTO
+1021,74.13.00,Attività di progettazione di interni,Misto,1001-1050,SICURIX_TALES_1021_741300_attivit_di_progettazione_di_interni_MISTO_v1.png,BRIEF_PRONTO
+1022,74.14.01,Attività di progettazione specializzata fornite da disegnatori tecnici,Misto,1001-1050,SICURIX_TALES_1022_741401_attivit_di_progettazione_specializzata_f_MISTO_v1.png,BRIEF_PRONTO
+1023,74.14.09,Altre attività di progettazione specializzata n.c.a.,Misto,1001-1050,SICURIX_TALES_1023_741409_altre_attivit_di_progettazione_specializ_MISTO_v1.png,BRIEF_PRONTO
+1024,74.20.11,Attività fotografiche fornite da fotoreporter,Misto,1001-1050,SICURIX_TALES_1024_742011_attivit_fotografiche_fornite_da_fotorepo_MISTO_v1.png,BRIEF_PRONTO
+1025,74.20.12,Attività fotografiche aeree e subacquee,Misto,1001-1050,SICURIX_TALES_1025_742012_attivit_fotografiche_aeree_e_subacquee_MISTO_v1.png,BRIEF_PRONTO
+1026,74.20.19,Altre attività fotografiche specializzate,Misto,1001-1050,SICURIX_TALES_1026_742019_altre_attivit_fotografiche_specializzate_MISTO_v1.png,BRIEF_PRONTO
+1027,74.20.20,Attività di sviluppo e stampa e altre attività fotografiche,Misto,1001-1050,SICURIX_TALES_1027_742020_attivit_di_sviluppo_e_stampa_e_altre_att_MISTO_v1.png,BRIEF_PRONTO
+1028,74.30.00,Attività di traduzione e interpretariato,Misto,1001-1050,SICURIX_TALES_1028_743000_attivit_di_traduzione_e_interpretariato_MISTO_v1.png,BRIEF_PRONTO
+1029,74.91.00,Attività di servizi di intermediazione e marketing di brevetti,Privacy,1001-1050,SICURIX_TALES_1029_749100_attivit_di_servizi_di_intermediazione_e__PRIVACY_v1.png,BRIEF_PRONTO
+1030,74.99.11,Attività di consulenza agraria fornite da agronomi,Privacy,1001-1050,SICURIX_TALES_1030_749911_attivit_di_consulenza_agraria_fornite_da_PRIVACY_v1.png,BRIEF_PRONTO
+1031,74.99.12,Attività di consulenza agraria fornite da agrotecnici,Privacy,1001-1050,SICURIX_TALES_1031_749912_attivit_di_consulenza_agraria_fornite_da_PRIVACY_v1.png,BRIEF_PRONTO
+1032,74.99.13,Attività di consulenza agraria fornite da periti agrari,Privacy,1001-1050,SICURIX_TALES_1032_749913_attivit_di_consulenza_agraria_fornite_da_PRIVACY_v1.png,BRIEF_PRONTO
+1033,74.99.14,Attività di consulenza agraria fornite da altri economisti specializzati in agricoltura,Privacy,1001-1050,SICURIX_TALES_1033_749914_attivit_di_consulenza_agraria_fornite_da_PRIVACY_v1.png,BRIEF_PRONTO
+1034,74.99.15,Attività di consulenza agraria viticolo enologica fornite da enologi,Privacy,1001-1050,SICURIX_TALES_1034_749915_attivit_di_consulenza_agraria_viticolo_e_PRIVACY_v1.png,BRIEF_PRONTO
+1035,74.99.16,Attività di consulenza agraria viticolo enologica fornite da enotecnici,Privacy,1001-1050,SICURIX_TALES_1035_749916_attivit_di_consulenza_agraria_viticolo_e_PRIVACY_v1.png,BRIEF_PRONTO
+1036,74.99.19,Altre attività di consulenza agraria n.c.a.,Privacy,1001-1050,SICURIX_TALES_1036_749919_altre_attivit_di_consulenza_agraria_n_c__PRIVACY_v1.png,BRIEF_PRONTO
+1037,74.99.21,Attività di consulenza in materia di sicurezza e salute dei posti di lavoro,Privacy,1001-1050,SICURIX_TALES_1037_749921_attivit_di_consulenza_in_materia_di_sicu_PRIVACY_v1.png,BRIEF_PRONTO
+1038,74.99.29,Altre attività di consulenza in materia di sicurezza,Privacy,1001-1050,SICURIX_TALES_1038_749929_altre_attivit_di_consulenza_in_materia_d_PRIVACY_v1.png,BRIEF_PRONTO
+1039,74.99.31,Attività di consulenza in materia di prevenzione e riduzione dell'inquinamento e di gestione dei rifiuti,Privacy,1001-1050,SICURIX_TALES_1039_749931_attivit_di_consulenza_in_materia_di_prev_PRIVACY_v1.png,BRIEF_PRONTO
+1040,74.99.32,"Attività di consulenza in materia di gestione delle risorse energetiche, energie rinnovabili ed efficienza energetica",Privacy,1001-1050,SICURIX_TALES_1040_749932_attivit_di_consulenza_in_materia_di_gest_PRIVACY_v1.png,BRIEF_PRONTO
+1041,74.99.33,"Attività di consulenza in materia di gestione delle risorse idriche, minerali e altre risorse naturali per usi differenti da quelli energetici",Privacy,1001-1050,SICURIX_TALES_1041_749933_attivit_di_consulenza_in_materia_di_gest_PRIVACY_v1.png,BRIEF_PRONTO
+1042,74.99.41,Attività di consulenza fornite da enotecari e sommelier,Privacy,1001-1050,SICURIX_TALES_1042_749941_attivit_di_consulenza_fornite_da_enoteca_PRIVACY_v1.png,BRIEF_PRONTO
+1043,74.99.42,Attività di consulenza in gastronomia,Privacy,1001-1050,SICURIX_TALES_1043_749942_attivit_di_consulenza_in_gastronomia_PRIVACY_v1.png,BRIEF_PRONTO
+1044,74.99.91,Attività tecniche svolte da periti industriali,Misto,1001-1050,SICURIX_TALES_1044_749991_attivit_tecniche_svolte_da_periti_indust_MISTO_v1.png,BRIEF_PRONTO
+1045,74.99.92,Attività di previsione meteorologica,Misto,1001-1050,SICURIX_TALES_1045_749992_attivit_di_previsione_meteorologica_MISTO_v1.png,BRIEF_PRONTO
+1046,74.99.93,"Attività di agenzie, agenti e procuratori per lo spettacolo e lo sport",Misto,1001-1050,SICURIX_TALES_1046_749993_attivit_di_agenzie_agenti_e_procuratori__MISTO_v1.png,BRIEF_PRONTO
+1047,74.99.94,Attività di consulenza tecnica in ambito grafologico,Privacy,1001-1050,SICURIX_TALES_1047_749994_attivit_di_consulenza_tecnica_in_ambito__PRIVACY_v1.png,BRIEF_PRONTO
+1048,74.99.99,"Tutte le altre attività varie professionali, scientifiche e tecniche n.c.a.",Misto,1001-1050,SICURIX_TALES_1048_749999_tutte_le_altre_attivit_varie_professiona_MISTO_v1.png,BRIEF_PRONTO
+1049,75.00.00,Servizi veterinari,Misto,1001-1050,SICURIX_TALES_1049_750000_servizi_veterinari_MISTO_v1.png,BRIEF_PRONTO
+1050,77.11.00,Noleggio e leasing operativo di automobili e autoveicoli leggeri,Misto,1001-1050,SICURIX_TALES_1050_771100_noleggio_e_leasing_operativo_di_automobi_MISTO_v1.png,BRIEF_PRONTO
