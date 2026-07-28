@@ -1,0 +1,2900 @@
+[
+ {
+  "pagina": "1051",
+  "codice_ateco": "77.12.00",
+  "descrizione_ateco": "Noleggio e leasing operativo di autocarri",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.1",
+  "classe": "77.12",
+  "categoria": "77.12.0",
+  "sottocategoria": "77.12.00",
+  "titolo_fumetto": "Noleggio e leasing operativo di autocarri — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Noleggio e leasing operativo di autocarri",
+  "cattivi": [
+   "Caosix",
+   "Segnalex",
+   "Phishix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Noleggio e leasing operativo di autocarri"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di autocarri'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di autocarri. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Caosix, Segnalex, Phishix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di autocarri. Scena: 1) problema 2) entra Caosix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di autocarri: Caosix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di autocarri — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Caosix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1051_771200_noleggio_e_leasing_operativo_di_autocarr_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1052",
+  "codice_ateco": "77.21.01",
+  "descrizione_ateco": "Noleggio e leasing operativo di biciclette",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.2",
+  "classe": "77.21",
+  "categoria": "77.21.0",
+  "sottocategoria": "77.21.01",
+  "titolo_fumetto": "Noleggio e leasing operativo di biciclette — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Noleggio e leasing operativo di biciclette",
+  "cattivi": [
+   "Segnalex",
+   "Riskix",
+   "Spyix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Noleggio e leasing operativo di biciclette"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di biciclette'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di biciclette. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Riskix, Spyix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di biciclette. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di biciclette: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di biciclette — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1052_772101_noleggio_e_leasing_operativo_di_biciclet_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1053",
+  "codice_ateco": "77.21.02",
+  "descrizione_ateco": "Noleggio e leasing operativo di imbarcazioni da diporto senza operatore",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.2",
+  "classe": "77.21",
+  "categoria": "77.21.0",
+  "sottocategoria": "77.21.02",
+  "titolo_fumetto": "Noleggio e leasing operativo di imbarcazioni — Pericolo vs Metodo81+",
+  "area": "HACCP",
+  "ambientazione": "Noleggio e leasing operativo di imbarcazioni da diporto senza operator",
+  "cattivi": [
+   "Scadutix",
+   "Mescolix"
+  ],
+  "eroi": [
+   "Blinkix",
+   "Chefix"
+  ],
+  "rischi": [
+   "Rischio HACCP prevalente per: Noleggio e leasing operativo di imbarcazioni da diporto senza operator"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di imbarcazioni da di'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di imbarcazioni da diporto senza operator. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Scadutix, Mescolix, gli eroi Blinkix, Chefix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di imbarcazioni da diporto senza operator. Scena: 1) problema 2) entra Scadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Blinkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di imbarcazioni da diporto senza operator: Scadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Blinkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di imbarcazioni da diporto senz — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Scadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #HACCP #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1053_772102_noleggio_e_leasing_operativo_di_imbarcaz_HACCP_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1054",
+  "codice_ateco": "77.21.09",
+  "descrizione_ateco": "Noleggio e leasing operativo di altre attrezzature e articoli sportivi e ricreativi",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.2",
+  "classe": "77.21",
+  "categoria": "77.21.0",
+  "sottocategoria": "77.21.09",
+  "titolo_fumetto": "Noleggio e leasing operativo di altre attrez — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Noleggio e leasing operativo di altre attrezzature e articoli sportivi",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix",
+   "Permissionix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Noleggio e leasing operativo di altre attrezzature e articoli sportivi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di altre attrezzature'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di altre attrezzature e articoli sportivi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, Permissionix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di altre attrezzature e articoli sportivi. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di altre attrezzature e articoli sportivi: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di altre attrezzature e articol — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1054_772109_noleggio_e_leasing_operativo_di_altre_at_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1055",
+  "codice_ateco": "77.22.10",
+  "descrizione_ateco": "Noleggio e leasing operativo di tessili, articoli di abbigliamento e calzature",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.2",
+  "classe": "77.22",
+  "categoria": "77.22.1",
+  "sottocategoria": "77.22.10",
+  "titolo_fumetto": "Noleggio e leasing operativo di tessili, art — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Noleggio e leasing operativo di tessili, articoli di abbigliamento e c",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix",
+   "Cancelix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Noleggio e leasing operativo di tessili, articoli di abbigliamento e c"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di tessili, articoli '. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di tessili, articoli di abbigliamento e c. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, Cancelix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di tessili, articoli di abbigliamento e c. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di tessili, articoli di abbigliamento e c: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di tessili, articoli di abbigli — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1055_772210_noleggio_e_leasing_operativo_di_tessili__MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1056",
+  "codice_ateco": "77.22.90",
+  "descrizione_ateco": "Noleggio e leasing operativo di altri beni per uso personale e per la casa n.c.a.",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.2",
+  "classe": "77.22",
+  "categoria": "77.22.9",
+  "sottocategoria": "77.22.90",
+  "titolo_fumetto": "Noleggio e leasing operativo di altri beni p — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Noleggio e leasing operativo di altri beni per uso personale e per la ",
+  "cattivi": [
+   "Voltix",
+   "Fumix",
+   "Leakix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Noleggio e leasing operativo di altri beni per uso personale e per la "
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di altri beni per uso'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di altri beni per uso personale e per la . Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, Leakix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di altri beni per uso personale e per la . Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di altri beni per uso personale e per la : Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di altri beni per uso personale — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1056_772290_noleggio_e_leasing_operativo_di_altri_be_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1057",
+  "codice_ateco": "77.31.00",
+  "descrizione_ateco": "Noleggio e leasing operativo di macchine e attrezzature agricole",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.3",
+  "classe": "77.31",
+  "categoria": "77.31.0",
+  "sottocategoria": "77.31.00",
+  "titolo_fumetto": "Noleggio e leasing operativo di macchine e a — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Noleggio e leasing operativo di macchine e attrezzature agricole",
+  "cattivi": [
+   "Fumix",
+   "Polverix",
+   "Phishix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Noleggio e leasing operativo di macchine e attrezzature agricole"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di macchine e attrezz'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di macchine e attrezzature agricole. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Fumix, Polverix, Phishix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di macchine e attrezzature agricole. Scena: 1) problema 2) entra Fumix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di macchine e attrezzature agricole: Fumix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di macchine e attrezzature agri — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Fumix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1057_773100_noleggio_e_leasing_operativo_di_macchine_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1058",
+  "codice_ateco": "77.32.00",
+  "descrizione_ateco": "Noleggio e leasing operativo di macchine e attrezzature per lavori edili e di ingegneria civile",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.3",
+  "classe": "77.32",
+  "categoria": "77.32.0",
+  "sottocategoria": "77.32.00",
+  "titolo_fumetto": "Noleggio e leasing operativo di macchine e a — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Noleggio e leasing operativo di macchine e attrezzature per lavori edi",
+  "cattivi": [
+   "Polverix",
+   "Nondpix",
+   "Spyix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Noleggio e leasing operativo di macchine e attrezzature per lavori edi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di macchine e attrezz'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di macchine e attrezzature per lavori edi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, Spyix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di macchine e attrezzature per lavori edi. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di macchine e attrezzature per lavori edi: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di macchine e attrezzature per  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1058_773200_noleggio_e_leasing_operativo_di_macchine_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1059",
+  "codice_ateco": "77.33.00",
+  "descrizione_ateco": "Noleggio e leasing operativo di macchine, attrezzature e computer per ufficio",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.3",
+  "classe": "77.33",
+  "categoria": "77.33.0",
+  "sottocategoria": "77.33.00",
+  "titolo_fumetto": "Noleggio e leasing operativo di macchine, at — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Noleggio e leasing operativo di macchine, attrezzature e computer per ",
+  "cattivi": [
+   "Nondpix",
+   "Segnalex",
+   "Hackix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Noleggio e leasing operativo di macchine, attrezzature e computer per "
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di macchine, attrezza'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di macchine, attrezzature e computer per . Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Nondpix, Segnalex, Hackix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di macchine, attrezzature e computer per . Scena: 1) problema 2) entra Nondpix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di macchine, attrezzature e computer per : Nondpix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di macchine, attrezzature e com — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Nondpix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1059_773300_noleggio_e_leasing_operativo_di_macchine_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1060",
+  "codice_ateco": "77.34.00",
+  "descrizione_ateco": "Noleggio e leasing operativo di mezzi di trasporto marittimi, fluviali e lacustri",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.3",
+  "classe": "77.34",
+  "categoria": "77.34.0",
+  "sottocategoria": "77.34.00",
+  "titolo_fumetto": "Noleggio e leasing operativo di mezzi di tra — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Noleggio e leasing operativo di mezzi di trasporto marittimi, fluviali",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix",
+   "Permissionix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Noleggio e leasing operativo di mezzi di trasporto marittimi, fluviali"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di mezzi di trasporto'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di mezzi di trasporto marittimi, fluviali. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, Permissionix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di mezzi di trasporto marittimi, fluviali. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di mezzi di trasporto marittimi, fluviali: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di mezzi di trasporto marittimi — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1060_773400_noleggio_e_leasing_operativo_di_mezzi_di_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1061",
+  "codice_ateco": "77.35.00",
+  "descrizione_ateco": "Noleggio e leasing operativo di mezzi di trasporto aereo",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.3",
+  "classe": "77.35",
+  "categoria": "77.35.0",
+  "sottocategoria": "77.35.00",
+  "titolo_fumetto": "Noleggio e leasing operativo di mezzi di tra — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Noleggio e leasing operativo di mezzi di trasporto aereo",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix",
+   "Cancelix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Noleggio e leasing operativo di mezzi di trasporto aereo"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di mezzi di trasporto'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di mezzi di trasporto aereo. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, Cancelix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di mezzi di trasporto aereo. Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di mezzi di trasporto aereo: Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di mezzi di trasporto aereo — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1061_773500_noleggio_e_leasing_operativo_di_mezzi_di_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1062",
+  "codice_ateco": "77.39.10",
+  "descrizione_ateco": "Noleggio e leasing operativo di altri mezzi di trasporto terrestre",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.3",
+  "classe": "77.39",
+  "categoria": "77.39.1",
+  "sottocategoria": "77.39.10",
+  "titolo_fumetto": "Noleggio e leasing operativo di altri mezzi  — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Noleggio e leasing operativo di altri mezzi di trasporto terrestre",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix",
+   "Leakix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Noleggio e leasing operativo di altri mezzi di trasporto terrestre"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di altri mezzi di tra'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di altri mezzi di trasporto terrestre. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, Leakix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di altri mezzi di trasporto terrestre. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di altri mezzi di trasporto terrestre: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di altri mezzi di trasporto ter — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1062_773910_noleggio_e_leasing_operativo_di_altri_me_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1063",
+  "codice_ateco": "77.39.91",
+  "descrizione_ateco": "Noleggio e leasing operativo di apparecchi di sollevamento e movimentazione merci",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.3",
+  "classe": "77.39",
+  "categoria": "77.39.9",
+  "sottocategoria": "77.39.91",
+  "titolo_fumetto": "Noleggio e leasing operativo di apparecchi d — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Noleggio e leasing operativo di apparecchi di sollevamento e movimenta",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix",
+   "Phishix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Noleggio e leasing operativo di apparecchi di sollevamento e movimenta"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di apparecchi di soll'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di apparecchi di sollevamento e movimenta. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, Phishix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di apparecchi di sollevamento e movimenta. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di apparecchi di sollevamento e movimenta: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di apparecchi di sollevamento e — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1063_773991_noleggio_e_leasing_operativo_di_apparecc_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1064",
+  "codice_ateco": "77.39.92",
+  "descrizione_ateco": "Noleggio e leasing operativo di strutture e attrezzature per manifestazioni e spettacoli",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.3",
+  "classe": "77.39",
+  "categoria": "77.39.9",
+  "sottocategoria": "77.39.92",
+  "titolo_fumetto": "Noleggio e leasing operativo di strutture e  — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Noleggio e leasing operativo di strutture e attrezzature per manifesta",
+  "cattivi": [
+   "Caosix",
+   "Segnalex",
+   "Spyix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Noleggio e leasing operativo di strutture e attrezzature per manifesta"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di strutture e attrez'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di strutture e attrezzature per manifesta. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Caosix, Segnalex, Spyix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di strutture e attrezzature per manifesta. Scena: 1) problema 2) entra Caosix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di strutture e attrezzature per manifesta: Caosix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di strutture e attrezzature per — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Caosix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1064_773992_noleggio_e_leasing_operativo_di_struttur_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1065",
+  "codice_ateco": "77.39.99",
+  "descrizione_ateco": "Noleggio e leasing operativo di altre macchine, attrezzature e beni materiali vari n.c.a.",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.3",
+  "classe": "77.39",
+  "categoria": "77.39.9",
+  "sottocategoria": "77.39.99",
+  "titolo_fumetto": "Noleggio e leasing operativo di altre macchi — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Noleggio e leasing operativo di altre macchine, attrezzature e beni ma",
+  "cattivi": [
+   "Segnalex",
+   "Riskix",
+   "Hackix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Noleggio e leasing operativo di altre macchine, attrezzature e beni ma"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Noleggio e leasing operativo di altre macchine, at'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Noleggio e leasing operativo di altre macchine, attrezzature e beni ma. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Riskix, Hackix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Noleggio e leasing operativo di altre macchine, attrezzature e beni ma. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Noleggio e leasing operativo di altre macchine, attrezzature e beni ma: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Noleggio e leasing operativo di altre macchine, attrezzature — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1065_773999_noleggio_e_leasing_operativo_di_altre_ma_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1066",
+  "codice_ateco": "77.40.00",
+  "descrizione_ateco": "Concessione dei diritti di sfruttamento di proprietà intellettuale, escluse le opere soggette a diritto d'autore",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.4",
+  "classe": "77.40",
+  "categoria": "77.40.0",
+  "sottocategoria": "77.40.00",
+  "titolo_fumetto": "Concessione dei diritti di sfruttamento di p — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Concessione dei diritti di sfruttamento di proprietà intellettuale, es",
+  "cattivi": [
+   "Riskix",
+   "Cadutix",
+   "Permissionix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Concessione dei diritti di sfruttamento di proprietà intellettuale, es"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Concessione dei diritti di sfruttamento di proprie'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Concessione dei diritti di sfruttamento di proprietà intellettuale, es. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Riskix, Cadutix, Permissionix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Concessione dei diritti di sfruttamento di proprietà intellettuale, es. Scena: 1) problema 2) entra Riskix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Concessione dei diritti di sfruttamento di proprietà intellettuale, es: Riskix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Concessione dei diritti di sfruttamento di proprietà intelle — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Riskix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1066_774000_concessione_dei_diritti_di_sfruttamento__MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1067",
+  "codice_ateco": "77.51.00",
+  "descrizione_ateco": "Attività di servizi di intermediazione per il noleggio e il leasing operativo di automobili, autocaravan e rimorchi",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.5",
+  "classe": "77.51",
+  "categoria": "77.51.0",
+  "sottocategoria": "77.51.00",
+  "titolo_fumetto": "Attività di servizi di intermediazione per i — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di servizi di intermediazione per il noleggio e il leasing op",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix",
+   "Cancelix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di servizi di intermediazione per il noleggio e il leasing op"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di servizi di intermediazione per il nole'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di servizi di intermediazione per il noleggio e il leasing op. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, Cancelix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di servizi di intermediazione per il noleggio e il leasing op. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di servizi di intermediazione per il noleggio e il leasing op: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di servizi di intermediazione per il noleggio e il  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1067_775100_attivit_di_servizi_di_intermediazione_pe_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1068",
+  "codice_ateco": "77.52.00",
+  "descrizione_ateco": "Attività di servizi di intermediazione per il noleggio e il leasing operativo di altri beni materiali e beni immateriali non finanziari",
+  "sezione": "O PA",
+  "divisione": "77",
+  "gruppo": "77.5",
+  "classe": "77.52",
+  "categoria": "77.52.0",
+  "sottocategoria": "77.52.00",
+  "titolo_fumetto": "Attività di servizi di intermediazione per i — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di servizi di intermediazione per il noleggio e il leasing op",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix",
+   "Leakix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di servizi di intermediazione per il noleggio e il leasing op"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di servizi di intermediazione per il nole'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di servizi di intermediazione per il noleggio e il leasing op. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, Leakix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di servizi di intermediazione per il noleggio e il leasing op. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di servizi di intermediazione per il noleggio e il leasing op: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di servizi di intermediazione per il noleggio e il  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1068_775200_attivit_di_servizi_di_intermediazione_pe_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1069",
+  "codice_ateco": "78.10.00",
+  "descrizione_ateco": "Attività di agenzie di collocamento",
+  "sezione": "O PA",
+  "divisione": "78",
+  "gruppo": "78.1",
+  "classe": "78.10",
+  "categoria": "78.10.0",
+  "sottocategoria": "78.10.00",
+  "titolo_fumetto": "Attività di agenzie di collocamento — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di agenzie di collocamento",
+  "cattivi": [
+   "Voltix",
+   "Fumix",
+   "Phishix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di agenzie di collocamento"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di agenzie di collocamento'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di agenzie di collocamento. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, Phishix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di agenzie di collocamento. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di agenzie di collocamento: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di agenzie di collocamento — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1069_781000_attivit_di_agenzie_di_collocamento_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1070",
+  "codice_ateco": "78.20.00",
+  "descrizione_ateco": "Attività di agenzie di lavoro interinale e altre attività di fornitura di risorse umane",
+  "sezione": "O PA",
+  "divisione": "78",
+  "gruppo": "78.2",
+  "classe": "78.20",
+  "categoria": "78.20.0",
+  "sottocategoria": "78.20.00",
+  "titolo_fumetto": "Attività di agenzie di lavoro interinale e a — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di agenzie di lavoro interinale e altre attività di fornitura",
+  "cattivi": [
+   "Fumix",
+   "Polverix",
+   "Spyix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di agenzie di lavoro interinale e altre attività di fornitura"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di agenzie di lavoro interinale e altre a'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di agenzie di lavoro interinale e altre attività di fornitura. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Fumix, Polverix, Spyix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di agenzie di lavoro interinale e altre attività di fornitura. Scena: 1) problema 2) entra Fumix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di agenzie di lavoro interinale e altre attività di fornitura: Fumix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di agenzie di lavoro interinale e altre attività di — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Fumix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1070_782000_attivit_di_agenzie_di_lavoro_interinale__MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1071",
+  "codice_ateco": "79.11.00",
+  "descrizione_ateco": "Attività di agenzie di viaggio",
+  "sezione": "O PA",
+  "divisione": "79",
+  "gruppo": "79.1",
+  "classe": "79.11",
+  "categoria": "79.11.0",
+  "sottocategoria": "79.11.00",
+  "titolo_fumetto": "Attività di agenzie di viaggio — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di agenzie di viaggio",
+  "cattivi": [
+   "Polverix",
+   "Nondpix",
+   "Hackix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di agenzie di viaggio"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di agenzie di viaggio'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di agenzie di viaggio. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, Hackix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di agenzie di viaggio. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di agenzie di viaggio: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di agenzie di viaggio — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1071_791100_attivit_di_agenzie_di_viaggio_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1072",
+  "codice_ateco": "79.12.00",
+  "descrizione_ateco": "Attività di tour operator",
+  "sezione": "O PA",
+  "divisione": "79",
+  "gruppo": "79.1",
+  "classe": "79.12",
+  "categoria": "79.12.0",
+  "sottocategoria": "79.12.00",
+  "titolo_fumetto": "Attività di tour operator — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di tour operator",
+  "cattivi": [
+   "Nondpix",
+   "Segnalex",
+   "Permissionix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di tour operator"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di tour operator'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di tour operator. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Nondpix, Segnalex, Permissionix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di tour operator. Scena: 1) problema 2) entra Nondpix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di tour operator: Nondpix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di tour operator — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Nondpix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1072_791200_attivit_di_tour_operator_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1073",
+  "codice_ateco": "79.90.01",
+  "descrizione_ateco": "Servizi di guida turistica",
+  "sezione": "O PA",
+  "divisione": "79",
+  "gruppo": "79.9",
+  "classe": "79.90",
+  "categoria": "79.90.0",
+  "sottocategoria": "79.90.01",
+  "titolo_fumetto": "Servizi di guida turistica — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Servizi di guida turistica",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix",
+   "Cancelix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Servizi di guida turistica"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Servizi di guida turistica'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Servizi di guida turistica. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, Cancelix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Servizi di guida turistica. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Servizi di guida turistica: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Servizi di guida turistica — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1073_799001_servizi_di_guida_turistica_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1074",
+  "codice_ateco": "79.90.02",
+  "descrizione_ateco": "Servizi di accompagnamento in ambiente naturale",
+  "sezione": "O PA",
+  "divisione": "79",
+  "gruppo": "79.9",
+  "classe": "79.90",
+  "categoria": "79.90.0",
+  "sottocategoria": "79.90.02",
+  "titolo_fumetto": "Servizi di accompagnamento in ambiente natur — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Servizi di accompagnamento in ambiente naturale",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix",
+   "Leakix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Servizi di accompagnamento in ambiente naturale"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Servizi di accompagnamento in ambiente naturale'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Servizi di accompagnamento in ambiente naturale. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, Leakix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Servizi di accompagnamento in ambiente naturale. Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Servizi di accompagnamento in ambiente naturale: Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Servizi di accompagnamento in ambiente naturale — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1074_799002_servizi_di_accompagnamento_in_ambiente_n_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1075",
+  "codice_ateco": "79.90.03",
+  "descrizione_ateco": "Altri servizi di accompagnamento turistico",
+  "sezione": "O PA",
+  "divisione": "79",
+  "gruppo": "79.9",
+  "classe": "79.90",
+  "categoria": "79.90.0",
+  "sottocategoria": "79.90.03",
+  "titolo_fumetto": "Altri servizi di accompagnamento turistico — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Altri servizi di accompagnamento turistico",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix",
+   "Phishix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Altri servizi di accompagnamento turistico"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Altri servizi di accompagnamento turistico'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Altri servizi di accompagnamento turistico. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, Phishix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Altri servizi di accompagnamento turistico. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Altri servizi di accompagnamento turistico: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Altri servizi di accompagnamento turistico — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1075_799003_altri_servizi_di_accompagnamento_turisti_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1076",
+  "codice_ateco": "79.90.04",
+  "descrizione_ateco": "Altre attività di assistenza turistica",
+  "sezione": "O PA",
+  "divisione": "79",
+  "gruppo": "79.9",
+  "classe": "79.90",
+  "categoria": "79.90.0",
+  "sottocategoria": "79.90.04",
+  "titolo_fumetto": "Altre attività di assistenza turistica — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Altre attività di assistenza turistica",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix",
+   "Spyix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Altre attività di assistenza turistica"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Altre attività di assistenza turistica'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Altre attività di assistenza turistica. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, Spyix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Altre attività di assistenza turistica. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Altre attività di assistenza turistica: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Altre attività di assistenza turistica — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1076_799004_altre_attivit_di_assistenza_turistica_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1077",
+  "codice_ateco": "80.01.11",
+  "descrizione_ateco": "Attività di investigazione in ambito privato",
+  "sezione": "O PA",
+  "divisione": "80",
+  "gruppo": "80.0",
+  "classe": "80.01",
+  "categoria": "80.01.1",
+  "sottocategoria": "80.01.11",
+  "titolo_fumetto": "Attività di investigazione in ambito privato — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di investigazione in ambito privato",
+  "cattivi": [
+   "Caosix",
+   "Segnalex",
+   "Hackix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di investigazione in ambito privato"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di investigazione in ambito privato'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di investigazione in ambito privato. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Caosix, Segnalex, Hackix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di investigazione in ambito privato. Scena: 1) problema 2) entra Caosix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di investigazione in ambito privato: Caosix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di investigazione in ambito privato — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Caosix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1077_800111_attivit_di_investigazione_in_ambito_priv_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1078",
+  "codice_ateco": "80.01.12",
+  "descrizione_ateco": "Attività di investigazione in ambito aziendale e commerciale",
+  "sezione": "O PA",
+  "divisione": "80",
+  "gruppo": "80.0",
+  "classe": "80.01",
+  "categoria": "80.01.1",
+  "sottocategoria": "80.01.12",
+  "titolo_fumetto": "Attività di investigazione in ambito azienda — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di investigazione in ambito aziendale e commerciale",
+  "cattivi": [
+   "Segnalex",
+   "Riskix",
+   "Permissionix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di investigazione in ambito aziendale e commerciale"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di investigazione in ambito aziendale e c'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di investigazione in ambito aziendale e commerciale. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Riskix, Permissionix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di investigazione in ambito aziendale e commerciale. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di investigazione in ambito aziendale e commerciale: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di investigazione in ambito aziendale e commerciale — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1078_800112_attivit_di_investigazione_in_ambito_azie_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1079",
+  "codice_ateco": "80.01.13",
+  "descrizione_ateco": "Attività di investigazione in ambito assicurativo",
+  "sezione": "O PA",
+  "divisione": "80",
+  "gruppo": "80.0",
+  "classe": "80.01",
+  "categoria": "80.01.1",
+  "sottocategoria": "80.01.13",
+  "titolo_fumetto": "Attività di investigazione in ambito assicur — Pericolo vs Metodo81+",
+  "area": "Privacy",
+  "ambientazione": "Attività di investigazione in ambito assicurativo",
+  "cattivi": [
+   "Cancelix",
+   "Leakix"
+  ],
+  "eroi": [
+   "Luxpectorix",
+   "Cifrix"
+  ],
+  "rischi": [
+   "Rischio Privacy prevalente per: Attività di investigazione in ambito assicurativo"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di investigazione in ambito assicurativo'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di investigazione in ambito assicurativo. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cancelix, Leakix, gli eroi Luxpectorix, Cifrix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di investigazione in ambito assicurativo. Scena: 1) problema 2) entra Cancelix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Luxpectorix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di investigazione in ambito assicurativo: Cancelix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Luxpectorix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di investigazione in ambito assicurativo — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cancelix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Privacy #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1079_800113_attivit_di_investigazione_in_ambito_assi_PRIVACY_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1080",
+  "codice_ateco": "80.01.14",
+  "descrizione_ateco": "Attività di investigazione in ambito legale",
+  "sezione": "O PA",
+  "divisione": "80",
+  "gruppo": "80.0",
+  "classe": "80.01",
+  "categoria": "80.01.1",
+  "sottocategoria": "80.01.14",
+  "titolo_fumetto": "Attività di investigazione in ambito legale — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di investigazione in ambito legale",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix",
+   "Leakix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di investigazione in ambito legale"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di investigazione in ambito legale'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di investigazione in ambito legale. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, Leakix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di investigazione in ambito legale. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di investigazione in ambito legale: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di investigazione in ambito legale — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1080_800114_attivit_di_investigazione_in_ambito_lega_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1081",
+  "codice_ateco": "80.01.21",
+  "descrizione_ateco": "Attività di vigilanza privata non armata",
+  "sezione": "O PA",
+  "divisione": "80",
+  "gruppo": "80.0",
+  "classe": "80.01",
+  "categoria": "80.01.2",
+  "sottocategoria": "80.01.21",
+  "titolo_fumetto": "Attività di vigilanza privata non armata — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di vigilanza privata non armata",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix",
+   "Phishix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di vigilanza privata non armata"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di vigilanza privata non armata'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di vigilanza privata non armata. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, Phishix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di vigilanza privata non armata. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di vigilanza privata non armata: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di vigilanza privata non armata — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1081_800121_attivit_di_vigilanza_privata_non_armata_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1082",
+  "codice_ateco": "80.01.29",
+  "descrizione_ateco": "Altre attività di vigilanza privata",
+  "sezione": "O PA",
+  "divisione": "80",
+  "gruppo": "80.0",
+  "classe": "80.01",
+  "categoria": "80.01.2",
+  "sottocategoria": "80.01.29",
+  "titolo_fumetto": "Altre attività di vigilanza privata — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Altre attività di vigilanza privata",
+  "cattivi": [
+   "Voltix",
+   "Fumix",
+   "Spyix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Altre attività di vigilanza privata"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Altre attività di vigilanza privata'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Altre attività di vigilanza privata. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, Spyix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Altre attività di vigilanza privata. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Altre attività di vigilanza privata: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Altre attività di vigilanza privata — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1082_800129_altre_attivit_di_vigilanza_privata_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1083",
+  "codice_ateco": "80.09.00",
+  "descrizione_ateco": "Attività di vigilanza n.c.a.",
+  "sezione": "O PA",
+  "divisione": "80",
+  "gruppo": "80.0",
+  "classe": "80.09",
+  "categoria": "80.09.0",
+  "sottocategoria": "80.09.00",
+  "titolo_fumetto": "Attività di vigilanza n.c.a. — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di vigilanza n.c.a.",
+  "cattivi": [
+   "Fumix",
+   "Polverix",
+   "Hackix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di vigilanza n.c.a."
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di vigilanza n.c.a.'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di vigilanza n.c.a.. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Fumix, Polverix, Hackix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di vigilanza n.c.a.. Scena: 1) problema 2) entra Fumix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di vigilanza n.c.a.: Fumix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di vigilanza n.c.a. — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Fumix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1083_800900_attivit_di_vigilanza_n_c_a_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1084",
+  "codice_ateco": "81.10.00",
+  "descrizione_ateco": "Attività di servizi integrati agli edifici",
+  "sezione": "O PA",
+  "divisione": "81",
+  "gruppo": "81.1",
+  "classe": "81.10",
+  "categoria": "81.10.0",
+  "sottocategoria": "81.10.00",
+  "titolo_fumetto": "Attività di servizi integrati agli edifici — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di servizi integrati agli edifici",
+  "cattivi": [
+   "Polverix",
+   "Nondpix",
+   "Permissionix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di servizi integrati agli edifici"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di servizi integrati agli edifici'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di servizi integrati agli edifici. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, Permissionix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di servizi integrati agli edifici. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di servizi integrati agli edifici: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di servizi integrati agli edifici — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1084_811000_attivit_di_servizi_integrati_agli_edific_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1085",
+  "codice_ateco": "81.21.00",
+  "descrizione_ateco": "Attività di pulizia generale di edifici",
+  "sezione": "O PA",
+  "divisione": "81",
+  "gruppo": "81.2",
+  "classe": "81.21",
+  "categoria": "81.21.0",
+  "sottocategoria": "81.21.00",
+  "titolo_fumetto": "Attività di pulizia generale di edifici — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di pulizia generale di edifici",
+  "cattivi": [
+   "Nondpix",
+   "Segnalex",
+   "Cancelix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di pulizia generale di edifici"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di pulizia generale di edifici'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di pulizia generale di edifici. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Nondpix, Segnalex, Cancelix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di pulizia generale di edifici. Scena: 1) problema 2) entra Nondpix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di pulizia generale di edifici: Nondpix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di pulizia generale di edifici — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Nondpix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1085_812100_attivit_di_pulizia_generale_di_edifici_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1086",
+  "codice_ateco": "81.22.01",
+  "descrizione_ateco": "Attività di sterilizzazione di attrezzature mediche",
+  "sezione": "O PA",
+  "divisione": "81",
+  "gruppo": "81.2",
+  "classe": "81.22",
+  "categoria": "81.22.0",
+  "sottocategoria": "81.22.01",
+  "titolo_fumetto": "Attività di sterilizzazione di attrezzature  — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di sterilizzazione di attrezzature mediche",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix",
+   "Leakix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di sterilizzazione di attrezzature mediche"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di sterilizzazione di attrezzature medich'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di sterilizzazione di attrezzature mediche. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, Leakix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di sterilizzazione di attrezzature mediche. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di sterilizzazione di attrezzature mediche: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di sterilizzazione di attrezzature mediche — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1086_812201_attivit_di_sterilizzazione_di_attrezzatu_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1087",
+  "codice_ateco": "81.22.09",
+  "descrizione_ateco": "Altre attività di pulizia di edifici e pulizia industriale n.c.a.",
+  "sezione": "O PA",
+  "divisione": "81",
+  "gruppo": "81.2",
+  "classe": "81.22",
+  "categoria": "81.22.0",
+  "sottocategoria": "81.22.09",
+  "titolo_fumetto": "Altre attività di pulizia di edifici e puliz — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Altre attività di pulizia di edifici e pulizia industriale n.c.a.",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix",
+   "Phishix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Altre attività di pulizia di edifici e pulizia industriale n.c.a."
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Altre attività di pulizia di edifici e pulizia ind'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Altre attività di pulizia di edifici e pulizia industriale n.c.a.. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, Phishix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Altre attività di pulizia di edifici e pulizia industriale n.c.a.. Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Altre attività di pulizia di edifici e pulizia industriale n.c.a.: Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Altre attività di pulizia di edifici e pulizia industriale n — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1087_812209_altre_attivit_di_pulizia_di_edifici_e_pu_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1088",
+  "codice_ateco": "81.23.10",
+  "descrizione_ateco": "Attività di sanificazione, disinfezione e disinfestazione",
+  "sezione": "O PA",
+  "divisione": "81",
+  "gruppo": "81.2",
+  "classe": "81.23",
+  "categoria": "81.23.1",
+  "sottocategoria": "81.23.10",
+  "titolo_fumetto": "Attività di sanificazione, disinfezione e di — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di sanificazione, disinfezione e disinfestazione",
+  "cattivi": [
+   "Frettix",
+   "Improvvisix",
+   "Spyix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di sanificazione, disinfezione e disinfestazione"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di sanificazione, disinfezione e disinfes'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di sanificazione, disinfezione e disinfestazione. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Frettix, Improvvisix, Spyix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di sanificazione, disinfezione e disinfestazione. Scena: 1) problema 2) entra Frettix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di sanificazione, disinfezione e disinfestazione: Frettix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di sanificazione, disinfezione e disinfestazione — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Frettix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1088_812310_attivit_di_sanificazione_disinfezione_e__MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1089",
+  "codice_ateco": "81.23.91",
+  "descrizione_ateco": "Pulitura delle strade e rimozione di neve e ghiaccio",
+  "sezione": "O PA",
+  "divisione": "81",
+  "gruppo": "81.2",
+  "classe": "81.23",
+  "categoria": "81.23.9",
+  "sottocategoria": "81.23.91",
+  "titolo_fumetto": "Pulitura delle strade e rimozione di neve e  — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Pulitura delle strade e rimozione di neve e ghiaccio",
+  "cattivi": [
+   "Improvvisix",
+   "Caosix",
+   "Hackix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Pulitura delle strade e rimozione di neve e ghiaccio"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Pulitura delle strade e rimozione di neve e ghiacc'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Pulitura delle strade e rimozione di neve e ghiaccio. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Improvvisix, Caosix, Hackix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Pulitura delle strade e rimozione di neve e ghiaccio. Scena: 1) problema 2) entra Improvvisix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Pulitura delle strade e rimozione di neve e ghiaccio: Improvvisix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Pulitura delle strade e rimozione di neve e ghiaccio — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Improvvisix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1089_812391_pulitura_delle_strade_e_rimozione_di_nev_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1090",
+  "codice_ateco": "81.23.99",
+  "descrizione_ateco": "Altre attività di pulizia varie n.c.a.",
+  "sezione": "O PA",
+  "divisione": "81",
+  "gruppo": "81.2",
+  "classe": "81.23",
+  "categoria": "81.23.9",
+  "sottocategoria": "81.23.99",
+  "titolo_fumetto": "Altre attività di pulizia varie n.c.a. — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Altre attività di pulizia varie n.c.a.",
+  "cattivi": [
+   "Caosix",
+   "Segnalex",
+   "Permissionix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Altre attività di pulizia varie n.c.a."
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Altre attività di pulizia varie n.c.a.'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Altre attività di pulizia varie n.c.a.. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Caosix, Segnalex, Permissionix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Altre attività di pulizia varie n.c.a.. Scena: 1) problema 2) entra Caosix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Altre attività di pulizia varie n.c.a.: Caosix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Altre attività di pulizia varie n.c.a. — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Caosix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1090_812399_altre_attivit_di_pulizia_varie_n_c_a_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1091",
+  "codice_ateco": "81.30.00",
+  "descrizione_ateco": "Attività di servizi per la cura del paesaggio",
+  "sezione": "O PA",
+  "divisione": "81",
+  "gruppo": "81.3",
+  "classe": "81.30",
+  "categoria": "81.30.0",
+  "sottocategoria": "81.30.00",
+  "titolo_fumetto": "Attività di servizi per la cura del paesaggi — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di servizi per la cura del paesaggio",
+  "cattivi": [
+   "Segnalex",
+   "Riskix",
+   "Cancelix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di servizi per la cura del paesaggio"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di servizi per la cura del paesaggio'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di servizi per la cura del paesaggio. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Riskix, Cancelix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di servizi per la cura del paesaggio. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di servizi per la cura del paesaggio: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di servizi per la cura del paesaggio — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1091_813000_attivit_di_servizi_per_la_cura_del_paesa_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1092",
+  "codice_ateco": "82.10.00",
+  "descrizione_ateco": "Attività amministrative e di supporto per le funzioni di ufficio",
+  "sezione": "O PA",
+  "divisione": "82",
+  "gruppo": "82.1",
+  "classe": "82.10",
+  "categoria": "82.10.0",
+  "sottocategoria": "82.10.00",
+  "titolo_fumetto": "Attività amministrative e di supporto per le — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività amministrative e di supporto per le funzioni di ufficio",
+  "cattivi": [
+   "Riskix",
+   "Cadutix",
+   "Leakix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività amministrative e di supporto per le funzioni di ufficio"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività amministrative e di supporto per le funzi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività amministrative e di supporto per le funzioni di ufficio. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Riskix, Cadutix, Leakix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività amministrative e di supporto per le funzioni di ufficio. Scena: 1) problema 2) entra Riskix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività amministrative e di supporto per le funzioni di ufficio: Riskix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività amministrative e di supporto per le funzioni di uff — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Riskix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1092_821000_attivit_amministrative_e_di_supporto_per_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1093",
+  "codice_ateco": "82.20.00",
+  "descrizione_ateco": "Attività dei call center",
+  "sezione": "O PA",
+  "divisione": "82",
+  "gruppo": "82.2",
+  "classe": "82.20",
+  "categoria": "82.20.0",
+  "sottocategoria": "82.20.00",
+  "titolo_fumetto": "Attività dei call center — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività dei call center",
+  "cattivi": [
+   "Cadutix",
+   "Schiaccix",
+   "Phishix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività dei call center"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività dei call center'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività dei call center. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Cadutix, Schiaccix, Phishix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività dei call center. Scena: 1) problema 2) entra Cadutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività dei call center: Cadutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività dei call center — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Cadutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1093_822000_attivit_dei_call_center_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1094",
+  "codice_ateco": "82.30.01",
+  "descrizione_ateco": "Organizzazione di conferenze e congressi",
+  "sezione": "O PA",
+  "divisione": "82",
+  "gruppo": "82.3",
+  "classe": "82.30",
+  "categoria": "82.30.0",
+  "sottocategoria": "82.30.01",
+  "titolo_fumetto": "Organizzazione di conferenze e congressi — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Organizzazione di conferenze e congressi",
+  "cattivi": [
+   "Schiaccix",
+   "Voltix",
+   "Spyix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Organizzazione di conferenze e congressi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Organizzazione di conferenze e congressi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Organizzazione di conferenze e congressi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Schiaccix, Voltix, Spyix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Organizzazione di conferenze e congressi. Scena: 1) problema 2) entra Schiaccix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Organizzazione di conferenze e congressi: Schiaccix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Organizzazione di conferenze e congressi — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Schiaccix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1094_823001_organizzazione_di_conferenze_e_congressi_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1095",
+  "codice_ateco": "82.30.02",
+  "descrizione_ateco": "Organizzazione di fiere commerciali e di affari",
+  "sezione": "O PA",
+  "divisione": "82",
+  "gruppo": "82.3",
+  "classe": "82.30",
+  "categoria": "82.30.0",
+  "sottocategoria": "82.30.02",
+  "titolo_fumetto": "Organizzazione di fiere commerciali e di aff — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Organizzazione di fiere commerciali e di affari",
+  "cattivi": [
+   "Voltix",
+   "Fumix",
+   "Hackix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Organizzazione di fiere commerciali e di affari"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Organizzazione di fiere commerciali e di affari'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Organizzazione di fiere commerciali e di affari. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Voltix, Fumix, Hackix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Organizzazione di fiere commerciali e di affari. Scena: 1) problema 2) entra Voltix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Organizzazione di fiere commerciali e di affari: Voltix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Organizzazione di fiere commerciali e di affari — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Voltix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1095_823002_organizzazione_di_fiere_commerciali_e_di_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1096",
+  "codice_ateco": "82.30.03",
+  "descrizione_ateco": "Organizzazione di convegni ed eventi aziendali",
+  "sezione": "O PA",
+  "divisione": "82",
+  "gruppo": "82.3",
+  "classe": "82.30",
+  "categoria": "82.30.0",
+  "sottocategoria": "82.30.03",
+  "titolo_fumetto": "Organizzazione di convegni ed eventi azienda — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Organizzazione di convegni ed eventi aziendali",
+  "cattivi": [
+   "Fumix",
+   "Polverix",
+   "Permissionix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Organizzazione di convegni ed eventi aziendali"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Organizzazione di convegni ed eventi aziendali'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Organizzazione di convegni ed eventi aziendali. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Fumix, Polverix, Permissionix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Organizzazione di convegni ed eventi aziendali. Scena: 1) problema 2) entra Fumix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Organizzazione di convegni ed eventi aziendali: Fumix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Organizzazione di convegni ed eventi aziendali — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Fumix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1096_823003_organizzazione_di_convegni_ed_eventi_azi_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1097",
+  "codice_ateco": "82.30.04",
+  "descrizione_ateco": "Organizzazione di mercati agricoli e fiere dell'artigianato",
+  "sezione": "O PA",
+  "divisione": "82",
+  "gruppo": "82.3",
+  "classe": "82.30",
+  "categoria": "82.30.0",
+  "sottocategoria": "82.30.04",
+  "titolo_fumetto": "Organizzazione di mercati agricoli e fiere d — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Organizzazione di mercati agricoli e fiere dell'artigianato",
+  "cattivi": [
+   "Polverix",
+   "Nondpix",
+   "Cancelix"
+  ],
+  "eroi": [
+   "Prepostix",
+   "Checkix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Organizzazione di mercati agricoli e fiere dell'artigianato"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Organizzazione di mercati agricoli e fiere dell'ar'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Organizzazione di mercati agricoli e fiere dell'artigianato. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Polverix, Nondpix, Cancelix, gli eroi Prepostix, Checkix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Organizzazione di mercati agricoli e fiere dell'artigianato. Scena: 1) problema 2) entra Polverix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Prepostix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Organizzazione di mercati agricoli e fiere dell'artigianato: Polverix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Prepostix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Organizzazione di mercati agricoli e fiere dell'artigianato — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Polverix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1097_823004_organizzazione_di_mercati_agricoli_e_fie_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1098",
+  "codice_ateco": "82.30.09",
+  "descrizione_ateco": "Organizzazione di altri eventi",
+  "sezione": "O PA",
+  "divisione": "82",
+  "gruppo": "82.3",
+  "classe": "82.30",
+  "categoria": "82.30.0",
+  "sottocategoria": "82.30.09",
+  "titolo_fumetto": "Organizzazione di altri eventi — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Organizzazione di altri eventi",
+  "cattivi": [
+   "Nondpix",
+   "Segnalex",
+   "Leakix"
+  ],
+  "eroi": [
+   "Formix",
+   "Scudix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Organizzazione di altri eventi"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Organizzazione di altri eventi'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Organizzazione di altri eventi. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Nondpix, Segnalex, Leakix, gli eroi Formix, Scudix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Organizzazione di altri eventi. Scena: 1) problema 2) entra Nondpix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Formix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Organizzazione di altri eventi: Nondpix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Formix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Organizzazione di altri eventi — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Nondpix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1098_823009_organizzazione_di_altri_eventi_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1099",
+  "codice_ateco": "82.40.01",
+  "descrizione_ateco": "Attività di servizi di prenotazione di biglietti per spettacoli teatrali, sportivi e altri spettacoli di intrattenimento e divertimento",
+  "sezione": "O PA",
+  "divisione": "82",
+  "gruppo": "82.4",
+  "classe": "82.40",
+  "categoria": "82.40.0",
+  "sottocategoria": "82.40.01",
+  "titolo_fumetto": "Attività di servizi di prenotazione di bigli — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Attività di servizi di prenotazione di biglietti per spettacoli teatra",
+  "cattivi": [
+   "Segnalex",
+   "Sottovalutix",
+   "Phishix"
+  ],
+  "eroi": [
+   "Checkix",
+   "Prepostix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Attività di servizi di prenotazione di biglietti per spettacoli teatra"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Attività di servizi di prenotazione di biglietti p'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Attività di servizi di prenotazione di biglietti per spettacoli teatra. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Segnalex, Sottovalutix, Phishix, gli eroi Checkix, Prepostix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Attività di servizi di prenotazione di biglietti per spettacoli teatra. Scena: 1) problema 2) entra Segnalex 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Checkix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Attività di servizi di prenotazione di biglietti per spettacoli teatra: Segnalex crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Checkix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Attività di servizi di prenotazione di biglietti per spettac — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Segnalex, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1099_824001_attivit_di_servizi_di_prenotazione_di_bi_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ },
+ {
+  "pagina": "1100",
+  "codice_ateco": "82.40.09",
+  "descrizione_ateco": "Altre attività di servizi di intermediazione per servizi di supporto alle imprese n.c.a.",
+  "sezione": "O PA",
+  "divisione": "82",
+  "gruppo": "82.4",
+  "classe": "82.40",
+  "categoria": "82.40.0",
+  "sottocategoria": "82.40.09",
+  "titolo_fumetto": "Altre attività di servizi di intermediazione — Pericolo vs Metodo81+",
+  "area": "Misto",
+  "ambientazione": "Altre attività di servizi di intermediazione per servizi di supporto a",
+  "cattivi": [
+   "Sottovalutix",
+   "Frettix",
+   "Spyix"
+  ],
+  "eroi": [
+   "Scudix",
+   "Formix"
+  ],
+  "rischi": [
+   "Rischio Misto prevalente per: Altre attività di servizi di intermediazione per servizi di supporto a"
+  ],
+  "soluzioni_metodo81": [
+   "Fotografia/Audit 81+",
+   "Corso/checklist collegata",
+   "Aggiornamento periodico"
+  ],
+  "vignette": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "prompt_immagine": "Crea una pagina fumetto verticale 'SICURIX TALES — Altre attività di servizi di intermediazione per s'. Stile ufficiale original toy-brick comic adventure, personaggi modulari giocattolo, fumetto europeo umoristico 81+, ambientazione coerente con: Altre attività di servizi di intermediazione per servizi di supporto a. Mostra: ambiente reale dell'attività, 2-4 pericoli realistici, i cattivi Sottovalutix, Frettix, Spyix, gli eroi Scudix, Formix, SICURIX che guida, checklist Metodo81+, risultato ordinato, CTA 81plus.net. Layout 8-12 vignette, titolo alto, sezione PERICOLO in rosso, SOLUZIONE Metodo81+ in verde, finale 'Prima vedi. Poi sistemi.'. NEGATIVE: no LEGO logo, no Asterix/Obelix, no caschi alati, no personaggi protetti, no horror/gore, no 'zero multe/rischio zero/promesse assolute'.",
+  "prompt_video": "Clip verticale 9:16 8-10s, SICURIX TALES toy-brick. Ambientazione: Altre attività di servizi di intermediazione per servizi di supporto a. Scena: 1) problema 2) entra Sottovalutix 3) rischio chiaro non ansiogeno 4) arriva SICURIX 5) interviene Scudix 6) Metodo81+ 7) risultato ordinato 8) CTA 81plus.net. Overlay: 'Pericolo?' 'Prima vedi.' 'Poi sistemi.' 'Metodo81+' '81plus.net'. NO horror, NO claim assoluti.",
+  "prompt_fumetto_4": "4 vignette: 1) Altre attività di servizi di intermediazione per servizi di supporto a: Sottovalutix crea il pericolo. 2) conseguenza operativa (no terrore). 3) SICURIX+Scudix: 'Prima vedi. Poi sistemi' + checklist Metodo81+. 4) risultato sicuro, CTA 81plus.net.",
+  "caption": "🟧 Altre attività di servizi di intermediazione per servizi di  — i rischi che chi lavora in questo settore conosce bene. In questa pagina SICURIX TALES: pericolo, Sottovalutix, e la soluzione col Metodo81+. 👉 81plus.net. Contenuto informativo.",
+  "hashtag": "#SicurixTales #Misto #SicurezzaSulLavoro #81plus #Sicurissimo #Metodo81 #ATECO",
+  "checklist": [
+   "Rischi valutati e documentati",
+   "Formazione/DPI adeguati",
+   "Procedure e scadenze aggiornate",
+   "Responsabilità chiare"
+  ],
+  "cta": "Vai su 81plus.net",
+  "nome_file": "SICURIX_TALES_1100_824009_altre_attivit_di_servizi_di_intermediazi_MISTO_v1.png",
+  "cartella_drive": "https://drive.google.com/drive/folders/1WjeOyVESSZwPXf0QhsLsGrmoUcqObaBc /1051-1100/",
+  "stato": "DA_GENERARE"
+ }
+]
