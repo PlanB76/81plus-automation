@@ -1099,3 +1099,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 1098,82.30.09,Organizzazione di altri eventi,Misto,1051-1100,SICURIX_TALES_1098_823009_organizzazione_di_altri_eventi_MISTO_v1.png,BRIEF_PRONTO
 1099,82.40.01,"Attività di servizi di prenotazione di biglietti per spettacoli teatrali, sportivi e altri spettacoli di intrattenimento e divertimento",Misto,1051-1100,SICURIX_TALES_1099_824001_attivit_di_servizi_di_prenotazione_di_bi_MISTO_v1.png,BRIEF_PRONTO
 1100,82.40.09,Altre attività di servizi di intermediazione per servizi di supporto alle imprese n.c.a.,Misto,1051-1100,SICURIX_TALES_1100_824009_altre_attivit_di_servizi_di_intermediazi_MISTO_v1.png,BRIEF_PRONTO
+1101,82.91.10,Attività di recupero crediti,Misto,1101-1150,SICURIX_TALES_1101_829110_attivit_di_recupero_crediti_MISTO_v1.png,BRIEF_PRONTO
+1102,82.91.20,Attività di raccolta e fornitura di informazioni commerciali e di rating,Misto,1101-1150,SICURIX_TALES_1102_829120_attivit_di_raccolta_e_fornitura_di_infor_MISTO_v1.png,BRIEF_PRONTO
+1103,82.92.10,Attività di imballaggio di generi alimentari,HACCP,1101-1150,SICURIX_TALES_1103_829210_attivit_di_imballaggio_di_generi_aliment_HACCP_v1.png,BRIEF_PRONTO
+1104,82.92.20,Attività di imballaggio di generi non alimentari,HACCP,1101-1150,SICURIX_TALES_1104_829220_attivit_di_imballaggio_di_generi_non_ali_HACCP_v1.png,BRIEF_PRONTO
+1105,82.99.11,Fornitura di assistenza per la registrazione di autoveicoli,Misto,1101-1150,SICURIX_TALES_1105_829911_fornitura_di_assistenza_per_la_registraz_MISTO_v1.png,BRIEF_PRONTO
+1106,82.99.19,Richiesta certificati e disbrigo pratiche n.c.a.,Misto,1101-1150,SICURIX_TALES_1106_829919_richiesta_certificati_e_disbrigo_pratich_MISTO_v1.png,BRIEF_PRONTO
+1107,82.99.91,Rilevamento del consumo di calore e acqua calda,Misto,1101-1150,SICURIX_TALES_1107_829991_rilevamento_del_consumo_di_calore_e_acqu_MISTO_v1.png,BRIEF_PRONTO
+1108,82.99.99,Tutti gli altri servizi vari di supporto alle imprese n.c.a.,Misto,1101-1150,SICURIX_TALES_1108_829999_tutti_gli_altri_servizi_vari_di_supporto_MISTO_v1.png,BRIEF_PRONTO
+1109,84.11.10,Attività degli organi legislativi ed esecutivi e delle amministrazioni centrali e locali,Privacy,1101-1150,SICURIX_TALES_1109_841110_attivit_degli_organi_legislativi_ed_esec_PRIVACY_v1.png,BRIEF_PRONTO
+1110,84.11.20,Servizi di gestione esattoriale per conto terzi,Privacy,1101-1150,SICURIX_TALES_1110_841120_servizi_di_gestione_esattoriale_per_cont_PRIVACY_v1.png,BRIEF_PRONTO
+1111,84.11.30,Attività di pianificazione generale e servizi statistici generali,Privacy,1101-1150,SICURIX_TALES_1111_841130_attivit_di_pianificazione_generale_e_ser_PRIVACY_v1.png,BRIEF_PRONTO
+1112,84.12.10,Regolamentazione dei servizi di assistenza sanitaria,Privacy,1101-1150,SICURIX_TALES_1112_841210_regolamentazione_dei_servizi_di_assisten_PRIVACY_v1.png,BRIEF_PRONTO
+1113,84.12.20,Regolamentazione dei servizi di istruzione,Privacy,1101-1150,SICURIX_TALES_1113_841220_regolamentazione_dei_servizi_di_istruzio_PRIVACY_v1.png,BRIEF_PRONTO
+1114,84.12.30,Regolamentazione dei servizi per l'edilizia abitativa e la tutela dell'ambiente,Privacy,1101-1150,SICURIX_TALES_1114_841230_regolamentazione_dei_servizi_per_l_edili_PRIVACY_v1.png,BRIEF_PRONTO
+1115,84.12.40,Regolamentazione dei servizi culturali e di altri servizi sociali,Privacy,1101-1150,SICURIX_TALES_1115_841240_regolamentazione_dei_servizi_culturali_e_PRIVACY_v1.png,BRIEF_PRONTO
+1116,84.13.10,"Regolamentazione dei servizi connessi a agricoltura, silvicoltura, caccia e pesca",Privacy,1101-1150,SICURIX_TALES_1116_841310_regolamentazione_dei_servizi_connessi_a__PRIVACY_v1.png,BRIEF_PRONTO
+1117,84.13.20,Regolamentazione dei servizi connessi a combustibili ed energia,Privacy,1101-1150,SICURIX_TALES_1117_841320_regolamentazione_dei_servizi_connessi_a__PRIVACY_v1.png,BRIEF_PRONTO
+1118,84.13.30,"Regolamentazione dei servizi connessi a industrie estrattive e risorse minerarie, industrie manifatturiere e di costruzione",Privacy,1101-1150,SICURIX_TALES_1118_841330_regolamentazione_dei_servizi_connessi_a__PRIVACY_v1.png,BRIEF_PRONTO
+1119,84.13.40,Regolamentazione dei servizi connessi a trasporti e comunicazioni,Privacy,1101-1150,SICURIX_TALES_1119_841340_regolamentazione_dei_servizi_connessi_a__PRIVACY_v1.png,BRIEF_PRONTO
+1120,84.13.50,"Regolamentazione dei servizi connessi a commercio, servizi di alloggio e ristorazione",Privacy,1101-1150,SICURIX_TALES_1120_841350_regolamentazione_dei_servizi_connessi_a__PRIVACY_v1.png,BRIEF_PRONTO
+1121,84.13.60,Regolamentazione dei servizi connessi al turismo,Privacy,1101-1150,SICURIX_TALES_1121_841360_regolamentazione_dei_servizi_connessi_al_PRIVACY_v1.png,BRIEF_PRONTO
+1122,84.13.90,Regolamentazione di altri servizi,Privacy,1101-1150,SICURIX_TALES_1122_841390_regolamentazione_di_altri_servizi_PRIVACY_v1.png,BRIEF_PRONTO
+1123,84.21.00,Affari esteri,Privacy,1101-1150,SICURIX_TALES_1123_842100_affari_esteri_PRIVACY_v1.png,BRIEF_PRONTO
+1124,84.22.00,Difesa nazionale,Privacy,1101-1150,SICURIX_TALES_1124_842200_difesa_nazionale_PRIVACY_v1.png,BRIEF_PRONTO
+1125,84.23.00,Giustizia e attività giudiziarie,Privacy,1101-1150,SICURIX_TALES_1125_842300_giustizia_e_attivit_giudiziarie_PRIVACY_v1.png,BRIEF_PRONTO
+1126,84.24.10,Ordine pubblico e sicurezza nazionale delle Forze dell'Ordine,Privacy,1101-1150,SICURIX_TALES_1126_842410_ordine_pubblico_e_sicurezza_nazionale_de_PRIVACY_v1.png,BRIEF_PRONTO
+1127,84.24.20,Attività di supporto all'ordine pubblico e alla sicurezza nazionale fornite dalla Protezione Civile,Privacy,1101-1150,SICURIX_TALES_1127_842420_attivit_di_supporto_all_ordine_pubblico__PRIVACY_v1.png,BRIEF_PRONTO
+1128,84.25.00,Servizi antincendio,Privacy,1101-1150,SICURIX_TALES_1128_842500_servizi_antincendio_PRIVACY_v1.png,BRIEF_PRONTO
+1129,84.30.00,Assicurazione sociale obbligatoria,Privacy,1101-1150,SICURIX_TALES_1129_843000_assicurazione_sociale_obbligatoria_PRIVACY_v1.png,BRIEF_PRONTO
+1130,85.10.00,Istruzione prescolastica,Privacy,1101-1150,SICURIX_TALES_1130_851000_istruzione_prescolastica_PRIVACY_v1.png,BRIEF_PRONTO
+1131,85.20.00,Istruzione primaria,Privacy,1101-1150,SICURIX_TALES_1131_852000_istruzione_primaria_PRIVACY_v1.png,BRIEF_PRONTO
+1132,85.31.10,Istruzione secondaria di formazione generale di primo grado,Privacy,1101-1150,SICURIX_TALES_1132_853110_istruzione_secondaria_di_formazione_gene_PRIVACY_v1.png,BRIEF_PRONTO
+1133,85.31.20,Istruzione secondaria di formazione generale di secondo grado,Privacy,1101-1150,SICURIX_TALES_1133_853120_istruzione_secondaria_di_formazione_gene_PRIVACY_v1.png,BRIEF_PRONTO
+1134,85.32.01,Istruzione secondaria professionale erogata da scuole di vela e navigazione,Privacy,1101-1150,SICURIX_TALES_1134_853201_istruzione_secondaria_professionale_erog_PRIVACY_v1.png,BRIEF_PRONTO
+1135,85.32.02,Istruzione secondaria professionale erogata da scuole di volo,Privacy,1101-1150,SICURIX_TALES_1135_853202_istruzione_secondaria_professionale_erog_PRIVACY_v1.png,BRIEF_PRONTO
+1136,85.32.03,Istruzione secondaria professionale erogata da scuole di guida,Privacy,1101-1150,SICURIX_TALES_1136_853203_istruzione_secondaria_professionale_erog_PRIVACY_v1.png,BRIEF_PRONTO
+1137,85.32.09,Altra istruzione secondaria professionale n.c.a.,Privacy,1101-1150,SICURIX_TALES_1137_853209_altra_istruzione_secondaria_professional_PRIVACY_v1.png,BRIEF_PRONTO
+1138,85.33.00,Istruzione post-secondaria non terziaria,Privacy,1101-1150,SICURIX_TALES_1138_853300_istruzione_post_secondaria_non_terziaria_PRIVACY_v1.png,BRIEF_PRONTO
+1139,85.40.10,Istruzione terziaria non universitaria professionale,Privacy,1101-1150,SICURIX_TALES_1139_854010_istruzione_terziaria_non_universitaria_p_PRIVACY_v1.png,BRIEF_PRONTO
+1140,85.40.20,"Istruzione terziaria universitaria di primo, secondo e terzo ciclo e a ciclo unico",Privacy,1101-1150,SICURIX_TALES_1140_854020_istruzione_terziaria_universitaria_di_pr_PRIVACY_v1.png,BRIEF_PRONTO
+1141,85.51.01,Insegnamento di pilates fornito da insegnanti e istruttori indipendenti,Misto,1101-1150,SICURIX_TALES_1141_855101_insegnamento_di_pilates_fornito_da_inseg_MISTO_v1.png,BRIEF_PRONTO
+1142,85.51.09,Formazione sportiva e ricreativa n.c.a.,Privacy,1101-1150,SICURIX_TALES_1142_855109_formazione_sportiva_e_ricreativa_n_c_a_PRIVACY_v1.png,BRIEF_PRONTO
+1143,85.52.01,Corsi di danza,Misto,1101-1150,SICURIX_TALES_1143_855201_corsi_di_danza_MISTO_v1.png,BRIEF_PRONTO
+1144,85.52.02,Attività di educazione al patrimonio culturale,Misto,1101-1150,SICURIX_TALES_1144_855202_attivit_di_educazione_al_patrimonio_cult_MISTO_v1.png,BRIEF_PRONTO
+1145,85.52.09,Altra formazione culturale,Privacy,1101-1150,SICURIX_TALES_1145_855209_altra_formazione_culturale_PRIVACY_v1.png,BRIEF_PRONTO
+1146,85.53.00,Attività di scuole guida,Misto,1101-1150,SICURIX_TALES_1146_855300_attivit_di_scuole_guida_MISTO_v1.png,BRIEF_PRONTO
+1147,85.59.10,Corsi di lingua straniera,Misto,1101-1150,SICURIX_TALES_1147_855910_corsi_di_lingua_straniera_MISTO_v1.png,BRIEF_PRONTO
+1148,85.59.20,Corsi di formazione e corsi di aggiornamento professionale,Privacy,1101-1150,SICURIX_TALES_1148_855920_corsi_di_formazione_e_corsi_di_aggiornam_PRIVACY_v1.png,BRIEF_PRONTO
+1149,85.59.30,Altri servizi di istruzione e formazione n.c.a. forniti da università popolari,Privacy,1101-1150,SICURIX_TALES_1149_855930_altri_servizi_di_istruzione_e_formazione_PRIVACY_v1.png,BRIEF_PRONTO
+1150,85.59.91,Corsi di educazione consapevole attraverso il movimento,Misto,1101-1150,SICURIX_TALES_1150_855991_corsi_di_educazione_consapevole_attraver_MISTO_v1.png,BRIEF_PRONTO
