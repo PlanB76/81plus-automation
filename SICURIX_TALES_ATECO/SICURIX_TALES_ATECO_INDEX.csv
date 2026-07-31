@@ -1199,3 +1199,53 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 1198,91.12.00,Attività di archivi,Sicurezza,1151-1200,SICURIX_TALES_1198_911200_attivit_di_archivi_SICUREZZA_v1.png,BRIEF_PRONTO
 1199,91.21.00,Attività di musei e collezioni,Sicurezza,1151-1200,SICURIX_TALES_1199_912100_attivit_di_musei_e_collezioni_SICUREZZA_v1.png,BRIEF_PRONTO
 1200,91.22.00,Attività di luoghi e monumenti storici,Sicurezza,1151-1200,SICURIX_TALES_1200_912200_attivit_di_luoghi_e_monumenti_storici_SICUREZZA_v1.png,BRIEF_PRONTO
+1201,91.30.01,Conservazione e restauro del patrimonio culturale,Sicurezza,1201-1250,SICURIX_TALES_1201_913001_conservazione_e_restauro_del_patrimonio__SICUREZZA_v1.png,BRIEF_PRONTO
+1202,91.30.02,Creazione e gestione di apparecchiature multimediali per l'accompagnamento alle visite in musei e altri siti culturali,Sicurezza,1201-1250,SICURIX_TALES_1202_913002_creazione_e_gestione_di_apparecchiature__SICUREZZA_v1.png,BRIEF_PRONTO
+1203,91.30.09,Altre attività di supporto al patrimonio culturale,Sicurezza,1201-1250,SICURIX_TALES_1203_913009_altre_attivit_di_supporto_al_patrimonio__SICUREZZA_v1.png,BRIEF_PRONTO
+1204,91.41.00,Attività di orti botanici e giardini zoologici,Sicurezza,1201-1250,SICURIX_TALES_1204_914100_attivit_di_orti_botanici_e_giardini_zool_SICUREZZA_v1.png,BRIEF_PRONTO
+1205,91.42.00,Attività di riserve e parchi naturali,Sicurezza,1201-1250,SICURIX_TALES_1205_914200_attivit_di_riserve_e_parchi_naturali_SICUREZZA_v1.png,BRIEF_PRONTO
+1206,92.00.01,Gestione di apparecchi che consentono vincite in denaro funzionanti a moneta o a gettone,Sicurezza,1201-1250,SICURIX_TALES_1206_920001_gestione_di_apparecchi_che_consentono_vi_SICUREZZA_v1.png,BRIEF_PRONTO
+1207,92.00.09,"Altre attività di scommesse, lotterie e altri giochi d'azzardo",Sicurezza,1201-1250,SICURIX_TALES_1207_920009_altre_attivit_di_scommesse_lotterie_e_al_SICUREZZA_v1.png,BRIEF_PRONTO
+1208,93.11.10,Gestione di piscine,Sicurezza,1201-1250,SICURIX_TALES_1208_931110_gestione_di_piscine_SICUREZZA_v1.png,BRIEF_PRONTO
+1209,93.11.90,Gestione di altri impianti sportivi,Sicurezza,1201-1250,SICURIX_TALES_1209_931190_gestione_di_altri_impianti_sportivi_SICUREZZA_v1.png,BRIEF_PRONTO
+1210,93.12.00,Attività dei club sportivi,Sicurezza,1201-1250,SICURIX_TALES_1210_931200_attivit_dei_club_sportivi_SICUREZZA_v1.png,BRIEF_PRONTO
+1211,93.13.01,"Attività di studi di yoga, pilates e Tai Chi",Sicurezza,1201-1250,SICURIX_TALES_1211_931301_attivit_di_studi_di_yoga_pilates_e_tai_c_SICUREZZA_v1.png,BRIEF_PRONTO
+1212,93.13.09,Altre attività dei centri di fitness,Sicurezza,1201-1250,SICURIX_TALES_1212_931309_altre_attivit_dei_centri_di_fitness_SICUREZZA_v1.png,BRIEF_PRONTO
+1213,93.19.10,Attività di organizzazioni ed enti sportivi e promozione di eventi sportivi,Sicurezza,1201-1250,SICURIX_TALES_1213_931910_attivit_di_organizzazioni_ed_enti_sporti_SICUREZZA_v1.png,BRIEF_PRONTO
+1214,93.19.91,Attività di ricarica di bombole per attività subacquee,Sicurezza,1201-1250,SICURIX_TALES_1214_931991_attivit_di_ricarica_di_bombole_per_attiv_SICUREZZA_v1.png,BRIEF_PRONTO
+1215,93.19.92,Attività di guida alpina,Sicurezza,1201-1250,SICURIX_TALES_1215_931992_attivit_di_guida_alpina_SICUREZZA_v1.png,BRIEF_PRONTO
+1216,93.19.93,Attività di guida di pesca,Sicurezza,1201-1250,SICURIX_TALES_1216_931993_attivit_di_guida_di_pesca_SICUREZZA_v1.png,BRIEF_PRONTO
+1217,93.19.99,Altre attività sportive varie n.c.a.,Sicurezza,1201-1250,SICURIX_TALES_1217_931999_altre_attivit_sportive_varie_n_c_a_SICUREZZA_v1.png,BRIEF_PRONTO
+1218,93.21.00,Attività dei parchi di divertimento e dei parchi tematici,Sicurezza,1201-1250,SICURIX_TALES_1218_932100_attivit_dei_parchi_di_divertimento_e_dei_SICUREZZA_v1.png,BRIEF_PRONTO
+1219,93.29.10,Gestione di piste e sale da ballo,Sicurezza,1201-1250,SICURIX_TALES_1219_932910_gestione_di_piste_e_sale_da_ballo_SICUREZZA_v1.png,BRIEF_PRONTO
+1220,93.29.20,Gestione di stabilimenti balneari,Sicurezza,1201-1250,SICURIX_TALES_1220_932920_gestione_di_stabilimenti_balneari_SICUREZZA_v1.png,BRIEF_PRONTO
+1221,93.29.30,Gestione di apparecchi da intrattenimento che non consentono vincite in denaro funzionanti a moneta o a gettone,Sicurezza,1201-1250,SICURIX_TALES_1221_932930_gestione_di_apparecchi_da_intratteniment_SICUREZZA_v1.png,BRIEF_PRONTO
+1222,93.29.91,Gestione di attrazioni e attività di spettacolo in forma itinerante,Sicurezza,1201-1250,SICURIX_TALES_1222_932991_gestione_di_attrazioni_e_attivit_di_spet_SICUREZZA_v1.png,BRIEF_PRONTO
+1223,93.29.99,Altre attività varie di intrattenimento e divertimento n.c.a.,Sicurezza,1201-1250,SICURIX_TALES_1223_932999_altre_attivit_varie_di_intrattenimento_e_SICUREZZA_v1.png,BRIEF_PRONTO
+1224,94.11.00,Attività di organizzazioni di imprese e dei datori di lavoro,Sicurezza,1201-1250,SICURIX_TALES_1224_941100_attivit_di_organizzazioni_di_imprese_e_d_SICUREZZA_v1.png,BRIEF_PRONTO
+1225,94.12.10,Attività di ordini e collegi professionali,Sicurezza,1201-1250,SICURIX_TALES_1225_941210_attivit_di_ordini_e_collegi_professional_SICUREZZA_v1.png,BRIEF_PRONTO
+1226,94.12.20,Attività di associazioni professionali,Sicurezza,1201-1250,SICURIX_TALES_1226_941220_attivit_di_associazioni_professionali_SICUREZZA_v1.png,BRIEF_PRONTO
+1227,94.20.00,Attività dei sindacati di lavoratori,Sicurezza,1201-1250,SICURIX_TALES_1227_942000_attivit_dei_sindacati_di_lavoratori_SICUREZZA_v1.png,BRIEF_PRONTO
+1228,94.91.00,Attività delle organizzazioni religiose,Sicurezza,1201-1250,SICURIX_TALES_1228_949100_attivit_delle_organizzazioni_religiose_SICUREZZA_v1.png,BRIEF_PRONTO
+1229,94.92.00,Attività delle organizzazioni politiche,Sicurezza,1201-1250,SICURIX_TALES_1229_949200_attivit_delle_organizzazioni_politiche_SICUREZZA_v1.png,BRIEF_PRONTO
+1230,94.99.10,Attività di organizzazioni associative per la tutela degli interessi e dei diritti dei cittadini,Sicurezza,1201-1250,SICURIX_TALES_1230_949910_attivit_di_organizzazioni_associative_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+1231,94.99.20,Attività di organizzazioni associative culturali e ricreative,Sicurezza,1201-1250,SICURIX_TALES_1231_949920_attivit_di_organizzazioni_associative_cu_SICUREZZA_v1.png,BRIEF_PRONTO
+1232,94.99.30,Attività di organizzazioni associative a scopo patriottico,Sicurezza,1201-1250,SICURIX_TALES_1232_949930_attivit_di_organizzazioni_associative_a__SICUREZZA_v1.png,BRIEF_PRONTO
+1233,94.99.40,Attività di organizzazioni associative per la cooperazione internazionale,Sicurezza,1201-1250,SICURIX_TALES_1233_949940_attivit_di_organizzazioni_associative_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+1234,94.99.50,Attività di organizzazioni associative filantropiche,Sicurezza,1201-1250,SICURIX_TALES_1234_949950_attivit_di_organizzazioni_associative_fi_SICUREZZA_v1.png,BRIEF_PRONTO
+1235,94.99.60,Attività di organizzazioni associative per la promozione e la difesa degli animali e dell'ambiente,Sicurezza,1201-1250,SICURIX_TALES_1235_949960_attivit_di_organizzazioni_associative_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+1236,94.99.90,Attività di altre organizzazioni associative varie n.c.a.,Sicurezza,1201-1250,SICURIX_TALES_1236_949990_attivit_di_altre_organizzazioni_associat_SICUREZZA_v1.png,BRIEF_PRONTO
+1237,95.10.10,Riparazione e manutenzione di computer e periferiche,Sicurezza,1201-1250,SICURIX_TALES_1237_951010_riparazione_e_manutenzione_di_computer_e_SICUREZZA_v1.png,BRIEF_PRONTO
+1238,95.10.21,Riparazione e manutenzione di telefoni e tablet,Sicurezza,1201-1250,SICURIX_TALES_1238_951021_riparazione_e_manutenzione_di_telefoni_e_SICUREZZA_v1.png,BRIEF_PRONTO
+1239,95.10.29,Riparazione e manutenzione di altre apparecchiature per le comunicazioni,Sicurezza,1201-1250,SICURIX_TALES_1239_951029_riparazione_e_manutenzione_di_altre_appa_SICUREZZA_v1.png,BRIEF_PRONTO
+1240,95.21.00,Riparazione e manutenzione di prodotti di elettronica di consumo,Sicurezza,1201-1250,SICURIX_TALES_1240_952100_riparazione_e_manutenzione_di_prodotti_d_SICUREZZA_v1.png,BRIEF_PRONTO
+1241,95.22.01,Riparazione e manutenzione di elettrodomestici,Sicurezza,1201-1250,SICURIX_TALES_1241_952201_riparazione_e_manutenzione_di_elettrodom_SICUREZZA_v1.png,BRIEF_PRONTO
+1242,95.22.02,Riparazione e manutenzione di articoli per la casa e il giardinaggio,Sicurezza,1201-1250,SICURIX_TALES_1242_952202_riparazione_e_manutenzione_di_articoli_p_SICUREZZA_v1.png,BRIEF_PRONTO
+1243,95.23.00,Riparazione e manutenzione di calzature e articoli in pelle,Sicurezza,1201-1250,SICURIX_TALES_1243_952300_riparazione_e_manutenzione_di_calzature__SICUREZZA_v1.png,BRIEF_PRONTO
+1244,95.24.01,Rivestimento di mobili e oggetti di arredamento per la casa imbottiti,Sicurezza,1201-1250,SICURIX_TALES_1244_952401_rivestimento_di_mobili_e_oggetti_di_arre_SICUREZZA_v1.png,BRIEF_PRONTO
+1245,95.24.09,Altre attività di riparazione e manutenzione di mobili e di oggetti di arredamento per la casa,Sicurezza,1201-1250,SICURIX_TALES_1245_952409_altre_attivit_di_riparazione_e_manutenzi_SICUREZZA_v1.png,BRIEF_PRONTO
+1246,95.25.00,Riparazione e manutenzione di orologi e gioielli,Sicurezza,1201-1250,SICURIX_TALES_1246_952500_riparazione_e_manutenzione_di_orologi_e__SICUREZZA_v1.png,BRIEF_PRONTO
+1247,95.29.10,Riparazione e accordatura di strumenti musicali non storici,Sicurezza,1201-1250,SICURIX_TALES_1247_952910_riparazione_e_accordatura_di_strumenti_m_SICUREZZA_v1.png,BRIEF_PRONTO
+1248,95.29.21,Riparazione e manutenzione di biciclette,Sicurezza,1201-1250,SICURIX_TALES_1248_952921_riparazione_e_manutenzione_di_biciclette_SICUREZZA_v1.png,BRIEF_PRONTO
+1249,95.29.22,Riparazione e manutenzione di articoli sportivi e attrezzature da campeggio,Sicurezza,1201-1250,SICURIX_TALES_1249_952922_riparazione_e_manutenzione_di_articoli_s_SICUREZZA_v1.png,BRIEF_PRONTO
+1250,95.29.30,Riparazione e modifica di articoli di abbigliamento,Sicurezza,1201-1250,SICURIX_TALES_1250_952930_riparazione_e_modifica_di_articoli_di_ab_SICUREZZA_v1.png,BRIEF_PRONTO
