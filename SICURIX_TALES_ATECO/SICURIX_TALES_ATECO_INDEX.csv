@@ -1249,3 +1249,43 @@ pagina,codice_ateco,descrizione,area,block,nome_file,stato
 1248,95.29.21,Riparazione e manutenzione di biciclette,Sicurezza,1201-1250,SICURIX_TALES_1248_952921_riparazione_e_manutenzione_di_biciclette_SICUREZZA_v1.png,BRIEF_PRONTO
 1249,95.29.22,Riparazione e manutenzione di articoli sportivi e attrezzature da campeggio,Sicurezza,1201-1250,SICURIX_TALES_1249_952922_riparazione_e_manutenzione_di_articoli_s_SICUREZZA_v1.png,BRIEF_PRONTO
 1250,95.29.30,Riparazione e modifica di articoli di abbigliamento,Sicurezza,1201-1250,SICURIX_TALES_1250_952930_riparazione_e_modifica_di_articoli_di_ab_SICUREZZA_v1.png,BRIEF_PRONTO
+1251,95.29.91,"Affilatura di coltelli, servizi di duplicazione di chiavi e di incisione rapida",Sicurezza,1251-1300,SICURIX_TALES_1251_952991_affilatura_di_coltelli_servizi_di_duplic_SICUREZZA_v1.png,BRIEF_PRONTO
+1252,95.29.99,Riparazione e manutenzione di altri beni vari per uso personale e per la casa n.c.a.,Sicurezza,1251-1300,SICURIX_TALES_1252_952999_riparazione_e_manutenzione_di_altri_beni_SICUREZZA_v1.png,BRIEF_PRONTO
+1253,95.31.10,"Riparazione e manutenzione meccanica, elettrica ed elettronica di autoveicoli",Sicurezza,1251-1300,SICURIX_TALES_1253_953110_riparazione_e_manutenzione_meccanica_ele_SICUREZZA_v1.png,BRIEF_PRONTO
+1254,95.31.20,Riparazione e manutenzione di carrozzerie di autoveicoli,Sicurezza,1251-1300,SICURIX_TALES_1254_953120_riparazione_e_manutenzione_di_carrozzeri_SICUREZZA_v1.png,BRIEF_PRONTO
+1255,95.31.30,"Riparazione, montaggio o sostituzione di pneumatici e camere d'aria di autoveicoli",Sicurezza,1251-1300,SICURIX_TALES_1255_953130_riparazione_montaggio_o_sostituzione_di__SICUREZZA_v1.png,BRIEF_PRONTO
+1256,95.31.91,Lavaggio di autoveicoli,Sicurezza,1251-1300,SICURIX_TALES_1256_953191_lavaggio_di_autoveicoli_SICUREZZA_v1.png,BRIEF_PRONTO
+1257,95.31.92,Riparazione e manutenzione di cellule abitative per caravan e autocaravan,Sicurezza,1251-1300,SICURIX_TALES_1257_953192_riparazione_e_manutenzione_di_cellule_ab_SICUREZZA_v1.png,BRIEF_PRONTO
+1258,95.31.99,Altre attività di riparazione e manutenzione di autoveicoli n.c.a.,Sicurezza,1251-1300,SICURIX_TALES_1258_953199_altre_attivit_di_riparazione_e_manutenzi_SICUREZZA_v1.png,BRIEF_PRONTO
+1259,95.32.00,Riparazione e manutenzione di motocicli,Sicurezza,1251-1300,SICURIX_TALES_1259_953200_riparazione_e_manutenzione_di_motocicli_SICUREZZA_v1.png,BRIEF_PRONTO
+1260,95.40.00,"Attività di servizi di intermediazione per la riparazione e la manutenzione di computer, beni per uso personale e per la casa, autoveicoli e motocicli",Sicurezza,1251-1300,SICURIX_TALES_1260_954000_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+1261,96.10.11,"Lavaggio e pulitura di prodotti tessili forniti da lavanderie industriali per industrie, ospedali e altre strutture simili",Sicurezza,1251-1300,SICURIX_TALES_1261_961011_lavaggio_e_pulitura_di_prodotti_tessili__SICUREZZA_v1.png,BRIEF_PRONTO
+1262,96.10.12,"Lavaggio e pulitura di prodotti tessili forniti da lavanderie industriali per ristorazione, alberghi e altri servizi di alloggio",Sicurezza,1251-1300,SICURIX_TALES_1262_961012_lavaggio_e_pulitura_di_prodotti_tessili__SICUREZZA_v1.png,BRIEF_PRONTO
+1263,96.10.21,Lavaggio e pulitura di prodotti tessili e pellicce forniti da lavanderie e tintorie tradizionali,Sicurezza,1251-1300,SICURIX_TALES_1263_961021_lavaggio_e_pulitura_di_prodotti_tessili__SICUREZZA_v1.png,BRIEF_PRONTO
+1264,96.10.22,Lavaggio e pulitura di prodotti tessili e pellicce forniti da lavanderie self-service,Sicurezza,1251-1300,SICURIX_TALES_1264_961022_lavaggio_e_pulitura_di_prodotti_tessili__SICUREZZA_v1.png,BRIEF_PRONTO
+1265,96.21.00,Servizi di parrucchieri e barbieri,HACCP,1251-1300,SICURIX_TALES_1265_962100_servizi_di_parrucchieri_e_barbieri_HACCP_v1.png,BRIEF_PRONTO
+1266,96.22.01,Servizi di manicure e pedicure,Sicurezza,1251-1300,SICURIX_TALES_1266_962201_servizi_di_manicure_e_pedicure_SICUREZZA_v1.png,BRIEF_PRONTO
+1267,96.22.09,Altri servizi di cura della bellezza e altri trattamenti di bellezza n.c.a.,Sicurezza,1251-1300,SICURIX_TALES_1267_962209_altri_servizi_di_cura_della_bellezza_e_a_SICUREZZA_v1.png,BRIEF_PRONTO
+1268,96.23.10,Servizi di centri termali,Sicurezza,1251-1300,SICURIX_TALES_1268_962310_servizi_di_centri_termali_SICUREZZA_v1.png,BRIEF_PRONTO
+1269,96.23.91,Terapia del sale,Sicurezza,1251-1300,SICURIX_TALES_1269_962391_terapia_del_sale_SICUREZZA_v1.png,BRIEF_PRONTO
+1270,96.23.99,"Altri servizi di centri benessere, sauna e bagno di vapore n.c.a.",Sicurezza,1251-1300,SICURIX_TALES_1270_962399_altri_servizi_di_centri_benessere_sauna__SICUREZZA_v1.png,BRIEF_PRONTO
+1271,96.30.01,Servizi di pompe funebri,Sicurezza,1251-1300,SICURIX_TALES_1271_963001_servizi_di_pompe_funebri_SICUREZZA_v1.png,BRIEF_PRONTO
+1272,96.30.02,Servizi di sepoltura,Sicurezza,1251-1300,SICURIX_TALES_1272_963002_servizi_di_sepoltura_SICUREZZA_v1.png,BRIEF_PRONTO
+1273,96.30.09,Servizi funerari e attività connesse n.c.a.,Sicurezza,1251-1300,SICURIX_TALES_1273_963009_servizi_funerari_e_attivit_connesse_n_c__SICUREZZA_v1.png,BRIEF_PRONTO
+1274,96.40.00,Attività di servizi di intermediazione per servizi alla persona,Sicurezza,1251-1300,SICURIX_TALES_1274_964000_attivit_di_servizi_di_intermediazione_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+1275,96.91.00,Fornitura di servizi domestici,Sicurezza,1251-1300,SICURIX_TALES_1275_969100_fornitura_di_servizi_domestici_SICUREZZA_v1.png,BRIEF_PRONTO
+1276,96.99.11,Servizi di presa in pensione e custodia per animali da compagnia,Sicurezza,1251-1300,SICURIX_TALES_1276_969911_servizi_di_presa_in_pensione_e_custodia__SICUREZZA_v1.png,BRIEF_PRONTO
+1277,96.99.12,Servizi di toelettatura per animali da compagnia,Sicurezza,1251-1300,SICURIX_TALES_1277_969912_servizi_di_toelettatura_per_animali_da_c_SICUREZZA_v1.png,BRIEF_PRONTO
+1278,96.99.13,Servizi di addestramento per animali da compagnia,Sicurezza,1251-1300,SICURIX_TALES_1278_969913_servizi_di_addestramento_per_animali_da__SICUREZZA_v1.png,BRIEF_PRONTO
+1279,96.99.14,Gestione di rifugi per animali,Sicurezza,1251-1300,SICURIX_TALES_1279_969914_gestione_di_rifugi_per_animali_SICUREZZA_v1.png,BRIEF_PRONTO
+1280,96.99.19,Servizi di cura per animali da compagnia n.c.a.,Sicurezza,1251-1300,SICURIX_TALES_1280_969919_servizi_di_cura_per_animali_da_compagnia_SICUREZZA_v1.png,BRIEF_PRONTO
+1281,96.99.91,Attività di studi di tatuaggi e piercing,Sicurezza,1251-1300,SICURIX_TALES_1281_969991_attivit_di_studi_di_tatuaggi_e_piercing_SICUREZZA_v1.png,BRIEF_PRONTO
+1282,96.99.92,Servizi di incontro ed eventi simili,Sicurezza,1251-1300,SICURIX_TALES_1282_969992_servizi_di_incontro_ed_eventi_simili_SICUREZZA_v1.png,BRIEF_PRONTO
+1283,96.99.93,Servizi di organizzazione di feste e cerimonie,Sicurezza,1251-1300,SICURIX_TALES_1283_969993_servizi_di_organizzazione_di_feste_e_cer_SICUREZZA_v1.png,BRIEF_PRONTO
+1284,96.99.94,Servizi di consulenza di immagine,Privacy,1251-1300,SICURIX_TALES_1284_969994_servizi_di_consulenza_di_immagine_PRIVACY_v1.png,BRIEF_PRONTO
+1285,96.99.99,Tutte le altre attività varie di servizi alla persona n.c.a.,Sicurezza,1251-1300,SICURIX_TALES_1285_969999_tutte_le_altre_attivit_varie_di_servizi__SICUREZZA_v1.png,BRIEF_PRONTO
+1286,97.00.10,Attività di condomini come datori di lavoro per personale domestico,Sicurezza,1251-1300,SICURIX_TALES_1286_970010_attivit_di_condomini_come_datori_di_lavo_SICUREZZA_v1.png,BRIEF_PRONTO
+1287,97.00.90,Attività di famiglie e convivenze come datori di lavoro per personale domestico n.c.a.,Sicurezza,1251-1300,SICURIX_TALES_1287_970090_attivit_di_famiglie_e_convivenze_come_da_SICUREZZA_v1.png,BRIEF_PRONTO
+1288,98.10.00,Produzione di beni indifferenziati per uso proprio da parte di famiglie e convivenze,Sicurezza,1251-1300,SICURIX_TALES_1288_981000_produzione_di_beni_indifferenziati_per_u_SICUREZZA_v1.png,BRIEF_PRONTO
+1289,98.20.00,Produzione di servizi indifferenziati per uso proprio da parte di famiglie e convivenze,Sicurezza,1251-1300,SICURIX_TALES_1289_982000_produzione_di_servizi_indifferenziati_pe_SICUREZZA_v1.png,BRIEF_PRONTO
+1290,99.00.00,Attività di organizzazioni e organismi extraterritoriali,Sicurezza,1251-1300,SICURIX_TALES_1290_990000_attivit_di_organizzazioni_e_organismi_ex_SICUREZZA_v1.png,BRIEF_PRONTO
