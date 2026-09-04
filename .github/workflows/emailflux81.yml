@@ -24,6 +24,8 @@ jobs:
       PEXELS_KEY: ${{ secrets.PEXELS_API_KEY }}
       DRY_RUN:   ${{ secrets.DRY_RUN }}
       DAILY_CAP: ${{ secrets.DAILY_CAP }}
+      FTP_TIMEOUT: "120"
+      FTP_TRIES: "5"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -33,5 +35,5 @@ jobs:
       - name: Worker invio (rispetta DAILY_CAP, anti-spam, DRY_RUN)
         run: python e81_run.py
       - name: Ricarica DB aggiornato sull'host
-        if: always()
+        if: success()
         run: python ftp_db.py put
