@@ -1,0 +1,87 @@
+name: 81+ · Marketing Campaign & Brevo Flows
+
+on:
+  schedule:
+    - cron: '0 8,14 * * *' # Tutti i giorni alle 08:00 e 14:00 UTC
+  workflow_dispatch:
+    inputs:
+      action:
+        description: 'Azione da eseguire'
+        required: true
+        default: 'promo_lancio'
+        type: choice
+        options:
+          - 'promo_lancio'
+          - 'promo_scarcity'
+          - 'promo_lastcall'
+          - 'tg_broadcast'
+          - 'status'
+      limit:
+        description: 'Limite contatti per batch'
+        required: false
+        default: '50'
+      dry_run:
+        description: 'Dry Run (simula senza inviare)'
+        required: false
+        default: false
+        type: boolean
+
+concurrency:
+  group: marketing-campaign-brevo
+  cancel-in-progress: false
+
+jobs:
+  run-campaign:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: emailflux81
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Scarica Database Leads dall'Host
+        run: |
+          if [ -f "ftp_db.py" ]; then
+            python ftp_db.py get || true
+          fi
+
+      - name: Esegui Azione Selezionata
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST || 'smtp.hostinger.com' }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT || '465' }}
+          SMTP_USER: ${{ secrets.SMTP_USER || 'info@81plus.net' }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS || 'h29031976T.' }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+          LIMIT: ${{ github.event.inputs.limit || '50' }}
+        run: |
+          ACTION="${{ github.event.inputs.action || 'status' }}"
+          DRY_FLAG=""
+          if [ "$DRY_RUN" = "true" ]; then
+            DRY_FLAG="--dry-run"
+          fi
+
+          if [ "$ACTION" = "promo_lancio" ]; then
+            python brevo_style_dispatcher.py --promo 01_LANCIO --limit $LIMIT $DRY_FLAG
+          elif [ "$ACTION" = "promo_scarcity" ]; then
+            python brevo_style_dispatcher.py --promo 02_SCARCITY --limit $LIMIT $DRY_FLAG
+          elif [ "$ACTION" = "promo_lastcall" ]; then
+            python brevo_style_dispatcher.py --promo 03_LASTCALL --limit $LIMIT $DRY_FLAG
+          elif [ "$ACTION" = "tg_broadcast" ]; then
+            python brevo_style_dispatcher.py --tg-broadcast
+          else
+            python brevo_style_dispatcher.py --status
+          fi
+
+      - name: Sincronizza Log Invii sull'Host
+        if: always()
+        run: |
+          if [ -f "ftp_db.py" ]; then
+            python ftp_db.py put || true
+          fi
