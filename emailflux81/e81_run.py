@@ -2,7 +2,7 @@
 Extra: i flussi FLOW_PROFILO_* ESCONO da soli quando users.profilo_completo=1.
 FLOW_PROFILO_REMINDER e' CICLICO: riparte ogni REMINDER_DAYS finche' il profilo non e' completo.
 DRY_RUN=1 (default) NON invia. Rispetta DAILY_CAP e BATCH."""
-import json, datetime, time, urllib.parse, re
+import json, datetime, time, urllib.parse, re, random
 from e81_db import con, sub_id
 from e81_config import BASE_URL, DRY_RUN, DAILY_CAP, BATCH, THROTTLE
 from e81_guard import violations
@@ -79,10 +79,33 @@ def main():
                       (sub,e["contact_id"],'email',tpl["id"],"guard_block",",".join(v)))
         else:
             try:
-                if DRY_RUN: stato="dry"; err=None
+                if DRY_RUN:
+                    stato="dry"; err=None
                 else:
-                    unsub=f"{BASE_URL}/u/?e="+urllib.parse.quote(e["email"]); send(e["email"],subj,html,unsub); stato="inviato"; err=None; time.sleep(THROTTLE)
-            except Exception as ex: stato="errore"; err=str(ex)[:300]
+                    unsub=f"{BASE_URL}/u/?e="+urllib.parse.quote(e["email"])
+                    send(e["email"],subj,html,unsub)
+                    stato="inviato"; err=None
+                    # Jitter organico per evitare pattern robotici su SMTP Hostinger
+                    jitter_sleep = random.uniform(THROTTLE, THROTTLE + 3.5)
+                    time.sleep(jitter_sleep)
+            except Exception as ex:
+                err_msg = str(ex)
+                stato="errore"; err=err_msg[:300]
+                lower_err = err_msg.lower()
+
+                # 1. BOUNCE PERMANENTE: disiscrivi e blocca subito per non bruciare la reputazione del dominio
+                if any(k in lower_err for k in ["550", "551", "552", "553", "554", "user unknown", "recipient rejected", "mailbox not found", "does not exist", "address rejected"]):
+                    print(f"  [BOUNCE SOPPRESSO] {e['email']} -> {err_msg[:80]}")
+                    c.execute("UPDATE ghl_contact SET unsub=1, tags=coalesce(tags,'') || ',bounced' WHERE id=?", (e["contact_id"],))
+                    c.execute("UPDATE ghl_workflow_enrollment SET stato='bounced' WHERE contact_id=?", (e["contact_id"],))
+
+                # 2. RATE LIMIT HOSTINGER: interrompi immediatamente il batch corrente per proteggere l'account SMTP
+                elif any(k in lower_err for k in ["421", "450", "451", "rate limit", "too many", "connection refused", "throttled", "quota"]):
+                    print(f"  [ALLERTA RATE LIMIT] Hostinger SMTP richiede rallentamento: {err_msg[:100]}. Interrompo il batch corrente.")
+                    c.execute("INSERT INTO ghl_send_log(sub_account_id,contact_id,canale,template_id,stato,errore) VALUES(?,?,?,?,?,?)",
+                              (sub,e["contact_id"],'email',tpl["id"],"rate_limited",err))
+                    break
+
             c.execute("INSERT INTO ghl_send_log(sub_account_id,contact_id,canale,template_id,stato,errore) VALUES(?,?,?,?,?,?)",
                       (sub,e["contact_id"],'email',tpl["id"],stato,err))
         # AVANZAMENTO

@@ -200,10 +200,15 @@ def put():
     if not target_path:
         target_path = CANDS[0]
 
-    # Eseguiamo upload su file temporaneo remoto e poi rename atomico
+    # Eseguiamo upload su file temporaneo remoto univoco e poi rename atomico
     f = connect_ftp()
     try:
-        tmp_remote = target_path + ".tmp_upload"
+        tmp_remote = f"{target_path}.tmp_{int(time.time())}"
+        # Rimuoviamo eventuali vecchi residui se possibile
+        try:
+            f.delete(target_path + ".tmp_upload")
+        except Exception:
+            pass
         print(f"[FTP] Carico {LOCAL} ({local_size:,} byte) su '{tmp_remote}'...")
         with open(LOCAL, "rb") as fp:
             f.storbinary(f"STOR {tmp_remote}", fp, blocksize=BLOCKSIZE)
@@ -220,9 +225,15 @@ def put():
         if "/" not in target_path or target_path == "81plus.db":
             try:
                 pub_copy = "public_html/81plus.db"
+                pub_tmp = f"public_html/81plus.db.tmp_{int(time.time())}"
                 with open(LOCAL, "rb") as fp:
-                    f.storbinary(f"STOR {pub_copy}", fp, blocksize=BLOCKSIZE)
-                print(f"[OK] Copia speculare caricata anche in '{pub_copy}'")
+                    f.storbinary(f"STOR {pub_tmp}", fp, blocksize=BLOCKSIZE)
+                try:
+                    f.delete(pub_copy)
+                except Exception:
+                    pass
+                f.rename(pub_tmp, pub_copy)
+                print(f"[OK] Copia speculare caricata atomicamente anche in '{pub_copy}'")
             except Exception as e:
                 print(f"Nota copia public_html: {e}")
 
