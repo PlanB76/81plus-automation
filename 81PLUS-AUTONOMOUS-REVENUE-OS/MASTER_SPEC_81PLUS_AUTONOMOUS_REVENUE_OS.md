@@ -610,5 +610,69 @@ Prima di consentire a qualunque azione di raggiungere l'esterno (email, carrello
 
 ---
 
-### STATO DEL DOCUMENTO: CONGELATO (MASTER v1.0)
+---
+
+## 12. I 4 LOOP OPERATIVI A CICLO CHIUSO
+
+La macchina 81+ orchestra 4 cicli continui interconnessi:
+
+`	ext
+1. ACQUISITION LOOP:
+   Lead Factory H24 → Registry/Open Data → Dedupe & Verify → Contactability Gate → W00 Raw Leads
+
+2. CONVERSION LOOP:
+   W20 Aware → COPY81 Serial Episodes (1..12) → Sarcasm/Smart Voice → Universal CTA (VAI SULLA PIATTAFORMA) → Frictionless Onboarding → Buyer
+
+3. LIFETIME LOOP:
+   Attestato con Codice Univoco → Scadenzario Perpetuo (T-90, T-60, T-30, T0) → Aggiornamenti Ciclici → Espansione Organico → Referral B2B
+
+4. DEMAND / SUPPLY LOOP (PER L'AULA & ADDESTRAMENTO PRATICO):
+   Bisogni Aggregati Territoriali → DEMAND81 → Raggiungimento Quorum (>= 5 allievi) → CLASS81 → Conferma Edizione SCHEDULE81 → Erogazione ANFOS → Margine Netto 88%
+`
+
+---
+
+## 13. IL MOTORE DI FORMAZIONE IN AULA (AULA PRESENZA & LOGISTICA)
+
+1. **DELIVERY81 (Training Delivery Router)**:
+   - Determina se il corso richiede aula pratica (AULA_PRESENZA, BLENDED) o se è 100% online (ONLINE_FAD).
+   - Gestisce la logistica territoriale, orari e requisiti didattici.
+2. **SCHEDULE81 (Classroom Scheduling)**:
+   - Calendario dinamico edizioni con tracciamento posti: POSTI_DISPONIBILI = POSTI_TOTALI - POSTI_OCCUPATI.
+   - Gestione delle soglie di conferma: passaggio da IN_ATTESA_QUORUM a CONFERMATO al raggiungimento del quorum minimo (default: 5 allievi).
+3. **CLASS81 (Classroom Generator)**:
+   - Trasforma la domanda aggregata per provincia/cap in una classe reale, prenotando le sessioni d'aula e i docenti.
+4. **SUPPLY81 (Inventory & Availability Guard)**:
+   - Verifica disponibilità effettiva di posti prima di qualsiasi promozione outbound, evitando overbooking o cancellazioni.
+5. **Economics Centri ANFOS**:
+   - Accesso operativo: labomobile.lm@gmail.com / h29031976T.
+   - Costo attestato base: da **€ 10,00 a € 30,00**.
+   - Prezzo di vendita libero: da **€ 150,00 a € 300,00+**.
+   - Margine operativo netto: **80% - 93%**.
+
+---
+
+## 14. ONBOARDING, ACTIVATION, FRICTION & POST-COURSE ENGINE
+
+1. **ONBOARD81 (Frictionless Onboarding)**:
+   - Percorso guidato post-click: CLICK → LANDING → GUIDA 60s → REGISTRAZIONE → PRIMA AZIONE.
+   - Registrazione rapida con soli dati essenziali (email e P.IVA/settore).
+2. **ACTIVATION81 (Real Activation Metric)**:
+   - Non conta solo le registrazioni, ma misura il compimento della prima azione di valore: completamento del Safety Check o avvio del primo modulo formativo.
+3. **FRICTION81 (UX vs Copy Diagnostic Engine)**:
+   - Analizza la caduta tra gli step del funnel.
+   - Distingue matematicamente se un drop-off è dovuto a un problema di Copy (basso click rate) o a un problema di interfaccia/UX (abbandono form o confusione d'accesso).
+4. **GUIDE81 (Dynamic Platform Guide)**:
+   - Eroga contestualmente sezioni della guida *81+ Senza Manuale* in base alla pagina visitata dall'utente.
+5. **LOST81 (Lost Revenue Reason Intelligence)**:
+   - Rileva e classifica i motivi di mancato acquisto: PREZZO, DISTANZA_SEDE, DATA_INCOMPATIBILE, GIA_FATTO, MODALITA_ERRATA, NON_DECISORE.
+   - Retro-alimenta COPY81 per calibrare le risposte e PRODUCT81 per valutare nuove sedi o bundle.
+6. **POSTCOURSE81 (Post-Course Lifecycle)**:
+   - Emissione attestato con codice univoco anticontraffazione.
+   - Attivazione automatica dello scadenzario a 3 o 5 anni (D.Lgs. 81/08).
+   - Generazione della Next Best Action complementare per massimizzare il valore a vita (LTV).
+
+---
+
+### STATO DEL DOCUMENTO: UFFICIALE & CONGELATO (MASTER v1.0 DEFINITIVA)
 *Qualsiasi modifica futura alla logica di business o alla struttura dei motori deve rispettare tassativamente il vincolo delle 81 capability e dei 7 cancelli di sicurezza definiti in questo documento.*
