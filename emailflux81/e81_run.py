@@ -23,7 +23,7 @@ def profilo_completo(c, sic):
 def render(html, subject, contact, send_id):
     nome=contact["nome"] or "titolare"; email=contact["email"]; sic=contact["sic"] or ""
     unsub=f"{BASE_URL}/u/?e="+urllib.parse.quote(email)
-    fad_url="https://corsi.elearningsicurezza.com/aziende/pid/2377/#login"
+    fad_url="https://corsi.elearningsicurezza.com/pid/2377/#login"
     for k,v in {"{nome}":nome,"{{NOME}}":nome,"{{EMAIL}}":email,"{email}":email,
                 "{{UNSUB}}":unsub,"{unsub_url}":unsub,"{tg_group_url}":BASE_URL+"/area",
                 "{corsi_url}":fad_url,"{{CORSI_URL}}":fad_url,

@@ -9,12 +9,13 @@ on:
   workflow_dispatch:            # + avvio manuale dal tab Actions
 concurrency:
   group: anima-respiro
-  cancel-in-progress: false
+  cancel-in-progress: true
 permissions:
   contents: write               # per ricommittare lo stato aggiornato
 jobs:
   battito:
     runs-on: ubuntu-latest
+    timeout-minutes: 12
     env:
       # chiavi LLM cloud (mettile in Settings > Secrets and variables > Actions)
       GROQ_API_KEY:      ${{ secrets.GROQ_API_KEY }}
@@ -68,7 +69,7 @@ jobs:
         run: |
           sudo apt-get -y install lftp >/dev/null 2>&1 || true
           for f in anima_stato.json anima/SITREP.md; do
-            [ -f "$f" ] && lftp -u "$FTP_USER","$FTP_PASS" -e "set ftp:ssl-allow no; put -O / $f; bye" "$FTP_HOST" || true
+            [ -f "$f" ] && lftp -u "$FTP_USER","$FTP_PASS" -e "set ftp:ssl-allow no; set net:timeout 15; set net:max-retries 2; put -O / $f; bye" "$FTP_HOST" || true
           done
         env:
           FTP_HOST: ${{ secrets.FTP_HOST }}

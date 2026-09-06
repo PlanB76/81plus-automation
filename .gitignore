@@ -20,3 +20,5 @@ cloud_state/th_*.jpg
 # EMAILFLUX: mai committare DB/contatti
 emailflux81/*.db
 emailflux81/*.db-*
+emailflux81/.dbpath
+scratch/

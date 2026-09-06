@@ -6,12 +6,13 @@ on:
   workflow_dispatch: {}
 concurrency:
   group: tg-libri81
-  cancel-in-progress: false
+  cancel-in-progress: true
 permissions:
   contents: write
 jobs:
   libri:
     runs-on: ubuntu-latest
+    timeout-minutes: 12
     env:
       GROQ_API_KEY:       ${{ secrets.GROQ_API_KEY }}
       SICURIX_TG_TOKEN:   ${{ secrets.SICURIX_TG_TOKEN }}

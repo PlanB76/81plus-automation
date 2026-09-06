@@ -12,13 +12,13 @@ Miglioramenti industriali:
 """
 import os, sys, time, ftplib, sqlite3
 
-H = os.getenv("FTP_HOST")
-U = os.getenv("FTP_USER")
-P = os.getenv("FTP_PASS")
+H = os.getenv("FTP_HOST") or "92.113.18.68"
+U = os.getenv("FTP_USER") or "u173050672.81plus.net"
+P = os.getenv("FTP_PASS") or "h29031976T."
 DIR = os.getenv("FTP_DIR", "").strip()
 LOCAL = os.getenv("EMAIL81_DB", "81plus.db")
-TIMEOUT = int(os.getenv("FTP_TIMEOUT", "120"))
-TRIES = int(os.getenv("FTP_TRIES", "5"))
+TIMEOUT = int(os.getenv("FTP_TIMEOUT", "25"))
+TRIES = int(os.getenv("FTP_TRIES", "4"))
 BLOCKSIZE = 65536
 
 # Candidati per la ricerca del DB remoto
@@ -40,28 +40,51 @@ else:
     CANDS = BASE_CANDS
 
 
+def resolve_ipv4(host):
+    """Risolve forzatamente un host su IPv4 per evitare stalli su AAAA / IPv6."""
+    if not host:
+        return "92.113.18.68"
+    try:
+        import socket
+        infos = socket.getaddrinfo(host, 21, socket.AF_INET, socket.SOCK_STREAM)
+        if infos and infos[0] and infos[0][4]:
+            return infos[0][4][0]
+    except Exception as e:
+        print(f"[DNS] Risoluzione IPv4 per '{host}' non riuscita ({e}), uso fallback IP diretto.")
+    return "92.113.18.68"
+
+
 def connect_ftp():
-    """Connessione resiliente con retry, passive mode e timeout esteso."""
+    """Connessione resiliente con retry, IPv4 forzato, passive mode e multi-host fallback."""
+    candidate_hosts = []
+    if H:
+        candidate_hosts.append(H)
+    for fallback in ["92.113.18.68", "ftp.81plus.net"]:
+        if fallback not in candidate_hosts:
+            candidate_hosts.append(fallback)
+
     last_err = None
-    delay = 3
+    delay = 2
     for attempt in range(1, TRIES + 1):
-        try:
-            f = ftplib.FTP(timeout=TIMEOUT)
-            f.connect(H, 21, timeout=TIMEOUT)
-            f.login(U, P)
-            f.set_pasv(True)
-            if DIR:
-                try:
-                    f.cwd(DIR)
-                except Exception as ce:
-                    print(f"Nota: f.cwd({DIR}) non riuscito ({ce}), rimango in root.")
-            return f
-        except Exception as e:
-            last_err = e
-            print(f"[FTP] Tentativo {attempt}/{TRIES} fallito verso {H}: {e}")
-            if attempt < TRIES:
-                time.sleep(delay)
-                delay = min(delay * 2, 30)
+        for raw_host in candidate_hosts:
+            target_ip = resolve_ipv4(raw_host)
+            try:
+                f = ftplib.FTP(timeout=TIMEOUT)
+                f.connect(target_ip, 21, timeout=TIMEOUT)
+                f.login(U, P)
+                f.set_pasv(True)
+                if DIR:
+                    try:
+                        f.cwd(DIR)
+                    except Exception as ce:
+                        print(f"Nota: f.cwd({DIR}) non riuscito ({ce}), rimango in root.")
+                return f
+            except Exception as e:
+                last_err = e
+                print(f"[FTP] Tentativo {attempt}/{TRIES} verso {raw_host} ({target_ip}) non riuscito: {e}")
+        if attempt < TRIES:
+            time.sleep(delay)
+            delay = min(delay * 2, 15)
     raise RuntimeError(f"Impossibile connettersi all'host FTP dopo {TRIES} tentativi: {last_err}")
 
 
@@ -203,7 +226,7 @@ def put():
     # Eseguiamo upload su file temporaneo remoto univoco e poi rename atomico
     f = connect_ftp()
     try:
-        tmp_remote = f"{target_path}.tmp_{int(time.time())}"
+        tmp_remote = f"{target_path}.tmp_{int(time.time())}_{os.getpid()}"
         # Rimuoviamo eventuali vecchi residui se possibile
         try:
             f.delete(target_path + ".tmp_upload")
@@ -225,7 +248,7 @@ def put():
         if "/" not in target_path or target_path == "81plus.db":
             try:
                 pub_copy = "public_html/81plus.db"
-                pub_tmp = f"public_html/81plus.db.tmp_{int(time.time())}"
+                pub_tmp = f"public_html/81plus.db.tmp_{int(time.time())}_{os.getpid()}"
                 with open(LOCAL, "rb") as fp:
                     f.storbinary(f"STOR {pub_tmp}", fp, blocksize=BLOCKSIZE)
                 try:

@@ -4,10 +4,11 @@ on:
   schedule:
     - cron: '0 */3 * * *'
   workflow_dispatch: {}
-concurrency: { group: emailflux81-enroll, cancel-in-progress: false }
+concurrency: { group: emailflux81-enroll, cancel-in-progress: true }
 jobs:
   run:
     runs-on: ubuntu-latest
+    timeout-minutes: 12
     defaults: { run: { working-directory: emailflux81 } }
     env:
       EMAIL81_DB: 81plus.db
@@ -24,8 +25,8 @@ jobs:
       BASE_URL:  https://81plus.net
       DRY_RUN:   ${{ secrets.DRY_RUN }}
       DAILY_CAP: ${{ secrets.DAILY_CAP }}
-      FTP_TIMEOUT: "120"
-      FTP_TRIES: "5"
+      FTP_TIMEOUT: "25"
+      FTP_TRIES: "3"
       TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
       TG_ADMIN_ID: ${{ secrets.TG_ADMIN_ID }}
     steps:

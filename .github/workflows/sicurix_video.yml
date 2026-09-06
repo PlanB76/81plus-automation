@@ -15,11 +15,12 @@ permissions:
 
 concurrency:
   group: sicurix-video
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   video:
     runs-on: ubuntu-latest
+    timeout-minutes: 12
     steps:
       - name: Checkout
         uses: actions/checkout@v4

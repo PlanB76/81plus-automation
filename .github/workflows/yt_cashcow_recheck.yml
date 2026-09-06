@@ -10,10 +10,11 @@ permissions:
   contents: write
 concurrency:
   group: yt-cashcow-recheck
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   recheck:
     runs-on: ubuntu-latest
+    timeout-minutes: 12
     env:
       YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       YT_CHANNEL_ID:   ${{ vars.YT_CHANNEL_ID }}

@@ -11,6 +11,7 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 12
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -41,7 +42,7 @@ jobs:
           if [ -n "$FTP_HOST" ] && [ -n "$FTP_USER" ] && [ -n "$FTP_PASS" ]; then
             sudo apt-get update -y >/dev/null 2>&1 || true
             sudo apt-get install -y lftp >/dev/null 2>&1 || true
-            lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:ssl-allow true; set ssl:verify-certificate no; cd ${FTP_DIR:-public_html}; put -O . tales_videos.json; bye" && echo "FTP: tales_videos.json caricato" || echo "FTP fallito (controlla host/dir)"
+            lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:ssl-allow true; set ssl:verify-certificate no; set net:timeout 15; set net:max-retries 2; cd ${FTP_DIR:-public_html}; put -O . tales_videos.json; bye" && echo "FTP: tales_videos.json caricato" || echo "FTP fallito (controlla host/dir)"
           else
             echo "FTP_HOST/FTP_USER/FTP_PASS assenti: salto il deploy sul sito live. Aggiungili come secret per aggiornare 81plus.net in automatico."
           fi
