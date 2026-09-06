@@ -181,28 +181,60 @@ def toggle_flow_pause(flow_code, pause=True):
 # ---------------------------------------------------------
 # 3. FINE MESE: FATTURO E CONTO I SOLDI
 # ---------------------------------------------------------
-def record_sale(order_id, rag_soc, piva_cf, indirizzo, pec_sdi, oggetto, lordo, partner_cost=0.0):
-    """Registra una vendita automatica avvenuta sulla piattaforma 81+."""
+def record_sale(order_id, rag_soc, piva_cf, indirizzo, pec_sdi, oggetto, lordo, tipo_prodotto="CORSO"):
+    """
+    Registra una vendita sulla piattaforma 81+:
+    - Documenti: provvigione del 50%
+    - Corsi E-Learning: provvigione fino al 48% (media 48%)
+    - Costi di piattaforma/certificazione: ZERO a carico del Founder
+    - Incasso Founder a 60 giorni DFFM da parte della società e-learning
+    """
     ensure_cockpit_tables()
     conn = get_connection()
     c = conn.cursor()
     
-    imponibile = round(lordo / 1.22, 2)
-    iva_22 = round(lordo - imponibile, 2)
-    gateway_fee = round(lordo * 0.015 + 0.25, 2) # Stripe standard
-    utile_netto = round(imponibile - gateway_fee - partner_cost, 2)
+    # Calcolo Provvigione Spettante al Founder
+    if "DOCUMENT" in tipo_prodotto.upper() or "DVR" in oggetto.upper() or "HACCP_DOC" in oggetto.upper():
+        comm_pct = 0.50
+    else:
+        comm_pct = 0.48
+        
+    imponibile_totale = round(lordo / 1.22, 2)
+    # La provvigione del founder è calcolata sull'imponibile (o transato lordo a seconda del contratto)
+    provvigione_founder = round(imponibile_totale * comm_pct, 2)
+    iva_fattura_founder_22 = round(provvigione_founder * 0.22, 2)
+    totale_fattura_founder = round(provvigione_founder + iva_fattura_founder_22, 2)
+    
+    # Calcolo data incasso a 60 giorni Fine Mese (DFFM)
+    now = datetime.now()
+    # Fine mese corrente + 2 mesi
+    m = now.month + 2
+    y = now.year
+    if m > 12:
+        m -= 12
+        y += 1
+    import calendar
+    last_day = calendar.monthrange(y, m)[1]
+    data_incasso_dffm = f"{y:04d}-{m:02d}-{last_day:02d}"
     
     c.execute("""
         INSERT OR REPLACE INTO founder_billing_ledger (
             order_id, rag_soc, piva_cf, indirizzo, pec_sdi,
             oggetto_servizio, importo_lordo, imponibile, iva_22,
-            gateway_fee, costo_partner, utile_netto, stato_pagamento
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'PAID');
-    """, (order_id, rag_soc, piva_cf, indirizzo, pec_sdi, oggetto, lordo, imponibile, iva_22, gateway_fee, partner_cost, utile_netto))
+            gateway_fee, costo_partner, utile_netto, stato_pagamento, note
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 0.0, 0.0, ?, 'PAID', ?);
+    """, (order_id, rag_soc, piva_cf, indirizzo, pec_sdi, oggetto, lordo, imponibile_totale, round(lordo - imponibile_totale, 2), provvigione_founder, f"Fattura Founder a società e-learning: € {totale_fattura_founder} (Incasso DFFM: {data_incasso_dffm})"))
     
     conn.commit()
     conn.close()
-    return {'order_id': order_id, 'lordo': lordo, 'netto': utile_netto}
+    return {
+        'order_id': order_id,
+        'lordo_vendita': lordo,
+        'imponibile_vendita': imponibile_totale,
+        'provvigione_netta_founder': provvigione_founder,
+        'fattura_founder_con_iva': totale_fattura_founder,
+        'data_incasso_stimata_60_dffm': data_incasso_dffm
+    }
 
 def generate_end_of_month_report(year=None, month=None):
     """Genera il riepilogo per il commercialista e il conto netto dei soldi del mese."""
