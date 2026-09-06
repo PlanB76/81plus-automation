@@ -90,10 +90,18 @@ jobs:
         run: |
           python compliance_profit_predictor.py
 
-      - name: 5. Commit & Push Database e Log Aggiornati
+      - name: 5. Revenue OS Verifier Audit (PASS/FAIL Gates verso €1M)
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN || '8939527194:AAFi56LHlyNJnBGzXC_a4Wqsht1G1DCLPbo' }}
+          TG_ADMIN_ID: ${{ secrets.TG_ADMIN_ID || '642593407' }}
+        run: |
+          python privacy_compliance_gate.py
+          python revenue_os_verifier.py
+
+      - name: 6. Commit & Push Database e Log Aggiornati
         run: |
           git config --local user.email "bot@81plus.net"
           git config --local user.name "81+ Autonomous Bot"
           git add 81plus.db sent_log_brevo.csv || true
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore(auto-loop): sync network, predict profit & dispatch logs [skip ci]"
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore(auto-loop): sync network, predict profit, audit verifier & dispatch logs [skip ci]"
           git push origin HEAD || true
