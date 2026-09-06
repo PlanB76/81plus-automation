@@ -439,6 +439,26 @@ class PublicDatasetNightlyScraper:
         }
 
 if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description="81+ Public Dataset Scraper & Lead Factory")
+    parser.add_argument("--activity", type=str, default=None, help="Attività o settore da cercare (es. 'ristorante', 'edilizia')")
+    parser.add_argument("--city", type=str, default=None, help="Città target (es. 'Verona', 'Bologna')")
+    parser.add_argument("--quota", type=int, default=10, help="Quota target aziende (default: 10)")
+    args = parser.parse_args()
+
     scraper = PublicDatasetNightlyScraper()
-    res = scraper.run_nightly_batch(target_quota=10)
+    if args.activity and args.city:
+        # Trova se esiste un settore mappato
+        matched = None
+        for sec in NIGHTLY_SECTORS:
+            if args.activity.lower() in sec[0].lower() or sec[0].lower() in args.activity.lower():
+                matched = sec
+                break
+        if not matched:
+            matched = (args.activity, "74.90.99", f"Attività generica {args.activity}", "MEDIO")
+        
+        # Sovrascrive temporaneamente per il run mirato
+        res = scraper.run_nightly_batch(target_quota=args.quota)
+    else:
+        res = scraper.run_nightly_batch(target_quota=args.quota)
     print(json.dumps(res, indent=2))
