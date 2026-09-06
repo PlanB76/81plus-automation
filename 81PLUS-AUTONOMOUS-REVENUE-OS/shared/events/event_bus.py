@@ -86,6 +86,12 @@ class EventBus81:
         else:
             conn.commit()
 
+def emit_event(event_type: str, payload: dict, conn: sqlite3.Connection = None,
+               aggregate_type: str = "SYS", aggregate_id: str = "GLOBAL") -> str:
+    """Helper rapido per emettere eventi con commit automatico."""
+    bus = EventBus81(conn)
+    return bus.publish(event_type, aggregate_type, aggregate_id, payload)
+
 if __name__ == "__main__":
     bus = EventBus81()
     eid = bus.publish("TEST_EVENT", "SYSTEM", "M0_CHECK", {"status": "ACTIVE", "version": "1.0"})
