@@ -231,19 +231,22 @@ def run_dispatch(batch_limit=50, dry_run=False):
                 birthday_count += 1
 
     # ═══════════════════════════════════════════════════════════════
-    # FASE 3: PROMO STAGIONALE / RICORRENZE ANNUALI ATTIVE
+    # FASE 3: PROMO STAGIONALE / RICORRENZE ANNUALI ATTIVE (CON BARRIERE)
     # ═══════════════════════════════════════════════════════════════
     rimanenti_fase3 = batch_limit - sent_count
     if rimanenti_fase3 > 0 and active_seasonal_key in templates:
-        # Destiniamo fino al 50% del batch rimanente alla promo stagionale attiva (Natale, Pasqua, Ferragosto, Black Friday, Promo Settembre, ecc.)
         quota_stagionale = max(1, rimanenti_fase3 // 2)
         cur.execute("""
-            SELECT id, nome, cognome, email, ateco 
-            FROM ghl_contact 
-            WHERE email IS NOT NULL 
-              AND email != '' 
-              AND (unsub = 0 OR unsub IS NULL)
-              AND id NOT IN (
+            SELECT c.id, c.nome, c.cognome, c.email, c.ateco, 
+                   COALESCE(u.macro_settore, 'GENERALE_PMI') as macro_settore,
+                   COALESCE(u.temperatura, 'TIEPIDO') as temperatura,
+                   COALESCE(u.tags, '') as tags
+            FROM ghl_contact c
+            LEFT JOIN ghl_user360 u ON c.id = u.contact_id
+            WHERE c.email IS NOT NULL 
+              AND c.email != '' 
+              AND (c.unsub = 0 OR c.unsub IS NULL)
+              AND c.id NOT IN (
                   SELECT contact_id FROM ghl_send_log 
                   WHERE contact_id IS NOT NULL 
                     AND (created_at > datetime('now', '-7 days') OR template_id = ?)
@@ -252,22 +255,39 @@ def run_dispatch(batch_limit=50, dry_run=False):
         """, (active_seasonal_key, quota_stagionale))
         seasonal_leads = cur.fetchall()
 
-        tpl = templates[active_seasonal_key]
         for lead in seasonal_leads:
             if sent_count >= batch_limit:
                 break
             email = lead['email'].strip()
             nome = (lead['nome'] or 'Imprenditore').strip()
+            macro = lead['macro_settore']
+            tags = lead['tags']
+
+            # BARRIERA RIGIDA ANTI-CONTAMINAZIONE:
+            # Se la promo è HACCP/Alimentare ma il contatto è Edile -> Salta o commuta su Cantieri!
+            target_key = active_seasonal_key
+            if "HACCP" in target_key and (macro == "EDILIZIA" or "BARRIERA_NO_HACCP" in tags):
+                target_key = "PROMO_MAGGIO_CANTIERI" if "PROMO_MAGGIO_CANTIERI" in templates else "FABBRICA_DOCS_01"
+            elif "CANTIERI" in target_key and (macro == "FOOD_HACCP" or "BARRIERA_NO_CANTIERI" in tags):
+                target_key = "PROMO_GIUGNO_HACCP_ESTATE" if "PROMO_GIUGNO_HACCP_ESTATE" in templates else "CORSI_GRATIS_01"
+
+            tpl = templates.get(target_key, templates.get(active_seasonal_key))
+            if not tpl:
+                continue
+
             subj = tpl['subject'].replace("{nome}", nome)
             unsub_url = f"https://81plus.net/api/unsub.php?e={email}"
 
-            print(f"[*] Invio Promo Stagionale [{active_seasonal_key}] a {nome} <{email}>...")
+            print(f"[*] Invio Promo Stagionale [{target_key}] (Macro: {macro}) a {nome} <{email}>...")
             if not dry_run:
                 try:
                     send_email_message(server, email, nome, subj, tpl['body'], unsub_url)
                     cur.execute("""
                         INSERT INTO ghl_send_log (contact_id, email, template_id, stato) VALUES (?, ?, ?, 'INVIATO')
-                    """, (lead['id'], email, active_seasonal_key))
+                    """, (lead['id'], email, target_key))
+                    cur.execute("""
+                        UPDATE ghl_user360 SET tot_sent = tot_sent + 1, ultimo_invio = CURRENT_TIMESTAMP WHERE contact_id = ?
+                    """, (lead['id'],))
                     conn.commit()
                     sent_count += 1
                     seasonal_promo_count += 1
@@ -276,22 +296,26 @@ def run_dispatch(batch_limit=50, dry_run=False):
                     print(f"[-] Errore invio promo stagionale {email}: {e}")
                     failed_count += 1
             else:
-                print(f"[DRY-RUN] Simulata email promo stagionale [{active_seasonal_key}] a {email}")
+                print(f"[DRY-RUN] Simulata email promo stagionale [{target_key}] a {email}")
                 sent_count += 1
                 seasonal_promo_count += 1
 
     # ═══════════════════════════════════════════════════════════════
-    # FASE 4: CAMPAGNA NURTURING AI LEAD (CORSI GRATUITI & DOCS)
+    # FASE 4: CAMPAGNA NURTURING SEGMENTATA PER SETTORE & BARRIERE
     # ═══════════════════════════════════════════════════════════════
     rimanenti_fase4 = batch_limit - sent_count
     if rimanenti_fase4 > 0:
         cur.execute("""
-            SELECT id, nome, cognome, email, ateco 
-            FROM ghl_contact 
-            WHERE email IS NOT NULL 
-              AND email != '' 
-              AND (unsub = 0 OR unsub IS NULL)
-              AND id NOT IN (
+            SELECT c.id, c.nome, c.cognome, c.email, c.ateco, 
+                   COALESCE(u.macro_settore, 'GENERALE_PMI') as macro_settore,
+                   COALESCE(u.temperatura, 'TIEPIDO') as temperatura,
+                   COALESCE(u.tags, '') as tags
+            FROM ghl_contact c
+            LEFT JOIN ghl_user360 u ON c.id = u.contact_id
+            WHERE c.email IS NOT NULL 
+              AND c.email != '' 
+              AND (c.unsub = 0 OR c.unsub IS NULL)
+              AND c.id NOT IN (
                   SELECT contact_id FROM ghl_send_log 
                   WHERE contact_id IS NOT NULL 
                     AND created_at > datetime('now', '-7 days')
@@ -305,10 +329,17 @@ def run_dispatch(batch_limit=50, dry_run=False):
                 break
             email = lead['email'].strip()
             nome = (lead['nome'] or 'Imprenditore').strip()
-            ateco = str(lead['ateco'] or '')
+            macro = lead['macro_settore']
+            tags = lead['tags']
 
-            # Segmentazione intelligente per ATECO
-            if ateco.startswith(('41', '42', '43', '10', '11', '56')):
+            # Assegnazione del template con BARRIERA RIGIDA:
+            if macro == "EDILIZIA":
+                # Edile riceve Fabbrica Documenti (DVR cantieri, POS) o Corsi Cantieri. MAI HACCP!
+                tpl_key = "FABBRICA_DOCS_01"
+            elif macro == "FOOD_HACCP":
+                # Food riceve HACCP o Fabbrica Documenti Ristorazione. MAI Cantieri/POS!
+                tpl_key = "PROMO_GIUGNO_HACCP_ESTATE" if "PROMO_GIUGNO_HACCP_ESTATE" in templates else "CORSI_GRATIS_01"
+            elif macro in ("PRIVACY_SERVIZI", "INDUSTRIA"):
                 tpl_key = "FABBRICA_DOCS_01"
             else:
                 tpl_key = "CORSI_GRATIS_01"
@@ -320,13 +351,16 @@ def run_dispatch(batch_limit=50, dry_run=False):
             subj = tpl['subject'].replace("{nome}", nome)
             unsub_url = f"https://81plus.net/api/unsub.php?e={email}"
 
-            print(f"[*] Invio Nurturing Evergreen {tpl_key} a {nome} <{email}>...")
+            print(f"[*] Invio Nurturing Segmentato [{tpl_key}] ({macro}) a {nome} <{email}>...")
             if not dry_run:
                 try:
                     send_email_message(server, email, nome, subj, tpl['body'], unsub_url)
                     cur.execute("""
                         INSERT INTO ghl_send_log (contact_id, email, template_id, stato) VALUES (?, ?, ?, 'INVIATO')
                     """, (lead['id'], email, tpl_key))
+                    cur.execute("""
+                        UPDATE ghl_user360 SET tot_sent = tot_sent + 1, ultimo_invio = CURRENT_TIMESTAMP WHERE contact_id = ?
+                    """, (lead['id'],))
                     conn.commit()
                     sent_count += 1
                     nurturing_count += 1
