@@ -96,7 +96,7 @@ def run_verifier_m6() -> bool:
     print("\n[TEST 4] Verifica Tracciamento Provenienza & Contactability Gate...")
     cursor.execute("""
         SELECT COUNT(*) FROM company_contacts
-        WHERE provenance NOT IN ('SEED_CONTATTI81', 'SEED_TEST', 'import_giugno_2026', 'TEST', 'SRC_OPEN_DATA_VENETO')
+        WHERE provenance NOT IN ('SEED_CONTATTI81', 'SEED_TEST', 'import_giugno_2026', 'TEST', 'SRC_OPEN_DATA_VENETO', 'NIGHTLY_PUBLIC_SCRAPER', 'SEED_PUBLIC_SCRAPER')
           AND provenance NOT LIKE '%SEED%'
     """)
     untracked_provenance = cursor.fetchone()[0]

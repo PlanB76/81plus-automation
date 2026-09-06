@@ -1,0 +1,29 @@
+name: 81+ Nightly Public Dataset Lead Scraper & ATECO Cataloger
+
+on:
+  schedule:
+    # Runs every night at 01:00 UTC (03:00 AM CEST Italian time)
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape-and-catalog:
+    name: Nightly Public Lead Ingestion & ATECO Classification
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run Public Dataset Scraper & ATECO Cataloger
+        run: |
+          python 81PLUS-AUTONOMOUS-REVENUE-OS/services/discover/public_dataset_scraper.py
