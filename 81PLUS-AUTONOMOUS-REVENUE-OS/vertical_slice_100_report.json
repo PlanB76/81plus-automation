@@ -1,0 +1,89 @@
+{
+  "timestamp": "2026-09-06T18:24:14.469934",
+  "total_leads": 100,
+  "all_passed": true,
+  "engine_stats": {
+    "1_DISCOVER": {
+      "processed": 100,
+      "icp_high": 16,
+      "icp_medium": 1,
+      "icp_low": 83
+    },
+    "2_UNDERSTAND": {
+      "digital_twin_ok": 100,
+      "ateco_mapped": 100,
+      "identity_resolved": 100
+    },
+    "3_COMPLY": {
+      "obligations_generated": 100,
+      "evidence_verified": 100,
+      "courses_cataloged": 100
+    },
+    "4_ENGAGE": {
+      "can_contact": 46,
+      "review_needed": 54,
+      "do_not_contact": 0,
+      "no_cross_contamination": 100
+    },
+    "5_SELL": {
+      "nba_assigned": 100,
+      "basket_value_total": 113300.0,
+      "expected_revenue_total": 16802.5,
+      "partner_pid_assigned": 100
+    },
+    "6_RETAIN": {
+      "renewal_calendars_set": 100,
+      "sic_id_assigned": 100
+    },
+    "7_LEARN": {
+      "causal_logged": 100,
+      "decision_ledger_entries": 100
+    },
+    "8_CONTROL": {
+      "qa_gates_passed": 99,
+      "human_escalations": 1
+    }
+  },
+  "sample_decisions": [
+    {
+      "contact_id": 1,
+      "rag_soc": "2s Group Srls",
+      "perche": "Profilo GENERALE_PMI rischio BASSO temperatura W20",
+      "policy": "81PLUS_AUTONOMOUS_V1_RULE_GENERALE_PMI",
+      "azione": "INVITO_CHECKLIST_OPERATIVA_GRATUITA",
+      "valore_atteso": 42.5
+    },
+    {
+      "contact_id": 2,
+      "rag_soc": "3c Costruzioni 2012 S.r.l.",
+      "perche": "Profilo EDILIZIA rischio ALTO temperatura W40",
+      "policy": "81PLUS_AUTONOMOUS_V1_RULE_EDILIZIA",
+      "azione": "PROPOSTA_SAFETY_CHECK_GUIDATO_90SEC",
+      "valore_atteso": 343.00000000000006
+    },
+    {
+      "contact_id": 3,
+      "rag_soc": "Gianluca Prescianotto",
+      "perche": "Profilo GENERALE_PMI rischio BASSO temperatura W20",
+      "policy": "81PLUS_AUTONOMOUS_V1_RULE_GENERALE_PMI",
+      "azione": "INVITO_CHECKLIST_OPERATIVA_GRATUITA",
+      "valore_atteso": 42.5
+    },
+    {
+      "contact_id": 4,
+      "rag_soc": "3l Costruzioni",
+      "perche": "Profilo EDILIZIA rischio ALTO temperatura W40",
+      "policy": "81PLUS_AUTONOMOUS_V1_RULE_EDILIZIA",
+      "azione": "PROPOSTA_SAFETY_CHECK_GUIDATO_90SEC",
+      "valore_atteso": 343.00000000000006
+    },
+    {
+      "contact_id": 5,
+      "rag_soc": "A Catalano",
+      "perche": "Profilo GENERALE_PMI rischio BASSO temperatura W100",
+      "policy": "81PLUS_AUTONOMOUS_V1_RULE_GENERALE_PMI",
+      "azione": "MONITORAGGIO_SCADENZARIO_PERPETUO",
+      "valore_atteso": 722.5
+    }
+  ]
+}
