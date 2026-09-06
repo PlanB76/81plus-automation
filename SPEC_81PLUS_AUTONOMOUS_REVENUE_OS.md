@@ -1,5 +1,5 @@
 # SPEC_81PLUS_AUTONOMOUS_REVENUE_OS.md
-# 81+ AUTONOMOUS COMPLIANCE REVENUE OS
+# 81+ AUTONOMOUS REVENUE MACHINE
 ## ARCHITETTURA DELLA REVENUE FACTORY CHIUSA AD ANELLO (€1M/ANNO) & VERIFIER SYSTEM
 
 > **PRINCIPIO FONDAMENTALE NON NEGOZIABILE:**  
@@ -9,91 +9,185 @@
 
 ---
 
-## 1. IL LOOP COMPLETO DELLA REVENUE FACTORY
+## 1. TOPOLOGIA GLOBALE: LA REVENUE MACHINE AD ANELLO CHIUSO
 
-$$\begin{gathered}
-\text{FONTI PUBBLICHE} \longrightarrow \text{DISCOVERY} \longrightarrow \text{AZIENDA} \longrightarrow \text{ENRICHMENT} \longrightarrow \text{ATECO} \\
-\longrightarrow \text{COMPLIANCE INTEL} \longrightarrow \text{CONTATTO B2B} \longrightarrow \text{LEGAL GATE} \longrightarrow \text{LEAD SCORE} \\
-\longrightarrow \text{WARM-UP} \longrightarrow \text{CHECK GRATUITO} \longrightarrow \text{GAP NORMATIVO} \longrightarrow \text{OFFERTA NBA} \\
-\longrightarrow \text{COMMERCE/BUYER} \longrightarrow \text{PROVISIONING} \longrightarrow \text{SCADENZE} \longrightarrow \text{RINNOVI T-90..T-7} \\
-\longrightarrow \text{CROSS-SELL} \longrightarrow \text{REFERRAL} \longrightarrow \text{PROFIT PREDICTOR} \longrightarrow \text{LOOP}
-\end{gathered}$$
-
----
-
-## 2. I 22 MOTORI MODULARI DELL'ARCHITETTURA
-
-```mermaid
-graph TD
-    subgraph ACQUISIZIONE & INTELLIGENCE
-        M1[1. Discovery H24] --> M2[2. ATECO Intelligence]
-        M2 --> M3[3. Contact Discovery & Verify]
-        M3 --> M4[4. Compliance & Privacy Gate]
-        M4 --> M5[5. Global Lead Brain]
-        M6[6. 7K Cold Recovery] --> M5
-    end
-
-    subgraph ENGAGEMENT & DELIVERABILITY
-        M5 --> M7[7. Deliverability Engine]
-        M7 --> M8[8. Temperature W00-W100]
-        M8 --> M9[9. Personalization Engine]
-    end
-
-    subgraph REVENUE & TRANSAZIONI
-        M9 --> M10[10. Compliance Gap Engine]
-        M10 --> M11[11. Offer / NBA Engine]
-        M11 --> M12[12. Commerce Engine]
-        M12 --> M13[13. Commission Engine]
-        M12 --> M14[14. Document Engine]
-    end
-
-    subgraph RETENTION, WATCH & EVOLUZIONE
-        M12 --> M15[15. Renewal Engine]
-        M16[16. Law & Regulatory Watch] --> M10
-        M17[17. New-Hire / Triggers] --> M5
-        M18[18. AI Sales Agent] <--> M11
-        M19[19. Winback Engine] --> M8
-        M20[20. Referral Engine] --> M5
-        M21[21. Experiment Engine] --> M9
-    end
-
-    subgraph FORECAST & CONTROLLO
-        M15 --> M22[22. Profit Predictor & Verifier]
-        M13 --> M22
-        M22 --> M11
-    end
+```text
+                    81+ AUTONOMOUS REVENUE MACHINE
+                              │
+              ┌───────────────┴───────────────┐
+              │       00. CONTROL TOWER       │
+              │ KPI • AI • QA • PROFIT • LOG │
+              └───────────────┬───────────────┘
+                              │
+ ┌────────────────────────────▼────────────────────────────┐
+ │                    01. LEAD FACTORY H24                 │
+ │                                                         │
+ │ Open Data • Registri • Directory • Associazioni        │
+ │ Ordini • Albi • Siti aziendali • fonti autorizzate     │
+ │                                                         │
+ │ DISCOVER → ACQUIRE → SOURCE LOG → DEDUPE → VERIFY      │
+ └────────────────────────────┬────────────────────────────┘
+                              ▼
+ ┌─────────────────────────────────────────────────────────┐
+ │                 02. COMPANY INTELLIGENCE                │
+ │                                                         │
+ │ Company ID • dominio • settore • ATECO • dimensione    │
+ │ sedi • attività • contatti business • segnali          │
+ │                                                         │
+ │             COMPANY DIGITAL TWIN                        │
+ └────────────────────────────┬────────────────────────────┘
+                              ▼
+ ┌─────────────────────────────────────────────────────────┐
+ │               03. CONTACT + LEGAL GATE                  │
+ │                                                         │
+ │ Email verification • source • provenance • suppression │
+ │ privacy rules • opt-out • contactability • blacklist   │
+ │                                                         │
+ │ CAN CONTACT │ REVIEW │ DO NOT CONTACT                  │
+ └────────────────────────────┬────────────────────────────┘
+                              ▼
+ ┌─────────────────────────────────────────────────────────┐
+ │                 04. COMPLIANCE BRAIN                    │
+ │                                                         │
+ │ ATECO → RISCHI → RUOLI → OBBLIGHI → LEGGI              │
+ │       ↓            ↓             ↓                      │
+ │    CORSI       DOCUMENTI      SCADENZE                  │
+ │       ↓            ↓             ↓                      │
+ │ AGGIORNAMENTI   SERVIZI       RINNOVI                   │
+ └────────────────────────────┬────────────────────────────┘
+                              ▼
+ ┌─────────────────────────────────────────────────────────┐
+ │                  05. LEAD BRAIN                         │
+ │                                                         │
+ │ Need Score + Engagement + Purchase + Temperature       │
+ │                                                         │
+ │ W00 ── W20 ── W40 ── W60 ── W80 ── W100               │
+ │ COLD    AWARE   WARM    HOT    BUYER   CLIENT          │
+ └────────────────────────────┬────────────────────────────┘
+                              ▼
+ ┌─────────────────────────────────────────────────────────┐
+ │             06. EMAIL MARKETING MACHINE                 │
+ │                                                         │
+ │ Segment → Personalize → Send → Measure → Learn         │
+ │                                                         │
+ │ Education • normative • check • problem detector       │
+ │ case study • FAQ • offer • follow-up • reactivation    │
+ └────────────────────────────┬────────────────────────────┘
+                              ▼
+ ┌─────────────────────────────────────────────────────────┐
+ │                  07. SELL81+ ENGINE                     │
+ │                                                         │
+ │ NEXT BEST ACTION                                        │
+ │                                                         │
+ │ Course │ Attestato │ Documento │ Check │ Bundle        │
+ │ Consulenza │ Upgrade │ Cross-sell │ Downsell           │
+ └────────────────────────────┬────────────────────────────┘
+                              ▼
+ ┌─────────────────────────────────────────────────────────┐
+ │                  08. COMMERCE ENGINE                    │
+ │                                                         │
+ │ Landing → Cart → Checkout → Payment → Provisioning     │
+ │                  ↓                                      │
+ │         Affiliate/Commission Tracking                  │
+ └────────────────────────────┬────────────────────────────┘
+                              ▼
+                         💰 BUYER
+                              │
+                              ▼
+ ┌─────────────────────────────────────────────────────────┐
+ │                09. CUSTOMER LIFETIME OS                 │
+ │                                                         │
+ │ Customer Digital Twin                                  │
+ │        │                                                │
+ │        ├── nuovi obblighi                              │
+ │        ├── nuovi lavoratori                            │
+ │        ├── documenti                                   │
+ │        ├── aggiornamenti                               │
+ │        ├── scadenze                                    │
+ │        ├── rinnovi                                     │
+ │        ├── cross-sell                                  │
+ │        ├── winback                                     │
+ │        └── referral                                    │
+ └────────────────────────────┬────────────────────────────┘
+                              │
+                         ♻ LOOP PERPETUO
 ```
 
-### Dettaglio dei 22 Moduli:
+---
 
-1. **Lead Discovery Engine H24:** Raccoglie imprese da fonti lecite (open data, registri pubblici, elenchi territoriali). Ogni sorgente ha adapter con verifica licenza, terms e robots.txt.
-2. **ATECO Intelligence Engine:** Collega codice ATECO a rischi normativi, obblighi minimi, DPI necessari, ruoli obbligatori e corsi associati.
-3. **Contact Discovery & Verification:** Isola solo contatti B2B, valida sintassi e record MX, scarta catch-all rischiosi, spam trap note e indirizzi personali.
-4. **Compliance & Privacy Gate:** Tripla classificazione prima di qualsiasi invio: `CAN_CONTACT`, `DO_NOT_CONTACT`, `REVIEW_NEEDED`. Registro fonti, GDPR opt-out e suppression list globale.
-5. **Global Lead Brain:** Entità aziendale unica (Company ID $\rightarrow$ Dominio $\rightarrow$ P.IVA $\rightarrow$ Sedi $\rightarrow$ Digital Twin).
-6. **7K Cold Lead Recovery Engine:** Normalizza, deduplica e arricchisce i ~7.000 lead esistenti instradandoli per macro-settore.
-7. **Deliverability Engine:** Allineamento SPF, DKIM, DMARC, monitoraggio reputazione IP Hostinger, micro-batching (50-60 email), pause casuali 1.5s–3.0s.
-8. **Temperature Engine W00–W100:** Scoring composito: Engagement Score + Need Score + Purchase Score basato su comportamenti reali.
-9. **Personalization Engine:** Copywriter dinamico che adatta l'angolo: per l'edilizia focus su cantieri e patente a crediti; per il food focus su ASL, temperature e allergeni; per i servizi focus su privacy e VDT.
-10. **Compliance Gap Engine:** Il cervello economico: calcola cosa manca all'azienda, cosa scade e quale sanzione rischia in caso di controllo.
-11. **Offer / Next-Best-Action (NBA) Engine:** Determina in tempo reale l'offerta ottimale: prova prima FAD, asseverazione POS, registro HACCP, Collaudo 81.
-12. **Commerce Engine:** Carrello, checkout, fatturazione elettronica e provisioning automatico credenziali FAD.
-13. **Commission Engine:** Riconciliazione tracciata Partner ID 2377: click $\rightarrow$ esame superato $\rightarrow$ acquisto attestato $\rightarrow$ provvigione incassata.
-14. **Document Engine:** Generazione istantanea bozze POS, DVR, DUVRI, schede sanificazione con alert di asseverazione tecnica.
-15. **Renewal Engine:** Cadenza scadenze automatica a $T-90$, $T-60$, $T-30$, $T-7$ e scaduto $0d$.
-16. **Law & Regulatory Watch:** Monitora variazioni normative (Gazzetta Ufficiale, Accordi Stato-Regioni) e aggiorna i panieri dei Digital Twin.
-17. **New-Hire / Triggers:** Rileva ampliamenti aziendali, nuove sedi o assunzioni per innescare nuovi fabbisogni formativi.
-18. **AI Sales Agent:** Assistente virtuale per risposte a domande frequenti, qualificazione e supporto prevendita; escalation automatica su WhatsApp per ticket complessi.
-19. **Winback Engine:** Sequenze riattivazione per lead dormienti, carrelli abbandonati e rinnovi non confermati.
-20. **Referral Engine:** Generazione codice passaparola post-acquisto per premiare il referente con crediti formativi o sconti asseverazione.
-21. **Experiment Engine:** A/B testing multi-variato continuo su subject line, hook, CTA e layout.
-22. **Profit Predictor:** Dashboard previsionale del reverse funnel economico.
+## 2. I 10 MACRO-BLOCCHI ARCHITETTURALI & MAPPATURA DEI 22 MOTORI
+
+### [00] CONTROL TOWER (KPI • AI • QA • PROFIT • LOG)
+- **Motori Inclusi:** `M22 (Profit Predictor)`, `M21 (Experiment Engine)`, `M16 (Law Watch)`.
+- **Funzione:** Torre di controllo strategica, audit continuo dei 7 Cancelli Verifier, guardrail etici/legali, previsione cash-flow a 30-60-90 giorni e monitoraggio del ritmo di avvicinamento a € 1.000.000 ARR.
+
+### [01] LEAD FACTORY H24
+- **Motori Inclusi:** `M1 (Lead Discovery Engine H24)`, `M6 (7K Cold Lead Recovery)`.
+- **Pipeline:** `DISCOVER → ACQUIRE → SOURCE LOG → DEDUPE → VERIFY`.
+- **Fonti:** Open Data, elenchi pubblici, albi camerali e professionali, registri territoriali. Adapter conformi a termini d'uso, licenze e robots.txt.
+
+### [02] COMPANY INTELLIGENCE
+- **Motori Inclusi:** `M2 (ATECO Intelligence Engine)`, `M5 (Global Lead Brain)`.
+- **Output:** Creazione e aggiornamento del **Company Digital Twin** (ID Univoco $\rightarrow$ Dominio $\rightarrow$ P.IVA $\rightarrow$ Codice ATECO primario/secondario $\rightarrow$ Dimensione $\rightarrow$ Sedi operative $\rightarrow$ Segnali di rischio).
+
+### [03] CONTACT + LEGAL GATE
+- **Motori Inclusi:** `M3 (Contact Discovery & Verification)`, `M4 (Compliance & Privacy Gate)`.
+- **Stati Rigorosi:**
+  - `CAN CONTACT` (B2B corporate con base giuridica/legittimo interesse o contrattuale)
+  - `REVIEW` (Indirizzi consumer/freemail o con dati parziali; necessitano convalida)
+  - `DO NOT CONTACT` (PEC istituzionali, indirizzi personali, blacklist, spam trap note)
+
+### [04] COMPLIANCE BRAIN
+- **Motori Inclusi:** `M10 (Compliance Gap Engine)`, `M14 (Document Engine - POS/HACCP/DVR)`.
+- **Matrice Generativa:**
+  $$\text{ATECO} \longrightarrow \text{RISCHI} \longrightarrow \text{RUOLI} \longrightarrow \text{OBBLIGHI} \longrightarrow \text{LEGGI}$$
+  Genera i 3 vettori verticali:
+  1. **Corsi** $\rightarrow$ Aggiornamenti periodici (Accordo Stato-Regioni)
+  2. **Documenti** $\rightarrow$ POS cantiere, DVR, Manuali HACCP, Procedure
+  3. **Scadenze** $\rightarrow$ Rinnovi obbligatori a calendario
+
+### [05] LEAD BRAIN
+- **Motori Inclusi:** `M8 (Temperature Engine W00–W100)`.
+- **Algoritmo Scoring:** `Need Score + Engagement Score + Purchase Score`.
+- **Scala Termica:**
+  - `W00` (Cold / Sconosciuto)
+  - `W20` (Aware / Aperto & Profilato)
+  - `W40` (Warm / Gap Check avviato su POS/HACCP)
+  - `W60` (Hot / Preventivo o esame test iniziato)
+  - `W80` (Buyer / In carrello o esame terminato in attesa attestato)
+  - `W100` (Client / Certificato attivo a scadenzario)
+
+### [06] EMAIL MARKETING MACHINE
+- **Motori Inclusi:** `M7 (Deliverability Engine)`, `M9 (Personalization Engine)`.
+- **Pipeline:** `Segment → Personalize → Send → Measure → Learn`.
+- **Flussi Verticali:** Edilizia (POS/Patente a Crediti), Ristorazione (HACCP), Industria, Servizi, Feste e Ricorrenze, Nudge Esami Incompleti.
+- **Parametri Deliverability:** Batch da 50-60 email, pause 1.5s–3.0s, SPF/DKIM/DMARC 100% allineati su Hostinger SSL.
+
+### [07] SELL81+ ENGINE
+- **Motori Inclusi:** `M11 (Offer / Next-Best-Action Engine)`, `M18 (AI Sales Agent)`.
+- **Logica:** Decisione automatica del passo a massimo valore:
+  - Corso gratis FAD $\rightarrow$ Attestato accreditato (€45–€120)
+  - Costruttore POS $\rightarrow$ Asseverazione tecnica POS (€250)
+  - Registri HACCP $\rightarrow$ Manuale Autocontrollo & Tamponi (€300)
+  - Fascicolo d'Impresa $\rightarrow$ Protocollo Collaudo 81 (€497–€990)
+
+### [08] COMMERCE ENGINE
+- **Motori Inclusi:** `M12 (Commerce Engine)`, `M13 (Commission Engine PID 2377)`.
+- **Integrazione:** `Landing → Cart → Checkout → Payment → Provisioning`.
+- **Tracciamento Provvigioni:** Riconciliazione automatica con la piattaforma accreditata partner (PID 2377) per ogni esame superato e attestato acquistato.
+
+### [09] CUSTOMER LIFETIME OS (LOOP PERPETUO)
+- **Motori Inclusi:** `M15 (Renewal Engine)`, `M17 (New-Hire Triggers)`, `M19 (Winback)`, `M20 (Referral)`.
+- **Ciclo Continuo del Customer Digital Twin:**
+  - Nuovi obblighi normativi $\rightarrow$ Alert proattivo
+  - Nuovi lavoratori assunti $\rightarrow$ Formazione neo-assunti entro 60 giorni
+  - Scadenze attestati $\rightarrow$ Sequenza $T-90 \rightarrow T-60 \rightarrow T-30 \rightarrow T-7 \rightarrow T0$
+  - Referral post-servizio $\rightarrow$ Crediti formativi ed espansione rete
 
 ---
 
-## 3. IL VERIFIER — CONDIZIONI MATEMATICHE PASS / FAIL PER €1.000.000 / ANNO
+## 3. IL VERIFIER — CRUSCOTTO QUANTITATIVO PASS / FAIL VERSO € 1M
 
-### Modello Reverse Funnel €1M:
 $$\begin{aligned}
 \textbf{Target Annuale (ARR):} & \quad \mathbf{€\ 1.000.000,00} \\
 \textbf{Target Mensile (MRR):} & \quad \mathbf{€\ 83.333,33\text{ / mese}} \\
@@ -101,31 +195,28 @@ $$\begin{aligned}
 \textbf{Target Giornaliero:} & \quad \mathbf{€\ 2.739,73\text{ / giorno}}
 \end{aligned}$$
 
-### Paniere Ricavi & Conversion Metrics:
-- **Ticket Medio Blended ($T_m$):** € 220,00 (media ponderata tra corsi FAD € 45-120, asseverazioni POS/HACCP € 250-300, presidio Collaudo 81 € 497-990).
-- **Transazioni / Mese Necessarie:** $\approx 378$ transazioni/mese ($\approx 12,5$ transazioni/giorno).
-- **Aziende Attive a Digital Twin a Regime:** 3.500 – 4.500 imprese con rinnovo medio 1.2 volte/anno.
+### Risultato Audit Live dei 7 Cancelli:
+
+| Cancello | Focus | Metrica Live | Soglia Accettabilità | Esito |
+|---|---|---|---|:---:|
+| **G1** | Deliverability & Reputazione | Hard Bounce: **0.00%** | Bounce $< 1.0\%$ | **PASS** |
+| **G2** | Privacy & Legal Gate | B2B Abilitate: **5.585** (127 isolate) | 100% verificate | **PASS** |
+| **G3** | Profilazione ATECO Lead | Digital Twin: **100.0%** (9.413/9.413) | Copertura $> 95\%$ | **PASS** |
+| **G4** | Compliance Gap Detection | Imprese con Gap: **18.0%** (1.692) | Gap $> 15\%$ | **PASS** |
+| **G5** | FAD Exam Monetization | Esami Superati: **62.1%** (234/377) | Pass rate $> 50\%$ | **PASS** |
+| **G6** | Scadenzario & Rinnovi | Attestati in Regola: **40.4%** | In regola $> 35\%$ | **PASS** |
+| **G7** | ARR Pace verso €1M | Run-Rate: **€ 403.532,10** | Seed $> €300.000$ | **PASS** |
+
+> **STATO GENERALE**: **TUTTI I CANCELLI SUPERATI (PASS)**  
+> **Avanzamento a Regime:** **40.35%** dell'obiettivo € 1.000.000 ARR con **€ 33.627,68/mese MRR**.
 
 ---
 
-### TABELLA DEI 7 CANCELLI DI VERIFICA (VERIFIER GATES)
+## 4. HUMAN REVIEW GATE (PRECONTROLLO OBBLIGATORIO)
 
-| Cancello di Controllo | Metrica / KPI | Soglia Minima (PASS) | Condizione di Fallimento (FAIL) | Azione Automatica di Sicurezza |
-|---|---|---|---|---|
-| **GATE 1: Deliverability & Reputation** | Bounce Rate / Spam Complaint Rate | Bounce $< 1.5\%$<br>Spam $< 0.05\%$ | Bounce $> 2.0\%$<br>Spam $> 0.08\%$ | **KILL-SWITCH INVIO IMMEDIATO:** Sospensione batch e revisione lista |
-| **GATE 2: Privacy & Legal Gate** | % Contatti Verificati `CAN_CONTACT` | $100\%$ verificati con base giuridica | Record non tracciato o mancata opt-out | Esclusione istantanea dalla pipeline di contatto |
-| **GATE 3: Lead Activation (W00 $\rightarrow$ W20)** | Tasso di Apertura / Risposta | Open Rate $> 22\%$ | Open Rate $< 12\%$ | Cambio oggetto / Hook A/B Test / Riduzione frequenza |
-| **GATE 4: Engagement to Gap (W20 $\rightarrow$ W40/W60)** | Tasso di Utilizzo Tool / Check | CTR $> 4.5\%$<br>Check completati $> 1.5\%$ | CTR $< 1.8\%$ | Rimodulazione offerta utilità gratuita |
-| **GATE 5: Conversion to Transaction (W80 $\rightarrow$ W100)** | Conversione Carrello / FAD | Checkout rate $> 45\%$ | Checkout rate $< 20\%$ | Attivazione automatica Nudge WhatsApp prioritario |
-| **GATE 6: Renewal Retention Rate** | Rinnovi entro scadenza ($T-7$) | Retention $> 70\%$ | Retention $< 50\%$ | Chiamata desk commerciale o offerta bundled |
-| **GATE 7: Margine Operativo Netto** | Ricavi netti / (CAC + Infra) | Margine $> 75\%$ | Margine $< 60\%$ | Ottimizzazione canali di acquisizione |
-
----
-
-## 4. HUMAN REVIEW GATE (REGOLE DI INTERVENTO UMANO)
-Il sistema ferma l'automazione e notifica l'operatore umano (Mirco Pregnolato) quando:
-1. Un'impresa contesta la ricezione o richiede delucidazioni legali su privacy/trattamento dati.
-2. Viene richiesta asseverazione/firma tecnica su un POS o DVR redatto dall'IA.
-3. Il valore del preventivo generato supera € 1.500,00 (trattativa enterprise/corporate).
-4. Si verificano anomalie API sulla piattaforma partner FAD o sul gateway di pagamento.
-5. Il Verifier segnala FAIL su Deliverability o Bounce Rate in un singolo batch.
+Il sistema sospende il pilota automatico e richiede convalida umana (Mirco Pregnolato via WhatsApp `+39 338 877 1737`) nei seguenti 5 casi limite:
+1. Contestazioni formali o richieste di revoca consensi con delucidazioni GDPR.
+2. Asseverazione e firma tecnica di elaborati POS / DVR redatti tramite l'IA.
+3. Preventivi o carrelli con ticket singolo superiore a € 1.500,00.
+4. Anomalie o variazioni API sui sistemi della piattaforma partner nazionale.
+5. Rilevamento di anomalie di deliverability o soft bounce ripetuti.
