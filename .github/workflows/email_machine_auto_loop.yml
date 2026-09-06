@@ -1,0 +1,75 @@
+name: 81+ · Email Machine Auto-Loop & Network Sync
+
+on:
+  schedule:
+    - cron: '0 7,12,16 * * *' # 09:00, 14:00, 18:00 ora italiana
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Limite invio email per batch'
+        required: false
+        default: '60'
+      dry_run:
+        description: 'Dry Run (test senza invio effettivo)'
+        required: false
+        default: false
+        type: boolean
+
+concurrency:
+  group: email-machine-81plus
+  cancel-in-progress: false
+
+jobs:
+  sync-and-dispatch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    defaults:
+      run:
+        working-directory: emailflux81
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Installa Dipendenze
+        run: |
+          pip install requests urllib3
+
+      - name: 1. Sincronizzazione Piattaforma Network Affiliato & Corsisti
+        env:
+          PARTNER_USER: ${{ secrets.PARTNER_USER || 'mirco.pregnolato@geopec.it' }}
+          PARTNER_PASS: ${{ secrets.PARTNER_PASS || 'h29031976T.' }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN || '8939527194:AAFi56LHlyNJnBGzXC_a4Wqsht1G1DCLPbo' }}
+          TG_ADMIN_ID: ${{ secrets.TG_ADMIN_ID || '642593407' }}
+        run: |
+          python network_sync_monitor.py
+
+      - name: 2. Esecuzione Email Marketing Machine (Nudge Incompleti + Nurturing Lead)
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST || 'smtp.hostinger.com' }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT || '465' }}
+          SMTP_USER: ${{ secrets.SMTP_USER || 'info@81plus.net' }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS || 'h29031976T.' }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN || '8939527194:AAFi56LHlyNJnBGzXC_a4Wqsht1G1DCLPbo' }}
+          TG_ADMIN_ID: ${{ secrets.TG_ADMIN_ID || '642593407' }}
+        run: |
+          LIMIT_VAL="${{ github.event.inputs.limit || '60' }}"
+          DRY_ARG=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            DRY_ARG="--dry-run"
+          fi
+          python auto_evolutive_dispatcher.py --limit "$LIMIT_VAL" $DRY_ARG
+
+      - name: 3. Commit & Push Database e Log Aggiornati
+        run: |
+          git config --local user.email "bot@81plus.net"
+          git config --local user.name "81+ Autonomous Bot"
+          git add 81plus.db sent_log_brevo.csv || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore(auto-loop): sync network & dispatch logs [skip ci]"
+          git push origin HEAD || true
