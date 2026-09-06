@@ -1,0 +1,32 @@
+name: ANFOS Nightly 5-Course Validation Bot
+
+on:
+  schedule:
+    # Runs every night at 01:30 UTC (02:30 or 03:30 IT time)
+    - cron: '30 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  validate-anfos:
+    name: Request 5 ANFOS Validations
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Run ANFOS Validation Bot
+        env:
+          ANFOS_USER: ${{ secrets.ANFOS_USER || 'labomobile.lm@gmail.com' }}
+          ANFOS_PASSWORD: ${{ secrets.ANFOS_PASSWORD || 'h29031976T.' }}
+        run: |
+          python 81PLUS-AUTONOMOUS-REVENUE-OS/services/srv_compliance/anfos_validation_bot.py
