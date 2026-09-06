@@ -55,7 +55,7 @@ def run_migration(conn: sqlite3.Connection = None):
             enrolled_count INTEGER NOT NULL DEFAULT 0,
             waitlist_count INTEGER NOT NULL DEFAULT 0,
             status TEXT NOT NULL DEFAULT 'IDEA', -- IDEA, DEMAND_DETECTED, PROPOSED, OPEN, CONFIRMED, FULL, DELIVERED, CLOSED
-            instructor TEXT DEFAULT 'DOTT. ARCH. DIEGO LIACI PENZO',
+            instructor TEXT DEFAULT 'DOCENTE FORMATORE QUALIFICATO 81+',
             created_at TEXT NOT NULL,
             FOREIGN KEY (course_id) REFERENCES product_catalog(product_id)
         );

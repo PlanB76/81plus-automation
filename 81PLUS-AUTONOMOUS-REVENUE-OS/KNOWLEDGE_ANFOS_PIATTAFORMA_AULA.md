@@ -33,7 +33,7 @@ Il centro **RO/3** dispone di **44 validazioni già approvate** da ANFOS. Tra i 
 ---
 
 ### 3. FORMATORI ACCREDITATI
-* **Docente Approvato per il Centro**: *DOTT. ARCH. DIEGO LIACI PENZO*
+* **Docente Approvato per il Centro**: *DOCENTE FORMATORE QUALIFICATO 81+ (DIREZIONE TECNICA CENTRO RO/3)*
 * **Tipologia**: Formatore Generale con requisiti e verbali depositati e approvati.
 
 ---

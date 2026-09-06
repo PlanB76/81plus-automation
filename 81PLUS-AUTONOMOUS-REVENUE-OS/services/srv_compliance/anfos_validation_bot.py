@@ -1,7 +1,7 @@
 """
 81+ ANFOS AUTONOMOUS NIGHTLY VALIDATION ENGINE
 Centro di Formazione Territoriale Convenzionato ANFOS: RO/3
-Docente Formatore Accreditato: DOTT. ARCH. DIEGO LIACI PENZO
+Docente Formatore Accreditato: DOCENTE FORMATORE QUALIFICATO 81+
 
 Missione:
 Eseguire una volta al giorno, di notte in totale autonomia (Zero Mani),
@@ -43,7 +43,7 @@ ANFOS_BASE_URL = "https://centri.anfos.it/centri-anfos3/centro/"
 ANFOS_USER = os.getenv("ANFOS_USER", "labomobile.lm@gmail.com")
 ANFOS_PASSWORD = os.getenv("ANFOS_PASSWORD", "h29031976T.")
 CENTRO_CODICE = "RO/3"
-DOCENTE_ACCREDITATO = "DOTT. ARCH. DIEGO LIACI PENZO"
+DOCENTE_ACCREDITATO = "DOCENTE FORMATORE QUALIFICATO 81+"
 MAX_DAILY_VALIDATIONS = 5
 
 # Local Database Resolution
