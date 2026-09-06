@@ -50,7 +50,24 @@ jobs:
         run: |
           python network_sync_monitor.py
 
-      - name: 2. Esecuzione Email Marketing Machine (Nudge Incompleti + Nurturing Lead)
+      - name: 2. Master Scadenzario & Promemoria Corsi Personalizzato (60d, 30d, 7d, Scaduto)
+        env:
+          PARTNER_USER: ${{ secrets.PARTNER_USER || 'mirco.pregnolato@geopec.it' }}
+          PARTNER_PASS: ${{ secrets.PARTNER_PASS || 'h29031976T.' }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST || 'smtp.hostinger.com' }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT || '465' }}
+          SMTP_USER: ${{ secrets.SMTP_USER || 'info@81plus.net' }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS || 'h29031976T.' }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN || '8939527194:AAFi56LHlyNJnBGzXC_a4Wqsht1G1DCLPbo' }}
+          TG_ADMIN_ID: ${{ secrets.TG_ADMIN_ID || '642593407' }}
+        run: |
+          DRY_ARG=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            DRY_ARG="--dry-run"
+          fi
+          python master_scadenze_monitor.py $DRY_ARG
+
+      - name: 3. Esecuzione Email Marketing Machine (Nudge Incompleti + Nurturing Lead)
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST || 'smtp.hostinger.com' }}
           SMTP_PORT: ${{ secrets.SMTP_PORT || '465' }}
@@ -66,7 +83,7 @@ jobs:
           fi
           python auto_evolutive_dispatcher.py --limit "$LIMIT_VAL" $DRY_ARG
 
-      - name: 3. Commit & Push Database e Log Aggiornati
+      - name: 4. Commit & Push Database e Log Aggiornati
         run: |
           git config --local user.email "bot@81plus.net"
           git config --local user.name "81+ Autonomous Bot"
