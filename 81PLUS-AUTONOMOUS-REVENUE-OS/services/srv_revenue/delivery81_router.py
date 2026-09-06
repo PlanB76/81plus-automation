@@ -28,7 +28,11 @@ from shared.database.db import get_connection
 
 PLATFORM_ONLINE_FAD_URL = "https://corsi.elearningsicurezza.com/pid/2377/#login"
 PLATFORM_AULA_ANFOS_URL = "https://centri.anfos.it/centri-anfos3/centro/#login"
+ANFOS_CENTRO_CODE = "RO/3"
 ANFOS_USER = "labomobile.lm@gmail.com"
+ANFOS_PUBLIC_CALENDAR_URL = "http://www.anfos.it/corsi-aula-convenzionati/?c=RO/3"
+ANFOS_DOCENTE_DEFAULT = "DOTT. ARCH. DIEGO LIACI PENZO"
+ANFOS_IBAN_CORSI = "IT 85T 02008 38880 000104549884" # Intestato ad ANFOS SERVIZI SRL
 
 class Delivery81Router:
     def __init__(self):
