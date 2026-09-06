@@ -97,9 +97,28 @@ class Delivery81Router:
                 "margine_netto_pct": margine_pct
             },
             "validita_anni": c["validita_anni"],
+            "base_normativa_2025": self.explain_legal_basis(c["codice_corso"], c["delivery_mode"]),
             "frontend_cta_url": "https://81plus.net", # Sempre 81plus per l'utente finale
             "backend_execution_url": provider_destination
         }
+
+    def explain_legal_basis(self, codice_corso, delivery_mode):
+        """Restituisce il vincolo di legge a norma del D.Lgs. 81/08 e Accordo Stato-Regioni 2025."""
+        if "MULETTO" in codice_corso or "CARRELLI" in codice_corso:
+            return "Accordo Stato-Regioni 22/02/2012 All. VI: Teoria consentita online, Addestramento pratico (4h) obbligatorio in presenza su campo prove certificato."
+        elif "PLE" in codice_corso:
+            return "Accordo Stato-Regioni 22/02/2012 All. III: Prova pratica di manovra e posizionamento (6h) obbligatoria in presenza."
+        elif "ANTINCENDIO" in codice_corso:
+            return "D.M. 02/09/2021 (Decreto GSA): Prova pratica di spegnimento con estintori e manichette tassativamente in presenza."
+        elif "PRIMOSOCCORSO" in codice_corso:
+            return "D.M. 388/2003 All. 3 e 4: Manovre pratiche BLS, massaggio cardiaco e rianimazione obbligatoriamente in presenza con medico."
+        elif "SPEC_ALTO" in codice_corso:
+            return "D.Lgs. 81/08 art. 37 e Accordo 2025: Formazione specifica rischio alto vietata in e-learning asincrono (richiede aula o sincrona)."
+        elif "AGGIORN" in codice_corso or "GEN_" in codice_corso or "SPEC_BASSO" in codice_corso:
+            return "D.Lgs. 81/08 art. 37 e Accordo Stato-Regioni 07/07/2016: 100% E-Learning FAD asincrono ammesso con tracciamento SCORM certificato."
+        elif "HACCP" in codice_corso:
+            return "Reg. CE 852/2004 e L.R. vigenti: Formazione teorica igiene alimentare 100% valida in e-learning con test finale."
+        return "Conforme ai requisiti di validità didattica del D.Lgs. 81/08 e accordi vigenti."
 
     def close(self):
         self.conn.close()
