@@ -4,12 +4,11 @@
 auto_evolutive_dispatcher.py — Motore di Invio Email Auto-Evolutivo 81+
 Ecosistema 81+ · SICURISSIMO81+
 
-Caratteristiche:
-1. Priorità Assoluta: Follow-up Corsi Incompleti (utenti che hanno attivato un corso ma non lo hanno finito)
-2. Campagne Nurturing per i 7.445+ Lead (Corsi Gratuiti + Fabbrica Documenti)
-3. Invio a scaglioni controllati via SMTP Hostinger SSL (info@81plus.net)
-4. Monitoraggio Deliverability & Tracking
-5. Algoritmo Auto-Evolutivo per Oggetti e Orari
+Architettura Nurturing 365 Giorni a 4 Livelli:
+1. FASE 1: Priorità Assoluta - Follow-up Corsi Incompleti (utenti registrati su elearningsicurezza che non hanno terminato)
+2. FASE 2: Compleanni & Anniversari di Presidio (€ 50 Voucher Regalo COMPLEANNO81)
+3. FASE 3: Ricorrenze Annuali, Feste & Promo Mensili (Natale, Pasqua, Ferragosto, Halloween, Black Friday, Cyber Monday, ecc.)
+4. FASE 4: Nurturing Evergreen Profilato ATECO (Corsi Gratuiti FAD & Fabbrica Documenti)
 """
 
 import os
@@ -27,6 +26,8 @@ import urllib.request
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.utils import formataddr
+
+from annual_calendar_engine import get_current_seasonal_campaign, install_all_calendar_templates
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_PATH = os.path.join(BASE_DIR, "81plus.db")
@@ -76,6 +77,12 @@ def send_email_message(server, to_email, to_name, subject, html_body, unsubscrib
     server.sendmail(SMTP_USER, [to_email], msg.as_string())
 
 def run_dispatch(batch_limit=50, dry_run=False):
+    # Assicura che tutti i template del calendario siano installati/aggiornati
+    try:
+        install_all_calendar_templates()
+    except Exception as e:
+        print(f"[!] Warning install calendar templates: {e}")
+
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     cur = conn.cursor()
@@ -96,13 +103,20 @@ def run_dispatch(batch_limit=50, dry_run=False):
     """)
     conn.commit()
 
-    # 1. Recupera template da ghl_template
+    # Recupera tutti i template da ghl_template
     cur.execute("SELECT flow_key, oggetto, corpo FROM ghl_template")
     templates = {r['flow_key']: {'subject': r['oggetto'], 'body': r['corpo']} for r in cur.fetchall()}
 
     sent_count = 0
     failed_count = 0
     incompleti_nudge_count = 0
+    birthday_count = 0
+    seasonal_promo_count = 0
+    nurturing_count = 0
+
+    # Rileva campagna stagionale / festa corrente attiva
+    active_seasonal_key, active_seasonal_data = get_current_seasonal_campaign()
+    print(f"[i] Campagna Stagionale attiva oggi: {active_seasonal_key} ({active_seasonal_data.get('badge', '')})")
 
     server = None
     if not dry_run:
@@ -167,10 +181,110 @@ def run_dispatch(batch_limit=50, dry_run=False):
             incompleti_nudge_count += 1
 
     # ═══════════════════════════════════════════════════════════════
-    # FASE 2: CAMPAGNA NURTURING AI LEAD (CORSI GRATUITI & DOCS)
+    # FASE 2: COMPLEANNI & ANNIVERSARI DI PRESIDIO (€50 VOUCHER)
     # ═══════════════════════════════════════════════════════════════
-    rimanenti = batch_limit - sent_count
-    if rimanenti > 0:
+    rimanenti_fase2 = batch_limit - sent_count
+    if rimanenti_fase2 > 0 and "FLOW_BIRTHDAY_GIFT" in templates:
+        cur.execute("""
+            SELECT id, nome, cognome, email 
+            FROM ghl_contact 
+            WHERE email IS NOT NULL 
+              AND email != '' 
+              AND (unsub = 0 OR unsub IS NULL)
+              AND strftime('%m-%d', created_at) = strftime('%m-%d', 'now')
+              AND id NOT IN (
+                  SELECT contact_id FROM ghl_send_log 
+                  WHERE contact_id IS NOT NULL 
+                    AND template_id = 'FLOW_BIRTHDAY_GIFT'
+                    AND created_at > datetime('now', '-300 days')
+              )
+            LIMIT ?
+        """, (min(rimanenti_fase2, 15),))
+        compleanni = cur.fetchall()
+
+        for lead in compleanni:
+            if sent_count >= batch_limit:
+                break
+            email = lead['email'].strip()
+            nome = (lead['nome'] or 'Gentile Cliente').strip()
+            tpl = templates["FLOW_BIRTHDAY_GIFT"]
+            subj = tpl['subject'].replace("{nome}", nome)
+            unsub_url = f"https://81plus.net/api/unsub.php?e={email}"
+
+            print(f"[*] Invio VOUCHER COMPLEANNO a {nome} <{email}>...")
+            if not dry_run:
+                try:
+                    send_email_message(server, email, nome, subj, tpl['body'], unsub_url)
+                    cur.execute("""
+                        INSERT INTO ghl_send_log (contact_id, email, template_id, stato) VALUES (?, ?, 'FLOW_BIRTHDAY_GIFT', 'INVIATO')
+                    """, (lead['id'], email))
+                    conn.commit()
+                    sent_count += 1
+                    birthday_count += 1
+                    time.sleep(random.uniform(1.2, 2.5))
+                except Exception as e:
+                    print(f"[-] Errore invio compleanno {email}: {e}")
+                    failed_count += 1
+            else:
+                print(f"[DRY-RUN] Simulata email compleanno a {email}")
+                sent_count += 1
+                birthday_count += 1
+
+    # ═══════════════════════════════════════════════════════════════
+    # FASE 3: PROMO STAGIONALE / RICORRENZE ANNUALI ATTIVE
+    # ═══════════════════════════════════════════════════════════════
+    rimanenti_fase3 = batch_limit - sent_count
+    if rimanenti_fase3 > 0 and active_seasonal_key in templates:
+        # Destiniamo fino al 50% del batch rimanente alla promo stagionale attiva (Natale, Pasqua, Ferragosto, Black Friday, Promo Settembre, ecc.)
+        quota_stagionale = max(1, rimanenti_fase3 // 2)
+        cur.execute("""
+            SELECT id, nome, cognome, email, ateco 
+            FROM ghl_contact 
+            WHERE email IS NOT NULL 
+              AND email != '' 
+              AND (unsub = 0 OR unsub IS NULL)
+              AND id NOT IN (
+                  SELECT contact_id FROM ghl_send_log 
+                  WHERE contact_id IS NOT NULL 
+                    AND (created_at > datetime('now', '-7 days') OR template_id = ?)
+              )
+            LIMIT ?
+        """, (active_seasonal_key, quota_stagionale))
+        seasonal_leads = cur.fetchall()
+
+        tpl = templates[active_seasonal_key]
+        for lead in seasonal_leads:
+            if sent_count >= batch_limit:
+                break
+            email = lead['email'].strip()
+            nome = (lead['nome'] or 'Imprenditore').strip()
+            subj = tpl['subject'].replace("{nome}", nome)
+            unsub_url = f"https://81plus.net/api/unsub.php?e={email}"
+
+            print(f"[*] Invio Promo Stagionale [{active_seasonal_key}] a {nome} <{email}>...")
+            if not dry_run:
+                try:
+                    send_email_message(server, email, nome, subj, tpl['body'], unsub_url)
+                    cur.execute("""
+                        INSERT INTO ghl_send_log (contact_id, email, template_id, stato) VALUES (?, ?, ?, 'INVIATO')
+                    """, (lead['id'], email, active_seasonal_key))
+                    conn.commit()
+                    sent_count += 1
+                    seasonal_promo_count += 1
+                    time.sleep(random.uniform(1.5, 2.8))
+                except Exception as e:
+                    print(f"[-] Errore invio promo stagionale {email}: {e}")
+                    failed_count += 1
+            else:
+                print(f"[DRY-RUN] Simulata email promo stagionale [{active_seasonal_key}] a {email}")
+                sent_count += 1
+                seasonal_promo_count += 1
+
+    # ═══════════════════════════════════════════════════════════════
+    # FASE 4: CAMPAGNA NURTURING AI LEAD (CORSI GRATUITI & DOCS)
+    # ═══════════════════════════════════════════════════════════════
+    rimanenti_fase4 = batch_limit - sent_count
+    if rimanenti_fase4 > 0:
         cur.execute("""
             SELECT id, nome, cognome, email, ateco 
             FROM ghl_contact 
@@ -183,7 +297,7 @@ def run_dispatch(batch_limit=50, dry_run=False):
                     AND created_at > datetime('now', '-7 days')
               )
             LIMIT ?
-        """, (rimanenti,))
+        """, (rimanenti_fase4,))
         leads = cur.fetchall()
 
         for lead in leads:
@@ -206,7 +320,7 @@ def run_dispatch(batch_limit=50, dry_run=False):
             subj = tpl['subject'].replace("{nome}", nome)
             unsub_url = f"https://81plus.net/api/unsub.php?e={email}"
 
-            print(f"[*] Invio {tpl_key} a {nome} <{email}>...")
+            print(f"[*] Invio Nurturing Evergreen {tpl_key} a {nome} <{email}>...")
             if not dry_run:
                 try:
                     send_email_message(server, email, nome, subj, tpl['body'], unsub_url)
@@ -215,6 +329,7 @@ def run_dispatch(batch_limit=50, dry_run=False):
                     """, (lead['id'], email, tpl_key))
                     conn.commit()
                     sent_count += 1
+                    nurturing_count += 1
                     time.sleep(random.uniform(1.5, 3.0))
                 except Exception as e:
                     print(f"[-] Errore invio lead {email}: {e}")
@@ -222,6 +337,7 @@ def run_dispatch(batch_limit=50, dry_run=False):
             else:
                 print(f"[DRY-RUN] Simulata email {tpl_key} a {email}")
                 sent_count += 1
+                nurturing_count += 1
 
     if server:
         server.quit()
@@ -230,16 +346,19 @@ def run_dispatch(batch_limit=50, dry_run=False):
 
     # Notifica Telegram riassuntiva
     report_msg = (
-        f"🚀 <b>81+ EMAIL MACHINE REPORT BATCH</b>\n"
+        f"🚀 <b>81+ EMAIL MARKETING MACHINE REPORT</b>\n"
         f"📅 Data: {datetime.datetime.now().strftime('%d/%m/%Y %H:%M')}\n\n"
-        f"✉️ <b>Email Inviate con Successo:</b> {sent_count}\n"
-        f"⏳ <b>Nudge Corsi Incompleti Inviati:</b> {incompleti_nudge_count}\n"
+        f"✉️ <b>Totale Email Inviate:</b> {sent_count}\n"
+        f"⏳ <b>Nudge Corsi Incompleti:</b> {incompleti_nudge_count}\n"
+        f"🎂 <b>Compleanni / Anniversari (€50 Voucher):</b> {birthday_count}\n"
+        f"🎪 <b>Promo Stagionale / Feste ({active_seasonal_key}):</b> {seasonal_promo_count}\n"
+        f"📚 <b>Nurturing Lead Evergreen:</b> {nurturing_count}\n"
         f"❌ <b>Errori/Respinti:</b> {failed_count}\n"
         f"⚙️ <b>Modalità:</b> {'DRY-RUN (Test)' if dry_run else 'PRODUZIONE (Live)'}\n\n"
-        f"🎯 <i>Il prossimo ciclo automatico ottimizzerà gli orari e i tassi di click.</i>"
+        f"🎯 <i>Macchina copre 365 giorni di nurturing automatico con rotazione intelligente.</i>"
     )
     tg_send(report_msg)
-    print(f"[+] Ciclo completato: {sent_count} inviate, {incompleti_nudge_count} nudge corsi incompleti, {failed_count} errori.")
+    print(f"[+] Ciclo completato: {sent_count} totali (Incompleti: {incompleti_nudge_count}, Compleanni: {birthday_count}, Promo: {seasonal_promo_count}, Nurturing: {nurturing_count}), {failed_count} errori.")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
