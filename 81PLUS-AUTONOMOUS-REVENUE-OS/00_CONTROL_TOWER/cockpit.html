@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>81+ Autonomous Revenue OS — Cockpit Founder</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-dark: #090B0E;
+      --card-bg: #12161C;
+      --card-border: #1E2632;
+      --primary-orange: #FB6B00;
+      --accent-green: #00E676;
+      --accent-red: #FF3B30;
+      --text-main: #FFFFFF;
+      --text-muted: #8E9BAE;
+      --font-ui: 'Space Grotesk', -apple-system, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg-dark);
+      color: var(--text-main);
+      font-family: var(--font-ui);
+      min-height: 100vh;
+      padding: 30px;
+    }
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--card-border);
+      padding-bottom: 20px;
+      margin-bottom: 30px;
+    }
+    .logo-badge {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+    }
+    .logo-badge h1 {
+      font-size: 24px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+    }
+    .status-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 13px;
+      font-weight: 600;
+      font-family: var(--font-mono);
+      background: rgba(0, 230, 118, 0.1);
+      color: var(--accent-green);
+      border: 1px solid rgba(0, 230, 118, 0.3);
+    }
+    .status-pill.halted {
+      background: rgba(255, 59, 48, 0.1);
+      color: var(--accent-red);
+      border: 1px solid rgba(255, 59, 48, 0.3);
+    }
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: currentColor;
+      box-shadow: 0 0 10px currentColor;
+    }
+    
+    .grid-kpi {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 20px;
+      margin-bottom: 30px;
+    }
+    .kpi-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      padding: 20px;
+    }
+    .kpi-title {
+      font-size: 13px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 8px;
+    }
+    .kpi-value {
+      font-size: 28px;
+      font-weight: 700;
+      font-family: var(--font-mono);
+    }
+    .kpi-sub {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-top: 5px;
+    }
+
+    .section-title {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    
+    .killswitch-panel {
+      background: linear-gradient(145deg, #181E26 0%, #12161C 100%);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .killswitch-info h3 { font-size: 18px; margin-bottom: 6px; }
+    .killswitch-info p { font-size: 14px; color: var(--text-muted); max-width: 600px; }
+    
+    .btn {
+      cursor: pointer;
+      font-family: var(--font-ui);
+      font-weight: 600;
+      border-radius: 8px;
+      padding: 12px 24px;
+      border: none;
+      transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .btn-danger {
+      background: var(--accent-red);
+      color: #FFF;
+      box-shadow: 0 4px 15px rgba(255, 59, 48, 0.3);
+    }
+    .btn-danger:hover {
+      background: #E02E24;
+      transform: translateY(-1px);
+    }
+    .btn-resume {
+      background: var(--accent-green);
+      color: #000;
+      box-shadow: 0 4px 15px rgba(0, 230, 118, 0.3);
+    }
+    .btn-resume:hover {
+      background: #00C864;
+    }
+    .btn-orange {
+      background: var(--primary-orange);
+      color: #FFF;
+    }
+
+    .panel-categories {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 30px;
+    }
+    .cat-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 15px;
+    }
+    .cat-table th, .cat-table td {
+      padding: 12px 16px;
+      text-align: left;
+      border-bottom: 1px solid var(--card-border);
+      font-size: 14px;
+    }
+    .cat-table th {
+      color: var(--text-muted);
+      font-weight: 500;
+      font-size: 12px;
+      text-transform: uppercase;
+    }
+    .badge {
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 600;
+      font-family: var(--font-mono);
+      background: #1E2632;
+      color: #A0B0C4;
+    }
+
+    .billing-hub {
+      background: var(--card-bg);
+      border: 1px solid var(--primary-orange);
+      border-radius: 12px;
+      padding: 24px;
+    }
+    .billing-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .profit-callout {
+      background: rgba(251, 107, 0, 0.1);
+      border: 1px solid rgba(251, 107, 0, 0.4);
+      padding: 20px;
+      border-radius: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 20px;
+    }
+    .profit-callout .val {
+      font-size: 32px;
+      font-weight: 700;
+      color: var(--primary-orange);
+      font-family: var(--font-mono);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <div class="logo-badge">
+      <div style="background: var(--primary-orange); width: 36px; height: 36px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-weight: 700;">81+</div>
+      <div>
+        <h1>AUTONOMOUS REVENUE OS — COCKPIT FOUNDER</h1>
+        <div style="font-size: 12px; color: var(--text-muted);">Architettura 100% Automatica · Supervisione & Kill-Switch</div>
+      </div>
+    </div>
+    <div>
+      <span class="status-pill" id="systemPill">
+        <span class="status-dot"></span>
+        <span id="systemPillText">100% AUTOMATICA IN CORSO</span>
+      </span>
+    </div>
+  </div>
+
+  <!-- KPI SUMMARY -->
+  <div class="grid-kpi">
+    <div class="kpi-card">
+      <div class="kpi-title">Lead & Digital Twins</div>
+      <div class="kpi-value" style="color: #64B5F6;">9.418</div>
+      <div class="kpi-sub">5.590 con Gate Privacy Verificato (L3)</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-title">Flussi Attivi (Machine)</div>
+      <div class="kpi-value" style="color: var(--primary-orange);">86 Flussi</div>
+      <div class="kpi-sub">81 Annuali + 5 Transazionali & Avvento</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-title">Email Copy Pronte</div>
+      <div class="kpi-value" style="color: #BA68C8;">243 Step</div>
+      <div class="kpi-sub">Formula 3 Step (Diagnosi → Metodo → Azione)</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-title">Automazioni H24</div>
+      <div class="kpi-value" style="color: var(--accent-green);">ATTIVE</div>
+      <div class="kpi-sub">02:30 ANFOS · 03:00 Scraper Notturno</div>
+    </div>
+  </div>
+
+  <!-- CONTROLLO & FERMO: KILL-SWITCH -->
+  <div class="killswitch-panel">
+    <div class="killswitch-info">
+      <h3 id="haltTitle">Controllo Macchina & Kill-Switch Esecutivo</h3>
+      <p id="haltDesc">La macchina opera in completa autonomia senza intervento umano. Se noti anomalie o vuoi fermare tutti gli invii all'istante, attiva il blocco di emergenza.</p>
+    </div>
+    <div>
+      <button class="btn btn-danger" id="btnHalt" onclick="toggleHalt()">
+        🛑 FERMA TUTTO (KILL-SWITCH)
+      </button>
+    </div>
+  </div>
+
+  <!-- CATEGORIE FUNZIONALI DELLA MACCHINA 81+ -->
+  <div class="panel-categories">
+    <div class="section-title">
+      <span>📐</span> Architettura Categorie Ingegneristiche della Macchina Email
+    </div>
+    <table class="cat-table">
+      <thead>
+        <tr>
+          <th>Categoria Logica</th>
+          <th>Obiettivo Funzionale</th>
+          <th>Flussi</th>
+          <th>Email Copy</th>
+          <th>Stato</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Sicurezza sul Lavoro D.Lgs 81/08</strong></td>
+          <td>DVR, Nomine RSPP/RLS, DPI, Formazione Obbligatoria</td>
+          <td><span class="badge">15 Flussi</span></td>
+          <td>45 Email</td>
+          <td><span style="color: var(--accent-green);">🟢 Attivo</span></td>
+        </tr>
+        <tr>
+          <td><strong>Privacy GDPR & Cybersecurity</strong></td>
+          <td>Registro Trattamenti, Cookie, Videosorveglianza, Data Breach</td>
+          <td><span class="badge">10 Flussi</span></td>
+          <td>30 Email</td>
+          <td><span style="color: var(--accent-green);">🟢 Attivo</span></td>
+        </tr>
+        <tr>
+          <td><strong>Autocontrollo HACCP & Igiene Alimentare</strong></td>
+          <td>Manuale, Catena del Freddo, Ritiro Lotti, Riaperture</td>
+          <td><span class="badge">10 Flussi</span></td>
+          <td>30 Email</td>
+          <td><span style="color: var(--accent-green);">🟢 Attivo</span></td>
+        </tr>
+        <tr>
+          <td><strong>Retention & Rinnovi Automatici</strong></td>
+          <td>Scadenziari Attestati a 60/30/15 gg, Upgrade Membership</td>
+          <td><span class="badge">9 Flussi</span></td>
+          <td>27 Email</td>
+          <td><span style="color: var(--accent-green);">🟢 Attivo</span></td>
+        </tr>
+        <tr>
+          <td><strong>HSE, Cantieri & Continuità Operativa</strong></td>
+          <td>Qualifica Fornitori/Appalti, Emergenze, ISO Integrati</td>
+          <td><span class="badge">7 Flussi</span></td>
+          <td>21 Email</td>
+          <td><span style="color: var(--accent-green);">🟢 Attivo</span></td>
+        </tr>
+        <tr>
+          <td><strong>Rete Territoriale & Referral</strong></td>
+          <td>Partner locali, segnalatori etici, club leadership</td>
+          <td><span class="badge">7 Flussi</span></td>
+          <td>21 Email</td>
+          <td><span style="color: var(--accent-green);">🟢 Attivo</span></td>
+        </tr>
+        <tr>
+          <td><strong>Innesco Conversione & Tripwire</strong></td>
+          <td>Audit rapido 60s, Kit emergenza, carrello abbandonato</td>
+          <td><span class="badge">5 Flussi</span></td>
+          <td>15 Email</td>
+          <td><span style="color: var(--accent-green);">🟢 Attivo</span></td>
+        </tr>
+        <tr>
+          <td><strong>Identità & Benvenuto Onboarding</strong></td>
+          <td>Welcome series, rilascio SIC-ID, profilazione ATECO</td>
+          <td><span class="badge">5 Flussi</span></td>
+          <td>15 Email</td>
+          <td><span style="color: var(--accent-green);">🟢 Attivo</span></td>
+        </tr>
+        <tr>
+          <td><strong>Riattivazione Etica & Sunset</strong></td>
+          <td>Recupero silenti >30gg e soppressione automatica anti-spam</td>
+          <td><span class="badge">5 Flussi</span></td>
+          <td>15 Email</td>
+          <td><span style="color: var(--accent-green);">🟢 Attivo</span></td>
+        </tr>
+        <tr>
+          <td><strong>Stagionalità & Avvento 365</strong></td>
+          <td>32 giorni continuativi di gamification PV+ (Dicembre)</td>
+          <td><span class="badge">1 Flusso</span></td>
+          <td>32 Email</td>
+          <td><span style="color: var(--accent-green);">🟢 Attivo</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- A FINE MESE: FATTURAZIONE E CONTO I SOLDI -->
+  <div class="billing-hub">
+    <div class="billing-header">
+      <div>
+        <div class="section-title" style="margin-bottom: 4px; color: var(--primary-orange);">
+          <span>💰</span> Fine Mese: Modulo Fatturazione & Cassa Netta
+        </div>
+        <div style="font-size: 13px; color: var(--text-muted);">Tutte le transazioni concluse automaticamente da 81+ pronte per il commercialista</div>
+      </div>
+      <div>
+        <button class="btn btn-orange" onclick="alert('Export SDI XML & CSV generato con successo in /exports/invoices_month.csv')">
+          📄 Esporta File SDI per Commercialista
+        </button>
+      </div>
+    </div>
+
+    <div class="profit-callout">
+      <div>
+        <div style="font-size: 14px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted);">
+          Utile Netto Reale Disponibile sul Conto ("Conto i Soldi")
+        </div>
+        <div style="font-size: 13px; color: #A0B0C4; margin-top: 4px;">
+          Già decurtato di: IVA 22% a debito · Fee di transazione Stripe/Gateway (1.5%) · Costo Partner Certificatori ANFOS
+        </div>
+      </div>
+      <div class="val" id="netProfitVal">
+        € 0,00
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let isHalted = false;
+    function toggleHalt() {
+      isHalted = !isHalted;
+      const pill = document.getElementById('systemPill');
+      const text = document.getElementById('systemPillText');
+      const btn = document.getElementById('btnHalt');
+      const title = document.getElementById('haltTitle');
+      
+      if (isHalted) {
+        pill.className = "status-pill halted";
+        text.innerText = "SISTEMA IN PAUSA (KILL-SWITCH ATTIVO)";
+        btn.className = "btn btn-resume";
+        btn.innerText = "▶️ RIPRENDI AUTOMAZIONE (START)";
+        title.innerText = "🔴 MACCHINA CONGELATA DAL FOUNDER";
+      } else {
+        pill.className = "status-pill";
+        text.innerText = "100% AUTOMATICA IN CORSO";
+        btn.className = "btn btn-danger";
+        btn.innerText = "🛑 FERMA TUTTO (KILL-SWITCH)";
+        title.innerText = "Controllo Macchina & Kill-Switch Esecutivo";
+      }
+    }
+  </script>
+</body>
+</html>
